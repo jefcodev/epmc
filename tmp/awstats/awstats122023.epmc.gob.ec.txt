@@ -1,0 +1,1513 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202312 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2007                
+POS_TIME 2696                
+POS_VISITOR 30814               
+POS_DAY 43584               
+POS_DOMAIN 3671                
+POS_LOGIN 4246                
+POS_ROBOT 4401                
+POS_WORMS 5409                
+POS_EMAILSENDER 5540                
+POS_EMAILRECEIVER 5683                
+POS_SESSION 43855               
+POS_SIDER 44068               
+POS_FILETYPES 5818                
+POS_DOWNLOADS 6139                
+POS_OS 16814               
+POS_BROWSER 17135               
+POS_SCREENSIZE 18652               
+POS_UNKNOWNREFERER 18726               
+POS_UNKNOWNREFERERBROWSER 19286               
+POS_ORIGIN 19714               
+POS_SEREFERRALS 19861               
+POS_PAGEREFS 20114               
+POS_SEARCHWORDS 20397               
+POS_KEYWORDS 20591               
+POS_MISC 2358                
+POS_ERRORS 20694               
+POS_CLUSTER 4102                
+POS_SIDER_404 20896               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20231207064426 33781 8759524 8720257662276
+FirstTime 20231201001115
+LastTime 20231207063134
+LastUpdate 20231207064928 6070 0 6070 0 0
+TotalVisits 364                 
+TotalUnique 255                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 328                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 198 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 46 292 88163453 66 156 3595157
+1 35 124 19402717 55 88 1570404
+2 5 11 2523924 30 82 2336487
+3 43 210 40109504 48 137 8413333
+4 48 222 44528035 66 124 5487971
+5 29 41 477179 30 76 5406673
+6 84 355 98719913 94 219 2068317
+7 294 1588 302699815 268 558 15424953
+8 434 1933 333217092 453 710 5224871
+9 421 2095 421599032 398 660 23473596
+10 672 3182 623675021 624 940 25223533
+11 514 2908 669507495 444 779 29521870
+12 371 1772 319642048 360 571 26596072
+13 246 1045 180365248 237 381 17531145
+14 175 999 186886422 176 318 10813306
+15 160 834 141510877 184 328 11537884
+16 92 244 39031155 126 227 7146884
+17 108 607 114082422 101 197 11126953
+18 47 175 22258952 83 140 4008741
+19 60 262 44176198 87 161 5137161
+20 126 612 94849901 148 214 12741293
+21 52 302 43016704 74 113 2910914
+22 81 581 119121299 98 175 5886640
+23 30 248 52480943 47 128 9954693
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 22
+ec 2370 13607 2698325368
+us 975 2932 522693456
+ma 287 941 170770218
+in 261 1771 386165932
+nz 96 352 61393902
+id 39 192 40956022
+gb 35 35 170634
+iq 23 23 119927
+br 22 98 17200432
+co 18 273 41460173
+cn 13 188 20457771
+jp 11 118 20939207
+ca 7 91 20724314
+fr 5 10 488029
+mu 3 3 12680
+ru 2 2 50891
+se 1 1 6007
+il 1 1 0
+kr 1 1 25755
+ro 1 1 6007
+hn 1 1 6007
+eu 1 1 6007
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+bingbot/ 628 16625740 20231207063121 11
+Googlebot/ 524 34519010 20231207064426 12
+DotBot/ 194 38862559 20231207035826 83
+AhrefsBot/ 101 749092 20231207042614 20
+bot[\s_+:,\.\;\/\\-] 49 500803 20231206015222 28
+facebookexternalhit/ 48 1252131 20231207001726 2
+SemrushBot/ 47 154526 20231207061344 20
+YandexBot/ 21 546 20231206161932 21
+CFNetwork 13 344370 20231206221823 0
+Barkrowler 13 82372 20231206232849 2
+CCBot/ 11 559071 20231203201153 2
+Googlebot\-Image/ 8 1433429 20231206065329 0
+unknown 7 182 20231206175107 7
+Applebot/ 4 215396 20231206003527 3
+yandex 4 43144 20231206161933 0
+survey 3 77077 20231204154552 0
+DuckDuckGo\-Favicons\-Bot/ 2 33614 20231204095707 0
+Dalvik/ 1 2388925 20231201192843 0
+YandexImages/ 1 4065006 20231201232801 0
+Go\-http\-client/ 1 6008 20231206065808 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 6008 20231205234859 0
+BLEXBot/ 1 26 20231205111553 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+jpeg 3 313997 0 0
+gif 85 1907491 0 0
+Unknown 3532 16441393 0 0
+html 140 915426 0 0
+woff 187 10970760 0 0
+jpg 3381 3698890511 0 0
+js 6514 78899185 0 0
+png 1472 35092662 0 0
+php 78 494405 0 0
+ttf 236 24453888 0 0
+pdf 1058 103270623 0 0
+css 3956 30328398 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 240
+/requisitos/f_1621613267.pdf 962 2 87400026
+/uploads/F-007%20Formulario%20para%20Habilitaci%C3%B3n%20de%20Veh%C3%ADculo.pdf 11 0 1107790
+/uploads/F-001%20Formulario%20de%20Informe%20Previo%20de%20Constituci%C3%B3n%20Jur%C3%ADdica.xls.pdf 10 0 372390
+/uploads/F-012%20Formulario%20Cambio%20de%20Socio.pdf 9 0 1151946
+/uploads/F-009%20Formulario%20de%20Cambio%20de%20Socio%20%20con%20Habilitacion%20Veh%C3%ADculo.pdf 9 0 1154403
+/uploads/F-006%20Formulario%20de%20Incremento%20de%20Cupo.pdf 9 0 358839
+/uploads/F-004%20Formulario%20de%20Concesion%20de%20Contrato%20de%20Operaci%C3%B3n.pdf 9 0 350037
+/uploads/F-002%20Formulario%20de%20Concesi%C3%B3n%20de%20Permiso%20de%20Operaci%C3%B3n.pdf 9 0 357354
+/uploads/F-011%20Formulario%20de%20Cambio%20de%20Veh%C3%ADculo.pdf 8 0 783824
+/uploads/F-010%20Formulario%20de%20Cambio%20de%20Socio%20y%20Veh%C3%ADculo.pdf 8 0 672272
+/uploads/F-008%20Formulario%20para%20Deshabilitacion%20de%20Veh%C3%ADculo.pdf 8 0 1110648
+/uploads/F-003%20Formulario%20de%20Renovaci%C3%B3n%20Permiso%20de%20Operaci%C3%B3n.pdf 8 0 309248
+/uploads/F-005%20Formulario%20de%20Renovaci%C3%B3n%20de%20Contrato%20de%20Operaci%C3%B3n.pdf 8 0 305888
+/uploads/f_1626100431.pdf 4 0 9555700
+/uploads/lotaip_1593699342.pdf 3 0 610732
+/uploads/lotaip_1652191623.pdf 3 0 528904
+/uploads/lotaip_1617049773.pdf 2 0 829234
+/uploads/lotaip_1618316670.pdf 2 0 867910
+/uploads/lotaip_1645115825.pdf 2 0 365126
+/uploads/lotaip_1620160957.pdf 2 0 367196
+/uploads/lotaip_1597342035.pdf 2 0 346928
+/uploads/lotaip_1597339908.pdf 2 0 376210
+/uploads/lotaip_1597339728.pdf 2 0 376210
+/uploads/lotaip_1617049745.pdf 2 0 829462
+/uploads/lotaip_1591819481.pdf 2 0 436114
+/uploads/lotaip_1597342702.pdf 2 0 399804
+/uploads/lotaip_1597341806.pdf 2 0 346922
+/uploads/lotaip_1617227348.pdf 2 0 366176
+/uploads/lotaip_1697202689.pdf 2 0 248724
+/uploads/lotaip_1617049959.pdf 2 0 829238
+/uploads/lotaip_1593702656.pdf 2 0 394376
+/uploads/lotaip_1597342197.pdf 2 0 367368
+/uploads/lotaip_1588899188.pdf 2 0 455650
+/uploads/f_1583937861.pdf 2 0 745834
+/uploads/lotaip_1597342248.pdf 2 0 367540
+/uploads/lotaip_1617047188.pdf 2 0 835841
+/uploads/lotaip_1649881579.pdf 2 0 262107
+/uploads/lotaip_1617227510.pdf 2 0 366188
+/uploads/lotaip_1597342766.pdf 2 0 400194
+/uploads/lotaip_1597340256.pdf 2 0 376208
+/uploads/lotaip_1683045322.pdf 2 0 367250
+/uploads/lotaip_1597342311.pdf 2 0 368172
+/uploads/lotaip_1597341999.pdf 2 0 346934
+/uploads/lotaip_1617227370.pdf 2 0 366174
+/uploads/f_1627310654.pdf 2 0 620478
+/uploads/lotaip_1648648932.pdf 2 0 183340
+/uploads/lotaip_1636143471.pdf 2 0 402462
+/uploads/lotaip_1648501355.pdf 2 0 346280
+/uploads/lotaip_1596646836.pdf 2 0 346930
+/uploads/lotaip_1625667380.pdf 2 0 232854
+/uploads/lotaip_1587822853.pdf 2 0 415492
+/uploads/lotaip_1625863076.pdf 2 0 458711
+/uploads/lotaip_1636141857.pdf 2 0 346270
+/uploads/lotaip_1617227639.pdf 2 0 349282
+/uploads/lotaip_1680185059.pdf 2 0 402462
+/uploads/lotaip_1593700350.pdf 1 0 199605
+/uploads/lotaip_1597339632.pdf 1 0 188105
+/uploads/lotaip_1597342167.pdf 1 0 183777
+/uploads/lotaip_1627330189.xls 1 0 67584
+/uploads/lotaip_1587821351.pdf 1 0 194394
+/uploads/lotaip_1683577865.pdf 1 0 203100
+/uploads/lotaip_1642449795.pdf 1 0 201975
+/uploads/lotaip_1596647410.pdf 1 0 173887
+/uploads/lotaip_1583440041.pdf 1 0 291191
+/uploads/lotaip_1637593042.pdf 1 0 138868
+/uploads/lotaip_1646401690.pdf 1 0 223643
+/uploads/lotaip_1587822362.pdf 1 0 211064
+/uploads/lotaip_1583440004.pdf 1 0 291191
+/uploads/lotaip_1618316763.pdf 1 0 424474
+/uploads/lotaip_1642449759.pdf 1 0 183591
+/uploads/lotaip_1648586701.pdf 1 0 112151
+/uploads/lotaip_1586823175.pdf 1 0 207380
+/uploads/lotaip_1597341838.pdf 1 0 173443
+/uploads/lotaip_1597342498.pdf 1 0 214706
+/uploads/lotaip_1618316513.pdf 1 0 422345
+/uploads/lotaip_1602533171.pdf 1 0 173436
+/uploads/lotaip_1593700454.pdf 1 0 197195
+/uploads/lotaip_1617227697.pdf 1 0 174644
+/uploads/lotaip_1609963556.pdf 1 0 184633
+/uploads/lotaip_1646401439.pdf 1 0 263782
+/uploads/f_1583937910.pdf 1 0 2073242
+/uploads/lotaip_1645116422.pdf 1 0 187919
+/uploads/lotaip_1628255666.pdf 1 0 125507
+/uploads/lotaip_1586823425.pdf 1 0 207387
+/uploads/lotaip_1667232671.pdf 1 0 183629
+/uploads/lotaip_1591651048.pdf 1 0 141953
+/uploads/lotaip_1625234087.pdf 1 0 150376
+/uploads/lotaip_1648754981.pdf 1 0 92773
+/uploads/lotaip_1593699377.pdf 1 0 186477
+/uploads/lotaip_1618317757.pdf 1 0 417868
+/uploads/lotaip_1617227527.pdf 1 0 183087
+/uploads/lotaip_1618316494.pdf 1 0 422345
+/uploads/lotaip_1654523433.pdf 1 0 178683
+/uploads/lotaip_1642449898.pdf 1 0 52145
+/uploads/f_1583937797.pdf 1 0 1908991
+/uploads/lotaip_1588949345.pdf 1 0 443212
+/uploads/lotaip_1627931185.pdf 1 0 456479
+/uploads/lotaip_1588902717.pdf 1 0 228940
+/uploads/lotaip_1591819605.pdf 1 0 259231
+/uploads/lotaip_1679413381.pdf 1 0 222311
+/uploads/lotaip_1603209778.pdf 1 0 193739
+/uploads/lotaip_1683045295.pdf 1 0 173151
+/uploads/lotaip_1593700390.pdf 1 0 203926
+/uploads/lotaip_1652191760.pdf 1 0 158893
+/uploads/lotaip_1597342220.pdf 1 0 183797
+/uploads/lotaip_1649105068.pdf 1 0 183592
+/uploads/lotaip_1602516592.pdf 1 0 276784
+/uploads/lotaip_1587823376.pdf 1 0 211857
+/uploads/f_1583937879.pdf 1 0 527314
+/uploads/lotaip_1667830464.pdf 1 0 203063
+/uploads/lotaip_1673899608.pdf 1 0 183608
+/uploads/lotaip_1649104829.pdf 1 0 160600
+/uploads/lotaip_1632750368.pdf 1 0 124517
+/uploads/lotaip_1586823502.pdf 1 0 240603
+/uploads/lotaip_1597341774.pdf 1 0 173462
+/uploads/lotaip_1588899434.pdf 1 0 228308
+/uploads/lotaip_1686149015.pdf 1 0 183944
+/uploads/lotaip_1617227876.pdf 1 0 174642
+/uploads/lotaip_1642449860.pdf 1 0 82659
+/uploads/lotaip_1648646180.pdf 1 0 405679
+/uploads/lotaip_1686235650.pdf 1 0 203354
+/uploads/f_1583937870.pdf 1 0 372287
+/uploads/f_1593186788.pdf 1 0 13484867
+/uploads/lotaip_1605104543.xls 1 0 6690
+/uploads/lotaip_1583440075.pdf 1 0 291191
+/uploads/lotaip_1593699543.pdf 1 0 199482
+/uploads/lotaip_1586823038.pdf 1 0 207378
+/uploads/lotaip_1617227550.pdf 1 0 183088
+/uploads/lotaip_1657814450.pdf 1 0 202710
+/uploads/lotaip_1583440097.pdf 1 0 291191
+/uploads/lotaip_1646938648.pdf 1 0 125248
+/uploads/lotaip_1618317818.pdf 1 0 442753
+/uploads/lotaip_1653424276.pdf 1 0 157997
+/uploads/lotaip_1618316727.pdf 1 0 420443
+/uploads/lotaip_1620160944.pdf 1 0 173144
+/uploads/lotaip_1596646951.pdf 1 0 183771
+/uploads/lotaip_1655827573.pdf 1 0 238047
+/uploads/lotaip_1617227718.pdf 1 0 174641
+/uploads/lotaip_1593700372.pdf 1 0 186474
+/uploads/lotaip_1583270406.pdf 1 0 194208
+/uploads/lotaip_1617227386.pdf 1 0 183094
+/uploads/lotaip_1597342995.pdf 1 0 199922
+/uploads/lotaip_1648585422.pdf 1 0 182166
+/uploads/lotaip_1597342067.pdf 1 0 173954
+/uploads/lotaip_1649105146.pdf 1 0 223797
+/uploads/lotaip_1587822428.pdf 1 0 207543
+/uploads/lotaip_1617032804.xls 1 0 48128
+/uploads/lotaip_1649105548.pdf 1 0 265645
+/uploads/lotaip_1602533204.pdf 1 0 183763
+/uploads/lotaip_1591648133.pdf 1 0 141953
+/uploads/lotaip_1588949133.pdf 1 0 443128
+/uploads/lotaip_1627330113.xls 1 0 43008
+/uploads/lotaip_1639496204.pdf 1 0 223632
+/uploads/lotaip_1618316533.pdf 1 0 422270
+/uploads/lotaip_1648676009.pdf 1 0 421244
+/uploads/lotaip_1625667226.pdf 1 0 117674
+/uploads/lotaip_1587823081.pdf 1 0 193898
+/uploads/lotaip_1593699508.pdf 1 0 197195
+/uploads/lotaip_1586823656.pdf 1 0 240630
+/uploads/lotaip_1648677768.pdf 1 0 95153
+/uploads/lotaip_1636143032.pdf 1 0 183615
+/uploads/lotaip_1639496147.pdf 1 0 183595
+/uploads/lotaip_1606149635.xls 1 0 15130
+/uploads/lotaip_1680185028.pdf 1 0 201231
+/uploads/lotaip_1649341220.pdf 1 0 267691
+/uploads/lotaip_1625862972.pdf 1 0 238059
+/uploads/lotaip_1617227329.pdf 1 0 183088
+/uploads/lotaip_1645115585.pdf 1 0 187148
+/uploads/lotaip_1597342469.pdf 1 0 215318
+/uploads/lotaip_1617047008.pdf 1 0 404212
+/uploads/lotaip_1627931200.pdf 1 0 431574
+/uploads/lotaip_1617227491.pdf 1 0 183094
+/uploads/lotaip_1617227667.pdf 1 0 174641
+/uploads/f_1583937890.pdf 1 0 492391
+/uploads/lotaip_1649105106.pdf 1 0 428029
+/uploads/lotaip_1587821404.pdf 1 0 194394
+/uploads/lotaip_1618317387.pdf 1 0 419783
+/uploads/lotaip_1645115771.pdf 1 0 187169
+/uploads/lotaip_1606149746.xls 1 0 15126
+/uploads/lotaip_1648676602.pdf 1 0 157497
+/uploads/lotaip_1593702560.pdf 1 0 203808
+/uploads/lotaip_1597342733.pdf 1 0 218188
+/uploads/lotaip_1627330241.xls 1 0 43008
+/uploads/lotaip_1633961755.pdf 1 0 183615
+/uploads/lotaip_1649163980.pdf 1 0 189223
+/uploads/lotaip_1586823312.pdf 1 0 207269
+/uploads/lotaip_1646401710.pdf 1 0 173134
+/uploads/lotaip_1597342966.pdf 1 0 199856
+/uploads/lotaip_1596647498.pdf 1 0 199848
+/uploads/lotaip_1670334739.pdf 1 0 88404
+/uploads/lotaip_1586824624.pdf 1 0 291191
+/uploads/lotaip_1623183155.pdf 1 0 197446
+/uploads/lotaip_1617227091.pdf 1 0 204647
+/uploads/lotaip_1657814482.pdf 1 0 183980
+/uploads/lotaip_1627330261.xls 1 0 67584
+/uploads/lotaip_1597340024.pdf 1 0 188105
+/uploads/lotaip_1596647023.pdf 1 0 225521
+/uploads/lotaip_1617227425.pdf 1 0 183341
+/uploads/lotaip_1649105516.pdf 1 0 103548
+/uploads/lotaip_1665757328.pdf 1 0 183629
+/uploads/lotaip_1636143807.pdf 1 0 201231
+/uploads/lotaip_1630945341.pdf 1 0 406950
+/uploads/lotaip_1586823802.pdf 1 0 240736
+/uploads/lotaip_1593700431.pdf 1 0 191244
+/uploads/lotaip_1636142616.pdf 1 0 183672
+/uploads/lotaip_1649105209.pdf 1 0 223643
+/uploads/lotaip_1655827777.pdf 1 0 207045
+/uploads/lotaip_1633961742.pdf 1 0 173136
+/uploads/lotaip_1596646996.pdf 1 0 199890
+/uploads/lotaip_1673899630.pdf 1 0 173153
+/uploads/lotaip_1636143187.pdf 1 0 202914
+/uploads/lotaip_1583435639.pdf 1 0 194145
+/uploads/lotaip_1645115755.pdf 1 0 184647
+/uploads/lotaip_1652191660.pdf 1 0 183591
+/uploads/lotaip_1588899499.pdf 1 0 228302
+/uploads/lotaip_1593701323.pdf 1 0 198573
+/uploads/lotaip_1583439974.pdf 1 0 291191
+/uploads/lotaip_1593699410.pdf 1 0 194024
+/uploads/f_1627672820.pdf 1 0 542756
+/uploads/lotaip_1648586519.pdf 1 0 101670
+/uploads/lotaip_1610998746.xls 1 0 6684
+/uploads/lotaip_1649341271.pdf 1 0 173135
+/uploads/lotaip_1617227404.pdf 1 0 183094
+/uploads/lotaip_1591650840.pdf 1 0 543545
+/uploads/lotaip_1593702580.pdf 1 0 180757
+/uploads/lotaip_1648560936.pdf 1 0 191846
+/uploads/lotaip_1597342353.xls 1 0 48128
+/uploads/lotaip_1593701194.pdf 1 0 186495
+/uploads/lotaip_1597340200.pdf 1 0 188104
+/uploads/lotaip_1680185041.pdf 1 0 201231
+/uploads/lotaip_1648561030.pdf 1 0 191846
+/uploads/lotaip_1597342278.pdf 1 0 183797
+/uploads/lotaip_1648501193.pdf 1 0 232013
+/uploads/lotaip_1587821683.pdf 1 0 194493
+/uploads/f_1649342214.pdf 1 0 203203
+/uploads/lotaip_1618316976.pdf 1 0 420973
+/uploads/lotaip_1586823287.pdf 1 0 207265
+/uploads/lotaip_1636142016.pdf 1 0 276651
+/uploads/lotaip_1652368495.xls 1 0 7844
+/uploads/lotaip_1649105455.pdf 1 0 118603
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+win8 948 200
+win10 12076 2908
+androidoreo 172 12
+macosx15 750 84
+android10 1068 105
+win98 1 1
+Unknown 16 15
+win7 318 68
+androidmarshmallow 515 99
+android 1369 149
+linux 7 6
+androidnougat 4 1
+ios_iphone 2880 451
+linuxubuntu 20 0
+macosx 29 29
+win8.1 471 45
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 70
+safari17.0 848 154
+chrome111.0.0.0 31 27
+msie11.0 2 1
+chrome64.0.2612.23 1 1
+chrome103.0.0.0 47 2
+chrome85.0.4183.81 19 1
+safari15.6.1 84 8
+chrome119.0.6045.199 58 5
+opera104.0.0.0 110 26
+chrome119.0.0.0 4914 1586
+firefox108.0 172 18
+iphone 77 7
+chrome49.0.2623.112 7 1
+safari 341 66
+chrome60.0.3112.90 37 3
+chrome120.0.0.0 136 39
+chrome105.0.0.0 1 1
+firefox117.0 48 3
+chrome112.0.5615.136 399 51
+chrome118.0.0.0 49 3
+msie7.0 835 180
+chrome64.0.3418.9 1 1
+safari17.1.1 106 14
+chrome94.0.4606.71 73 9
+chrome114.0.0.0 151 66
+chrome87.0.4280.88 172 12
+ibrowse 8 4
+chrome119.0.6045.114 353 32
+firefox118. 1 1
+chrome72.0.3626.121 1 1
+safari17.2 51 4
+chrome113.0.0.0 167 16
+msie5.50 1 1
+chrome110.0.5481.154 83 8
+firefox72.0 21 0
+firefox115.0 419 49
+chrome119.0.6045.193 3 3
+chrome59.0.3071.125 3 0
+chrome103.0.5060.129 73 3
+safari14.1.2 97 13
+safari15.6.6 215 30
+chrome119.0.6045.163 147 18
+chrome109.0.0.0 2774 611
+chrome106.0.0.0 575 104
+chrome117.0.0.0 23 2
+safari16.1 152 8
+firefox120.0 4534 602
+safari16.6.1 156 20
+firefox35.0 48 3
+chrome196.3.1597.530 1 1
+safari16.0 4 4
+chrome61.0.578.70 1 0
+chrome102.0.0.0 1 1
+chrome115.0.0.0 53 3
+chrome83.0.4103.97 2 2
+chrome108.0.0.0 109 68
+firefox116.0 69 6
+Unknown 15 15
+firefox119.0 384 40
+safari16.2 33 9
+chrome100.0.4896.127 65 6
+chrome70.0.3538.64 47 2
+firefox112.0 37 3
+safari15.4 29 29
+safari16.6 152 18
+chrome90.0.4430.212 1 0
+opera95.0.0.0 76 11
+chrome104.0.5112.34 2 2
+safari17.1.2 938 135
+chrome119.0.6045.123 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Buck/2.3.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20231206190512
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_GoogleOther)_Chrome/119.0.6045.123_Safari/537.36 20231203193843
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_(namespace:_domainValidationHttpClient)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20231201141113
+python-requests/2.27.1 20231204184022
+python-requests/2.31.0 20231203235811
+WhatsApp/2.23.20.0 20231207000237
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+python-requests/2.31.0 20231203235811
+WhatsApp/2.23.20.0 20231207000237
+python-requests/2.27.1 20231204184022
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_(namespace:_domainValidationHttpClient)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20231201141113
+Buck/2.3.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20231206190512
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 663 819
+From1 5 5
+From2 262 267
+From3 16 16
+From4 3227 19537
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+www_bing_com 45 45
+google_com 2 2
+baidu 6 6
+www_google_es 1 1
+www_google_com_ec 11 14
+www_google_com 197 199
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://m.facebook.com 6 6
+https://lm.facebook.com 6 6
+https://pangua.gob.ec 2 2
+https://l.facebook.com 1 1
+https://lm.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+http+//www.epmc.gob.ec/index.php/turnos 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+//www.epmc.gob.ec/index.php/turnos 2
+http 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+404 938 836425
+500 2652 485734
+206 354 149340377
+302 1293 302797
+405 4 1752
+429 1 582
+419 19 11001
+301 136 39253
+403 71 78505
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 164
+/uploads/F-004%20Formulario%20de%20Concesion%20de%20Contrato%20de%20Operaci%EF%BF%BD%EF%BF%BDn.pdf 1 -
+/uploads/F-007%20Formulario%20para%20Habilitaci%EF%BF%BD%EF%BF%BDn%20de%20Veh%EF%BF%BD%EF%BF%BDculo.pdf 1 -
+/uploads/lotaip_1643376449.pdf 1 -
+/index.php/2019/09/20/problems-with-your-player-s-creativity 1 -
+/index.php/2019/08/10/utah-chemistry-what-is-it 1 -
+/uploads/F-002%20Formulario%20de%20Concesi%EF%BF%BD%EF%BF%BDn%20de%20Permiso%20de%20Operaci%EF%BF%BD%EF%BF%BDn.pdf 1 -
+/index.php/2019/07/29/theory-multiple-choice-questions-options 1 -
+/sitemap.xml 2 -
+/tur 12 https://l.facebook.com/
+/front/assets/gridtile_3x3.png 1 http://www.epmc.gob.ec/index.php/turnos
+/index.php/favicon-16x16.png 58 -
+/login/xmlrpc.php 2 -
+/index.php/apple-icon-120x120.png 10 -
+/index.php/apple-icon-180x180.png 10 -
+/uploads/lotaip_1593702522.pdf 1 -
+/uploads/F-011%20Formulario%20de%20Cambio%20de%20Veh%EF%BF%BD%EF%BF%BDculo.pdf 1 -
+/index.php/turno/favicon-96x96.png 5 http://www.epmc.gob.ec/index.php/turno/2260000122620827
+/sitemap 1 -
+/uploads/F-005%20Formulario%20de%20Renovaci%EF%BF%BD%EF%BF%BDn%20de%20Contrato%20de%20Operaci%EF%BF%BD%EF%BF%BDn.pdf 1 -
+/xmlrpc.php 9 -
+/front/img/assets/rev-loader.gif 1 http://www.epmc.gob.ec/index.php/turnos
+/index.php/turno/apple-icon-72x72.png 1 http://www.epmc.gob.ec/index.php/turno/2260000122620890
+/uploads/lotaip_1593701160.pdf 2 -
+/front/assets/shadow3.png 1 http://www.epmc.gob.ec/index.php/turnos
+/sitemap.txt 1 -
+/wp-head.php 1 -
+/front/assets/arrow_left.png 1 http://www.epmc.gob.ec/index.php/turnos
+/apple-touch-icon-precomposed.png 2 -
+/index.php/2019/06/26/test-post 1 -
+/index.php/2019/07/09/how-to-update-most-used-installed-on-os-x-solved/%3EMy%20blog%3C/a%3E%3C/p%3E%3C/div%3E%20%3C!--%20.entry-content%20--%3E%3C!--%20You%20can%20start%20editing%20here.%20--%3E%3Csection%20id= 1 -
+/wp-content/plugins/td-composer/license.txt 1 -
+/uploads/lotaip_1615901401.pdf 1 -
+/index.php/2019/09/13/what-sort-of-job-uses-understanding-deposit-play 1 -
+/index.php/2019/09/22/giving-introduction-to-online-games-as-gift-ideas 1 -
+/turnos/apple-icon-76x76.png 2 -
+/index.php/turno/apple-icon-114x114.png 1 http://www.epmc.gob.ec/index.php/turno/2260000122620890
+/uploads/lotaip_1645116934.pdf 1 -
+/uploads/lotaip_1605016227.pdf 1 -
+/index.php/favicon-96x96.png 12 -
+/index.php/turno/favicon-32x32.png 5 http://www.epmc.gob.ec/index.php/turno/2260000122620827
+/front/img/users/ 33 http://www.epmc.gob.ec/index.php/admin
+/uploads/lotaip_1586824384.pdf 1 -
+/info@epmc.gob.ec 4 http://epmc.gob.ec
+/manifest.json 49 http://www.epmc.gob.ec/index.php/turnos
+/index.php/2019/03/26/population-definition-biology-guide 1 -
+/front/assets/small_left_boxed.png 1 http://www.epmc.gob.ec/index.php/turnos
+/simple.php 2 -
+/uploads/lotaip_1593701249.pdf 1 -
+/back/webarch/img/notification-alert.png 1 http://www.epmc.gob.ec/index.php/register
+/.well-known/tdmrep.json 3 -
+/turno/favicon-16x16.png 18 http://epmc.gob.ec/turno/2260000122620862
+/ads.txt 8 -
+/front/assets/arrow_right2.png 1 http://www.epmc.gob.ec/index.php/turnos
+/index.php/2019/09/03/introducing-advanced-poker-training 1 -
+/img/crane.png 110 -
+/index.php/inicio 1 -
+/index.php/2019/09/02/7-reasons-why-you-should-have-fun-with-desktop 1 -
+/index.php/favicon-32x32.png 15 -
+/front/assets/shadow1.png 1 http://www.epmc.gob.ec/index.php/turnos
+/humans.txt 1 -
+/apple-touch-icon-152x152-precomposed.png 1 -
+/index.php/apple-icon-72x72.png 10 -
+/uploads/lotaip_1591648959.pdf 1 -
+/turno/favicon-96x96.png 18 http://epmc.gob.ec/turno/2260000122620862
+/index.php/turno/apple-icon-144x144.png 1 http://www.epmc.gob.ec/index.php/turno/2260000122620890
+/uploads/F-001%20Formulario%20de%20Informe%20Previo%20de%20Constituci%EF%BF%BD%EF%BF%BDn%20Jur%EF%BF%BD%EF%BF%BDdica.xls.pdf 1 -
+/requisitos/ 2 -
+/front/assets/small_right.png 1 http://www.epmc.gob.ec/index.php/turnos
+/back/webarch/css/@%7Bbase-img-url%7D/icon/portlet-tray.png 1 http://www.epmc.gob.ec/index.php/register
+/uploads/F-005%20Formulario%20de%20Renovaci%C3%83%C2%B3n%20de%20Contrato%20de%20Operaci%C3%83%C2%B3n.pdf 1 -
+/uploads/F-008%20Formulario%20para%20Deshabilitacion%20de%20Veh%EF%BF%BD%EF%BF%BDculo.pdf 1 -
+/apple-touch-icon-152x152.png 1 -
+/index.php/2019/09/13/choosing-kinematic-equations-physics-2 1 -
+/index.php/login/xmlrpc.php 1 -
+/front/images/gradient/g40.png 1 http://www.epmc.gob.ec/index.php/turnos
+/index.php/2019/07/24/die-gliederung-einer-hausarbeit-zu-vertuschen 1 -
+/index.php/blog 2 -
+/index.php/2019/09/08/top-family-reviews-2 1 -
+/index.php/turno/apple-icon-180x180.png 1 http://www.epmc.gob.ec/index.php/turno/2260000122620890
+/index.php/2019/09/06/indocin-75-mg-comprime-generique-sans-ordonnance 2 -
+/index.php/2019/09/16/the-debate-over-top-5-ways-to-gamble 1 -
+/apple-touch-icon-120x120-precomposed.png 13 -
+//wp-content/plugins/fix/up.php 1 -
+/index.php/2019/03/28/heres-what-i-know-about-best-custom-paper 1 -
+/index.php/2019/07/19/the-importance-of-how-to-modify-a-report 1 -
+/front/assets/large_left.png 1 http://www.epmc.gob.ec/index.php/turnos
+/index.php/apple-icon-76x76.png 10 -
+/uploads/F-009%20Formulario%20de%20Cambio%20de%20Socio%20%20con%20Habilitacion%20Veh%EF%BF%BD%EF%BF%BDculo.pdf 1 -
+/index.php/2019/07/21/introducing-affordable-assignment-help 1 -
+/register/xmlrpc.php 5 -
+/index.php/2018/07/17/realistic-wife-now-advice-around-the-usa 2 -
+/index.php/turno/apple-icon-76x76.png 1 http://www.epmc.gob.ec/index.php/turno/2260000122620890
+/turnos/android-icon-192x192.png 1 -
+/front/assets/bullets.png 1 http://www.epmc.gob.ec/index.php/turnos
+/index.php/2019/07/12/1734 1 -
+/ai.txt 1 -
+/index.php/apple-icon-114x114.png 10 -
+/front/images/gradient/g30.png 1 http://www.epmc.gob.ec/index.php/turnos
+/front/css/AjaxLoader.gif 1 http://www.epmc.gob.ec/index.php/turnos
+/front/assets/arrowleft.png 1 http://www.epmc.gob.ec/index.php/turnos
+/index.php/2019/09/05/the-free-premium-slots-on-slotpark-diaries-2 1 -
+/turnos/apple-icon-114x114.png 1 -
+/index.php/2019/07/22/the-importance-of-how-to-modify-a-report 1 -
+/index.php/android-icon-192x192.png 67 -
+/index.php/xmlrpc.php 1 -
+/index.php/2019/03/15/which-are-the-ideal-techniques-for-educational-crafting 1 -
+/turno/favicon-32x32.png 18 http://epmc.gob.ec/turno/2260000122620862
+/turno/android-icon-192x192.png 18 http://epmc.gob.ec/turno/2260000122620862
+/index.php/apple-icon-60x60.png 10 -
+/validar_cedula 3 http://epmc.gob.ec/register
+/front/assets/arrow_right.png 1 http://www.epmc.gob.ec/index.php/turnos
+/turnos/apple-icon-180x180.png 1 -
+/front/assets/coloredbg.png 1 http://www.epmc.gob.ec/index.php/turnos
+/front/assets/small_right_boxed.png 181 http://www.epmc.gob.ec/index.php/turnos
+/index.php/2019/09/12/the-main-report-on-best-casino 1 -
+/browserconfig.xml 1 -
+/front/assets/gridtile_3x3_white.png 1 http://www.epmc.gob.ec/index.php/turnos
+/index.php/transparencia 1 -
+/apple-touch-icon-120x120.png 13 -
+/php/contact-form.php 1 http://epmc.gob.ec
+/front/assets/bullet_boxed.png 1 http://www.epmc.gob.ec/index.php/turnos
+/front/assets/large_right.png 1 http://www.epmc.gob.ec/index.php/turnos
+/apple-touch-icon.png 2 -
+/index.php/turno/android-icon-192x192.png 8 http://www.epmc.gob.ec/index.php/turno/2260000122620827
+/uploads/F-003%20Formulario%20de%20Renovaci%EF%BF%BD%EF%BF%BDn%20Permiso%20de%20Operaci%EF%BF%BD%EF%BF%BDn.pdf 1 -
+/wp-includes/css/buttons.css 1 -
+/front/assets/arrowright.png 1 http://www.epmc.gob.ec/index.php/turnos
+/index.php/2019/09/15/pris-finasteride-bitcoin-accepterad-basta-pa-natet-apotek 1 -
+/index.php/apple-icon-152x152.png 10 -
+/index.php/2019/09/21/5-important-elements-for-avid-gaming 1 -
+/front/assets/navigdots_bgtile.png 1 http://www.epmc.gob.ec/index.php/turnos
+/index.php/turno/favicon-16x16.png 7 http://www.epmc.gob.ec/index.php/turno/2260000122620827
+/.well-known/ai.txt 1 -
+/uploads/lotaip_1683045130.xlsx 1 -
+/front/assets/arrow_left2.png 1 http://www.epmc.gob.ec/index.php/turnos
+/front/assets/navigdots.png 1 http://www.epmc.gob.ec/index.php/turnos
+/index.php/2019/04/16/the-us-writing-services-game 2 -
+/index.php/apple-icon-144x144.png 10 -
+/index.php/register/xmlrpc.php 2 -
+/index.php/2019/09/21/things-you-should-know-about-how-to-play-whist 2 -
+/front/assets/bullet.png 1 http://www.epmc.gob.ec/index.php/turnos
+/index.html 3 -
+/index.php/turno/apple-icon-152x152.png 1 http://www.epmc.gob.ec/index.php/turno/2260000122620890
+/front/assets/shadow2.png 1 http://www.epmc.gob.ec/index.php/turnos
+/front/assets/bullets2.png 1 http://www.epmc.gob.ec/index.php/turnos
+/portafolio.html 1 -
+/front/img/error.gif 1 http://www.epmc.gob.ec/index.php/turnos
+/uploads/lotaip_1593702543.pdf 1 -
+/index.php/apple-icon-57x57.png 10 -
+/uploads/lotaip_1596647723.pdf 1 -
+/index.php/2019/08/28/8-ways-that-will-continue-to-be-kept-entertained 1 -
+/index.php/2019/09/25/what-is-educational-games-provide 4 -
+/front/assets/boxed_bgtile.png 1 http://www.epmc.gob.ec/index.php/turnos
+/front/assets/small_left.png 1 http://www.epmc.gob.ec/index.php/turnos
+/index.php/2019/09/07/the-key-life-of-more-available-at-paypal-casinos 1 -
+/front/assets/loader.gif 1 http://www.epmc.gob.ec/index.php/turnos
+/index.php/2019/07/19/meet-a-russian-girl 1 -
+/uploads/F-010%20Formulario%20de%20Cambio%20de%20Socio%20y%20Veh%EF%BF%BD%EF%BF%BDculo.pdf 1 -
+/index.php/turno/apple-icon-120x120.png 1 http://www.epmc.gob.ec/index.php/turno/2260000122620890
+/index.php/turno/apple-icon-57x57.png 1 http://www.epmc.gob.ec/index.php/turno/2260000122620890
+/js/pusher.js.map 7 -
+/index.php/turno/apple-icon-60x60.png 1 http://www.epmc.gob.ec/index.php/turno/2260000122620890
+/uploads/ejecucion%20enero%202021.pdf 1 -
+/index.php/sistema-turnos 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 328
+167.250.180.109 241 320 20443844 20231206161612
+200.24.141.235 232 384 38432088 20231206105404
+45.4.203.172 203 289 18583623 20231206122707
+45.239.48.159 191 258 18373052 20231206203425
+181.198.102.181 155 343 34714599 20231206120752
+167.250.180.108 141 187 17311884 20231204101847
+190.99.77.98 108 371 23957035 20231206115125
+177.234.250.19 90 352 74229255 20231205124133
+181.199.54.9 89 436 106925951 20231203134034
+200.24.141.34 80 280 42028577 20231206132208
+181.199.54.139 78 167 25780386 20231204075903
+181.211.14.228 71 329 73137783 20231204105435
+45.162.72.120 71 432 116077282 20231206122517
+200.125.244.13 71 253 38964503 20231206032137
+167.250.180.106 69 153 20204415 20231204155030
+45.183.136.66 67 310 41608906 20231201093711
+104.28.94.75 60 186 45232613 20231206074054
+200.69.175.196 59 228 38116903 20231201105631
+104.28.94.77 58 111 11589237 20231206080218
+181.113.19.187 55 826 276691747 20231201112318
+186.71.206.146 52 197 37572492 20231205094341
+200.7.247.149 51 145 1371329 20231204102623
+157.100.204.247 45 263 55721609 20231203152623
+45.236.107.173 41 242 56241610 20231204205540
+186.101.106.158 40 152 19740427 20231207013539
+45.224.150.14 36 213 43425762 20231206082724
+186.47.183.82 1 1 1412 20231201095509
+27.115.124.6 2 17 301383 20231206102012
+204.101.161.19 3 37 2276640 20231201214653
+190.152.177.100 11 85 20011972 20231206155532
+191.99.26.175 11 76 16927580 20231205141211
+181.188.215.68 1 1 6006 20231203074058
+211.140.23.130 0 1 1670862 
+190.99.77.67 26 166 19039154 20231203130948
+190.12.15.254 16 95 19458623 20231204225151
+157.100.87.198 10 92 26395989 20231201001355
+186.46.139.213 16 135 34184601 20231204094650
+172.225.238.159 0 2 3155132 
+186.42.11.206 14 185 22457605 20231205090722
+104.28.92.76 10 234 61960521 20231206080207
+146.70.186.190 23 23 119925 20231205041249
+190.63.240.230 1 1 5276 20231205081213
+177.234.250.35 4 4 9761 20231201034752
+172.187.136.26 1 1 6007 20231207055430 20231207055430 /
+192.254.250.185 2 2 0 20231205110324
+45.70.202.20 27 31 134501 20231204172851
+190.152.210.122 10 54 18470902 20231201122328
+200.125.230.89 1 1 1423 20231203171920
+137.184.172.206 1 1 6007 20231204142531
+157.100.134.108 7 11 133727 20231202134841
+45.162.74.178 7 99 18838121 20231205113512
+181.188.237.31 4 50 16760237 20231201101944
+190.152.235.219 1 9 88970 20231206191044
+130.255.166.90 1 1 6007 20231201230030
+104.28.92.77 0 2 4777850 
+47.47.10.30 5 58 2436817 20231204175546
+181.199.58.20 8 83 18962218 20231201093323
+186.42.9.78 0 1 26490 
+45.224.22.229 1 21 208105 20231205175258
+190.152.206.197 14 54 4458431 20231205205506
+35.209.86.153 1 1 6007 20231202113505
+27.115.124.70 0 10 318184 
+45.183.137.7 32 254 57825678 20231205135540
+157.100.136.211 12 82 17456712 20231206092444
+190.99.77.155 20 103 1430044 20231204102033
+35.209.158.149 1 1 6008 20231204052209
+181.188.200.42 2 28 516995 20231201102334
+199.244.88.230 1 1 6008 20231204185324
+45.224.152.184 1 1 6007 20231206205247
+104.194.8.237 0 1 258722 
+181.188.237.24 1 1 6007 20231201114633
+190.63.32.196 1 21 208104 20231205204619
+45.70.198.58 1 1 6007 20231205122735
+190.63.127.164 8 83 18896058 20231204081446
+27.115.124.38 0 3 53823 
+186.42.11.79 15 86 17293018 20231204113925
+181.198.42.226 14 83 17357117 20231206102419
+45.224.150.214 0 3 17073 
+186.42.11.242 7 73 197617 20231205222401
+131.196.9.205 4 54 18447674 20231206172957
+35.196.149.245 0 1 64646 
+186.42.9.18 26 162 20740072 20231204225224
+38.10.102.111 4 91 28978744 20231201110116
+177.53.215.118 0 3 17073 
+190.63.255.236 3 67 16764046 20231201110908
+200.7.246.218 3 3 8896 20231201073448
+186.46.238.26 25 145 35609133 20231201095153
+66.249.66.131 0 1 419783 
+209.208.78.48 2 2 12014 20231204184022
+181.196.72.20 2 47 16605164 20231204223737
+167.250.180.130 5 72 18577410 20231201131545
+190.63.241.169 0 3 17073 
+164.92.103.249 1 1 6008 20231206135832
+27.115.124.109 1 6 251094 20231206101451
+14.63.221.211 1 1 25755 20231201233120
+190.63.112.157 11 82 17228211 20231206080151
+45.189.56.194 0 1 0 
+45.189.56.65 23 238 47288379 20231206122938
+178.62.76.106 1 1 6007 20231202140445
+146.66.177.93 1 1 25445 20231204020608
+181.112.8.139 5 8 21909 20231203224246
+45.236.104.76 10 86 19054639 20231201083158
+181.188.200.116 7 88 22480284 20231204144252
+186.47.136.172 1 1 6007 20231204114526
+123.6.49.41 0 4 5818 
+186.219.49.81 22 87 17065806 20231206104233
+186.42.8.125 5 69 16823801 20231204150724
+186.68.154.5 1 21 208507 20231204130915
+45.70.197.15 4 68 16823773 20231202091809
+186.47.139.146 14 83 3058101 20231204151114
+181.113.98.74 9 86 21296139 20231204230637
+200.7.246.210 3 50 16791972 20231201141331
+200.85.83.217 4 49 16669474 20231204130521
+200.63.107.87 1 1 6006 20231202193438
+208.110.82.178 1 1 6006 20231202235215
+167.250.180.21 3 49 16755243 20231204082836
+138.84.53.11 3 6 294036 20231204215023
+35.209.221.246 1 1 25445 20231203074522
+23.83.81.237 1 1 6008 20231206154010
+190.63.96.106 0 1 0 
+123.6.49.47 0 14 2609501 
+190.152.203.109 3 4 98954 20231204171944
+181.196.72.150 1 21 208093 20231201090408
+45.70.197.18 0 3 17073 
+190.152.208.147 4 61 9771378 20231205111449
+3.12.34.156 0 1 381630 
+190.63.241.230 2 2 12016 20231204122048
+190.171.83.101 7 118 33457755 20231204170140
+200.7.243.191 5 60 6321793 20231204075235
+157.100.137.225 0 3 17073 
+186.47.137.190 14 14 19915 20231205091700
+104.28.94.76 14 241 52314500 20231206073730
+200.7.246.31 3 69 16945578 20231201110137
+186.46.140.70 0 1 492391 
+181.196.73.241 1 19 204801 20231201095816
+104.28.92.75 13 96 30036037 20231206002834
+35.89.183.119 1 1 6008 20231206063250
+186.42.174.243 7 107 37848007 20231206164050
+181.196.73.16 26 209 49381146 20231202103114
+190.63.135.4 1 21 208107 20231206215441
+190.63.98.188 0 2 14939 
+200.125.225.71 1 21 208506 20231206131320
+123.6.49.9 0 6 259466 
+102.177.164.21 36 189 40943346 20231206154343
+123.6.49.15 4 21 1716961 20231206101534
+190.152.205.159 11 29 956108 20231204231249
+181.199.41.184 5 5 26390 20231201215513
+181.113.26.113 18 129 35434885 20231206113909
+45.6.227.193 14 87 18737225 20231206154006
+167.250.180.120 22 252 67553682 20231204134945
+157.100.204.133 3 3 4228 20231206145934
+35.237.252.77 0 1 160966 
+200.63.105.156 3 49 8684 20231203094415
+176.214.81.187 1 1 25446 20231207031030
+157.100.134.207 2 47 16605165 20231204144248
+54.174.58.253 1 1 0 20231201141113
+200.7.246.35 4 51 20741047 20231204113940
+181.199.44.241 3 48 16664196 20231206090657
+45.70.197.16 0 3 17073 
+201.218.56.134 0 1 1908991 
+186.42.9.206 8 83 18795773 20231203201613
+164.163.160.140 1 1 5262 20231204170230
+34.138.159.232 0 1 381630 
+186.47.139.1 13 97 19090471 20231205113807
+157.100.140.183 1 21 208093 20231204200501
+200.24.141.116 28 234 51483584 20231205092639
+200.7.246.251 3 68 16854812 20231201035919
+172.226.84.36 1 1 7260 20231205063413
+131.108.17.239 1 1 6007 20231202145516
+194.36.99.247 3 3 12677 20231205010639
+35.227.84.163 0 1 238922 
+167.250.180.69 0 3 17073 
+181.39.193.155 2 63 16637012 20231204165047
+35.208.119.43 1 1 6007 20231206190512
+177.53.215.168 0 3 17073 
+157.100.142.65 11 11 55452 20231204065205
+157.100.142.4 17 137 20197684 20231204113729
+200.24.141.225 1 1 6006 20231203172516
+190.63.239.135 4 71 16781545 20231206145416
+66.231.68.32 6 71 5263364 20231204194653
+45.70.198.50 39 133 24613818 20231205211152
+181.199.38.72 4 4 5691 20231205123638
+181.188.195.212 19 30 6084007 20231206113845
+101.47.80.44 0 4 703901 
+186.47.138.90 16 167 34082991 20231202142224
+186.219.49.250 0 3 17073 
+211.91.71.61 0 1 1721810 
+190.63.126.161 0 3 17073 
+157.100.136.94 5 69 16823506 20231206172729
+45.189.56.166 8 106 35139579 20231204103843
+186.47.137.143 15 81 17096145 20231206131725
+66.102.8.35 0 1 1422811 
+157.100.143.22 22 95 18824614 20231205094542
+164.163.160.153 7 80 18657010 20231205145319
+157.100.137.109 2 22 209504 20231204220040
+34.73.116.165 0 1 255087 
+45.239.49.155 4 68 16765539 20231204203300
+177.234.213.33 0 3 17073 
+200.24.141.108 6 90 16979595 20231206110630
+34.139.179.155 0 1 123116 
+167.250.180.219 23 127 1771526 20231205101529
+157.100.204.230 1 1 6007 20231206221820
+45.189.56.6 5 69 17129045 20231204152552
+190.152.130.155 3 40 5966607 20231205222512
+157.100.204.23 0 3 17073 
+181.199.59.135 3 51 16839350 20231201095559
+186.47.139.13 7 7 22466 20231204124825
+27.44.203.5 0 1 255087 
+190.63.97.217 1 2 98016 20231205222651
+186.47.137.51 3 45 1802981 20231201120220
+163.116.134.90 2 4 194574 20231206101940
+157.100.204.68 0 3 17073 
+190.10.170.120 3 48 16664178 20231205125134
+54.202.7.37 0 1 259142 
+45.224.150.216 0 1 13941 
+35.229.43.135 0 1 190746 
+178.157.102.51 1 1 6007 20231201112054
+45.70.57.35 25 110 19764584 20231206214012
+190.63.255.170 0 3 17073 
+190.152.237.230 7 50 9016950 20231204092715
+177.234.223.19 0 3 17073 
+200.7.210.181 0 3 17073 
+181.188.201.131 8 75 17067281 20231205101214
+27.44.203.2 0 1 9357 
+186.46.140.69 1 21 208505 20231202141805
+124.156.207.67 0 1 1670862 
+190.12.149.202 0 3 17073 
+200.7.246.154 4 16 15833392 20231204110325
+194.36.97.121 3 3 12677 20231203065732
+194.36.97.185 3 3 12679 20231205222835
+27.115.124.53 1 8 83512 20231206101448
+186.47.136.76 0 6 34146 
+66.231.68.200 1 21 208109 20231205124452
+5.8.251.249 23 23 119927 20231205060818
+186.47.139.135 5 69 16823797 20231205092455
+181.199.59.200 7 60 1888645 20231203085413
+200.7.247.132 5 86 21520538 20231207063134 20231207062937 /
+2.57.23.216 1 1 0 20231205114519
+45.173.230.39 0 3 17073 
+8.217.247.199 0 2 763260 
+163.116.229.101 3 6 293455 20231205155453
+148.78.5.73 2 47 16605166 20231202100814
+152.70.204.217 0 4 3944141 
+200.85.83.117 0 3 17073 
+45.224.150.179 3 48 16664490 20231205212437
+190.155.31.81 0 3 17073 
+181.199.88.64 5 89 17031983 20231201101540
+190.63.96.144 0 1 90765 
+123.6.49.42 1 6 1464393 20231206101534
+118.26.39.17 1 7 253690 20231206154138
+157.100.88.200 7 53 39276 20231201233501
+35.209.166.65 1 1 6007 20231201140003
+179.49.61.107 2 47 16605150 20231203223537
+157.100.134.195 1 45 16492397 20231203193531
+200.105.247.49 32 350 77342334 20231205141235
+102.165.54.126 3 3 12676 20231205012328
+200.24.136.52 23 198 38822504 20231206124831
+190.63.255.216 2 47 16605166 20231206072606
+157.100.6.234 8 73 16923388 20231205100531
+190.99.77.171 8 74 17001794 20231201180458
+191.99.141.44 1 1 6006 20231203082537
+201.218.56.133 1 21 208106 20231201095405
+181.188.233.149 27 241 53019700 20231204112257
+34.214.58.122 1 1 6007 20231202055112
+181.196.82.69 1 21 208093 20231206185142
+45.189.56.76 19 84 17018192 20231204082603
+45.183.136.114 0 3 17073 
+45.189.56.5 29 172 35206604 20231206112821
+190.152.176.209 24 308 68785232 20231205075925
+181.188.200.3 0 1 90765 
+157.100.204.161 3 49 16755254 20231205100208
+54.245.79.53 1 1 6007 20231201172654
+123.6.49.10 0 4 62328 
+200.7.246.213 27 141 34759056 20231204120713
+123.6.49.50 0 12 101963 
+204.217.180.95 23 23 119809 20231203051402
+190.152.203.37 14 88 20500942 20231204074055
+190.63.98.141 1 2 1412 20231205124922
+181.199.63.218 1 1 6008 20231206183754
+27.115.124.118 0 1 1315238 
+200.107.24.64 1 7 112302 20231202190403
+35.209.43.144 1 1 6007 20231205013805
+186.42.11.92 3 48 16664196 20231206091003
+186.42.127.10 16 42 3166376 20231204141427
+194.36.97.20 3 3 12676 20231203071515
+186.47.136.197 15 86 17553060 20231206121126
+190.15.139.157 1 2 53263 20231204111930
+45.6.224.96 10 88 18897320 20231202122628
+186.46.84.10 1 2 98023 20231201182143
+190.63.237.75 6 29 16810361 20231204101054
+157.100.135.74 0 26 0 
+190.63.120.253 5 74 17000649 20231204101015
+181.211.103.246 15 196 38692534 20231205125705
+167.250.180.107 28 159 34168757 20231205092033
+157.100.87.200 6 76 23106777 20231201040553
+200.7.247.25 8 81 28830078 20231206073759
+157.100.89.226 7 74 17157041 20231206075143
+35.196.246.233 0 1 170118 
+45.70.197.19 0 3 17073 
+181.188.237.22 13 92 19200551 20231206085437
+38.10.102.96 1 1 6008 20231203230020
+200.105.231.165 19 96 19173108 20231206105612
+164.163.160.163 3 37 2276935 20231206100708
+177.234.250.130 1 21 208089 20231202082624
+200.7.247.254 11 63 3592203 20231204095310
+66.102.8.33 0 2 2845622 
+186.42.10.10 0 3 17073 
+181.112.33.10 8 61 18482927 20231204102026
+167.250.180.20 0 3 17073 
+190.154.89.194 7 14 2145453 20231206082219
+190.171.83.102 4 60 2513872 20231205181030
+27.115.124.101 0 12 138760 
+35.193.239.13 1 1 6008 20231203235811
+186.4.133.178 5 72 1396545 20231204072018
+181.112.51.6 16 91 17413580 20231201133015
+200.85.83.216 0 3 17073 
+186.47.137.50 1 1 6007 20231207000237
+154.16.69.123 3 3 12680 20231205224435
+157.100.136.119 1 1 5262 20231203223245
+157.100.139.150 19 88 17116082 20231204191851
+35.209.96.244 1 1 6008 20231205225315
+34.148.4.250 0 1 126732 
+200.7.246.192 0 3 116696 
+186.42.11.143 0 3 17073 
+177.53.215.235 0 2 83407 
+123.6.49.18 3 48 5489778 20231206101418
+200.125.237.50 12 122 18124728 20231206114152
+186.71.93.215 1 1 6007 20231201081304
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20231201 850 4146 888107627 63
+20231202 169 1197 267876608 20
+20231203 169 991 189309739 23
+20231204 1217 6018 1095798633 98
+20231205 749 3627 670735680 82
+20231206 1002 4557 868315176 73
+20231207 17 106 21901886 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 23
+15mn-30mn 21
+0s-30s 157
+2mn-5mn 42
+30s-2mn 49
+5mn-15mn 47
+1h+ 23
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 374
+/index.php/turnos 617 3383698 141 36
+/turnero/lamana 376 3055268 5 9
+/index.php/login 354 508723 34 35
+/index.php/turnero/pujili 350 2543245 5 16
+/front/fonts/ionicons.ttf 234 24412008 3 35
+/turnos 196 1088582 42 11
+/front/fonts/Simple-Line-Icons.woff 184 10767568 2 17
+/index.php/turnero/lamana 173 1411178 0 8
+/ 140 915426 73 50
+/login 137 196056 38 28
+/turnero/pujili 121 877219 4 18
+/index.php/perfil 121 352647 3 2
+/perfil 114 874344 2 5
+/index.php/email/verify 100 120751 1 6
+/index.php/register 89 165191 4 10
+/email/verify 82 97731 0 3
+/index.php 78 494405 2 12
+/register 57 105778 0 2
+/stats_calendario/2023-12-07 28 8033 0 0
+/index.php/password/reset 27 36793 0 3
+/stats_calendario/2023-12-05 21 5848 0 0
+/index.php/admin 21 49654 2 4
+/index.php/consultas 15 68399 0 2
+/stats_calendario/2023-12-06 13 3542 0 0
+/index.php/stats_calendario/2023-12-05 12 2751 0 0
+/turno/2260000122620912 1 7076 0 0
+/validar_cedula/0940806102 1 24 0 0
+/validar_placa/pia0759 1 22 0 0
+/validar_cedula/0503945545 1 24 0 0
+/index.php/validar_cedula/1205825217 1 24 0 0
+/index.php/turno/2260000122620890 1 7065 0 0
+/index.php/validar_cedula/1721196408001 1 24 0 0
+/validar_placa/IJ218U 1 22 0 0
+/index.php/validar_cedula/1713910535 1 24 0 0
+/index.php/validar_cedula/1803609997 2 48 0 0
+/validar_placa/POU0778 1 22 0 0
+/index.php/stats_calendario/2023-12-08 2 571 0 1
+/index.php/validar_placa/PBI7389 1 22 0 0
+/turno/2260000122620850 1 7104 0 0
+/index.php/validar_cedula/0502274913 1 24 0 0
+/validar_placa/TDI0779 1 22 0 0
+/validar_placa/POJ0623 1 22 0 0
+/turno/2260000122620870 1 7026 0 0
+/validar_cedula/0501421218 1 24 0 0
+/turno/2260000122620902 1 7043 0 0
+/validar_cedula/0502128515 1 24 0 0
+/validar_cedula/0501902001 1 24 0 0
+/turno/2260000122620865 1 7013 0 0
+/validar_placa/gtf7592 1 22 0 0
+/sistema-turnos/0503058208-7-La%20Man%C3%A1 1 5568 0 0
+/turno/2260000122620895 1 7050 0 0
+/sistema-turnos/0502065832-3-La%20Man%C3%A1 1 5609 0 1
+/index.php/validar_placa/ADE0558 1 22 0 0
+/index.php/stats_calendario/2023-12-06 11 3149 0 0
+/index.php/validar_cedula/1804369393 1 24 0 0
+/turno/2260000122620866 1 7011 0 0
+/turno/2260000122620896 1 7004 0 0
+/validar_placa/PBW3190 1 22 0 0
+/validar_placa/PDE8654 1 22 0 0
+/turno/2260000122620888 1 7063 0 0
+/validar_placa/JP005J 1 22 0 0
+/sistema-turnos/1201979133-12-La%20Man%C3%A1 1 5630 0 0
+/validar_cedula/1803488707 1 24 0 0
+/sistema-turnos/0504047077-7-La%20Man%C3%A1 1 5613 0 1
+/index.php/validar_cedula/1721496709 1 24 0 0
+/sistema-turnos/1204009391-13-La%20Man%C3%A1 1 5788 0 1
+/index.php/noticia/calendario-de-matriculacion-vehicular-2021 1 4993 0 1
+/sistema-turnos/0503945545-14-La%20Man%C3%A1 1 5672 0 0
+/index.php/validar_cedula/1851266559 1 24 0 0
+/consultas 11 49065 0 1
+/index.php/validar_cedula/0503109258 1 24 0 0
+/index.php/password/reset/3b2f2350bf10fd2f2a22db3f47937fea659662a733f567726c6ff9fd44d5f64c 1 1434 0 0
+/index.php/validar_cedula/0502386402 1 24 0 0
+/index.php/validar_cedula/0503874927 1 24 0 0
+/turnos/reimpresion 1 6996 0 0
+/placas 4 456 0 1
+/index.php/validar_cedula/1716293p79 1 25 0 0
+/sistema-turnos/1305676973-24-La%20Man%C3%A1 1 5750 0 0
+/validar_placa/PCL1829 1 22 0 0
+/sistema-turnos/0504092065-20-La%20Man%C3%A1 1 5509 0 0
+/documentos/pac-reformas 3 13107 0 2
+/sistema-turnos/0502180144-1-La%20Man%C3%A1 1 5784 0 0
+/validar_cedula/0501887061 2 48 0 0
+/validar_cedula/1722801006 1 24 0 0
+/sistema-turnos/1715220677-13-La%20Man%C3%A1 1 5557 0 0
+/stats_calendario/2023-12-08 3 678 0 0
+/validar_placa/hbb3147 2 44 0 0
+/turno/2260000122620897 1 7072 0 0
+/validar_placa/hj568g 1 22 0 0
+/index.php/turno/2260000122620827 3 21109 0 0
+/password/reset 5 6705 0 1
+/index.php/validar_cedula/1723762249 1 24 0 0
+/validar_placa/if200o 1 22 0 0
+/index.php/validar_placa/PWE0865 1 22 0 0
+/turno/2260000122620893 1 7114 0 0
+/turno/2260000122620852 1 7061 0 0
+/turno/2260000122620863 1 7031 0 0
+/turno/2260000122620884 1 7050 0 0
+/index.php/validar_cedula/0502234727 1 24 0 1
+/turno/2260000122620872 1 7044 0 0
+/index.php/validar_cedula/0503246340 1 24 0 0
+/turno/2260000122620900 1 7076 0 0
+/sistema-turnos/0550286918-9-La%20Man%C3%A1 2 11092 0 0
+/validar_placa/GNW0977 2 44 0 0
+/turno/2260000122620910 1 7011 0 0
+/turno/2260000122620899 1 7039 0 0
+/index.php/validar_cedula/0501586101 1 24 0 1
+/documentos/autorizacion-para-renovacion-anual-de-matricula 3 11334 0 0
+/validar_placa/TBC1509 1 22 0 0
+/sistema-turnos/0504092065-23-La%20Man%C3%A1 1 5454 0 0
+/validar_cedula/0503537284 1 24 0 0
+/sistema-turnos/0502065832-8-La%20Man%C3%A1 1 5124 0 1
+/turno/2260000122620848 1 7063 0 0
+/sistema-turnos/1305676973-21-La%20Man%C3%A1 1 5621 0 0
+/validar_placa/IB684H 1 22 0 0
+/sistema-turnos/0503416703-5-La%20Man%C3%A1 1 5500 0 1
+/turno/2260000122620913 1 7088 0 0
+/sistema-turnos/0550286918-11-La%20Man%C3%A1 1 5658 0 0
+/sistema-turnos/1204843286-14-La%20Man%C3%A1 1 5579 0 0
+/index.php/validar_cedula/1802662187 1 24 0 0
+/sistema-turnos/0504092065-24-La%20Man%C3%A1 1 5725 0 0
+/validar_cedula/0503954190 1 24 0 0
+/turno/2260000122620909 1 7037 0 0
+/validar_cedula/0504738485 1 24 0 0
+/sistema-turnos/0503416703-19-La%20Man%C3%A1 2 11056 0 2
+/index.php/validar_cedula/0502031719 1 24 0 0
+/validar_placa/IA127C 1 22 0 0
+/validar_cedula/0504307927 1 24 0 0
+/sistema-turnos/0504840877-3-La%20Man%C3%A1 1 5588 0 1
+/sistema-turnos/0503416703-15-La%20Man%C3%A1 1 5638 0 0
+/index.php/password/reset/b7fd1c1c0fc3d07b4a7fe1f3124bb0a73c44f8a4eca577938b06ebca7f36455b 1 1425 0 0
+/validar_placa/jbd0109 1 22 0 0
+/turno/2260000122620860 1 7074 0 0
+/index.php/sistema-turnos/0500984448-10-La%20Man%C3%A1 1 5747 0 0
+/validar_cedula/1802742468 1 24 0 0
+/validar_cedula/1715220677 1 24 0 0
+/index.php/validar_cedula/0502781891 1 24 0 0
+/validar_placa/PBQ9163 1 22 0 0
+/turno/2260000122620903 1 7063 0 0
+/validar_cedula/0503347452 1 24 0 0
+/validar_placa/RBA3637 1 22 0 0
+/validar_placa/IC662H 1 22 0 0
+/validar_placa/PVR0260 1 22 0 0
+/validar_cedula/1804201802 1 24 0 0
+/turno/2260000122620907 1 7046 0 0
+/validar_placa/GLE0868 1 22 0 0
+/validar_placa/IC057S 2 44 0 0
+/index.php/requsitos 6 28716 0 2
+/index.php/turno/2260000122620869 1 7055 0 0
+/sistema-turnos/0502128515-2-La%20Man%C3%A1 1 5583 0 1
+/turno/2260000122620855 1 7022 0 0
+/validar_cedula/1305676973 1 24 0 0
+/sistema-turnos/1201979133-10-La%20Man%C3%A1 1 5581 0 0
+/index.php/validar_placa/tbv0880 1 22 0 0
+/validar_placa/RCB0469 1 22 0 0
+/sistema-turnos/0503058208-5-La%20Man%C3%A1 1 5627 0 0
+/turno/2260000122620875 1 7052 0 0
+/documentos/alianza-estrategica 3 12330 0 0
+/validar_placa/PYZ0825 1 22 0 0
+/index.php/validar_placa/pym0543 1 22 0 0
+/turno/2260000122620856 1 7111 0 0
+/validar_cedula/1201979133 1 24 0 0
+/validar_cedula/0504092065 1 24 0 0
+/sistema-turnos/1715220677-19-La%20Man%C3%A1 1 5602 0 0
+/index.php/validar_cedula/12058255217 1 25 0 0
+/documentos/resoluciones-directorio-epmc-2022 3 12054 0 0
+/turno/2260000122620876 1 7007 0 0
+/index.php/validar_cedula/0503550873 1 24 0 0
+/turno/2260000122620915 1 7071 0 0
+/index.php/validar_cedula/0502655228 1 24 0 0
+/index.php/validar_cedula/1717710907 1 24 0 0
+/index.php/validar_placa/Pky0036 6 132 0 0
+/validar_placa/HT875H 1 22 0 0
+/turno/2260000122620906 1 7034 0 0
+/validar_cedula/0503748287 1 24 0 0
+/sistema-turnos/0503416703-17-La%20Man%C3%A1 1 5582 0 0
+/index.php/validar_cedula/0503283178 1 24 0 0
+/index.php/validar_cedula/17%202119640-8 1 25 0 0
+/lotaip 3 64589 0 0
+/validar_placa/PDI5796 1 22 0 0
+/validar_placa/EA100L 1 22 0 0
+/validar_placa/GSA9609 1 22 0 0
+/turno/2260000122620877 1 7032 0 0
+/sistema-turnos/0504738485-8-La%20Man%C3%A1 1 5618 0 1
+/index.php/turno/2260000122620859 1 7031 0 0
+/validar_placa/PDS6072 1 22 0 0
+/turno/2260000122620905 1 7108 0 0
+/index.php/validar_cedula/0501554059 1 24 0 0
+/index.php/validar_cedula/0503347452 1 24 0 0
+/noticia/calendario-de-matriculacion-vehicular-2021 4 19442 0 0
+/validar_cedula/0502732621 1 24 0 0
+/validar_cedula/0503210908 1 24 0 0
+/validar_placa/JP404S 1 22 0 0
+/turno/2260000122620853 1 7070 0 0
+/turno/2260000122620862 1 7028 0 0
+/turno/2260000122620892 1 7097 0 0
+/turno/2260000122620873 1 7044 0 0
+/validar_placa/PCM0619 1 22 0 0
+/validar_placa/JE355S 1 22 0 0
+/validar_cedula/0550114656 1 24 0 0
+/formularios 6 28412 1 0
+/index.php/validar_cedula/1712575776 1 24 0 0
+/turno/2260000122620879 1 7046 0 0
+/index.php/validar_cedula/0501887061 1 24 0 0
+/validar_placa/IW126J 1 22 0 0
+/validar_placa/EBF0630 1 22 0 0
+/index.php/validar_cedula/0500883301 1 24 0 0
+/sistema-turnos/0940806102-2-La%20Man%C3%A1 1 5629 0 0
+/validar_cedula/0504840877 1 24 0 0
+/index.php/validar_cedula/0500895172 1 24 0 0
+/validar_cedula/0503416703 1 24 0 0
+/turno/2260000122620887 1 7062 0 0
+/documentos/pac 3 12363 0 1
+/index.php/formularios 4 19455 1 0
+/validar_placa/ubm0327 1 22 0 0
+/index.php/validar_placa/Xbv0430 1 22 0 1
+/sistema-turnos/0503416703-8-La%20Man%C3%A1 1 5516 0 1
+/index.php/validar_cedula/0504271370 1 24 0 1
+/index.php/turno/2260000122620867 1 7063 0 0
+/validar_placa/CBF0363 1 22 0 0
+/front/fonts/Simple-Line-Icons.ttf 2 41880 0 0
+/index.php/validar_cedula/0502108715 1 24 0 0
+/validar_cedula/0504391103 1 24 0 0
+/validar_placa/PNW0941 1 22 0 0
+/validar_cedula/0503058208 1 24 0 0
+/validar_placa/hv010a 1 22 0 0
+/turno/2260000122620889 1 7077 0 0
+/index.php/validar_cedula/1800806760 1 24 0 0
+/sistema-turnos/0940806102-3-La%20Man%C3%A1 1 5577 0 0
+/documentos/solicitud-de-cotizacion 3 13545 0 0
+/index.php/sistema-turnos/0501840953-10-La%20Man%C3%A1 1 5572 0 0
+/sistema-turnos/0503058208-9-La%20Man%C3%A1 1 5609 0 0
+/sistema-turnos/0504047077-6-La%20Man%C3%A1 1 5469 0 0
+/turno/2260000122620864 1 7038 0 0
+/index.php/validar_cedula/1719964122 1 24 0 0
+/turno/2260000122620894 1 7042 0 0
+/index.php/validar_cedula/17%2021196408 1 25 0 0
+/sistema-turnos/1305676973-23-La%20Man%C3%A1 1 5520 0 0
+/validar_cedula/FREDDY%20QUISHPE 1 25 0 0
+/sistema-turnos/0504092065-22-La%20Man%C3%A1 1 5050 0 0
+/validar_placa/IG486I 1 22 0 0
+/index.php/validar_cedula/1705082558 1 24 0 0
+/turno/2260000122620883 1 7056 0 0
+/index.php/turno/2260000122620881 1 7071 0 0
+/sistema-turnos/0503058208-4-La%20Man%C3%A1 1 5507 0 0
+/index.php/validar_cedula/1721196408 2 48 0 0
+/index.php/noticias 4 16350 0 1
+/index.php/sistema-turnos/1709443459-62-La%20Man%C3%A1 1 5755 0 1
+/index.php/turno/2260000122620846 1 7125 0 0
+/turno/2260000122620847 1 7076 0 0
+/validar_placa/GLJ0819 1 22 0 0
+/index.php/validar_placa/xba8759 1 22 0 0
+/turno/2260000122620861 1 7033 0 0
+/validar_placa/ghz0008 1 22 0 0
+/turno/2260000122620891 1 7044 0 0
+/index.php/sistema-turnos/1851266559-21-La%20Man%C3%A1 1 5583 0 0
+/index.php/sistema-turnos/0501840953-12-La%20Man%C3%A1 1 5572 0 1
+/sistema-turnos/1305676973-22-La%20Man%C3%A1 1 5641 0 0
+/validar_placa/HJ136D 1 22 0 0
+/sistema-turnos/0550286918-14-La%20Man%C3%A1 1 5673 0 0
+/validar_placa/HBE2451 1 22 0 0
+/turno/2260000122620849 1 7026 0 0
+/validar_cedula/0503109258 2 48 0 0
+/validar_placa/HBC6099 1 22 0 0
+/turno/2260000122620898 1 7084 0 0
+/validar_placa/aa130l 1 22 0 0
+/index.php/stats_calendario/2023-12-07 7 1132 0 1
+/turno/2260000122620886 1 7052 0 0
+/index.php/password/reset/053dee5bc70b1f4953840005f1c832420f03a7829ebee477e4108688b963c747 2 2956 0 0
+/webmail 2 25006 1 2
+/documentos/estados-financieros 3 12183 0 0
+/turno/2260000122620868 1 7070 0 0
+/sistema-turnos/1204843286-2-La%20Man%C3%A1 1 5591 0 1
+/front/fonts/ionicons.woff 3 203192 0 0
+/validar_placa/GRY8160 1 22 0 0
+/validar_cedula/0504259128 1 24 0 0
+/validar_placa/JK560D 1 22 0 0
+/documentos/rendicion-de-cuentas 3 11850 0 0
+/validar_cedula/0502940224 1 24 0 1
+/validar_placa/mcr0007 1 22 0 0
+/sistema-turnos/0940806102-4-La%20Man%C3%A1 1 5457 0 0
+/turno/2260000122620885 1 7067 0 0
+/validar_placa/GPL0026 1 22 0 0
+/index.php/validar_cedula/0550497143001 1 24 0 0
+/index.php/validar_placa/AGG0799 1 22 0 0
+/sistema-turnos/1715220677-16-La%20Man%C3%A1 1 5511 0 0
+/index.php/validar_cedula/1803073509 1 24 0 1
+/index.php/validar_cedula/0503270688 1 24 0 0
+/validar_placa/JA692Y 1 22 0 0
+/sistema-turnos/0503748287-26-La%20Man%C3%A1 1 5565 0 0
+/validar_placa/ho291c 1 22 0 0
+/validar_placa/jbd010 1 22 0 0
+/index.php/sistema-turnos/0550497143001-2-La%20Man%C3%A1 1 5597 0 1
+/noticias 3 11844 0 0
+/index.php/validar_cedula/1711377604 1 24 0 0
+/index.php/turnos/reimpresion 12 21887 0 0
+/index.php/validar_cedula/1716293079 2 48 0 0
+/turno/2260000122620908 1 7057 0 0
+/index.php/validar_cedula/1804153102 1 24 0 0
+/sistema-turnos/1201979133-11-La%20Man%C3%A1 1 5757 0 0
+/sistema-turnos/0940806102-6-La%20Man%C3%A1 1 5561 0 0
+/sistema-turnos/1803411923-15-La%20Man%C3%A1 1 5528 0 1
+/validar_cedula/0502364052 1 24 0 0
+/index.php/validar_cedula/0501267454 1 24 0 0
+/quienes-somos 3 14450 0 0
+/validar_cedula/0502229586 1 24 0 0
+/admin 8 18819 0 0
+/index.php/validar_cedula/0602681579 1 24 0 1
+/validar_placa/TBV0658 1 22 0 0
+/sistema-turnos/0550286918-18-La%20Man%C3%A1 1 5495 0 0
+/turno/2260000122620901 1 7013 0 0
+/validar_placa/HC074B 1 22 0 0
+/validar_placa/JD702R 1 22 0 0
+/validar_placa/OBW0319 1 22 0 0
+/index.php/validar_cedula/0504129107 1 24 0 0
+/index.php/validar_cedula/0502428154 1 24 0 1
+/turno/2260000122620911 1 7049 0 0
+/validar_placa/PQA0158 1 22 0 0
+/index.php/placas 10 1140 0 0
+/validar_placa/PCY2291 1 22 0 0
+/turno/2260000122620854 1 7010 0 0
+/directorio 3 12744 0 0
+/index.php/sistema-turnos/0503656282-1-La%20Man%C3%A1 1 5625 0 1
+/validar_placa/ib877h 3 66 0 0
+/validar_placa/HT246T 1 22 0 0
+/turno/2260000122620882 1 7054 0 0
+/sistema-turnos/1201979133-5-La%20Man%C3%A1 1 5531 0 0
+/validar_cedula/0550286918 1 24 0 0
+/validar_placa/icj0164 1 22 0 0
+/validar_placa/PJX0776 1 22 0 0
+/turno/2260000122620874 1 7071 0 0
+/index.php/turno/2260000122620857 1 7041 0 0
+/sistema-turnos/0503748287-25-La%20Man%C3%A1 1 5591 0 0
+/documentos/resoluciones 3 13182 0 0
+/index.php/validar_cedula/1712741378 1 24 0 0
+/sistema-turnos/1204009391-1-La%20Man%C3%A1 1 5567 0 0
+/index.php/validar_placa/hbc2778 3 66 0 0
+/turno/2260000122620904 1 7047 0 0
+/sistema-turnos/0502065832-12-La%20Man%C3%A1 1 5471 0 1
+/sistema-turnos/0940806102-7-La%20Man%C3%A1 1 5624 0 0
+/turno/2260000122620880 1 7038 0 0
+/index.php/password/reset/6d4c6ff913aafba9de930a73f621594249949cbb361b24a6dc9af58988e8c78c 1 1432 0 0
+/turno/2260000122620914 1 7037 0 0
+/index.php/validar_cedula/0500925813 1 24 0 0
+/validar_cedula/1712741378 3 72 0 0
+/validar_placa/PNU0340 1 22 0 0
+/index.php/validar_cedula/1803074929 1 24 0 0
+/turno/2260000122620851 1 7017 0 0
+/index.php/validar_placa/Pbi7389 4 88 0 0
+/sistema-turnos/1715220677-18-La%20Man%C3%A1 1 5622 0 0
+/sistema-turnos/1715220677-15-La%20Man%C3%A1 1 5625 0 0
+/sistema-turnos/0501882690-11-La%20Man%C3%A1 1 5626 0 1
+/validar_cedula/0502065832 1 24 0 0
+/turno/2260000122620871 1 7067 0 0
+/validar_cedula/0603018086 3 72 0 0
+/sistema-turnos/0503058208-6-La%20Man%C3%A1 1 5581 0 0
+/sistema-turnos/1204843286-3-La%20Man%C3%A1 1 5665 0 0
+/index.php/validar_placa/pss0079 1 22 0 0
+/index.php/validar_cedula/1711591071 2 48 0 0
+/turno/2260000122620858 1 7038 0 0
+/sistema-turnos/1305676973-20-La%20Man%C3%A1 1 5515 0 0
+/index.php/stats_calendario/2023-12-04 4 973 0 1
+/sistema-turnos/1204843286-4-La%20Man%C3%A1 1 5514 0 0
+/validar_cedula/1204843286 1 24 0 0
+/password/reset/63fca0746406072fc2e2ef9e5a2220a39299566fb78326c813c8fa99717cec15 1 1411 0 0
+/sistema-turnos/0501497200-1-La%20Man%C3%A1 6 33354 0 3
+/index.php/validar_cedula/0550497143 2 48 0 0
+/sistema-turnos/0550286918-16-La%20Man%C3%A1 1 6269 0 0
+/requsitos 12 57271 0 5
+/sistema-turnos/1201979133-9-La%20Man%C3%A1 1 5551 0 0
+/documentos/publicaciones 3 13734 0 0
+/sistema-turnos/0503945545-17-La%20Man%C3%A1 1 5597 0 0
+/index.php/validar_cedula/171629307o 1 25 0 0
+/sistema-turnos/1204843286-13-La%20Man%C3%A1 1 5593 0 0
+END_SIDER

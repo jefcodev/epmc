@@ -1,0 +1,625 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202001 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2676                
+POS_VISITOR 24581               
+POS_DAY 25400               
+POS_DOMAIN 3407                
+POS_LOGIN 3776                
+POS_ROBOT 3931                
+POS_WORMS 4387                
+POS_EMAILSENDER 4518                
+POS_EMAILRECEIVER 4661                
+POS_SESSION 25939               
+POS_SIDER 26124               
+POS_FILETYPES 4796                
+POS_DOWNLOADS 5125                
+POS_OS 5329                
+POS_BROWSER 5520                
+POS_SCREENSIZE 5934                
+POS_UNKNOWNREFERER 6008                
+POS_UNKNOWNREFERERBROWSER 6323                
+POS_ORIGIN 6548                
+POS_SEREFERRALS 6687                
+POS_PAGEREFS 6872                
+POS_SEARCHWORDS 8454                
+POS_KEYWORDS 8606                
+POS_MISC 2340                
+POS_ERRORS 8665                
+POS_CLUSTER 3632                
+POS_SIDER_404 8820                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200201031128 13 1963 11914366947904
+FirstTime 0
+LastTime 20200129183728
+LastUpdate 20200201072832 13 0 12 0 0
+TotalVisits 79                  
+TotalUnique 18                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 7 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 7 11324 147 148 196747
+1 1 1 0 26 30 42242
+2 1 1 1179 20 23 5141
+3 2 2 0 23 27 1494
+4 3 3 0 16 21 4644
+5 1 1 0 24 28 21792
+6 4 4 73022 27 37 47142
+7 4 4 0 36 45 37024
+8 162 284 2974812 26 30 83708
+9 117 117 59568 18 21 2410
+10 61 61 56704 28 37 105412
+11 103 111 517484 32 40 47742
+12 59 83 979022 23 25 148367
+13 69 70 163375 27 28 11076
+14 64 64 36634 22 29 89068
+15 67 109 980041 27 34 49390
+16 106 154 2095443 20 21 45503
+17 76 82 360080 35 45 58273
+18 4 4 48206 20 24 21712
+19 3 3 4185 19 19 104837
+20 3 3 0 16 18 52228
+21 4 5 244241 24 29 104899
+22 3 3 0 17 19 21247
+23 12 12 71719 26 31 11226
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+ec 859 1110 8184838
+zz 42 42 0
+ca 10 10 72898
+us 8 8 90677
+de 8 8 0
+cn 3 3 94234
+ru 2 2 8370
+fr 1 1 36536
+gb 1 1 11699
+cl 1 1 4185
+nl 1 1 1179
+co 0 1 102207
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+AhrefsBot/ 208 71960 20200127151246 0
+Python\-urllib/ 62 184760 20200105005636 0
+bingbot/ 49 373933 20200131172058 0
+bot[\s_+:,\.\;\/\\-] 19 385325 20200131204047 0
+no_user_agent 14 148484 20200130221819 0
+Googlebot/ 1 26 20200109180818 1
+(firefox/)([0-9]\.|[0-1][0]\.) 1 4185 20200121200047 0
+curl 1 21212 20200122082722 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+woff2 5 219522 0 0
+woff 22 498734 0 0
+jpg 1 13016 0 0
+tiff 5 825 0 0
+json 1 201 0 0
+svg 14 24243 0 0
+Unknown 26 263995 0 0
+gif 4 3391 0 0
+png 99 1081707 0 0
+css 54 447594 0 0
+php 48 56553 0 0
+js 79 2090731 0 0
+html 826 3698342 0 0
+pdf 1 102207 0 0
+cgi 3 35546 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/document/CambiodeVehiculo.pdf 2 0 210824
+/document/ReformadeEstatutos.pdf 1 0 102207
+/document/ConcesiondeContrato.pdf 1 0 100714
+/mp3/track.mp3 0 1 70216
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+win8.1 1 1
+win7 1130 878
+win2000 1 1
+linux 1 1
+macosx11 3 3
+linuxandroid 1 1
+Unknown 46 46
+win10 4 3
+winlong 1 1
+macosx7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 19
+msie6.0 1 1
+firefox69.0 2 2
+firefox62.0 1 1
+chrome36.0.1985.125 2 2
+firefox45.0 1 1
+msie8.0 2 2
+chrome40.0.2214.85 8 8
+chrome13.0.782.112 1 1
+chrome79.0.3945.117 471 355
+chrome44.0.2403.133 1 1
+Unknown 43 43
+chrome79.0.3945.88 609 499
+chrome79.0.3945.130 31 4
+msie11.0 1 1
+firefox47.0 3 3
+firefox72.0 1 1
+chrome46.0.2490.80 1 1
+mozilla 3 3
+chrome42.0.2311.90 7 7
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200106201123
+python-requests/2.22.0 20200105005400
+WordPress/4.9.13;_https://epmc.gob.ec 20200113090534
+WordPress/4.9.13;_http://epmc.gob.ec 20200105005401
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WordPress/4.9.13;_http://epmc.gob.ec 20200105005401
+WordPress/4.9.13;_https://epmc.gob.ec 20200113090534
+python-requests/2.22.0 20200105005400
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 60 61
+From1 0 0
+From2 7 8
+From3 823 1049
+From4 46 71
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com_hk 7 7
+www_google_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 17
+https://webmail.epmc.gob.ec/cpsess8383802488/3rdparty/roundcube/ 426 451
+https://webmail.epmc.gob.ec/cpsess3760205938/3rdparty/roundcube/ 156 181
+https://webmail.epmc.gob.ec/cpsess3683575813/3rdparty/roundcube/ 85 105
+https://webmail.epmc.gob.ec/cpsess4102921844/3rdparty/roundcube/ 68 88
+https://webmail.epmc.gob.ec/cpsess4142297639/3rdparty/roundcube/ 39 59
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1570528627/webmail/paper_lantern/_assets/css/master-legacy-ltr.cmb.min.css 20 20
+https://webmail.epmc.gob.ec 20 111
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 6 6
+https://webmail.epmc.gob.ec/unprotected/loader.html 1 1
+https://webmail.epmc.gob.ec/unprotected/redirect.html 1 1
+http://webmail.epmc.gob.ec/wp-login.php 1 1
+https://webmail.epmc.gob.ec/cpsess8383802488/3rdparty/roundcube/skins/larry/mail.min.css 0 2
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1570528620/unprotected/cpanel/style_v2_optimized.css 0 12
+https://webmail.epmc.gob.ec/cpsess8383802488/3rdparty/roundcube/plugins/jqueryui/themes/larry/jquery-ui.css 0 1
+https://webmail.epmc.gob.ec/cpsess3760205938/3rdparty/roundcube/skins/larry/styles.min.css 0 1
+https://webmail.epmc.gob.ec/cpsess8383802488/3rdparty/roundcube/skins/larry/styles.min.css 0 8
+https://webmail.epmc.gob.ec/cpsess8383802488/3rdparty/roundcube/plugins/return_to_webmail/skins/larry/return_to_webmail.css 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+302 46 6915
+404 328 41136
+301 46 7347
+308 4 415
+401 11 332
+400 10 416
+405 1 42
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 215
+/index.php/contactos/ 2 -
+/index.php/2019/09/21/why-i-acquired-two-time-for-online-games-for-my/ 1 -
+/index.php/2018/07/22/options-for-rapid-secrets-for-filipino-brides/ 1 -
+/index.php/2019/06/16/the-secret-of-writing-an-effective-research-paper-no-one-is-discussing/ 1 -
+/index.php/2019/05/23/one-of-the-most-incredibly-disregarded-solutions-for-business-website-content/ 1 -
+/index.php/category/essay-writing/ 1 -
+/index.php/2019/07/10/test-post-3-2/ 1 -
+/index.php/transparencia/ 1 -
+/index.php/2019/06/02/what-everyone-is-saying-about-narrative-essay-for-sale-2/ 1 -
+//admin 2 -
+/index.php/2017/07/08/the-secret-of-shocking-news-that-nobody-is-discussing/feed/ 1 -
+/index.php/2019/09/22/that-is-martin-clunes-spouse-learn-all-you-need-to-14/ 1 -
+/index.php/2019/07/11/1722/ 1 -
+/index.php/2019/05/25/tutor-approaches-for-student-achievement/feed/ 1 -
+/index.php/2019/05/21/the-honest-to-goodness-truth-on-best-urgent-essay-writing-service/feed/ 1 -
+/index.php/2019/10/14/compra-marca-cialis-super-active-20-mg-bonus-di-trasporto-no-rx-pharmacy-canadian/ 1 -
+/index.php/2019/06/03/risky-unsecured-loans-lending-rules-32/ 1 -
+/index.php/2019/05/20/top-tips-that-is-useful-for-short-term-loan-5/feed/ 1 -
+/index.php/2019/05/20/what-does-grademiners-reviews-mean/ 1 -
+/index.php/2019/05/22/prime-notch-facts-of-posted-college-essays/ 1 -
+/index.php/2019/10/06/pillole-di-proscar-di-marca-a-buon-mercato-no-rx-online-pharmacy/ 1 -
+/index.php/2019/05/23/einfhrungstipps-zum-schreiben-eines-bewerbungsschreibens-2/feed/ 1 -
+/index.php/2019/09/21/dove-acquistare-pillole-di-marca-atarax-a-buon-mercato-consegna-in-tutto-il-mondo-1-3-giorni/ 1 -
+/index.php/2019/09/21/quebec-releases-long-awaited-cannabis-regulations-93/ 1 -
+/index.php/2017/08/ 1 -
+//administrator/index.php 1 -
+/index.php/2018/11/ 1 -
+/index.php/2019/09/22/coumadin-online-miglior-prezzo-la-migliore-qualita-e-prezzi-bassi/ 1 -
+/cpsess4142297639/3rdparty/roundcube/program/resources/blank.webp 2 https://webmail.epmc.gob.ec/cpsess4142297639/3rdparty/roundcube/
+/cpsess4102921844/3rdparty/roundcube/program/resources/blank.webp 2 https://webmail.epmc.gob.ec/cpsess4102921844/3rdparty/roundcube/
+/index.php/2019/06/20/vital-pieces-of-accounting-case-study-help-3/ 1 -
+/index.php/2019/09/15/hur-man-koper-xenical-billigt/ 1 -
+/index.php/2018/07/06/step-by-step-fast-methods-in-latin-brides-world/feed/ 1 -
+/index.php/2019/06/23/guide-to-creating-a-conversation-in-an-homework-6/ 1 -
+/index.php/2019/08/15/les-commandes-privees-et-securisees-ordonnance-en-ligne-hyzaar/ 1 -
+/index.php/2019/08/29/payer-par-amex-acheter-pharmacie-zithromax-250-mg-bordeaux-expedition-trackable/ 1 -
+/index.php/2019/05/22/what-you-can-do-about-generate-content-for-website-beginning-in-the-next-four-minutes/feed/ 1 -
+/index.php/2019/07/21/writing-a-report-outline-secrets/ 1 -
+/index.php/2017/07/ 1 -
+/index.php/2019/08/02/breathe-a-letter-to-your-applicants-inspite-of-7/ 1 -
+/index.php/2019/05/19/the-demise-of-paperhelp-org-review-4/ 1 -
+/index.php/2019/09/03/the-risk-of-gamble-on-mobile-that-nobody-is/ 1 -
+/index.php/2019/08/19/acheter-du-robaxin-en-ligne-sans-ordonnance-pharmacie-24h/ 1 -
+/.svn/wc.db 1 -
+/index.php/2019/09/18/top-learn-roaring-twenties-bingo-in-minutes-tips-2/ 1 -
+/index.php/2019/09/04/it-s-this-that-i-use-my-plane-or-bus-trip-for/ 1 -
+/index.php/2019/05/23/the-meaning-of-process-of-paraphrasing/feed/ 1 -
+/index.php/2019/08/15/economisez-temps-et-couts-alesse-0-75-mg-generique-pas-cher-acheter-livraison-gratuite-dans-le-monde/ 1 -
+/backup.tar.gz 1 -
+/index.php/category/quick-loan-near-me/feed/ 1 -
+/robots.txt 87 -
+/index.php/2019/10/09/the-lost-key-to-craps-online-casinos-advantages/ 1 -
+/index.php/2019/08/29/bonus-pill-avec-chaque-commande-ou-je-peux-acheter-du-finasteride-en-ligne/ 1 -
+/index.php/2019/05/20/what-pros-are-not-saying-about-how-to-write-a-study-paper-and-how-this-impacts-you/ 1 -
+/index.php/2019/07/15/how-to-become-a-mail-order-bride-review/ 1 -
+/index.php/2019/09/21/safest-online-pharmacy-for-hytrin/ 1 -
+/index.php/2019/05/23/einfhrungstipps-zum-schreiben-eines-bewerbungsschreibens/feed/ 1 -
+/index.php/2019/09/30/the-flop-will-tell-you-just-about-everything-no/ 1 -
+/index.php/2018/07/27/the-facts-on-no-fuss-secrets-for-my-top-brides/ 1 -
+/index.php/2019/07/13/the-importance-of-movie-star-carr-mesolithic-77/ 1 -
+/index.php/2019/07/31/120-exploratory-essay-topics-the-ultimate-guide-3/ 1 -
+/index.php/2019/09/30/the-flop-will-tell-you-just-about-everything-for/ 1 -
+/cpsess3760205938/3rdparty/roundcube/program/resources/blank.webp 2 https://webmail.epmc.gob.ec/cpsess3760205938/3rdparty/roundcube/
+/index.php/2019/07/15/how-to-become-a-mail-order-bride-review-2/ 1 -
+/index.php/2019/06/25/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-4/ 1 -
+/index.php/2019/05/page/3/ 1 -
+/index.php/2019/09/24/best-online-topamax-pharmacy-reviews/ 1 -
+/index.php/2019/09/18/discover-what-sexual-and-other-prejudices-is/ 1 -
+/wp-content/plugins/wp-time-capsule/readme.txt 1 -
+/index.php/2019/09/22/ordine-tadalafil/ 1 -
+/index.php/2018/07/08/deciding-upon-swift-plans-of-asian-women/feed/ 1 -
+//vendor/phpunit/phpunit/src/Util/PHP/king.php 1 -
+/index.php/2019/09/27/just-how-much-you-need-to-expect-you-ll-buy-a-good/ 1 -
+/about.html 1 -
+/wp-admin/plugin-install.php 2 -
+/index.php/2019/09/22/dove-posso-ordinare-cozaar-generico-24-7-farmacia/ 1 -
+/index.php/2019/06/20/the-key-to-successful-admissions-essay-help/ 1 -
+/index.php/2019/05/19/whats-actually-going-on-with-substrate-definition-biology-3/ 1 -
+/index.php/2019/05/24/the-marxism-vs-functionalism-essays-trap/ 1 -
+/index.php/2019/08/19/pilules-generiques-en-ligne-meilleurs-cialis-soft-acheter-pharmacie-24h/ 1 -
+/index.php/2019/05/23/best-cheap-professional-essay-writers-reviews-guide/feed/ 1 -
+/index.php/2019/07/20/union-pacific-corporation-outside-factors-7/ 1 -
+/index.php/2018/07/ 1 -
+/index.php/2019/05/22/prime-notch-facts-of-posted-college-essays/feed/ 1 -
+/index.php/2019/05/20/bonne-base-de-sociologie-sur-les-questions-de-recherche-expliques-2/feed/ 1 -
+/index.php/2019/05/27/why-everybody-is-mistaken-regarding-quantum-mechanics-for-dummies/feed/ 1 -
+/index.php/2018/08/ 1 -
+/index.php/2019/05/19/the-demise-of-paperhelp-org-review-3/feed/ 1 -
+/index.php/2019/05/28/who-else-is-lying-to-us-about-evolutionary-biology/ 1 -
+/cpsess3683575813/3rdparty/roundcube/program/resources/blank.webp 2 https://webmail.epmc.gob.ec/cpsess3683575813/3rdparty/roundcube/
+/index.php/2019/05/28/key-pieces-of-definition-of-quantum/feed/ 1 -
+/index.php/2019/09/24/cialis-super-active-20-mg-online-pharmacy-private-and-secure-orders/ 1 -
+/cpsess8383802488/3rdparty/roundcube/program/resources/blank.webp 4 https://webmail.epmc.gob.ec/cpsess8383802488/3rdparty/roundcube/
+/index.php/2017/06/ 3 -
+/index.php/inicio/ 2 -
+/index.php/2019/05/23/the-meaning-of-process-of-paraphrasing-2/feed/ 1 -
+/index.php/2019/10/04/btc-is-available-amoxil-cheap-no-prescription-express-delivery/ 1 -
+/index.php/2019/08/15/payer-par-amex-ou-commander-latanoprost-en-ligne-en-toute-securite-economisez-de-largent-avec-generics/ 1 -
+/wp-login.php 9 http://www.google.com.hk
+/index.php/2019/05/20/what-pros-are-not-saying-about-how-to-write-a-study-paper-and-how-this-impacts-you/feed/ 1 -
+/index.php/2019/05/29/valuable-techniques-for-term-papers-help-you-can-begin-to-use-immediately/ 1 -
+/index.php/2019/09/28/acquistare-pillole-di-vardenafil-online/ 1 -
+/services.html 4 -
+/index.php/2019/05/22/uso-de-cmo-producir-un-informe-mdico/feed/ 1 -
+/index.php/2019/09/24/approved-canadian-pharmacy-where-can-i-buy-zestoretic-in-canada-fast-worldwide-delivery/ 1 -
+/index.php/2017/08/03/the-dos-and-donts-of-dating-online/feed/ 1 -
+/index.php/blog/ 1 -
+/index.php/2019/09/18/why-everyone-is-dead-inappropriate-about-learn/ 1 -
+/index.php/2019/05/20/bonne-base-de-sociologie-sur-les-questions-de-recherche-expliques-2/ 1 -
+/index.php/2019/09/09/choosing-good-hobbies-3/ 1 -
+/index.php/2019/09/22/acquisto-online-di-pillole-di-linezolid/ 1 -
+/index.php/2019/09/15/helping-the-others-understand-some-great-benefits/ 1 -
+/index.php/2019/09/15/atarax-sverige-kop-online/ 1 -
+/index.php/2019/08/19/drugstore-pas-cher-vente-au-rabais-zetia-10-mg-soutien-a-la-clientele-24-7/ 1 -
+/index.php/2019/05/19/very-best-essay-freelance-writers-on-line-tips-that-nobody-is-mindful-of-6/ 1 -
+/index.php/feed/ 1 -
+/index.php/2019/05/28/key-pieces-of-definition-of-quantum-2/feed/ 1 -
+/index.php/2019/05/23/one-of-the-most-incredibly-disregarded-solutions-for-business-website-content/feed/ 1 -
+/index.php/2019/07/30/theory-multiple-choice-questions-options/ 1 -
+/index.php/2019/09/24/clomiphene-for-sale-online/ 1 -
+/index.php/2019/09/21/finasteride-pills-without-prescription-online/ 1 -
+/index.php/2019/09/21/how-to-play-whist-before-you-buy-what-to-know/ 1 -
+/index.php/2019/09/24/purchase-generic-zithromax-save-time-and-money-canadian-healthcare-online-pharmacy/ 1 -
+/index.php/2019/08/15/meds-a-bas-prix-bas-prix-glucophage-850-mg-generique-livraison-rapide/ 1 -
+/index.php/2019/05/28/one-of-the-most-overlooked-solutions-for-what-is-literature-review-in-research/ 1 -
+/index.php/2019/04/ 1 -
+/index.php/2019/05/page/2/ 1 -
+/index.php/2019/07/08/the-death-of-pay-for-term-papers-2/ 1 -
+/index.php/2019/08/15/drugstore-pas-cher-acheter-des-pilules-de-marque-terbinafine-en-ligne/ 1 -
+/index.php/2019/09/27/how-do-you-get-computer-games/ 1 -
+/index.php/author/aortega/page/4/ 1 -
+/index.php/2019/05/19/the-demise-of-paperhelp-org-review-4/feed/ 1 -
+/index.php/2019/05/27/getting-the-best-pop-culture-research-paper/ 1 -
+/index.php/category/uncategorized/page/3/ 1 -
+/index.php/2019/07/08/narrative-coursework-about-summer-season-vacation-22/ 1 -
+//vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/index.php/2019/09/19/little-known-factual-statements-about-gambling/ 2 -
+/index.php/2019/07/08/the-most-ignored-fact-regarding-obama-college-thesis-explained/ 1 -
+/index.php/2019/09/22/acquisto-generico-di-famciclovir/ 1 -
+/index.php/2019/08/29/ou-acheter-des-pilules-de-marque-lipitor-en-ligne-livraison-gratuite-bonus-pill-avec-chaque-commande/ 1 -
+/index.php/2019/10/14/miglior-prezzo-famvir-epmc-gob-ec/ 1 -
+/index.php/2019/07/27/atlanta-dating-guide-for-atlanta-singles-16/ 1 -
+/index.php/2019/07/11/1726/ 1 -
+/index.php/author/aortega/page/2/ 1 -
+/index.php/2019/09/22/dove-acquistare-fasigyn-a-buon-mercato-canadian-pharmacy-healthcare-online-epmc-gob-ec/ 1 -
+/index.php/2019/06/05/the-advantages-of-professional-cover-letter-writer/ 1 -
+/index.php/2019/08/02/an-idiot-s-guide-to-applying-to-college-295/ 1 -
+/index.php/2019/08/19/combien-tadalafil-generique-livraison-gratuite-pharmacie-approuve/ 1 -
+/index.php/2019/05/21/the-unusual-puzzle-into-how-to-write-a-suggestion-essay-paper/feed/ 1 -
+/index.php/2019/09/15/kop-prometrium-receptfritt-hela-varlden-leverans-3-7-dagar/ 1 -
+/index.php/2019/09/18/new-step-by-step-map-for-for-online-games/ 1 -
+/index.php/2018/07/31/news-on-no-fuss-home-dna-testing-kits-solutions/feed/ 1 -
+/index.php/2019/07/20/organizational-behaviour-a-management-challenge-8/ 1 -
+/index.php/2019/09/10/how-to-look-after-your-software-based-on-the/ 1 -
+/index.php/2019/09/24/buy-glyburide-and-metformin-online-canada-worldwide-shipping-1-3-days-epmc-gob-ec/ 1 -
+/index.php/2019/09/10/casino-operator-galaxy-countries-football-party-4/ 1 -
+/index.php/2019/05/21/the-debate-over-research-issues-in-nursing/feed/ 1 -
+/wp-content/plugins/iwp-client/readme.txt 1 -
+/xmlrpc.php 1 -
+/index.php/2019/08/15/xenical-60-mg-combien-pas-cher-livraison-express/ 1 -
+/ 1 -
+/index.php/2019/08/18/if-you-should-be-students-you-will-end-up-expected-2/ 1 -
+/index.php/2019/09/03/exactly-why-anyone-need-not-get-worried-pertaining/ 1 -
+/1.zip 1 -
+/index.php/2019/07/30/a-startling-fact-about-professional-essay-editing-service-uncovered/ 1 -
+/index.php/2018/07/27/the-facts-on-no-fuss-secrets-for-my-top-brides/feed/ 1 -
+/index.php/2019/06/06/new-step-by-step-roadmap-for-how-to-create-a-correspondence-3/ 2 -
+/index.php/2019/08/29/pas-de-pharmacie-rx-ordonnance-en-ligne-benicar-livraison-dans-le-monde-entier-3-7-jours/ 1 -
+/index.php/2019/05/21/the-unusual-puzzle-into-how-to-write-a-suggestion-essay-paper/ 1 -
+/index.php/2019/08/02/legitimate-ukrainian-dating-sites-78/ 1 -
+/index.php/2019/06/05/discrete-math-examples-secrets-that-no-one-else-knows-about/ 1 -
+/1.tar.gz 1 -
+/index.php/2019/05/27/quantum-uncertainty-reviews-amp-tips/feed/ 1 -
+/index.php/2019/10/14/tadalafil-con-prescrizione-online-consegna-in-tutto-il-mondo-3-7-giorni/ 1 -
+/index.php/2019/09/22/dove-acquistare-viagra-oral-jelly-senza-ricetta/ 1 -
+/index.php/2019/05/25/how-to-produce-a-release-for-an-essay/feed/ 1 -
+/index.php/2019/03/ 1 -
+/index.php/2019/09/15/step-by-step-notes-on-play-flash-games-in-step-by/ 1 -
+/database/print.css 1 -
+/index.php/2019/09/28/dove-acquistare-conjugated-estrogens-a-buon-mercato-epmc-gob-ec/ 1 -
+/index.php/2019/09/15/kopa-tenoretic-pa-natet/ 1 -
+/index.php/2019/09/24/where-i-can-order-aristocort-no-prescription-no-script-online-pharmacy-fast-worldwide-delivery/ 1 -
+/index.php/2019/05/20/bonne-base-de-sociologie-sur-les-questions-de-recherche-expliques/ 1 -
+/index.php/2019/09/27/the-number-one-article-on-chemistry-measurements-2/ 1 -
+/index.php/2019/05/19/whats-actually-going-on-with-substrate-definition-biology-2/ 1 -
+/index.php/2019/05/page/4/ 1 -
+/index.php/2019/05/19/whats-actually-going-on-with-substrate-definition-biology-4/feed/ 1 -
+/index.php/2019/05/20/top-tips-that-is-useful-for-short-term-loan-5/ 1 -
+/index.php/2019/05/20/what-does-grademiners-reviews-mean/feed/ 1 -
+/index.php/2019/09/28/comprare-la-farmacia-di-mestinon/ 1 -
+/index.php/2019/09/22/hidden-solutions-to-avid-gaming-revealed/ 1 -
+/index.php/2019/09/12/internet-casino-video-game-series/ 1 -
+/index.php/2019/09/22/ordine-online-carbamazepine-miglior-posto-per-acquistare-generics-spediamo-con-lo-sme-fedex-ups-e-altro/ 1 -
+/index.php/2019/09/22/the-battle-over-strategies-for-succeeding-in/ 1 -
+/index.php/2019/06/10/hello-world-3/ 1 -
+/index.php/2019/09/24/the-the-roulette-wheel-spun-by-the-croupier-and-2/ 1 -
+/index.php/2019/05/30/the-how-to-write-a-literature-evaluation-diaries/ 1 -
+/index.php/2019/09/22/miglior-prezzo-per-tindamax/ 1 -
+/index.php/2019/09/19/what-they-told-you-about-gambling-superstitions/ 2 -
+/index.php/2019/06/16/the-fight-against-apa-format-research-paper-example-4/ 1 -
+/backup.zip 1 -
+/index.php/2019/04/26/the-meaning-that-is-true-of-assist-for-composing-9/ 1 -
+/index.php/2019/05/19/very-best-essay-freelance-writers-on-line-tips-that-nobody-is-mindful-of-6/feed/ 1 -
+/index.php/2019/09/28/comprare-januvia-per-posta/ 1 -
+/index.php/2019/09/22/farmacia-approvato-comprare-online-generico-proscar-consegna-in-tutto-il-mondo-1-3-giorni/ 1 -
+/index.php/2019/05/21/the-honest-to-goodness-truth-on-best-urgent-essay-writing-service/ 1 -
+/index.php/2019/09/24/best-place-to-buy-generic-cipro-online/ 1 -
+/index.php/2019/07/12/hello-world-6/ 1 -
+/index.php/2019/10/14/dove-comprare-deltasone-in-veneto-esteri-online-pharmacy-epmc-gob-ec/ 1 -
+/index.php/2019/08/18/academic-writing-a-scientific-analysis-article/ 1 -
+/index.php/2019/08/18/how-exactly-to-write-a-good-essay-on-any-topic-2/ 1 -
+/index.php/2019/06/09/die-beliebteste-hausarbeit-writgre/ 1 -
+/index.php/2019/05/28/key-pieces-of-definition-of-quantum-3/ 1 -
+/index.php/2019/05/25/tutor-approaches-for-student-achievement/ 1 -
+/index.php/2019/09/04/why-you-should-be-careful-buying-that-free-premium/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+181.211.103.246 859 1110 7940597 20200127121647
+10.252.221.1 42 42 0 20200113090534
+192.99.15.15 9 9 71719 20200117234417
+138.246.253.5 8 8 0 20200120081624
+60.191.38.77 3 3 94234 20200127132919
+104.223.170.239 2 2 5960 20200106004556
+167.99.174.170 2 2 0 20200110033635
+213.159.213.137 1 1 4185 20200118194104
+51.75.250.10 1 1 11699 20200101120825
+181.214.97.210 1 1 4185 20200129145419
+46.101.142.97 1 1 1179 20200105005400
+37.59.56.107 1 1 36536 20200103110043
+167.71.85.86 1 1 36523 20200106180316
+64.71.197.49 1 1 11683 20200129183728
+82.202.161.133 1 1 4185 20200115000428
+104.248.2.154 1 1 0 20200106201123
+167.71.241.216 1 1 36511 20200106172355
+47.240.75.197 1 1 1179 20200112022215
+181.211.245.193 0 1 244241 
+186.82.226.82 0 1 102207 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20200101 2 2 11699 2
+20200102 51 93 979527 3
+20200103 2 2 36536 2
+20200104 5 5 0 4
+20200105 8 8 1179 6
+20200106 8 8 78994 7
+20200107 5 5 12504 4
+20200108 11 11 25006 8
+20200109 448 516 2479067 4
+20200110 183 237 2406508 8
+20200111 4 4 0 3
+20200112 3 3 1179 3
+20200113 4 4 25006 4
+20200114 98 140 778797 2
+20200115 4 4 41693 3
+20200116 75 95 318599 3
+20200117 12 12 96725 3
+20200118 3 3 4185 3
+20200120 2 2 12503 2
+20200125 0 1 102207 0
+20200127 6 30 1005016 3
+20200129 2 3 260109 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+2mn-5mn 1
+30mn-1h 8
+1h+ 4
+0s-30s 65
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 45
+/cpsess8383802488/3rdparty/roundcube/ 420 1489807 0 1
+/cpsess3760205938/3rdparty/roundcube/ 149 1426125 0 0
+/cpsess3683575813/3rdparty/roundcube/ 82 51575 0 0
+/cpsess4102921844/3rdparty/roundcube/ 66 42925 0 1
+/wp-cron.php 42 0 34 34
+/ 36 350299 23 19
+/cpsess4142297639/3rdparty/roundcube/ 35 276303 0 0
+/webmail 21 262563 16 15
+/cpsess8383802488/3rdparty/roundcube/skins/larry/watermark.html 11 2134 0 0
+/cpsess3760205938/3rdparty/roundcube/skins/larry/watermark.html 6 1164 0 0
+/login/ 5 728 0 0
+/wp-login.php 5 55374 4 4
+/cPanel_magic_revision_1386192033/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 4 90232 0 0
+/cPanel_magic_revision_1392312282/webmail/paper_lantern/libraries/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 4 92528 0 0
+/cPanel_magic_revision_1386192033/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Semibold-webfont.woff 4 91268 0 0
+/cPanel_magic_revision_1517872139/webmail/paper_lantern/libraries/fontawesome/web-fonts-with-css/webfonts/fa-solid-900.woff2 4 155056 0 0
+/cPanel_magic_revision_1386192031/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 4 89304 0 0
+/webmaillogout.cgi 3 35546 0 2
+/cpsess4142297639/3rdparty/roundcube/skins/larry/watermark.html 3 582 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 2 44652 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 2 45634 0 0
+/index.php/2019/10/14/dove-comprare-deltasone-in-veneto-esteri-online-pharmacy-epmc-gob-ec/ 2 0 1 1
+/cpsess4102921844/3rdparty/roundcube/skins/larry/watermark.html 2 388 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 2 45116 0 0
+/cpsess3683575813/3rdparty/roundcube/skins/larry/watermark.html 2 388 0 0
+/cpsess3683575813/execute/Email/list_pops_with_disk 1 282 0 0
+/cpsess4142297639/webmail/paper_lantern/ 1 11024 0 0
+/cpsess3760205938/webmail/paper_lantern/ 1 10878 0 0
+/fonts/fontawesome-webfont.woff2 1 64466 0 0
+/cpsess3683575813/webmail/paper_lantern/ 1 10871 0 0
+/cpsess3683575813/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+/cpsess3760205938/execute/Email/list_pops_with_disk 1 287 0 0
+/cpsess4102921844/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+/cpsess4102921844/execute/Email/list_pops_with_disk 1 288 0 0
+//wp-login.php 1 1179 1 1
+/cpsess8383802488/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+/cpsess4142297639/execute/Email/list_pops_with_disk 1 287 0 0
+/unprotected/loader.html 1 905 0 0
+/cpsess8383802488/webmail/paper_lantern/ 1 10861 0 0
+/cpsess4102921844/webmail/paper_lantern/ 1 10872 0 0
+/unprotected/redirect.html 1 513 0 0
+/cpsess4142297639/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+/manifest.json 1 201 0 1
+/cpsess8383802488/execute/Email/list_pops_with_disk 1 288 0 0
+/cpsess3760205938/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+END_SIDER

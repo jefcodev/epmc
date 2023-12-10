@@ -1,0 +1,106 @@
+Return-Path: <sistemas@agenciatransporte.gob.ec>
+Delivered-To: vmadrid@epmc.gob.ec
+Received: from gye.ecuahosting.net
+	by gye.ecuahosting.net with LMTP id yIA6CR5nElxKayYAopOgJA
+	for <vmadrid@epmc.gob.ec>; Thu, 13 Dec 2018 09:05:18 -0500
+Return-path: <sistemas@agenciatransporte.gob.ec>
+Envelope-to: vmadrid@epmc.gob.ec
+Delivery-date: Thu, 13 Dec 2018 09:05:18 -0500
+Received: from mail.ant.gob.ec ([181.112.154.189]:13078)
+	by gye.ecuahosting.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <sistemas@agenciatransporte.gob.ec>)
+	id 1gXRbv-00AYqC-T3
+	for vmadrid@epmc.gob.ec; Thu, 13 Dec 2018 09:05:18 -0500
+Received: from srvmta.ant.int ([172.17.0.4])
+	by mail.ant.gob.ec  with ESMTP id wBDE4QYp025095-wBDE4QYr025095
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO)
+	for <vmadrid@epmc.gob.ec>; Thu, 13 Dec 2018 09:04:26 -0500
+Received: from mxhero.ant.gob.ec (unknown [172.17.0.34])
+	by srvmta.ant.int (Postfix) with ESMTP id 91941500911
+	for <vmadrid@epmc.gob.ec>; Thu, 13 Dec 2018 09:04:26 -0500 (ECT)
+Received: from mxhero.ant.gob.ec (localhost [127.0.0.1])
+	by mxhero.ant.gob.ec (Postfix) with ESMTP id 195F82208AB
+	for <vmadrid@epmc.gob.ec>; Thu, 13 Dec 2018 13:06:18 +0000 (UTC)
+Received: from srvmta.ant.int (mail.agenciatransporte.gob.ec [172.17.0.4])
+	by mxhero.ant.gob.ec (Postfix) with ESMTPS
+	for <vmadrid@epmc.gob.ec>; Thu, 13 Dec 2018 13:06:18 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by srvmta.ant.int (Postfix) with ESMTP id 81CAC500907
+	for <vmadrid@epmc.gob.ec>; Thu, 13 Dec 2018 09:04:26 -0500 (ECT)
+Received: from srvmta.ant.int ([127.0.0.1])
+	by localhost (srvmta.ant.int [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id LuTKDBuD17Uj; Thu, 13 Dec 2018 09:04:26 -0500 (ECT)
+Received: from localhost (localhost [127.0.0.1])
+	by srvmta.ant.int (Postfix) with ESMTP id 301F350088F;
+	Thu, 13 Dec 2018 09:04:26 -0500 (ECT)
+DKIM-Filter: OpenDKIM Filter v2.9.2 srvmta.ant.int 301F350088F
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=agenciatransporte.gob.ec; s=F5649936-9B2D-11E8-B7F8-69F9D9BD0AB3;
+	t=1544709866; bh=csc9DmUAuoXaZN8mk3oDMgGM5PgFUzKK33Crt99hrtM=;
+	h=Message-ID:Date:From:To:Subject:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=tAtqxfEOLG4W5dOuTDHWetcFQYyRTCEeWL0ksbSIKuvJCH0Vz6LHZ1v6a3YT3okAA
+	 FweYDLJtsOimLDSjLZmYzuLwwLxQB/mJAwRZo4s8mvWICqioJCts2k2hUmT/60ZLXI
+	 ZM1IlIZqY9plo9gRDwL74YykTpRdn9yKcus4GaEw=
+X-Virus-Scanned: amavisd-new at srvmta.ant.int
+Received: from srvmta.ant.int ([127.0.0.1])
+	by localhost (srvmta.ant.int [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id wVfUNQSTl_4Q; Thu, 13 Dec 2018 09:04:26 -0500 (ECT)
+Received: from localhost (unknown [172.17.0.130])
+	by srvmta.ant.int (Postfix) with ESMTP id 0A8AE500862;
+	Thu, 13 Dec 2018 09:04:26 -0500 (ECT)
+Message-ID: <-392865174.1544709866204.JavaMail.javamailuser@localhost>
+Date: Thu, 13 Dec 2018 09:04:26 -0500 (ECT)
+From: sistemas@agenciatransporte.gob.ec
+To: vmadrid@epmc.gob.ec
+Subject: (ANT) El usuario VMADRID acaba de cambiar la clave en Axis 4.0 
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+X-Mailer: Axis 4.00.00
+x-mxHero-Origin-Ip: /127.0.0.1:49416
+Sender: sistemas@agenciatransporte.gob.ec
+X-Spam-Status: No, score=3.8
+X-Spam-Score: 38
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "gye.ecuahosting.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Si no ha modificado su clave reportar al administrador del
+    sistema. Nota: En caso de olvidar su clave reportar al administrador del
+   sistema. Cualquier inquietud contactanos al (02) (3828890) en el horario de
+    lunes a viernes de 08h00 a 16h30 o envie un correo a soporte@ant.gob.ec,
+   proximamente chat en linea. 
+ 
+ Content analysis details:   (3.8 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: agenciatransporte.gob.ec]
+  0.0 T_SPF_TEMPERROR        SPF: test of record failed (temperror)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.8 HTML_IMAGE_ONLY_08     BODY: HTML: images with 400-800 bytes of
+                             words
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML
+                             tag
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+<p><b>Si no ha modificado su clave reportar al administrador del sistema.</b> <br> <b>Nota:</b> En caso de olvidar su clave reportar al administrador del sistema.<br><br><br><br><font size="1" ><table  style="width:900px" ><tr><td><img height="68" width="196" src="http://www.ant.gob.ec/images/logo/logo-ant.png"/></td><td>Cualquier inquietud contactanos al  (02) (3828890) en el horario de lunes a viernes de 08h00 a 16h30 o envie un correo a soporte@ant.gob.ec, proximamente chat en linea.<br><br>PD: No responda o imprima este correo electronico.</td></tr></table></font></p>

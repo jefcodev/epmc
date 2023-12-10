@@ -1,0 +1,364 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201905 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2677                
+POS_VISITOR 8111                
+POS_DAY 9228                
+POS_DOMAIN 3396                
+POS_LOGIN 3780                
+POS_ROBOT 3935                
+POS_WORMS 4325                
+POS_EMAILSENDER 4456                
+POS_EMAILRECEIVER 4599                
+POS_SESSION 9698                
+POS_SIDER 9881                
+POS_FILETYPES 4734                
+POS_DOWNLOADS 4886                
+POS_OS 5262                
+POS_BROWSER 5400                
+POS_SCREENSIZE 5773                
+POS_UNKNOWNREFERER 5847                
+POS_UNKNOWNREFERERBROWSER 6110                
+POS_ORIGIN 6456                
+POS_SEREFERRALS 6592                
+POS_PAGEREFS 6758                
+POS_SEARCHWORDS 6937                
+POS_KEYWORDS 7089                
+POS_MISC 2341                
+POS_ERRORS 7148                
+POS_CLUSTER 3636                
+POS_SIDER_404 7307                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190601001253 50 10180 15178154011839
+FirstTime 0
+LastTime 20190531235637
+LastUpdate 20190601073003 50 0 49 0 0
+TotalVisits 58                  
+TotalUnique 27                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 27                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 7 2017 24 32 120714
+1 4 4 15194 20 27 147902
+2 1 1 25494 8 14 42949
+3 0 0 0 37 48 68972
+4 4 4 59706 21 32 130322
+5 2 2 36523 17 27 101160
+6 1 1 5072 17 23 179809
+7 3 3 0 27 40 122522
+8 2 2 12887 20 31 214674
+9 3 3 6496 37 52 595596
+10 4 4 20222 18 19 193492
+11 1 1 5072 25 28 32373
+12 1 1 0 17 20 29035
+13 6 6 36523 25 27 252330
+14 2 2 5072 23 32 144011
+15 4 4 41595 27 33 254899
+16 5 5 12897 31 33 207440
+17 1 1 7972 13 16 220625
+18 3 3 0 23 31 89171
+19 4 4 15152 20 21 151727
+20 52 52 580905 30 42 189981
+21 54 54 662705 22 24 55746
+22 13 13 260353 27 31 91159
+23 3 3 1424 41 63 408001
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+fr 100 100 1161766
+zz 29 29 0
+us 11 11 96773
+ru 10 10 194038
+ua 8 8 178511
+tw 5 5 2017
+cn 4 4 114651
+gb 4 4 30344
+de 3 3 0
+ec 2 2 2418
+it 2 2 23366
+pl 1 1 7973
+hk 1 1 1424
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bingbot/ 221 2529834 20190531235722 2
+AhrefsBot/ 125 692599 20190531235635 0
+no_user_agent 13 152725 20190531160225 0
+Googlebot/ 11 15664 20190514172800 0
+(firefox/)([0-9]\.|[0-1][0]\.) 5 162019 20190530003835 0
+bot[\s_+:,\.\;\/\\-] 3 91635 20190527230747 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+php 36 2017 0 0
+xml 2 2418 0 0
+html 132 1752156 0 0
+cgi 8 33280 0 0
+Unknown 2 23410 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 8
+/document/CambiodeVehiculo.pdf 2 0 210824
+/document/CambiodeSocio.pdf 1 0 174032
+/document/Deshabilitacion.pdf 1 0 101285
+/document/REQUISSITOS2017.pdf 1 0 427374
+/document/ConcesiondeContrato.pdf 1 0 100714
+/document/pac.pdf 1 0 60185
+/document/Habilitaciondevehiculo.pdf 1 0 104989
+/document/ReformadeEstatutos.pdf 1 0 102207
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win7 126 126
+macosx11 4 4
+win10 7 7
+macosx10 2 2
+Unknown 39 39
+winxp 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 16
+firefox45.0 2 2
+opera55.0.2994.44 3 3
+chrome42.0.2311.90 2 2
+chrome68.0.3440.84 3 3
+msie7.0 98 98
+chrome40.0.2214.85 3 3
+msie6.0 2 2
+Unknown 41 41
+chrome34.0.1847.131 1 1
+chrome64.0.3282.186 1 1
+firefox21.0 10 10
+chrome67.0.3396.79 3 3
+opera54.0.2952.64 3 3
+chrome52.0.2743.116 2 2
+chrome63.0.3239.132 2 2
+firefox47.0 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+WordPress/4.9.10;_http://epmc.gob.ec 20190524010131
+python-requests/2.20.1 20190530003842
+Dispatch/1.0.0-M1 20190527025533
+WordPress/4.9.10;_https://epmc.gob.ec 20190531235637
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+WordPress/4.9.10;_https://epmc.gob.ec 20190531235637
+Dispatch/1.0.0-M1 20190527025533
+Microsoft_Office/14.0_(Windows_NT_6.1;_Microsoft_Outlook_14.0.4760;_Pro) 20190529080649
+python-requests/2.20.1 20190530003842
+WordPress/4.9.10;_http://epmc.gob.ec 20190524010131
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 131 131
+From1 0 0
+From2 2 2
+From3 2 2
+From4 45 45
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com_hk 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://webmail.epmc.gob.ec 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+302 250 55976
+404 65 30722
+400 12 572
+403 2 20178
+401 20 292566
+301 17 0
+405 2 120
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 11
+/index.php/2019/04/25/50-creative-writing-matters-for-youths/ 1 -
+//webconfig.txt.php 1 http://www.google.com.hk
+/index.php/2019/04/24/what-to-expect-from-custom-essay-help/ 1 -
+/ 2 -
+//wp-admin/admin-post.php 1 http://www.google.com.hk
+/index.php/2019/04/25/the-new-angle-on-book-report-ideas-just-released/ 2 -
+/robots.txt 45 -
+/index.php/2019/04/28/50-creative-writing-matters-for-youths/ 3 -
+/.well-known/assetlinks.json 5 -
+/portfolio.html 1 -
+/xmlrpc.php 3 https://epmc.gob.ec/xmlrpc.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 27
+62.210.201.91 49 49 580861 20190525215251
+62.210.202.81 49 49 580905 20190521203933
+10.252.221.1 29 29 0 20190531235637
+37.115.211.162 8 8 178511 20190526224730
+5.188.211.114 6 6 163686 20190526222430
+103.229.126.169 5 5 2017 20190530003842
+185.48.57.142 4 4 30344 20190531010757
+60.191.38.77 4 4 114651 20190522130347
+138.246.253.5 3 3 0 20190523161010
+46.105.99.212 2 2 0 20190517182919
+181.211.103.246 2 2 2418 20190529080649
+5.188.211.100 2 2 15200 20190529040813
+193.70.34.209 2 2 23366 20190525082035
+46.161.14.130 2 2 15152 20190525190257
+23.245.224.11 1 1 5072 20190513065148
+212.180.208.122 1 1 7973 20190527045951
+199.233.238.131 1 1 5072 20190501155601
+199.233.238.222 1 1 5072 20190508091651
+162.252.20.111 1 1 1424 20190502093747
+67.215.248.140 1 1 25494 20190527025533
+144.168.162.250 1 1 36523 20190525151641
+72.11.138.143 1 1 5072 20190501115646
+54.153.11.73 1 1 0 20190522135853
+52.90.23.145 1 1 0 20190523161931
+162.252.20.193 1 1 7972 20190517174421
+45.116.79.63 1 1 1424 20190506231656
+23.250.16.161 1 1 5072 20190507101820
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20190501 2 2 10144 2
+20190502 1 1 1424 1
+20190506 1 1 1424 1
+20190507 1 1 5072 1
+20190508 1 1 5072 1
+20190513 2 2 10144 2
+20190516 4 4 73056 4
+20190517 4 4 9181 3
+20190518 3 3 0 3
+20190519 2 2 11688 2
+20190521 49 49 580905 1
+20190522 5 5 36523 5
+20190523 5 5 0 5
+20190524 2 2 0 2
+20190525 60 60 644214 8
+20190526 17 17 357347 4
+20190527 2 2 33467 2
+20190529 3 3 16409 2
+20190530 5 5 2017 1
+20190531 11 11 15194 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30mn-1h 5
+2mn-5mn 1
+1h+ 1
+0s-30s 50
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+// 78 925085 0 1
+/ 35 430570 15 18
+/wp-cron.php 29 0 24 24
+/index.php/2019/05/25/tutor-approaches-for-student-achievement/ 10 197725 0 2
+/cgi-sys/suspendedpage.cgi 8 33280 8 8
+/index.php/blog/ 8 173282 6 0
+/xmlrpc.php 4 884 0 1
+//wp-admin/admin-post.php 2 0 1 1
+//javascript:void(0) 2 23410 0 0
+/autodiscover/autodiscover.xml 2 2418 2 2
+/wp-login.php 1 1133 1 0
+/index.php/2019/03/30/very-good-study-paper-matter-choose-just-one-with-us/ 1 25494 1 1
+END_SIDER

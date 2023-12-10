@@ -1,0 +1,2676 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202001 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2007                
+POS_TIME 2691                
+POS_VISITOR 65955               
+POS_DAY 110675              
+POS_DOMAIN 3661                
+POS_LOGIN 4919                
+POS_ROBOT 5074                
+POS_WORMS 6177                
+POS_EMAILSENDER 6308                
+POS_EMAILRECEIVER 6451                
+POS_SESSION 111609              
+POS_SIDER 111823              
+POS_FILETYPES 6586                
+POS_DOWNLOADS 6967                
+POS_OS 7679                
+POS_BROWSER 8079                
+POS_SCREENSIZE 12171               
+POS_UNKNOWNREFERER 12245               
+POS_UNKNOWNREFERERBROWSER 14088               
+POS_ORIGIN 15757               
+POS_SEREFERRALS 15906               
+POS_PAGEREFS 16239               
+POS_SEARCHWORDS 16559               
+POS_KEYWORDS 16711               
+POS_MISC 2353                
+POS_ERRORS 16770               
+POS_CLUSTER 4775                
+POS_SIDER_404 16910               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200201002215 325 70467 11437934487896
+FirstTime 20200101012124
+LastTime 20200131145522
+LastUpdate 20200201072831 325 0 324 0 0
+TotalVisits 1930                
+TotalUnique 1090                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1174                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 134 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 453 462 583592 162 192 1063214
+1 421 424 614570 161 214 2176224
+2 347 389 2619089 116 169 2466082
+3 1190 1250 3796844 223 261 725957
+4 250 373 4569941 171 203 1667297
+5 327 344 471216 104 137 1557824
+6 285 436 5970416 154 184 545973
+7 584 1023 18466038 99 142 1984432
+8 231 919 28543639 100 154 1028898
+9 240 844 27983698 135 188 1677145
+10 208 742 27144882 179 272 578050
+11 1033 1721 30634893 135 228 1327325
+12 483 1185 27630443 141 211 4979464
+13 331 857 21633405 114 154 1573947
+14 962 1554 23928014 165 191 391954
+15 234 892 27578871 235 278 812835
+16 173 515 15297517 212 261 730279
+17 335 697 16099459 282 314 1453136
+18 104 279 8358561 248 294 1040994
+19 3500 3752 12107794 165 207 2223382
+20 3807 4126 15624301 171 206 583002
+21 217 583 15521983 266 305 1354420
+22 155 353 8708981 200 228 891694
+23 149 278 5042538 125 163 2245155
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 72
+et 7153 7153 2952493
+ua 2731 2731 1191127
+us 1572 3408 68387311
+nl 1191 1191 623159
+ec 654 6154 221741225
+fr 387 388 883153
+ca 309 462 6176598
+zz 280 292 14625
+gb 269 272 436377
+ru 207 207 1078014
+de 127 127 269663
+vn 97 97 90154
+au 75 75 73372
+at 74 74 314281
+in 60 64 524580
+gr 58 58 54288
+la 56 56 62874
+cn 50 77 1554388
+it 47 47 45793
+eu 37 37 36579
+md 37 37 57098
+id 37 38 137011
+kr 33 33 32446
+ch 33 33 138141
+jp 31 109 2868202
+mk 3 3 2951
+pl 14 39 851614
+my 28 28 28297
+es 6 6 5899
+cy 1 1 0
+am 9 9 8850
+bg 17 17 14749
+kz 3 6 331383
+nz 14 173 6536367
+dk 28 28 27732
+me 9 9 8847
+al 1 1 0
+ar 15 135 4595416
+se 26 26 117399
+ph 7 7 5538
+hk 16 16 14740
+za 10 10 0
+ma 11 38 1003836
+br 13 13 8850
+np 3 3 2954
+cz 7 7 10087
+ke 4 4 4491
+rs 3 3 2951
+pt 6 6 5902
+ee 2 3 131673
+hu 23 23 123757
+lt 3 3 2951
+pa 25 25 117205
+tw 9 9 8847
+th 5 5 2948
+sg 3 3 2948
+si 6 6 5899
+be 2 2 0
+ro 16 16 58845
+kh 1 2 110461
+bz 3 3 0
+cl 14 41 1123858
+mu 3 3 2951
+tr 6 6 5902
+ba 3 3 2948
+sc 8 9 114646
+pk 5 5 0
+tn 3 3 2951
+il 1 1 0
+bd 3 3 2948
+ir 12 12 11795
+pe 4 4 2951
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 26
+AhrefsBot/ 389 1167133 20200125212731 0
+Googlebot/ 356 3475544 20200131220846 0
+bingbot/ 173 14050681 20200131222900 0
+no_user_agent 120 452614 20200126040054 0
+Googlebot\-Image/ 72 1454742 20200121054027 0
+DotBot/ 68 5033840 20200131174523 0
+SemrushBot/ 23 33921 20200125062657 0
+bingpreview 20 948855 20200131021945 0
+msnbot/ 18 488468 20200121015009 0
+bot[\s_+:,\.\;\/\\-] 16 148072 20200128054345 0
+facebookexternalhit/ 14 4537861 20200127084556 0
+YandexBot/ 12 439972 20200126224106 0
+link 7 728296 20200104212825 0
+Apache\-HttpClient/ 5 20925 20200131185135 0
+(firefox/)([0-9]\.|[0-1][0]\.) 5 17155 20200128005702 0
+crawl 5 25397 20200131090117 0
+BLEXBot/ 4 8370 20200120083226 0
+Wget/ 4 530906 20200122082726 0
+blog 3 0 20200107055823 0
+Dalvik/ 3 455929 20200128210201 0
+nutch 1 0 20200103063233 0
+CCBot/ 1 4185 20200123092139 0
+MegaIndex\.ru/ 1 0 20200109060954 0
+MJ12bot/ 1 4185 20200124145932 0
+SafeDNSBot 1 4185 20200123082520 0
+curl 1 21212 20200122082721 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 16
+woff 70 4547809 0 0
+php 14539 7974024 0 0
+png 4024 172860622 0 0
+woff2 266 15923008 0 0
+mp3 1 16785780 0 0
+Unknown 31 387547 0 0
+html 1105 4710581 0 0
+txt 15 1163 0 0
+pdf 141 17972927 0 0
+gif 20 37404 0 0
+css 1493 13340213 0 0
+jpg 579 52013466 0 0
+js 1706 11498237 0 0
+json 5 1005 0 0
+ttf 1 65581 0 0
+xml 2 2090 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 14
+/document/CambiodeSocioVehiculo.pdf 53 0 5678020
+/document/CambiodeSocio.pdf 22 0 3853530
+/document/CambiodeVehiculo.pdf 16 0 1707686
+/.well-known/pki-validation/DAADE3C36B1AB3502DF66107E3CF63E1.txt 14 0 1099
+/document/ReformadeEstatutos.pdf 14 0 1441598
+/document/Habilitaciondevehiculo.pdf 13 0 1385471
+/document/ConcesiondeContrato.pdf 11 0 1127908
+/document/REQUISSITOS2017.pdf 10 0 4305688
+/document/Constituci%C3%B3nJuridica.pdf 10 0 997056
+/document/ConcesiondePermiso.pdf 9 0 936524
+/document/pac.pdf 8 0 497236
+/document/Deshabilitacion.pdf 8 0 820508
+/mp3/track.mp3 1 372 23832612
+/.well-known/pki-validation/BE29A2049361916E35C5D8461ACA5768.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 24
+winnt 6 6
+winvista 7 7
+ios_iphone 598 49
+bsdnetbsd 1 1
+macosx10 9 9
+macosx9 24 24
+macosx12 26 2
+win7 3591 1650
+macosx 56 7
+macosx8 25 25
+win8.1 493 73
+win2000 3 3
+winlong 60 19
+win2003 6 6
+unix 13 13
+linux 2995 2890
+win8 291 91
+macosx7 3 3
+macosx6 2 2
+win10 12409 10344
+winxp 109 63
+macosx11 4 3
+Unknown 443 424
+linuxandroid 3196 305
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 188
+chrome31.0.1650.57 2 2
+chrome27.0.1453.116 12 12
+firefox68.4.1 1 0
+firefox27.0 1 1
+chrome68.0.3440.84 1 1
+firefox56.0 5 5
+chrome29.0.1547.62 12 12
+firefox59.0 2 2
+chrome36.0.1985.125 3 3
+chrome28.0.1468.0 6 6
+chrome54.0.2840.59 2 1
+chrome78.0.3904.70 28 2
+chrome52.0.2743.116 2 2
+msie6.0 10 10
+chrome24.0.1312.60 4 4
+firefox68.0 122 22
+msie7.0 1 0
+chrome32.0.1664.3 23 23
+firefox28.0 7 7
+opera53.0.2907.37 3 3
+chrome24.0.1292.0 1 1
+msie8.0 28 23
+opera65.0.3467.78 1 1
+chrome32.0.1667.0 13 13
+chrome29.0.1547.2 3 3
+chrome64.0.3282.186 4 2
+chrome41.0.2272.118 28 7
+firefox52.0 5 5
+chrome67.0.3396.87 44 14
+safari8.0 1 1
+firefox45.9 6 5
+chrome78.0.3904.97 7928 7928
+chrome33.0.1750.517 8 8
+chrome37.0.2049.0 15 15
+chrome41.0.2225.0 14 14
+firefox27.3 6 6
+chrome24.0.1295.0 1 1
+firefox56.03652 2 2
+chrome36.0.1985.67 18 18
+firefox68.4.2 2 0
+chrome27.0.1500.55 2 2
+chrome41.0.2227.0 25 25
+chrome65.0.3325.162 2 2
+chrome58.0.3029.110 3 3
+chrome77.0.3865.92 58 4
+chrome79.0.3945.88 424 74
+opera52.0.2871.64 9 9
+chrome65.0.3312.0 26 2
+chrome66.0.3343.4 3 3
+chrome41.0.2227.1 2 2
+firefox31.0 1 1
+firefox64.0 32 4
+firefox4 2 2
+chrome77.0.3865.75 28 2
+chrome71.0.3578.98 7 7
+firefox53.0 5 4
+firefox17.0.6 6 6
+netscape5.0 11 10
+firefox60.9 3 3
+opera54.0.2952.71 1 1
+chrome66.0.3359.181 14 12
+chrome35.0.3319.102 1 1
+chrome43.0.2357.81 1 1
+firefox47.0 1 1
+chrome55.0.2883.91 66 7
+chrome60.0.3112.113 4 4
+chrome77.0.3824.6 4 4
+chrome31.0.1623.0 2 2
+chrome42.0.2311.90 7 7
+msie11.0 10 8
+opera49.0.2711.0 10 10
+safari 187 13
+chrome49.0.2623.112 47 6
+chrome44.0.2403.155 2 2
+chrome66.0.3359.117 9 8
+firefox70.0 358 47
+safari11.0 145 11
+firefox52.9 2 2
+chrome67.0.3396.62 3 3
+chrome59.0.3071.115 1131 1131
+chrome70.0.3538.77 1 1
+chrome40.0.2214.93 1 1
+firefox24.0 7 7
+chrome31.0.1650.16 4 4
+opera53.0.2907.68 6 6
+mozilla 7 6
+chrome79.0.3945.93 185 34
+chrome74.0.3729.157 11 2
+chrome46.0.2490.80 3 3
+opera53.0.2907.99 42 22
+chrome76.0.3809.89 29 2
+chrome58.0.1145.75 1 1
+chrome38.0.1025.166 131 10
+chrome41.0.2224.3 3 3
+chrome69.0.3497.91 28 2
+firefox48.0 6 6
+firefox45.0 64 64
+firefox69.0 90 13
+opera41.9.4315.9043 4 4
+iphone 29 2
+safari5.0.3 2 2
+firefox22.0 2 2
+firefox50.0 10 10
+chrome67.0.3396.79 8 7
+chrome41.0.2226.0 4 4
+safari13.0.2 28 5
+chrome76.0.3809.132 87 87
+firefox21.0 6 6
+firefox58.0 28 2
+chrome26.0.1410.65 1 1
+chrome74.0.3729.112 29 2
+chrome79.0.3945.130 1442 111
+chrome65.0.3325.181 76 16
+chrome59.0.3071.125 26 2
+firefox66.0 4 1
+chrome28.0.1464.0 1 1
+chrome34.0.1866.237 2 2
+chrome30.0.1599.101 2 1
+chrome78.0.3904.108 2174 1965
+chrome72.0.3626.121 30 2
+chrome50.0.2661.75 3 3
+chrome79.0.3945.117 1085 101
+chrome77.0.3865.120 26 3
+safari12.1.1 28 2
+chrome70.0.3538.110 18 1
+chrome41.0.2228.0 2 2
+chrome79.0.3945.116 1223 121
+chrome68.0.3440.91 30 2
+firefox45.9.0 6 5
+msie9.0 72 16
+firefox61.0 2 2
+chrome55.0.2883.75 3 1
+chrome68.0.3427.0 1 1
+chrome35.0.2117.157 5 5
+chrome53.0.2785.104 7 6
+chrome77.0.3865.90 1 0
+edge18 31 4
+firefox62.0 2853 2822
+chrome39.0.2171.95 2 2
+chrome37.0.2062.124 4 4
+chrome79.0.3945.136 682 54
+firefox29.0 2 2
+chrome35.0.2309.372 1 1
+chrome27.0.1453.90 7 7
+firefox54.0 4 4
+firefox71.0 121 24
+chrome24.0.1309.0 3 3
+firefox63.0 1 1
+Unknown 432 414
+chrome35.0.1916.47 8 8
+firefox72.0 1150 121
+chrome66.0.3359.158 30 4
+firefox52.59.12 2 2
+chrome34.0.1847.116 6 6
+opera52.0.2871.40 1 1
+chrome48.0.2564.109 1 1
+chrome34.0.1847.131 1 1
+chrome72.0.3626.105 32 2
+firefox41.0 1 1
+chrome74.0.3729.108 30 2
+chrome34.0.1847.137 6 6
+chrome62.0.3202.94 1 1
+chrome66.0.3359.170 8 7
+chrome30.0.1599.17 9 9
+chrome27.0.1453.93 37 37
+firefox49.0 6 6
+chrome63.0.3239.111 22 3
+firefox38.0 1 1
+chrome49.0.2623.75 2 2
+chrome78.0.3876.0 1 1
+chrome66.0.3359.139 15 12
+firefox18.0 1 1
+opera66.0.3515.44 62 6
+chrome75.0.3770.101 29 2
+chrome36.0.1944.0 1 1
+chrome38.0.2125.102 24 2
+chrome29.0.1547.57 2 2
+firefox46.0 2 2
+chrome47.0.2526.80 2 1
+chrome75.0.3770.142 57 4
+safari5.0.4 3 3
+chrome74.0.3729.169 35 35
+firefox23.0 1 1
+chrome28.0.1467.0 13 13
+chrome40.0.2214.89 3 0
+chrome71.0.3578.99 255 25
+chrome53.0.2785.49 3 0
+safari13.0.4 209 21
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 32
+axios/0.18.0 20200110140733
+Mozilla/5.0_(3.1.final)_die(md5(777)); 20200104060649
+Mozilla/4.0_(compatible;_ms-office;_MSOffice_16) 20200109161006
+WordPress/4.7.16;_http://www.lianlianp.com 20200106221215
+WordPress/5.0.8;_http://luzamaliafernandez.com 20200102211431
+WhatsApp/2.19.360_A 20200113121648
+WordPress/4.9.8;_http://dienmay123.com 20200101043606
+WordPress/4.9.13;_http://epmc.gob.ec 20200113115409
+WordPress/5.2.5;_https://inter-pack.co.il 20200102090751
+WordPress/4.9.13;_http://xpertz.co.za 20200107104446
+WordPress/4.7.16;_http://www.modernizingyou.com 20200106225943
+WordPress.com;_https://propspyapp.com 20200103212455
+WordPress/4.4;_http://www.igg153.at 20200106125413
+WordPress/5.3.2;_http://www.cliftonpost.com 20200106032501
+WordPress/4.8.12;_http://estudis.asociaciones.alfafar.es 20200101102937
+WordPress/5.1.4;_http://www.privateguide.gr 20200106203100
+WordPress/4.9.13;_http://unescoegyptclub.org 20200105153019
+Mozilla/5.0_(compatible;_ips-agent) 20200117122820
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20200128143836
+WordPress/4.9.10;_http://novremont.ru 20200103142419
+WordPress/4.2.13;_http://e-business.inotec.ro 20200101015740
+WordPress/5.0.8;_https://lrttgqo5-site.atempurl.com/wptest 20200102193310
+python-requests/2.22.0 20200118175842
+Go-http-client/1.1 20200122204320
+WordPress/4.8.12;_http://uncutdesignlab.com 20200105093227
+WordPress/5.0.8;_http://www.kamyab.edu.pk 20200102083635
+WordPress/4.8.12;_http://www.excelqna.com 20200106111537
+Python-xmlrpc/3.5 20200113002504
+WordPress/4.7.16;_http://www.sinclair-electrical.com 20200107094957
+Python/3.7_aiohttp/3.0.9 20200119204204
+WordPress/4.4.21;_http://szkolka-rozyczka.pl 20200102000009
+COMODO_DCV 20200121054930
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 29
+Python/3.7_aiohttp/3.0.9 20200119204204
+COMODO_DCV 20200121054930
+WordPress/4.4.21;_http://szkolka-rozyczka.pl 20200102000009
+WordPress/5.0.8;_http://www.kamyab.edu.pk 20200102083635
+WordPress/4.8.12;_http://www.excelqna.com 20200106111537
+Python-xmlrpc/3.5 20200113002504
+WordPress/4.7.16;_http://www.sinclair-electrical.com 20200107094957
+WordPress/5.0.8;_https://lrttgqo5-site.atempurl.com/wptest 20200102193310
+python-requests/2.22.0 20200118175842
+WordPress/4.8.12;_http://uncutdesignlab.com 20200105093227
+Go-http-client/1.1 20200122204320
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20200128143836
+WordPress/4.9.10;_http://novremont.ru 20200103142419
+WordPress/4.2.13;_http://e-business.inotec.ro 20200101015740
+WordPress/5.1.4;_http://www.privateguide.gr 20200106203100
+WordPress/4.8.12;_http://estudis.asociaciones.alfafar.es 20200101102937
+WordPress/4.9.13;_http://unescoegyptclub.org 20200105153019
+WordPress/4.4;_http://www.igg153.at 20200106125413
+WordPress/5.3.2;_http://www.cliftonpost.com 20200106032501
+WordPress/4.9.13;_http://xpertz.co.za 20200107104446
+WordPress.com;_https://propspyapp.com 20200103212455
+WordPress/4.7.16;_http://www.modernizingyou.com 20200106225943
+WhatsApp/2.19.360_A 20200113121648
+WordPress/5.0.8;_http://luzamaliafernandez.com 20200102211431
+axios/0.18.0 20200110140733
+WordPress/4.7.16;_http://www.lianlianp.com 20200106221215
+WordPress/4.9.13;_http://epmc.gob.ec 20200113115409
+WordPress/5.2.5;_https://inter-pack.co.il 20200102090751
+WordPress/4.9.8;_http://dienmay123.com 20200101043606
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 14721 15013
+From1 49 49
+From2 326 345
+From3 9 9
+From4 914 8954
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 9
+www_google_com_ar 1 1
+www_google_com_hk 7 7
+www_google_com_ec 22 23
+r_search_yahoo_com 1 1
+www_google_es 10 10
+www_google_com_uy 1 1
+www_google_cl 3 3
+google_com 7 7
+www_google_com 274 292
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://cubscouts.org/wp-login.php 4 4
+http://m.facebook.com 1 1
+http://habilatory.best 1 1
+http://photometrograph.best 1 1
+http://claustral.best 1 1
+http://kayles.best 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+400 2 2
+206 41 939815
+302 149 0
+405 34 1428
+404 3290 0
+301 51 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 778
+/index.php/2019/04/15/the-trend-for-composing-clinical-articles-when-you-3/ 1 -
+/index.php/2019/04/16/the-single-best-strategy-to-use-for-how-to-write-a-1000-word-essay/feed/ 1 -
+/wp-json/wp/v2/posts 2 -
+/index.php/2019/07/31/120-exploratory-essay-topics-the-ultimate-guide-3/ 1 -
+/index.php/2019/04/16/things-you-should-know-about-how-to-name-a-play-in-an-essay/feed/ 1 -
+/index.php/2019/04/16/the-insider-secrets-for-hello-world-6755/ 1 -
+/wp-content/plugins/mailcwp/mailcwp-upload.php 1 http://www.google.com/
+/index.php/2018/08/25/trouble-free-solutions-of-foreign-brides-a-background/ 1 -
+/index.php/2019/03/28/the-basics-of-central-dogma-of-molecular-biology/ 1 -
+//wp-content/uploads/headway/header-uploads/ 1 -
+/index.php/requisitos 1 -
+/index.php/2019/05/21/the-unusual-puzzle-into-how-to-write-a-suggestion-essay-paper/ 2 -
+/index.php/2018/09/22/rulette-en-garantici-yeni-kazanma-taktikleri-2018-2/ 4 -
+/index.php/2019/09/24/in-case-you-get-your-the-roulette-wheel-spun-by/ 1 -
+/index.php/2019/04/16/eine-geheime-waffe-fur-ghostwriter-fur-dissertationen/ 1 -
+/index.php/2019/03/28/hello-world-2/feed/ 1 -
+/index.php/2019/04/16/fraud-deceptions-and-downright-lies-about-smart-goals-about-a-fitness-assignment-exposed/ 1 -
+/wp-content/plugins/iwp-client/clipboard.min.js 6 -
+/wp-content/wp-guide.php 1 -
+/test/wp-includes/wlwmanifest.xml 10 -
+/index.php/2019/03/11/taking-a-charter-network-to-scale-idea-public-educational-facilities-2/feed/ 1 -
+/index.php/2019/05/23/einfhrungstipps-zum-schreiben-eines-bewerbungsschreibens-2/ 1 -
+/index.php/2019/04/11/tips-on-how-to-do-a-11-paragraph-essay/ 2 -
+/components/com_jce/jce.php 1 -
+/sito/wp-includes/wlwmanifest.xml 10 -
+/index.php/category/pay-someone-to-write-my-essay/feed/ 1 -
+/index.php/2019/04/19/outrageous-professional-paper-writers-tips/ 1 -
+/index.php/2019/08/25/meilleurs-prix-vibramycin-en-pharmacie-sans-ordonnance-livraison-dans-le-monde-entier/ 1 -
+/index.php/2019/05/19/the-new-angle-on-book-report-ideas-just-released-3/feed/ 1 -
+/wp-config.php.php 1 -
+/wp-load.php 4 -
+/index.php/2019/04/26/the-battle-over-who-is-able-to-help-me-to-compose-7/ 1 -
+/index.php/2019/03/14/ought-to-i-use-we-or-i-in-computer-science-thesis/ 1 -
+/sitemap.xml 7 -
+/index.php/2019/03/26/reported-hype-on-how-much-does-a-physicist-make-revealed/ 1 -
+/index.php/2018/07/06/step-by-step-fast-methods-in-latin-brides-world/ 4 -
+/admin/login.php 3 -
+/index.php/2019/08/19/envoie-rapide-sur-le-lisinopril-sans-ordonnance-livraison-gratuite/ 1 -
+/index.php/2019/07/30/make-area-with-the-stuttering/ 1 -
+/index.php/2019/03/14/ought-to-i-use-we-or-i-in-computer-science-thesis-2/ 1 -
+/index.php/2019/08/27/9-everyday-tricks-for-that-tired-of-as-well-as/ 1 -
+/vendor/phpunit/phpunit/phpunit.xsd 2 -
+/assets/images/img1.jpg 4 -
+/index.php/2019/03/19/the-defined-manual-to-help-you-making-essay-newspaper/ 1 -
+/index.php/2019/09/24/where-to-purchase-zyvox-pills-online-fast-worldwide-delivery-epmc-gob-ec/ 1 -
+/index.php/2018/09/03/simple-programs-in-top-adult-websites-clarified/feed/ 1 -
+/index.php/2019/03/19/the-defined-manual-to-help-you-making-essay-newspaper/feed/ 1 -
+/index.php/2019/05/19/50-creative-writing-matters-for-youths/feed/ 1 -
+/index.php/2019/04/25/the-trick-to-pro-college-application-essay-writers/feed/ 1 -
+/index.php/2019/04/09/thesis-help-online-overview/ 1 -
+/index.php/2019/05/19/50-creative-writing-matters-for-youths/ 1 -
+/index.php/2019/08/26/turn-the-things-most-people-presently-benefit-from/ 5 -
+/index.php/2019/09/24/where-can-i-buy-indomethacin-online-generic-pharmacy-epmc-gob-ec/ 1 -
+/index.php/contact-us 1 -
+/components/com_facileforms/libraries/jquery/uploadify.php 1 -
+/wp-config.old 1 -
+/index.php/2019/07/15/the-key-to-emotional-intimacy/ 1 -
+/wp-admin/admin-ajax.php 4 -
+/XxX.php 1 -
+/index.php/2019/04/15/tips-on-how-to-publish-a-analysis-paper-in-big-data/feed/ 1 -
+/index.php/2019/04/16/the-battle-over-thesis-writer-and-how-to-win-it/ 1 -
+/index.php/2019/04/page/4/ 1 -
+/index.php/2019/09/30/the-little-known-secrets-to-play-for-free/ 1 -
+/index.php/quienes-somos/mision-vision 2 -
+/wp-guide.php 1 -
+/wp-engines.php 1 -
+/index.php/2019/07/03/writing-a-capstone-statement-phase-by-means-of-step/ 1 -
+/index.php/contacto 2 -
+/index.php/2019/06/02/what-everyone-is-saying-about-narrative-essay-for-sale-2/ 1 -
+/components/com_facileforms/libraries/jquery/mudxizxnc.php 1 -
+/index.php/2019/03/26/population-definition-biology-guide/ 1 -
+/index.php/inicio/mv 2 -
+/index.php/2019/08/18/how-exactly-to-write-a-good-essay-on-any-topic-2/ 1 -
+/index.php/2019/03/22/the-low-down-on-list-of-good-research-topics-exposed/feed/ 1 -
+/index.php/2019/08/19/meilleure-offre-sur-les-medicaments-generiques-achat-de-pilules-de-marque-ventolin/ 1 -
+/index.php/2019/03/12/why-everyone-is-dealing-with-best-explore-written-documents-the-actual-facts-presented/feed/ 2 -
+/admin.php 1 -
+/2017/wp-includes/wlwmanifest.xml 1 -
+/user/register/ 2 -
+/index.php/2019/05/23/einfhrungstipps-zum-schreiben-eines-bewerbungsschreibens/feed/ 1 -
+/blog/wp-includes/wlwmanifest.xml 10 -
+/raiz0.html 1 -
+/index.php/2019/08/19/etoricoxib-comprime-generique-sans-ordonnance-expedition-immediate-livraison-rapide-worldwide/ 1 -
+/index.php/2019/09/20/problems-with-your-player-s-creativity/ 1 -
+/index.php/2019/09/18/that-which-you-can-do-about-mistakes-to-avoid-in/ 1 -
+/index.php/blog/ 13 -
+/portal/ 1 -
+/index.php/2018/07/27/the-facts-on-no-fuss-secrets-for-my-top-brides/feed/ 1 -
+/index.php/2019/07/09/activation-or-possibly-arousal-explanation-essay/ 1 -
+/wp-config.bak 1 -
+/wp-json/wp/v2/users 4 -
+/index.php/2019/07/09/how-to-update-most-used-installed-on-os-x-solved/%3EMy%20blog%3C/a%3E%3C/p%3E%3C/div%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ca%20class= 1 -
+/assets/fonts/fontawesome-webfont.woff 2 http://epmc.gob.ec/assets/css/font-awesome.min.css
+/index.php/2019/07/09/how-to-update-most-used-installed-on-os-x-solved/%3EMy%20blog%3C/a%3E%3C/p%3E%3Cspan%20class= 1 -
+/index.php/contactos 1 -
+/index.php/2019/09/18/mistakes-to-avoid-in-online-blackjack-games-2/ 1 -
+/dev/ 1 -
+/wp-content/wp-system.php 1 -
+/wp-includes/wp-includes.php 1 -
+/index.php/2019/05/28/one-of-the-most-overlooked-solutions-for-what-is-literature-review-in-research/feed/ 1 -
+/index.php/2019/08/26/turn-what-most-people-without-a-doubt-benefit-from/ 1 -
+/index.php/ser/matriculacion-vehicular 1 -
+/ss.php 1 -
+/wp-config-sample.php 1 -
+/wp-content/plugins/complete-gallery-manager/frames/upload-images.php 1 http://www.google.com/
+/index.php/2019/01/21/there-is-in-this-manner-a-likely-to-make-the/feed/ 1 -
+/index.php/2019/04/09/thesis-help-online-overview/feed/ 2 -
+/index.php/2019/03/29/the-actual-key-of-compose-my-specialized-document-that-nobody-is-going-over/ 1 -
+/index.php/2019/03/19/the-factors-of-assist-formulating-essay-newspaper-2/feed/ 2 -
+/images/editor/separator.gif 1 -
+/index.php/ser/gt/fis/79-departamentos/79-ma 1 -
+/index.php/requisitos/ 4 -
+/index.php/2019/08/28/8-tactics-to-help-you-stay-kept-amused-for-that/ 1 -
+/index.php/2019/07/30/betting-on-mma-where-and-how-to-bet-on-mixed-martial-arts/ 2 -
+/index.php/2019/04/11/tips-on-how-to-do-a-11-paragraph-essay/feed/ 1 -
+/res.php 1 -
+/index.php/galeria/2-brigada-pujili/detail/10-brigada-pujili 2 -
+/news/ 1 -
+/index.php/2019/05/19/who-else-wants-to-learn-about-synthetic-biology/feed/ 1 -
+/index.php/inicio/introduccion 1 -
+/index.php/2019/10/14/miglior-prezzo-famvir-epmc-gob-ec/ 1 -
+/plugins/content/apismtp/apismtp.php 1 http://www.google.com/
+/assets/images/a1.jpg 2 -
+/index.php/2019/04/08/educational-essay-topics-2/feed/ 1 -
+/index.php/2019/05/27/quantum-uncertainty-reviews-amp-tips/ 1 -
+/index.php/2019/04/18/social-issue-in-education-tips-amp-guide/ 1 -
+/C 1 -
+/index.php/2019/05/19/heres-what-i-understand-about-university-document-creating-service-critiques/feed/ 1 -
+/index.php/2018/08/28/simplifying-major-elements-for-spdate/ 2 -
+/index.php/2019/07/17/the-proof-related-to-surgical-procedures-and-look-2/ 1 -
+/index.php/2019/08/19/obtenir-des-ezetimibe-sans-ordonnance-remise/ 1 -
+/index.php/2019/09/08/how-hobby-casino-gambling-transformed-our-lives-in-3/ 6 -
+/index.php/2018/11/20/hello-world/feed/ 1 -
+/shell.php 1 -
+/prueba 1 -
+/index.php/2019/05/19/very-best-essay-freelance-writers-on-line-tips-that-nobody-is-mindful-of-2/ 1 -
+/index.php/2019/10/10/ways-to-buy-enjoy-real-money-poker/ 1 -
+/index.php/2019/09/24/the-appeal-of-top-essay-writers-essayontime-com-4/ 1 -
+/index.php/2019/03/11/warning-signs-on-biology-degree-jobs-you-must-know/feed/ 1 -
+/index.php/2017/08/03/the-dos-and-donts-of-dating-online/feed/ 1 -
+/hello.php 1 -
+/ 54 http://mail.epmc.gob.ec///
+/wp-config.save 1 -
+/wp-json/wp/v2/users/ 12 -
+/wp-content/uploads/2019/12/2cb.php 1 -
+/robots.txt 326 -
+/index.php/contactos/ 2 -
+/wp-login.php 399 http://cubscouts.org/wp-login.php
+/shop/wp-includes/wlwmanifest.xml 10 -
+/index.php/2019/03/26/reported-hype-on-how-much-does-a-physicist-make-revealed-2/ 2 -
+/index.php/2019/03/11/taking-a-charter-network-to-scale-idea-public-educational-facilities-3/feed/ 1 -
+/index.php/2019/09/24/steer-clear-of-this-with-your-online-computer-2/ 1 -
+/index.php/2019/03/16/the-factors-of-assist-formulating-essay-newspaper/feed/ 1 -
+/index.php/2019/04/02/enterprise-management-problems-that-every-single-job-office-manager-has-to-cope-with-data-room/feed/ 2 -
+/index.php/2019/09/24/want-to-know-more-about-free-online-games/ 1 -
+/index.php/category/uncategorized/page/4/ 1 -
+/index.php/requisitos/category/3-remat 1 -
+/assets/images/portfolio/img6.jpg 7 -
+/index.php/2019/08/06/endroit-le-moins-cher-pour-acheter-baclofen-gros-reductions-livraison-dans-le-monde-3-7-jours/ 1 -
+/index.php/2019/09/12/internet-casino-video-game-series/ 1 -
+/index.php/2019/03/16/where-to-find-writing-essay-service/ 2 -
+/images/portfolio/img9.jpg 6 -
+/wp-includes/wlwmanifest.xml 13 -
+/index.php/2018/11/ 6 -
+/index.php/2019/09/12/casino-online-game-course/ 1 -
+/misc/ajax.js 1 -
+/portfolio.html 1 -
+/index.php/2019/04/11/exactly-exactly-just-what-ukrainian-ladies-like-in-2/ 1 -
+/index.php/ser/gtra 1 -
+/index.php/2019/05/19/the-demise-of-paperhelp-org-review-3/feed/ 1 -
+/wp-content/plugins/Premium_Gallery_Manager/uploadify/uploadify.css 1 http://www.google.com/
+/index.php/2019/09/18/drug-shop-xalatan-brand-for-sale-fast-order-delivery/ 1 -
+/index.php/2019/03/15/every-thing-you-dont-be-informed-about-term-paper-proofreading-may-possibly-be-charging-to-in-excess-of-you-suspect/feed/ 1 -
+/index.php/2019/05/22/prime-notch-facts-of-posted-college-essays/feed/ 1 -
+/index.php/2019/03/11/what-to-do-about-what-is-a-quantum-2/ 1 -
+/index.php/2019/03/11/taking-a-charter-network-to-scale-idea-public-educational-facilities/feed/ 2 -
+/wp-po.php 2 -
+/wp-admin/post-new.php 53 -
+/index.php/2019/07/09/the-most-ignored-fact-regarding-obama-college-thesis-explained-2/ 1 -
+/index.php/2019/07/09/fundamentally-synonym-features-2/ 1 -
+/index.php/2019/09/24/what-they-told-you-about-world-of-online-games-is-2/ 1 -
+/index.php/2019/04/22/probably-the-most-fact-that-is-disregarded-about-18/feed/ 1 -
+/index.php/2019/04/16/the-new-angle-on-what-is-i-in-math-just-released/ 1 -
+/index.php/2019/05/28/the-number-one-article-on-marine-biology-colleges/feed/ 1 -
+/index.php/2019/05/21/the-true-story-about-nord-vpn-2019-that-the-experts-dont-want-you-to-hear/ 1 -
+/index.php/2019/05/19/what-to-expect-from-custom-essay-help/feed/ 1 -
+/big-content/ 1 -
+/ads.txt 1 -
+/wp-admin/theme-editor.php 51 -
+/index.php/2019/03/14/exactly-what-is-a-500-term-essay/ 2 -
+/wp-config.php.save 1 -
+/index.php/category/paper-writing-service/feed/ 1 -
+/noticias.html 2 -
+/index.php/category/uncategorized/ 2 -
+/index.php/2019/04/12/the-defined-manual-to-be-able-to-website-cam-aign-make-your-own-website/ 2 -
+/sites/all/libraries/mailchimp//vendor/phpunit/phpunit/phpunit.xsd 2 -
+/about.html 116 https://www.google.com/
+/index.php/2019/03/15/the-advantages-of-how-to-write-a-chapter-outline/feed/ 1 -
+/index.php/2019/04/page/6/ 1 -
+/index.php/2019/08/26/completely-transform-so-what-an-individual-now/ 1 -
+/index.php/2019/04/21/common-and-skilled-sites-top-best-organized/feed/ 1 -
+/index.php/2019/03/19/the-factors-of-assist-formulating-essay-newspaper-2/ 1 -
+//plugins/content/apismtp/apismtp.php 1 -
+/index.php/2019/04/16/new-queries-about-purchase-advanced-schooling-essay-records-answered-and-why-you-must-read-virtually-every-phrase-in-this-document-2/ 2 -
+/index.php/2019/03/18/if-you-read-nothing-else-today-read-this-report-on-chemistry-molecular-approach-4th-edition-pdf/feed/ 2 -
+/index.php/2017/08/ 2 -
+/blog/xmlrpc.php 2 -
+/wp-content/themes/twentynineteen/styles.php 1 epmc.gob.ec
+/cms/ 2 -
+/index.php/category/uncategorized/feed/ 1 -
+/index.php/2019/09/24/fraud-deceptions-and-totally-lies-about-the/ 1 -
+/index.php/2019/03/15/advice-on-where-to-uncover-100-original-essays-on-the-web/feed/ 1 -
+/modules/mod_simplefileuploadv1.3/elements/udd.php 1 -
+/assets/images/portfolio/img7.jpg 3 -
+/index.php/2019/05/28/the-pitfall-of-best-buy-essay/ 1 -
+/index.php/2019/04/11/exactly-exactly-just-what-ukrainian-ladies-like-in-2/feed/ 1 -
+/index.php/2019/04/19/pay-for-essay-cheap-fundamentals-explained/ 1 -
+/vendor/phpunit/phpunit/build.xml 1 -
+/index.php/2019/04/12/the-defined-manual-to-be-able-to-website-cam-aign-make-your-own-website/feed/ 1 -
+/index.php/2019/06/12/the-fight-against-apa-format-research-paper-example-2/ 1 -
+/images/portfolio/img7.jpg 5 -
+/index.php/2019/04/23/the-single-thing-to-accomplish-for-web-site-to/ 2 -
+/demo/ 1 -
+/index.php/2019/07/11/1726/ 1 -
+/index.php/2019/03/25/unbiased-report-exposes-the-unanswered-questions-on-best-proofreading-services-2/feed/ 2 -
+/index.php/2019/09/24/safe-place-to-buy-vibramycin-online-free-shipping/ 1 -
+/index.php/2019/07/09/how-to-update-most-used-installed-on-os-x-solved/%3Eread%20more%3C/a%3E%3C/p%3E%3Cdiv%20class= 1 -
+/index.php/2019/06/17/vital-pieces-of-accounting-case-study-help/ 1 -
+/wp-content/wp-dba.php 1 -
+/index.php/2019/08/18/the-never-before-told-story-on-vertebrate-definition-biology-you-need-to-read-2/ 1 -
+/index.php/ser/gt/fis 1 -
+/wp-config.orig 1 -
+/index.php/2018/09/03/simple-programs-in-top-adult-websites-clarified/ 2 -
+/index.php/2019/04/15/top-advice-on-professional-essay-topics/feed/ 1 -
+/cms/wp-includes/wlwmanifest.xml 10 -
+/index.php/2019/09/07/how-exactly-to-clean-online-casino-lobbies/ 1 -
+/index.php/noticia1 1 -
+/index.php/2019/04/15/avoid-over-analyzing-relations-using-this-easy-7/ 1 -
+/index.php/2019/05/23/the-meaning-of-process-of-paraphrasing/ 1 -
+/index.php/2019/03/26/secret-information-on-quantum-theory-explained-that-only-the-pros-know-exist/feed/ 1 -
+/index.php/2019/03/28/hello-world-2/ 1 -
+/index.php/2019/10/14/birmingham-covington-building-a-student-centered-397/ 1 -
+/index.php/2019/09/24/proscar-best-buy/ 1 -
+/index.php/2019/03/14/the-tried-and-true-way-of-virtual-data-security-in-coordination-by-stage/feed/ 1 -
+/wp2/wp-includes/wlwmanifest.xml 10 -
+/index.php/2019/10/14/comprare-pillole-di-marca-cialis-soft-a-buon-mercato-epmc-gob-ec/ 1 -
+/index.php/2019/09/09/one-cheap-way-to-entertain-yourself-on-a-layover/ 11 -
+/index.php/2019/03/26/reported-hype-on-how-much-does-a-physicist-make-revealed-4/ 1 -
+/index.php/2019/05/19/the-demise-of-paperhelp-org-review/ 1 -
+///wp-json/wp/v2/users/ 8 -
+/index.php/2019/04/14/characteristic-of-just-one-hero-that-is-literary-14/ 1 -
+/index.php/2019/07/17/life-death-and-academic-paraphrasing-tool/ 1 -
+/index.php/transparencia/2015 1 -
+/index.php/transparencia/2016 1 -
+/index.php/2019/09/08/how-much-you-need-to-be-prepared-to-buy-a-great/ 1 -
+/wp-sign.php 1 -
+/wp-content/plugins/wordpress-database-reset/readme.txt 1 -
+/index.php/2019/05/23/the-meaning-of-process-of-paraphrasing-2/ 1 -
+/index.php/2019/08/24/what-you-should-do-to-find-out-about-college-assignment-help-online-before-youre-left-behind-2/ 1 -
+/media/wp-includes/wlwmanifest.xml 10 -
+/wp-content/themes/azuma/2cb.php 1 -
+/index.php/2019/09/18/best-price-generic-lexapro-all-credit-cards-accepted-epmc-gob-ec/ 1 -
+/index.php/2019/09/18/buy-cialis-black-cheap/ 1 -
+/news/wp-includes/wlwmanifest.xml 10 -
+/index.php/2019/06/14/cause-every-body-is-conversing-regarding-acs-style-citing-maker-the-simple-genuine-real-truth-of-your-matter-disclosed/ 1 -
+/index.php/2019/03/26/top-review-of-communication-tips/feed/ 1 -
+/index.php/2019/07/12/hello-world-6/ 1 -
+/wp-mail.php 1 -
+/index.php/inicio/71-inicio 1 -
+/index.php/2019/05/19/whats-actually-going-on-with-substrate-definition-biology/ 1 -
+/index.php/2019/09/07/to-create-a-link-in-the-middle-of-your-tips-and/ 1 -
+/dir/wp-system.php 1 -
+/index.php/2019/09/18/atarax-generic-online-purchase-epmc-gob-ec/ 1 -
+/index.php/2019/09/09/new-some-ideas-into-darts-themed-playtech-arcade/ 1 -
+/index.php/2018/08/21/compared-effective-secrets-for-viagra-online/feed/ 1 -
+/.bitcoin/ 1 -
+/index.php/2018/09/20/realistic-products-for-best-beauty-brides/feed/ 1 -
+/index.php/2019/05/19/what-lots-of-folks-are-indicating-about-get-your-essay-online-and-precisely-whatever-you-need-do/feed/ 1 -
+/index.php/2018/07/31/news-on-no-fuss-home-dna-testing-kits-solutions/feed/ 1 -
+/index.php/2019/05/22/uso-de-cmo-producir-un-informe-mdico/feed/ 1 -
+/wp-content/plugins/page-flip-image-gallery/upload.php 1 http://www.google.com/
+/index.php/2019/05/20/what-does-grademiners-reviews-mean/feed/ 1 -
+/index.php/category/best-russian-brides-photos/ 2 -
+/tel:43475558974253 2 http://epmc.gob.ec
+/wp-file.php 135 http://www.epmc.gob.ec/wp-file.php
+/js/header-rollup-554.js 1 -
+/index.php/2019/08/02/unbelievable-information-striking-foreign-4/ 1 -
+/index.php/des/category/1-requisitos 1 -
+/wp-admin/ 13 http://epmc.gob.ec
+/index.php/2019/05/19/the-demise-of-paperhelp-org-review-3/ 1 -
+/index.php/2019/04/16/the-forbidden-truth-regarding-professional-writing-services-revealed-by-an-old-pro/ 1 -
+/assets/images/bg_header.jpg 2 http://epmc.gob.ec/assets/css/style.css
+/index.php/2019/08/26/change-just-what-you-ll-witout-a-doubt-enjoy/ 1 -
+/index.php/2019/05/20/what-pros-are-not-saying-about-how-to-write-a-study-paper-and-how-this-impacts-you/ 1 -
+/index.php/author/aortega/page/4/ 1 -
+/index.php/ser 1 -
+/index.php/2019/01/ 1 -
+/database/print.css 1 -
+/index.php/2018/08/28/quick-advice-in-find-a-brides-the-basics/ 1 -
+/index.php/2019/08/25/meilleur-site-pour-acheter-du-metformin-24h-support-en-ligne/ 1 -
+/index.php/2019/04/25/the-real-tale-about-write-our-essay-university-6/ 4 -
+/.svn/all-wcprops 1 -
+/index.php/2017/07/ 1 -
+/wp-content/themes/themes.php 1 -
+/index.php/2019/09/24/short-report-shows-how-it-could-affect-you-and-the/ 1 -
+/administrator/help/en-GB/toc.json 1 -
+/index.php/2019/03/16/the-hidden-truth-on-examples-of-good-reviews-uncovered/feed/ 1 -
+/index.php/category/essay-writing/feed/ 1 -
+/wp-content/plugins/uploadify/includes/check.php 1 http://www.google.com/
+/wp-json/oembed/1.0/embed 5 -
+/index.php/2019/04/16/things-you-should-know-about-how-to-name-a-play-in-an-essay/ 1 -
+/assets/images/portfolio/img5.jpg 2 -
+/index.php/2019/04/08/educational-essay-topics-2/ 1 -
+/portafolio.html 30 -
+/index.php/2019/04/15/how-to-get-a-recent-dissertation-subject-on-behavioral-finance-2/ 1 -
+/index.php/category/data-room/ 1 -
+/index.php/2019/04/16/new-queries-about-purchase-advanced-schooling-essay-records-answered-and-why-you-must-read-virtually-every-phrase-in-this-document/feed/ 2 -
+/ADMIN 1 -
+/laravel/.env 2 -
+//wp-content/plugins/apikey/apikey.php 4 -
+/index.php/2019/05/28/key-pieces-of-definition-of-quantum-2/ 1 -
+/index.php/2019/09/24/faculties-of-the-roulette-wheel-spun-by-the/ 1 -
+/index.php/2019/04/16/who-is-worried-about-how-to-write-a-synthesis-essay-ap-lang-and-why-you-should-be-paying-attention/feed/ 1 -
+/wp-content/plugins/iwp-client/readme.txt 2 -
+/index.php/2019/03/21/the-key-of-compose-my-made-to-order-document-that-nobody-is-talking-over/feed/ 1 -
+/index.php/2019/03/26/reported-hype-on-how-much-does-a-physicist-make-revealed-4/feed/ 1 -
+/assets/fonts/fontawesome-webfont.ttf 1 http://epmc.gob.ec/assets/css/font-awesome.min.css
+/index.php/2019/08/02/breathe-a-letter-to-your-applicants-inspite-of-7/ 1 -
+/index.php/2019/08/05/fiable-rapide-et-securise-acheter-celecoxib-en-ligne-avec-ordonnance-livraison-dans-le-monde-1-3-jours/ 1 -
+/index.php/2019/09/12/the-greatest-guide-to-casino-games-2/ 1 -
+/index.php/2019/03/14/the-tried-and-true-way-of-virtual-data-security-in-coordination-by-stage/ 1 -
+/index.php/2019/05/21/the-honest-to-goodness-truth-on-best-urgent-essay-writing-service/ 1 -
+/index.php/2019/04/16/the-way-to-enhance-my-crafting-abilities/ 1 -
+/wp-includes/js/jquery/jquery.js 1 -
+/index.php/ser/gtra/rtv 1 -
+/sparql.json 1 -
+/api/v2 2 -
+/index.php/2019/04/16/the-new-angle-on-what-is-i-in-math-just-released/feed/ 1 -
+/index.php/2019/07/09/case-study-writing-service-secrets-that-no-one-else-knows-about-2/ 1 -
+/modules/mod_simplefileuploadv1.3/elements/mudxizxnc.php 1 -
+/assets/images/portfolio/img9.jpg 5 -
+/index.php/2019/03/19/an-assessment-of-school-entrance-essay-authors/feed/ 1 -
+/index.php/2019/04/16/one-hundred-and-one-analysis-paper-subjects/ 4 -
+/index.php/2019/06/06/die-vorteile-von-expose-diplomarbeit/feed/ 1 -
+/index.php/2019/05/28/what-you-dont-know-about-buy-university-essays/ 1 -
+/index.php/2019/05/page/2/ 1 -
+/index.php/2019/07/09/the-downside-risk-of-someone-write-my-research-paper-that-no-one-is-talking-about-2/ 1 -
+/index.php/2019/08/06/pharmacie-24h-prix-tenoretic-25-mg-en-ligne-livraison-internationale/ 1 -
+/wp-content/themes/wp-sign.php 1 -
+/index.php/2019/07/09/how-to-update-most-used-installed-on-os-x-solved/%3EMy%20blog%3C/a%3E%20%3C!--codes_iframe--%3E%3Cscript%20type= 1 -
+/index.php/2019/03/26/reported-hype-on-how-much-does-a-physicist-make-revealed-3/ 1 -
+/wp-content/themes/pages.php 2 -
+/index.php/2019/09/24/forget-achieving-this-with-your-free-online-games/ 1 -
+/index.php/2019/03/19/an-assessment-of-school-entrance-essay-authors/ 1 -
+/index.php/2019/04/25/the-new-angle-on-book-report-ideas-just-released/ 32 http://epmc.gob.ec/
+/index.php/2019/04/11/how-can-professors-treat-paper-writing-companies/feed/ 1 -
+/index.php/2017/07/08/the-secret-of-shocking-news-that-nobody-is-discussing/ 1 -
+/index.php/2019/06/02/nord-vpn-2019-can-be-fun-for-everyone/ 1 -
+/index.php/2019/08/05/envoie-rapide-meilleure-pharmacie-en-ligne-pour-acheter-du-mebendazole-livraison-gratuite/ 1 -
+/index.php/2019/03/07/vital-pieces-of-theories-in-nursing-research/feed/ 1 -
+/wp-includes/bad.db.php 1 -
+/index.php/2019/04/02/enterprise-management-problems-that-every-single-job-office-manager-has-to-cope-with-data-room/ 1 -
+/index.php/2019/05/28/the-nuiances-of-quantum-mechanics-for-dummies/ 1 -
+/index.php/2019/09/18/buy-genuine-tamsulosin-online-epmc-gob-ec/ 1 -
+/index.php/2019/04/24/what-lots-of-folks-are-indicating-about-get-your-essay-online-and-precisely-whatever-you-need-do/ 3 -
+/index.php/2019/05/28/what-you-dont-know-about-buy-university-essays/feed/ 2 -
+/index.php/2019/07/16/1900/ 1 -
+/index.php/2019/10/10/ways-to-buy-poker-legal/ 1 -
+/admin/view/javascript/common.js 1 -
+/index.php/2019/03/20/term-paper-essays-options/feed/ 1 -
+/index.php/2019/08/18/how-will-you-make-it-possible-to-write-our-paper/ 1 -
+/index.php/2018/08/28/quick-advice-in-find-a-brides-the-basics/feed/ 1 -
+/assets/images/logosri.gif 1 -
+/administrator 2 -
+/index.php/2019/03/20/the-secret-of-generate-my-customized-document-that-no-one-is-talking-over/feed/ 1 -
+/index.php/2019/05/24/the-marxism-vs-functionalism-essays-trap/feed/ 1 -
+/index.php/2019/03/page/2/ 1 -
+/index.php/2019/05/28/key-pieces-of-definition-of-quantum/feed/ 1 -
+/index.php/2019/04/26/the-lost-secret-of-discover-anyone-to-write-the-5/feed/ 1 -
+/index.php/2017/08/03/the-dos-and-donts-of-dating-online/ 1 -
+/index.php/category/help-from-essay-writers/feed/ 1 -
+/backup/ 1 -
+/services.html 75 -
+/index.php/2019/03/page/6/ 1 -
+/index.php/2019/05/27/getting-the-best-pop-culture-research-paper/feed/ 1 -
+/index.php/2019/03/14/producing-an-introduction-crls-research-guidebook/ 2 -
+/index.php/2019/06/09/just-how-much-does-liposuction-plus-a-tummy-tuck/ 1 -
+/assets/images/portfolio/img2.jpg 3 -
+/miNuS.php 1 -
+/index.php/park-links 1 -
+/index.php/2019/04/15/tips-on-how-to-publish-a-analysis-paper-in-big-data/ 1 -
+/index.php/2019/04/26/the-lost-secret-of-discover-anyone-to-write-the-5/ 1 -
+/index.php/2018/09/08/was-jeder-sagt-ber-spielen-spielautomaten/ 2 -
+/index.php/2019/04/ 1 -
+/index.php/2019/03/14/major-choices-of-school-research/ 1 -
+/author-sitemap.xml 1 -
+/index.php/2019/07/29/nj-online-sports-betting-legal-live-and-accessible-from-anywhere-in-the-state-2/ 6 http://epmc.gob.ec/
+/wp-config.php_bak 1 -
+/index.php/2019/09/12/beginning-the-essay-by-having-a-hook-hooks-for-5/ 1 -
+/index.php/2019/10/15/just-what-do-females-wish-mail-purchase-brides-2/ 1 -
+/assets/images/about.jpg 17 https://www.google.com/
+/admin/images/cal_date_over.gif 2 -
+/index.php/2019/03/14/the-indisputable-truth-about-evolutionary-biology-that-no-one-is-sharing-with-you/ 1 -
+/index.php/2019/03/15/the-assignment-authoring-online-game/feed/ 1 -
+/index.php/2019/03/16/the-factors-of-assist-formulating-essay-newspaper/ 1 -
+/index.php/2019/08/16/internet-bride/ 1 http://epmc.gob.ec/index.php/2019/08/16/internet-bride/
+/index.php/2019/03/29/very-best-order-low-cost-essays-choices/ 1 -
+/index.php/ser/gt 1 -
+/index.php/2019/09/18/little-known-details-about-maximize-your-time-at-2/ 1 -
+/index.php/2018/07/ 5 -
+/index.php/2019/03/29/531/feed/ 1 -
+/index.php/ser/gtra/sv 2 -
+/assets/css/bootstrap.min.css 1 http://epmc.gob.ec/services.html
+/index.php/2019/09/09/how-hobby-casino-gambling-can-save-you-time-money/ 2 -
+/index.php/2019/06/10/custom-writings-secrets-that-no-one-else-knows-about/ 1 -
+/index.php/2017/06/25/life-after-dating/ 2 -
+/home/ 2 -
+/index.php/2018/09/ 1 -
+//language/en-GB/en-GB.xml 5 -
+/index.php/2019/07/09/how-to-update-most-used-installed-on-os-x-solved/%3Econtinue%20reading%3C/a%3E%20%20%20%20%20%20%20%3C!--codes_iframe--%3E%3Cscript%20type= 1 -
+/index.php/2019/04/16/the-insider-secret-on-how-many-words-is-a-5-paragraph-essay-uncovered/ 1 -
+/index.php/2019/04/24/the-pitfall-of-perfect-school-assignment-authors/ 2 -
+/index.php/2019/03/19/custom-thesis-writing-service-secrets/feed/ 1 -
+/index.php/2018/07/17/realistic-wife-now-advice-around-the-usa/ 1 -
+/tel:033700490 2 http://epmc.gob.ec
+/wp-includes/ms-cache.php 1 -
+/assets/images/img3.jpg 3 -
+/index.php/2019/09/17/buy-generic-and-brand-drugs-online-lioresal-where-to-buy-cheap-pharmacy-no-perscription/ 10 http://epmc.gob.ec/index.php/2019/09/17/buy-generic-and-brand-drugs-online-lioresal-where-to-buy-cheap-pharmacy-no-perscription/
+/index.php/2019/05/19/whats-actually-going-on-with-substrate-definition-biology-3/ 1 -
+/index.php/2019/04/02/the-look-of-outstanding-analyze-newspapers/feed/ 1 -
+/index.php/2019/08/27/8-stuff-to-help-you-continue-people-pre-occupied/ 1 -
+/wp-index.php 1 -
+/index.php/2019/03/29/grubby-info-about-buy-higher-education-essay-paperwork-exposed/ 1 -
+/index.php/2019/10/08/what-makes-craps-online-casinos-advantages-remove/ 1 -
+/index.php/2019/03/15/every-thing-you-dont-be-informed-about-term-paper-proofreading-may-possibly-be-charging-to-in-excess-of-you-suspect/ 1 -
+/index.php/2019/08/06/gros-reductions-ou-trouver-du-flomax-0-4-mg-pas-cher/ 1 -
+/index.php/2018/09/15/essential-details-of-rusbrides-in-the-uk/ 2 -
+/wp-content/plugins/wp-time-capsule/js/opentip-jquery.js 4 -
+/index.php/quienes-somos 2 -
+/wp-admin/update.php 3 -
+/index.php/2019/03/28/how-to-create-a-fantastic-shopper-services-essay/ 1 -
+/wp-content/themes/twentynineteen/style.php 1 epmc.gob.ec
+/assets/images/portfolio/img4.jpg 3 -
+/index.php/category/paper-writing-service/ 1 -
+/wp-admin/admin-post.php 2 -
+/index.php/component/users 3 -
+/index.php/2019/09/12/five-predictions-on-casino-in-the-brand-new-year/ 1 -
+/adm.php 9 -
+/facturacion 2 -
+/index.php/2019/10/01/online-game-eight-reasons-for-college-students-to/ 1 -
+/fantversion.php 1 epmc.gob.ec
+/index.php/2019/05/page/4/ 1 -
+/wp-content/plugins/ultimate-addons-for-beaver-builder-lite/readme.txt 1 -
+/index.php/2019/09/09/how-my-hobby-casino-gambling-saves-me-time-10/ 4 http://epmc.gob.ec/index.php/2019/09/09/how-my-hobby-casino-gambling-saves-me-time-10/
+/index.php/2019/04/16/who-is-worried-about-how-to-write-a-synthesis-essay-ap-lang-and-why-you-should-be-paying-attention/ 1 -
+/.git/config 2 -
+/index.php/2019/03/15/which-are-the-ideal-techniques-for-educational-crafting/feed/ 2 -
+/index.php/2019/10/01/finding-exciting-puzzle/ 1 -
+/index.php/2019/04/10/bluebloods-luggage-punches-patriotism-that-is/ 1 -
+/index.php/2019/07/02/the-essay-papers-to-buy-game/ 1 -
+/index.php/2019/03/30/very-good-study-paper-matter-choose-just-one-with-us/ 1 -
+/index.php/2019/08/31/the-significance-as-a-result-of-rtp-3/ 1 -
+/index.php/2019/04/24/the-pitfall-of-perfect-school-assignment-authors/feed/ 1 -
+/wp-admin/includes.php 1 -
+/index.php/2019/05/24/die-wichtigste-frage-die-sie-sich-stellen-mssen-um-das-schreiben-zu-erlernen/feed/ 1 -
+/index.php/79-departamentos/79-ma 1 -
+/admin/.env 2 -
+/index.php/2019/03/25/unbiased-report-exposes-the-unanswered-questions-on-best-proofreading-services-2/ 2 -
+/index.php/2019/09/06/the-best-method-you-should-be-using-for-best-cheapest-essay-writing-service-usa/ 1 -
+/wp-admin/plugin-install.php 57 -
+/index.php/2019/06/05/the-advantages-of-professional-cover-letter-writer/feed/ 1 -
+/xmlrpc.php 316 -
+/old/ 1 -
+/blog/ 3 -
+/index.php/78-noticias 1 -
+/wp-content/wp-blog.php 1 -
+/plugins/content/apismtp/josmtpapi.php 1 http://www.google.com/
+/index.php/2019/03/ 3 -
+/index.php/2019/03/14/ought-to-i-use-we-or-i-in-computer-science-thesis-2/feed/ 1 -
+/index.php/2019/03/12/why-everyone-is-dealing-with-best-explore-written-documents-the-actual-facts-presented/ 1 -
+/wp-content/plugins/dzs-videogallery/admin/dzsuploader/upload.css 1 http://www.google.com/
+/index.php/2019/05/19/the-demise-of-paperhelp-org-review-4/ 1 -
+/index.php/2019/05/19/the-new-angle-on-book-report-ideas-just-released-3/ 1 -
+/wp-content/plugins/wp-time-capsule/wptc-dialog.css 1 -
+/index.php/2019/04/16/fraud-deceptions-and-downright-lies-about-smart-goals-about-a-fitness-assignment-exposed/feed/ 2 -
+/index.php/2019/07/09/how-to-update-most-used-installed-on-os-x-solved/%3EMy%20blog%3C/a%3E%3C/p%3E%20%5D%5D%3E%3C/content:encoded%3E%20%3Cwfw:commentRss%3Ehttp://tahoerealestatenews.com/2019/07/mucommander-52/feed/%3C/wfw:commentRss%3E%20%3Cslash:comments 1 -
+/index.php/2019/03/14/major-choices-of-school-research/feed/ 1 -
+/index.php/2019/05/23/best-cheap-professional-essay-writers-reviews-guide/feed/ 1 -
+/index.php/2019/03/26/secret-information-on-quantum-theory-explained-that-only-the-pros-know-exist-2/feed/ 2 -
+/index.php/2019/07/12/emergency-reaction-to-american-air-companies-14/ 1 -
+/index.php/2019/06/25/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-4/ 1 -
+/index.php/2019/04/page/3/ 1 -
+/index.php/2019/09/09/obtain-the-scoop-on-hobby-casino-gambling-before-2/ 3 http://epmc.gob.ec/index.php/2019/09/09/obtain-the-scoop-on-hobby-casino-gambling-before-2/
+/wp-content/themes/pagse.php 1 -
+/index.php/2019/03/22/the-downside-risk-of-academic-paper-that-no-one-is-talking-about-2/ 1 -
+/index.php/2018/07/08/deciding-upon-swift-plans-of-asian-women/feed/ 1 -
+/index.php/2019/10/14/miglior-azithromycin-generico/ 1 -
+/index.php/2019/03/28/heres-what-i-know-about-best-custom-paper/ 5 -
+/index.php/2019/05/19/the-pitfall-of-perfect-school-assignment-authors/ 1 -
+/temp/ 1 -
+/index.php/2019/05/20/what-pros-are-not-saying-about-how-to-write-a-study-paper-and-how-this-impacts-you/feed/ 1 -
+/index.php/2019/04/02/finding-the-best-scholarship-essay/ 2 -
+/index.php/ser/gt/titulos-habilitantes 1 -
+/index.php/2019/08/12/sham-wedding-in-the-united-states-just-how-much-it-12/ 1 -
+/administrator/language/en-GB/install.xml 1 -
+/wp-content/plugins/apikey/apikey.php 3 -
+/index.php/comments/feed/ 2 -
+/index.php/2019/03/18/how-personalized-really-should-my-college-essay-be/ 1 -
+/wp-content/plugins/wp-time-capsule/treeView/common.js 1 epmc.gob.ec
+/index.php/2019/08/30/the-with-game-titles-concerning-education/ 1 -
+/index.php/inicio/ 5 -
+/index.php/2019/08/26/improve-what-you-actually-experience-in-to-a/ 3 -
+/index.php/2019/03/28/how-to-create-a-fantastic-shopper-services-essay/feed/ 1 -
+/index.php/2019/05/22/definitions-of-expert-writers-reviews/feed/ 1 -
+/index.php/2017/06/25/life-after-dating/feed/ 1 -
+/index.php/2019/03/page/4/ 1 -
+/index.php/2019/07/30/sample-forum-web-site-can-somebody-provide-a/ 1 -
+/index.php/transparencia 1 -
+/index.php/ser/gtra/rtv/71-inicio 1 -
+/index.php/author/aortega/page/3/ 1 -
+/index.php/transparencia/2017 1 -
+/wp-config.original 1 -
+/site/wp-includes/wlwmanifest.xml 10 -
+/index.php/2018/09/20/realistic-products-for-best-beauty-brides/ 1 -
+/index.php/2019/09/09/not-known-facts-about-darts-themed-playtech-arcade/ 3 -
+/index.php/2019/05/19/heres-what-i-understand-about-university-document-creating-service-critiques-3/feed/ 1 -
+/admin/includes/general.js 1 -
+/wp-viewlog.php 1 -
+/index.php/2019/03/12/why-everyone-is-dealing-with-best-explore-written-documents-the-actual-facts-presented-2/ 1 -
+/index.php/2019/05/28/the-nuiances-of-quantum-mechanics-for-dummies/feed/ 1 -
+/index.php/2019/09/24/best-approved-online-drugstore-how-to-buy-ampicillin-in-usa/ 1 -
+/api/1/datasets/ 1 -
+/index.php/2019/09/12/how-stops-seem-to-be-identified/ 1 -
+/index.php/2019/03/22/the-factors-of-assist-formulating-essay-newspaper-3/feed/ 1 -
+/index.php/2019/05/ 3 -
+/index.php/2019/06/04/new-step-by-step-roadmap-for-how-to-create-a-correspondence/ 1 -
+/wp-config.php.old 1 -
+/2018/wp-includes/wlwmanifest.xml 10 -
+/index.php/2019/08/19/expedition-immediate-meilleur-prix-pour-dutasteride-bonus-livraison-gratuite/ 1 -
+/index.php/category/pay-someone-to-write-my-essay/ 1 -
+/wp-content/plugins/jquery-html5-file-upload/readme.txt 1 http://www.google.com/
+/index.php/feed/ 1 -
+/index.php/2019/05/19/what-to-expect-from-custom-essay-help/ 1 -
+/assets/images/portfolio/img8.jpg 3 -
+/index.php/2019/03/26/reported-hype-on-how-much-does-a-physicist-make-revealed-2/feed/ 1 -
+/wp-content/plugins/apikey/f0x.php 3 -
+/index.php/2019/03/29/531/ 1 -
+/wp-includes/wp-tmp.php 1 -
+/configuration.php 1 -
+/index.php/2019/07/09/the-do-this-get-that-guide-on-learning-theories-in-nursing-education-2/ 1 -
+/2016/wp-includes/wlwmanifest.xml 1 -
+/index.php/2019/10/08/cheap-voltaren-online-canada-best-pharmacy-online-offers-epmc-gob-ec/ 1 -
+/index.php/2019/04/16/understanding-custom-writing/ 1 -
+/index.php/2018/08/ 2 -
+/index.php/2019/06/12/the-fight-against-apa-format-research-paper-example/ 1 -
+/index.php/2018/08/25/trouble-free-solutions-of-foreign-brides-a-background/feed/ 1 -
+/wp-admin/wp-system.php 1 -
+/index.php/2019/08/18/academic-writing-a-scientific-analysis-article/ 1 -
+/index.php/2019/04/12/tips-on-how-to-publish-a-analysis-paper-in-big-data/ 2 -
+/2019/wp-includes/wlwmanifest.xml 9 -
+/index.php/2019/05/19/whats-actually-going-on-with-substrate-definition-biology-3/feed/ 1 -
+/index.php/noticia2 1 -
+/index.php/2019/09/09/new-report-reveals-the-low-down-on-hobby-casino/ 1 -
+/index.php/2019/06/10/hello-world-3/ 1 -
+/index.php/2019/09/18/what-you-do-not-know-about-mistakes-to-avoid-in/ 1 -
+/index.php/2019/04/23/do-the-following-to-discover-more-on-hire-an-essay-7/ 2 -
+/index.php/2019/08/06/payer-par-carte-visa-meilleur-achat-etoricoxib-en-ligne/ 1 -
+/index.php/2019/04/08/the-hidden-secret-of-criminal-law-topics/feed/ 2 -
+/index.php/2019/03/page/7/ 1 -
+/installer-backup.php 2 -
+/index.php/2019/09/24/ways-to-use-kids-games/ 1 -
+/index.php/category/uncategorized/page/5/ 1 -
+/index.php/79-dep 1 -
+/index.php/2018/08/21/compared-effective-secrets-for-viagra-online/ 1 -
+/index.php/2019/05/28/key-pieces-of-definition-of-quantum-3/feed/ 1 -
+/index.php/2019/03/07/vital-pieces-of-theories-in-nursing-research-2/ 1 -
+/index.php/2019/03/14/producing-an-introduction-crls-research-guidebook/feed/ 1 -
+/index.php/category/help-from-essay-writers/ 2 -
+/index.php/contact-us/4-buyer 1 -
+/assets/images/portfolio/img1.jpg 7 -
+/assets/images/antLogos.png 1 -
+/index.php/2019/03/29/grubby-info-about-buy-higher-education-essay-paperwork-exposed/feed/ 1 -
+/index.php/author/aortega/page/2/ 2 -
+/index.php/2019/10/11/ways-to-search-for-enjoy-real-money-poker/ 3 -
+/index.php/2019/04/02/the-look-of-outstanding-analyze-newspapers/ 1 -
+/index.php/2019/03/18/if-you-read-nothing-else-today-read-this-report-on-chemistry-molecular-approach-4th-edition-pdf/ 1 -
+/index.php/2019/07/16/1898/ 1 -
+/index.php/2019/05/19/whats-actually-going-on-with-substrate-definition-biology-4/feed/ 1 -
+/index.php/2019/03/15/the-assignment-authoring-online-game/ 1 -
+/index.php/2019/03/20/discover-the-scoop-on-examine-newspaper-authoring-assistance-previously-youre-too-far-gone/feed/ 1 -
+/index.php/2019/05/20/bonne-base-de-sociologie-sur-les-questions-de-recherche-expliques-2/feed/ 1 -
+/index.php/2019/05/28/the-number-one-article-on-marine-biology-colleges/ 1 -
+/index.php/2019/03/11/understanding-synthetic-biology/ 1 -
+/index.php/2019/05/19/heres-what-i-understand-about-university-document-creating-service-critiques-3/ 1 -
+/index.php/2019/05/19/the-pitfall-of-perfect-school-assignment-authors/feed/ 1 -
+/index.php/2019/07/10/how-to-sense-of-balance-action-story-and-talk-in-4/ 1 -
+/index.php/2019/09/24/cheapest-prices-vermox-100-mg-for-sale-online-no-prescription-pharmacy-online/ 1 -
+/index.php/2019/09/09/obtain-the-scoop-on-hobby-casino-gambling-until/ 1 -
+/index.php/transparencia/2015/e2015 1 -
+/index.php/2019/04/16/the-single-best-strategy-to-use-for-how-to-write-a-1000-word-essay/ 1 -
+/index.php/2019/03/26/reported-hype-on-how-much-does-a-physicist-make-revealed-3/feed/ 1 -
+/index.php/category/pay-for-essay/ 1 -
+/index.php/2019/10/08/how-can-i-get-januvia-cheaper/ 1 -
+/index.php/2019/05/20/bonne-base-de-sociologie-sur-les-questions-de-recherche-expliques/feed/ 1 -
+/index.php/2019/03/14/exactly-what-is-a-500-term-essay/feed/ 2 -
+/index.php/2019/03/21/the-key-of-compose-my-made-to-order-document-that-nobody-is-talking-over/ 1 -
+/index.php/2018/07/27/the-facts-on-no-fuss-secrets-for-my-top-brides/ 2 -
+/index.php/noticia3 1 -
+/wordpress/wp-includes/wlwmanifest.xml 10 -
+/index.php/2019/04/24/heres-what-i-understand-about-university-document-creating-service-critiques/ 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/files/199877.php 4 -
+/index.php/2019/03/16/the-hidden-truth-on-examples-of-good-reviews-uncovered/ 3 -
+/index.php/2019/03/20/discover-the-scoop-on-examine-newspaper-authoring-assistance-previously-youre-too-far-gone/ 1 -
+/website/wp-includes/wlwmanifest.xml 10 -
+/index.php/2019/06/04/what-everyone-is-saying-about-narrative-essay-for-sale-5/ 1 -
+/index.php/2019/03/12/shorter-write-up-clearly-shows-the-undeniable-information-about-task-crafting-and-in-what-ways-it-may-possibly-have-an-affect-on-you/ 1 -
+/index.php/2019/03/18/how-personalized-really-should-my-college-essay-be/feed/ 1 -
+/index.php/2019/04/18/the-most-popular-definition-of-discreet/ 1 -
+/bitrix/admin/index.php 1 -
+/index.php/2019/06/20/top-5-wta-in-acest-moment-1/ 1 -
+/index.php/2019/10/10/utilizing-your-with-online-poker-real-money-to/ 1 -
+/index.php/2019/05/19/the-pitfall-of-perfect-school-assignment-authors-2/feed/ 1 -
+/administrator/index.php 274 -
+/new/ 2 -
+/index.php/2019/08/12/the-insider-secret-on-nursing-practices-and-theories-uncovered/ 1 -
+/index.php/2019/09/06/academic-essay-composing-for-efl-learners-4/ 1 -
+/index.php/2019/04/22/obtain-english-essays-on-line-instant-english-essay-composing-aid/ 1 -
+/index.php/2019/09/09/not-known-details-about-hobby-casino-gambling-made-2/ 1 -
+/index.php/2019/10/06/bestall-lioresal-piller-epmc-gob-ec/ 1 -
+/index.php/2019/05/29/valuable-techniques-for-term-papers-help-you-can-begin-to-use-immediately-3/feed/ 1 -
+/engl/pages.php 1 -
+/index.php/2019/03/29/the-actual-key-of-compose-my-specialized-document-that-nobody-is-going-over/feed/ 1 -
+/index.php/blog/page/2/ 1 -
+/index.php/2019/08/31/how-to-create-your-own-website-47/ 1 https://google.com
+/index.php 10 -
+/assets/js/fancybox/jquery.fancybox.css 2 http://www.epmc.gob.ec/portafolio.html
+/api/3/action/site_read 1 -
+/wp-config.php.bak 1 -
+/index.php/2019/06/11/how-you-can-save-cash-with-process-essay-subjects/ 1 -
+/index.php/2018/09/15/essential-details-of-rusbrides-in-the-uk/feed/ 1 -
+/index.php/2019/05/19/whats-actually-going-on-with-substrate-definition-biology/feed/ 1 -
+/index.php/2019/04/08/the-hidden-secret-of-criminal-law-topics/ 1 -
+/index.php/2019/07/16/analysis-of-brand-name-loyalty-around-chinas-25/ 1 -
+/ninja.php 1 -
+/index.php/2019/03/14/the-indisputable-truth-about-evolutionary-biology-that-no-one-is-sharing-with-you/feed/ 1 -
+/index.php/2019/03/15/the-advantages-of-how-to-write-a-chapter-outline/ 1 -
+/index.php/2019/05/19/what-lots-of-folks-are-indicating-about-get-your-essay-online-and-precisely-whatever-you-need-do-2/feed/ 1 -
+/wp-config.php.orig 1 -
+/index.php/2019/04/16/new-queries-about-purchase-advanced-schooling-essay-records-answered-and-why-you-must-read-virtually-every-phrase-in-this-document/ 2 -
+/2015/wp-includes/wlwmanifest.xml 1 -
+/templates/system/css/system.css 2 -
+/plugins/system/debug/debug.xml 1 -
+/index.php/2019/04/16/the-us-writing-services-game/ 1 -
+/index.php/2019/08/25/meilleur-ordre-de-levitra-oral-jelly-20-mg-medicaments-bon-marche/ 1 -
+/wp-admin/admin.php 6 -
+/index.php/servicios 1 -
+/index.php/2019/03/30/very-good-study-paper-matter-choose-just-one-with-us/feed/ 1 -
+//wp-content/x.php 1 -
+/feed 1 -
+/index.php/author/aortega/ 3 -
+/index.php/2019/07/27/wahl-bachelor-arbeit-aussetzen-ist-einfach/ 1 -
+/index.php/category/best-russian-brides-photos/feed/ 1 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 http://www.google.com/
+/contact.html 28 -
+/index.php/2018/09/12/rapid-solutions-of-new-wife-where-to-go/ 1 -
+/wp-networks.php 1 -
+/index.php/2019/03/22/the-downside-risk-of-academic-paper-that-no-one-is-talking-about-2/feed/ 1 -
+/main/ 1 -
+/index.php/2019/05/25/tutor-approaches-for-student-achievement/feed/ 1 -
+/index.php/80-nove/75-nuevodier 1 -
+/wp-content/plugins/uploadify/readme.txt 1 http://www.google.com/
+/index.php/2019/05/19/heres-what-i-understand-about-university-document-creating-service-critiques-2/ 1 -
+/index.php/2017/06/ 2 -
+/index.php/2019/09/12/why-everyone-is-speaing-frankly-about-casino-the/ 1 -
+/adminer.php 8 -
+/index.php/2019/03/07/vital-pieces-of-theories-in-nursing-research-2/feed/ 1 -
+/index.php/2019/09/12/casino-games-to-play-no-longer-a-mystery/ 2 -
+/web/wp-includes/wlwmanifest.xml 10 -
+/index.php/2019/07/26/interracial-websites-939/ 1 https://google.com
+/fckeditor/editor/filemanager/connectors/php/upload.php 3 -
+/index.php/2018/07/17/realistic-wife-now-advice-around-the-usa/feed/ 1 -
+/index.php/2019/03/26/reported-hype-on-how-much-does-a-physicist-make-revealed/feed/ 2 -
+/index.php/2018/07/08/deciding-upon-swift-plans-of-asian-women/ 2 -
+/index.php/2019/03/12/shorter-write-up-clearly-shows-the-undeniable-information-about-task-crafting-and-in-what-ways-it-may-possibly-have-an-affect-on-you/feed/ 1 -
+/wp/ 3 -
+/index.php/2019/07/09/how-to-update-most-used-installed-on-os-x-solved/%3EMy%20blog%3C/a%3E%3C/p%3E%3C/div%3E%20%3C!--%20.entry-content%20--%3E%3C!--%20You%20can%20start%20editing%20here.%20--%3E%3Csection%20id= 1 -
+/index.php/2019/04/22/probably-the-most-fact-that-is-disregarded-about-18/ 2 -
+/wp-system.php 1 -
+/index.php/2019/07/09/how-to-update-most-used-installed-on-os-x-solved/%3Eread%20more%3C/a%3E%3C/p%3E%0A%09%09%09%09%09%09%09%3C/div%3E%0A%0A%09%09%09%09%09%09%09%09%09%09%09%09%3Cdiv%20class= 1 -
+/index.php/2019/04/15/how-to-get-a-recent-dissertation-subject-on-behavioral-finance/ 1 -
+/index.php/2019/07/09/much-better-than-a-free-web-site-builder-4/ 1 -
+/web/ 2 -
+/index.php/2019/08/19/pilules-generiques-en-ligne-ropinirole-meilleur-prix-livraison-express/ 1 -
+/wordpress/ 3 -
+/site/ 2 -
+/assets/images/img2.jpg 3 https://www.google.com/
+/index.php/2019/04/19/choosing-good-essay-writer-service/ 1 -
+/manageDeveloper/create/ 1 -
+/index.php/2019/08/19/ou-puis-je-acheter-des-robaxin-generiques-livraison-dans-le-monde-3-7-jours/ 1 -
+/index.php/2019/06/23/3-purposes-why-you-maest-still-sole-reason-1-you-4/ 1 -
+/index.php/transparencia/2016/ 1 -
+/admin/ 2 -
+/index.php/2019/05/28/the-pitfall-of-best-buy-essay/feed/ 1 -
+/index.php/2019/05/21/the-honest-to-goodness-truth-on-best-urgent-essay-writing-service/feed/ 1 -
+/index.php/2019/07/13/the-importance-of-movie-star-carr-mesolithic-77/ 1 -
+/index.php/category/uncategorized/page/3/ 1 -
+/wp-config.php.original 1 -
+/index.php/2017/07/08/the-secret-of-shocking-news-that-nobody-is-discussing/feed/ 1 -
+/index.php/2019/03/29/very-best-order-low-cost-essays-choices/feed/ 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/ 4 -
+/index.php/category/uncategorized/page/2/ 2 -
+/images/portfolio/img8.jpg 2 -
+/tmp/ 1 -
+/user/ 1 -
+/assets/images/44.png 3 https://www.google.com/
+/index.php/2019/06/05/the-advantages-of-professional-cover-letter-writer/ 1 -
+/index.php/2019/03/20/a-secret-weapon-for-essay-format-for-college/feed/ 1 -
+/wp-admin/plugins.php 6 -
+/index.php/ser/gtra/matri 1 -
+//wp-content/plugins/formcraft/file-upload/server/php/ 1 -
+/index.php/2019/03/11/understanding-synthetic-biology/feed/ 1 -
+/index.php/category/best-dating-sites/ 1 -
+/assets/js/jquery.isotope.min.js 2 http://www.epmc.gob.ec/portafolio.html
+/index.php/2019/09/18/giving-best-games-as-presents/ 1 -
+/.svn/wc.db 1 -
+/wp-admin 3 -
+/index.php/2019/03/26/if-you-read-nothing-else-today-read-this-report-on-what-are-quantum-mechanics/ 1 -
+/phpminiadmin.php 8 -
+/Adminer.php 10 -
+/test/ 1 -
+/index.php/2019/09/18/buy-genuine-xalatan-online/ 1 -
+/index.php/2019/04/16/purchasing-thesis-definition-literature/feed/ 1 -
+/index.php/2019/05/19/very-best-essay-freelance-writers-on-line-tips-that-nobody-is-mindful-of-6/feed/ 1 -
+/index.php/2019/03/16/where-to-find-writing-essay-service/feed/ 1 -
+/index.php/2019/10/07/making-fail-harder-job-than-transferring/ 1 -
+/index.php/2019/03/18/the-upside-to-essay-writing-competition/feed/ 1 -
+/api/catalog/v1 1 -
+/index.php/2019/10/10/ways-to-shop-for-with-online-poker-real-money/ 8 http://epmc.gob.ec/index.php/2019/10/10/ways-to-shop-for-with-online-poker-real-money/
+/index.php/2019/05/23/einfhrungstipps-zum-schreiben-eines-bewerbungsschreibens-2/feed/ 1 -
+/index.php/2019/05/19/the-demise-of-paperhelp-org-review-4/feed/ 1 -
+/index.php/category/quick-loan-near-me/ 1 -
+/index.php/transparencia/ 3 -
+/.git/HEAD 9 -
+/index.php/2019/05/29/valuable-techniques-for-term-papers-help-you-can-begin-to-use-immediately-2/feed/ 1 -
+/index.php/2019/09/18/acheter-du-professional-cialis-pas-cher-epmc-gob-ec/ 1 -
+/index.php/category/thesis-writer/feed/ 1 -
+/test/.env 2 -
+/index.php/2019/04/11/how-can-professors-treat-paper-writing-companies/ 1 -
+/index.php/2019/06/ 1 -
+/index.php/2019/08/28/9-every-single-day-advise-for-typically-the/ 3 -
+/index.php/2019/05/21/the-unusual-puzzle-into-how-to-write-a-suggestion-essay-paper/feed/ 1 -
+/index.php/2019/09/18/things-you-should-know-about-playing-games/ 1 -
+/index.php/2019/03/22/the-factors-of-assist-formulating-essay-newspaper-3/ 1 -
+/index.php/category/popular-dating-tips-2019/ 1 -
+/wp1/wp-includes/wlwmanifest.xml 10 -
+/index.php/2019/06/09/die-beliebteste-hausarbeit-writgre/ 1 -
+/wp/wp-includes/wlwmanifest.xml 10 -
+/index.php/inicio 1 -
+/index.php/2019/07/09/how-to-update-most-used-installed-on-os-x-solved/%3Econtinue%20reading%3C/a%3E%3C/p%3E%3C/div%3E%3Cnav%20class= 1 -
+/index.php/2019/04/02/finding-the-best-scholarship-essay/feed/ 2 -
+/index.php/2019/08/06/lioresal-pas-cher-en-ligne-100-satisfaction-garantie/ 1 -
+/index.php/2019/04/10/bluebloods-luggage-punches-patriotism-that-is/feed/ 2 -
+/index.php/2019/07/12/hello-world-5/ 1 -
+/wp-includes/wp-guide.php 1 -
+/index.php/2019/03/12/do-you-know-the-various-styles-of-exploration-documents-2/feed/ 1 -
+/administrator/ 2 -
+/index.php/2019/03/page/5/ 1 -
+/index.php/2019/03/14/ought-to-i-use-we-or-i-in-computer-science-thesis/feed/ 1 -
+/index.php/2019/04/24/the-reality-that-is-indisputable-about-essay-4/ 2 -
+/index.php/2019/07/09/how-to-update-most-used-installed-on-os-x-solved/%3EMy%20blog%3C/a%3E%3C/p%3E%3Cdiv%20class= 1 -
+/index.php/author/tbz0g4nxmw/ 1 -
+/index.php/2019/03/12/do-you-know-the-various-styles-of-exploration-documents-2/ 1 -
+/index.php/79-departamentos 1 -
+/index.php/2019/09/08/how-hobby-casino-gambling-changed-our-lives-in-the-8/ 1 http://epmc.gob.ec/index.php/2019/09/08/how-hobby-casino-gambling-changed-our-lives-in-the-8/
+/index.php/2019/03/19/custom-thesis-writing-service-secrets/ 2 -
+//wp-content/plugins/formcraft/file-upload/server/php/files/199877.php 1 -
+/wp-content/plugins/radykal-fancy-gallery/admin/generate-code.php 1 http://www.google.com/
+/.env 14 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1174
+197.156.92.153 7153 7153 2952493 20200112171525
+80.82.64.208 1132 1132 487782 20200114144925
+134.249.141.83 841 841 346287 20200113031621
+178.137.86.30 766 766 320637 20200108110757
+178.137.82.147 590 590 242844 20200113004240
+194.61.24.29 512 512 210590 20200109124350
+10.252.221.1 272 272 0 20200113115409
+144.76.174.7 81 81 75270 20200130063048
+181.211.103.246 61 263 5240903 20200131120501
+181.113.39.190 47 381 9615290 20200131120415
+66.249.88.35 45 437 15286842 20200130133735
+192.188.58.228 44 245 7657344 20200114101522
+66.249.88.39 42 447 13332617 20200130151430
+66.249.88.37 41 450 13110669 20200130133734
+176.123.10.97 35 35 14674 20200112142231
+109.70.100.23 30 30 88585 20200114210633
+185.220.101.34 23 23 116502 20200119170858
+149.202.198.71 21 21 20651 20200111082248
+185.220.101.26 20 20 69492 20200126035417
+5.196.12.2 18 18 17697 20200113104406
+138.68.57.207 18 18 17703 20200113115411
+212.83.158.218 18 18 17712 20200113030147
+212.83.173.109 18 18 17718 20200107043553
+212.129.19.195 16 16 16740 20200122135112
+216.126.198.2 15 15 14752 20200113075434
+173.236.149.184 9 9 8853 20200113043335
+104.238.110.15 9 9 8850 20200112031648
+50.63.167.184 9 9 8856 20200106074336
+186.5.86.42 3 21 1151516 20200108110457
+104.223.14.87 2 2 8370 20200121000617
+212.83.150.174 12 12 11816 20200113115843
+190.63.1.20 0 1 70216 
+142.4.209.40 6 6 5905 20200113044713
+167.99.204.251 3 3 2954 20200102152034
+181.188.200.78 3 27 732035 20200122123732
+176.10.104.240 9 9 55917 20200119190155
+62.210.36.185 3 3 2951 20200106114249
+103.247.217.145 3 3 2951 20200112032715
+163.172.45.60 12 12 11810 20200113105414
+190.63.255.44 2 29 893079 20200114154307
+167.71.118.16 3 3 2948 20200108065908
+109.70.100.25 1 1 21212 20200114224243
+93.114.234.116 3 3 2951 20200109084550
+167.114.43.93 3 3 0 20200102072059
+5.253.19.24 0 1 106276 
+128.199.244.150 6 6 5899 20200108224727
+166.62.123.55 6 6 5905 20200112054446
+159.89.99.68 3 3 2948 20200102184701
+190.152.144.117 3 32 841224 20200130085020
+186.46.174.85 2 28 841224 20200117191513
+201.183.173.132 2 29 893079 20200122195545
+139.129.58.9 2 2 1414 20200106014258
+139.59.17.116 3 3 2948 20200109145738
+159.203.77.108 1 6 43612 20200115031242
+18.27.197.252 2 2 21212 20200126035120
+190.193.107.3 4 23 1128313 20200107142710
+179.49.25.242 4 55 1680207 20200121155010
+51.79.143.221 2 2 0 20200111200046
+37.59.57.87 3 3 2954 20200103123536
+192.227.75.65 1 3 216737 20200115210428
+180.190.175.50 1 1 0 20200101191207
+178.128.244.166 6 6 5896 20200110130737
+190.63.148.213 1 1 0 20200101230741
+139.59.185.173 9 9 8847 20200112043528
+200.7.246.162 0 6 761180 
+47.89.247.10 3 3 2948 20200110083814
+212.47.244.208 3 3 2948 20200108124240
+64.246.165.160 1 1 4185 20200117165738
+46.99.251.145 1 1 0 20200104060347
+208.113.171.192 3 3 2948 20200111043609
+190.152.215.85 5 54 1668263 20200122113913
+45.125.239.234 3 3 2951 20200104004051
+181.39.150.238 6 39 2434125 20200102102314
+125.162.165.72 1 1 0 20200104055848
+50.3.79.62 3 3 0 20200112044231
+109.70.100.26 10 10 35585 20200115144740
+103.209.65.12 1 3 256460 20200131042836
+178.128.103.151 3 3 2948 20200108072624
+139.59.15.78 3 3 2948 20200108120221
+190.214.121.133 2 28 841224 20200123083928
+178.128.62.227 6 6 5899 20200111125340
+188.166.233.216 3 3 2948 20200109220255
+181.211.112.218 0 1 174032 
+200.85.80.147 2 30 893081 20200115150136
+45.224.98.171 0 1 101908 
+131.196.8.239 2 28 841224 20200117140801
+35.205.169.93 3 3 2951 20200112052535
+103.23.155.30 3 3 2593 20200106012933
+164.163.160.11 2 29 893079 20200118035921
+132.148.144.101 3 3 2948 20200111070741
+181.39.216.192 1 20 669270 20200129075239
+200.32.69.253 2 28 841224 20200115231712
+158.69.27.201 6 6 5905 20200106032235
+45.70.13.211 2 29 893079 20200127083439
+37.59.107.31 3 3 2954 20200113094640
+46.150.98.94 1 1 0 20200107055401
+138.68.136.152 6 6 5902 20200113095812
+200.110.69.61 2 28 841224 20200121152543
+148.72.31.117 3 3 2948 20200109130658
+186.46.174.251 2 30 892222 20200130215919
+68.183.184.7 6 6 5899 20200110023718
+186.42.105.226 2 28 841224 20200117150159
+51.38.177.209 2 2 8370 20200117071818
+195.154.114.140 3 3 2948 20200111084455
+132.148.105.132 9 9 8847 20200112034134
+186.42.107.241 2 28 841224 20200123101856
+186.42.104.8 0 1 70216 
+186.46.89.222 2 28 840218 20200122145358
+178.128.203.170 6 6 5905 20200106015004
+23.111.128.179 3 3 2954 20200103010219
+94.102.75.131 6 6 5902 20200112041337
+145.239.76.171 6 6 5896 20200108234700
+179.49.27.132 2 31 905190 20200116175005
+181.198.88.130 2 14 904056 20200103154139
+201.219.1.72 2 28 841224 20200121124835
+163.172.19.244 2 2 1536 20200110044047
+67.205.153.74 3 3 2948 20200111133947
+45.55.173.232 6 6 5902 20200112030651
+93.185.103.30 1 1 4185 20200115120126
+186.46.224.0 1 4 0 20200122174028
+208.109.54.127 9 9 8856 20200103223601
+139.99.45.201 3 3 2951 20200106065346
+104.197.75.152 6 6 5899 20200107091822
+165.227.13.226 6 6 5899 20200111044613
+94.181.224.221 1 1 0 20200104060047
+186.46.172.112 2 27 838983 20200119072255
+176.241.54.127 3 3 2951 20200106035011
+186.46.224.214 0 1 70216 
+201.219.59.5 2 28 841224 20200115143540
+195.176.3.24 1 1 4185 20200123072010
+104.236.100.42 3 3 2948 20200109154658
+45.40.166.141 3 3 2954 20200102042114
+94.230.208.147 1 1 21212 20200119035702
+117.3.46.25 3 3 2948 20200110010322
+104.248.16.13 3 3 2948 20200110125651
+198.12.148.12 3 3 2948 20200103050925
+144.217.70.190 6 6 5896 20200111111036
+186.46.207.123 2 29 1015256 20200122162057
+69.163.169.133 3 3 2951 20200112022619
+128.199.194.77 6 6 5902 20200107113725
+104.236.75.62 3 3 2948 20200109174247
+5.135.129.180 6 6 5896 20200110042819
+139.59.171.46 3 3 2951 20200112050333
+181.113.115.170 0 3 56935 
+51.38.37.154 6 6 5896 20200107232936
+94.249.224.242 1 1 21212 20200113221123
+91.134.248.230 6 6 5902 20200113093556
+200.125.229.102 1 20 669270 20200124170015
+185.132.124.6 6 6 5899 20200112033531
+186.46.174.41 2 29 893079 20200127202850
+165.227.80.35 6 6 5899 20200110005238
+47.75.172.46 6 6 5899 20200106030508
+165.22.240.9 2 2 2713 20200109090358
+179.49.61.79 0 1 427374 
+51.15.65.170 12 12 11798 20200111061442
+59.188.30.116 3 3 2948 20200111105058
+104.131.36.183 3 3 2954 20200101230628
+91.122.30.68 3 3 63636 20200118233954
+190.152.200.197 2 11 387558 20200103170813
+170.244.209.26 0 2 28465 
+50.63.12.204 6 6 5899 20200108014041
+149.56.19.4 9 9 8856 20200102230247
+66.249.88.103 13 74 2277820 20200131112827
+69.163.193.103 3 3 2951 20200109065723
+47.254.157.107 1 1 0 20200108232628
+190.152.128.79 2 29 867134 20200127084603
+181.112.224.117 7 57 2328530 20200122145845
+200.85.83.101 1 20 669270 20200128232614
+185.220.101.61 2 2 42424 20200119035640
+110.4.45.140 3 3 2948 20200108034553
+103.6.198.62 6 6 5899 20200109143717
+190.63.150.159 0 1 70216 
+199.244.88.124 1 1 0 20200111012257
+148.66.143.78 3 3 2948 20200102133834
+172.110.31.26 3 3 2948 20200110035452
+23.83.124.132 3 3 0 20200110140733
+144.217.80.190 9 9 8847 20200111131227
+186.42.104.220 2 28 841224 20200120135503
+131.196.8.19 4 59 1966318 20200128082020
+165.227.89.212 6 6 5902 20200109092353
+35.185.165.27 3 3 2951 20200106052329
+47.56.98.190 6 6 0 20200106221215
+186.46.224.24 3 31 920685 20200116114822
+45.55.135.88 3 3 2954 20200103174117
+51.83.2.148 3 3 2951 20200106055045
+66.249.88.55 1 6 431953 20200116145633
+139.59.146.28 3 3 2951 20200102180557
+91.121.183.135 12 12 11795 20200111124210
+186.47.136.177 2 30 958616 20200131103502
+35.233.15.246 3 3 2951 20200103114518
+181.175.131.168 2 29 886134 20200117201150
+188.165.233.82 9 9 8847 20200110085150
+198.245.50.208 6 6 5905 20200106042959
+182.236.107.123 3 3 2948 20200102225630
+192.188.58.18 2 28 841224 20200131112954
+167.99.144.169 4 5 110461 20200115222406
+167.99.226.184 6 6 5896 20200109231412
+45.120.5.195 1 1 0 20200106032216
+166.62.100.99 3 3 2948 20200102051526
+190.11.3.30 2 30 1112063 20200114151333
+163.172.42.123 6 6 5902 20200103100115
+181.198.24.147 0 1 70216 
+5.196.27.37 6 6 5899 20200112021043
+91.121.9.92 6 6 5905 20200112052825
+62.210.69.43 3 3 2951 20200107021102
+186.46.172.181 2 28 841224 20200129141504
+41.0.5.86 5 5 0 20200107104446
+159.65.19.39 6 6 5896 20200111123342
+186.3.123.50 0 6 314510 
+128.199.200.225 12 12 11798 20200113064813
+103.6.198.31 3 3 2948 20200111144610
+46.105.102.68 9 9 8850 20200106070602
+167.99.93.153 3 3 2951 20200109071424
+181.113.17.92 2 14 782304 20200103151051
+47.91.220.119 3 3 2951 20200112025733
+82.208.17.144 6 6 5902 20200103025356
+104.140.210.178 1 1 4185 20200125030300
+217.182.197.93 6 6 5902 20200112031927
+157.230.36.169 3 3 2948 20200110021912
+181.188.201.109 6 34 1924933 20200109183852
+62.102.148.69 11 11 56750 20200119035822
+163.172.199.18 3 3 2948 20200111024651
+35.225.174.227 1 1 0 20200105105730
+181.198.137.105 0 1 70216 
+185.79.115.147 6 6 5899 20200111073909
+87.118.76.186 3 3 2951 20200102170626
+186.46.173.175 2 28 841224 20200121163535
+103.81.85.21 6 6 5899 20200112023910
+51.75.140.161 9 9 8847 20200109131803
+34.87.100.216 6 6 5541 20200112041949
+173.212.234.175 6 6 0 20200105153019
+192.188.58.9 0 2 327668 
+190.152.211.85 2 28 809652 20200121213559
+159.89.9.140 3 3 2948 20200107225820
+45.94.232.60 1 2 110461 20200129090117
+185.126.67.12 1 1 0 20200103051847
+131.196.115.87 0 4 124463 
+159.65.185.253 3 3 2948 20200109134808
+185.58.227.18 3 3 2954 20200102123817
+190.216.213.61 2 28 841224 20200120135228
+185.220.101.35 5 5 68042 20200121093232
+190.63.236.111 2 2 0 20200113091054
+181.199.53.90 0 8 408828 
+104.131.68.92 3 3 2948 20200108144628
+200.77.188.110 0 1 102207 
+103.74.120.201 6 6 5902 20200109081738
+185.220.101.0 1 1 612 20200105151630
+85.204.246.193 1 1 4185 20200117234946
+40.112.169.64 6 6 5902 20200106023814
+35.247.138.99 9 9 8850 20200108103527
+68.183.238.246 6 6 5902 20200108004302
+41.139.247.106 4 4 4491 20200103042945
+212.83.162.129 15 15 14767 20200106212326
+165.22.106.100 9 9 8853 20200111030452
+167.71.134.157 3 3 2948 20200110093213
+190.152.204.23 2 29 893079 20200114212530
+192.99.15.15 9 9 71719 20200117234109
+186.46.201.161 0 1 106276 
+193.203.49.32 2 2 0 20200106065200
+190.63.150.52 0 3 62560 
+35.225.78.10 3 3 2951 20200106004424
+62.210.129.123 6 6 5899 20200106140844
+51.68.11.231 3 3 2951 20200106075011
+132.148.80.15 1 1 0 20200111015949
+167.71.175.204 3 3 2948 20200108041336
+186.46.174.167 2 29 893079 20200127082440
+178.34.188.52 3 3 2948 20200111140719
+196.247.213.150 3 3 0 20200102092538
+181.196.52.58 2 28 841224 20200129163056
+77.104.139.135 2 2 0 20200106032501
+181.198.14.124 2 28 841224 20200127075836
+121.42.49.168 3 3 2948 20200111085745
+159.89.144.7 6 6 5896 20200110101035
+212.83.146.219 3 3 2954 20200103060703
+46.101.156.202 3 3 2951 20200103030527
+171.232.54.7 1 1 0 20200107033826
+186.46.226.183 3 33 1132373 20200128210104
+77.247.181.163 3 3 42645 20200114210617
+186.42.106.232 3 15 784934 20200111194449
+67.205.10.77 6 6 5899 20200112034520
+167.114.89.149 1 1 0 20200106145958
+109.70.100.22 1 1 21212 20200120040724
+45.252.250.11 6 6 5899 20200103211117
+114.129.18.94 3 3 0 20200105023015
+131.196.9.12 0 1 70216 
+66.249.88.99 11 59 1519502 20200113122959
+173.212.225.23 3 3 2954 20200103085808
+93.113.111.100 9 9 8844 20200109114625
+66.115.173.18 9 9 8850 20200112030950
+59.188.26.200 3 3 2948 20200108105824
+148.66.135.152 3 3 2951 20200106035425
+186.46.226.172 2 27 838983 20200121173641
+52.78.59.142 3 3 2948 20200107225002
+186.178.19.77 0 1 427374 
+190.63.117.4 0 1 70216 
+46.118.153.134 2 2 42424 20200119031355
+202.29.98.3 3 3 2948 20200111050519
+185.220.101.45 3 3 833 20200112030105
+150.95.12.102 3 3 2954 20200113054955
+186.42.105.96 2 11 387558 20200109155549
+181.188.201.216 2 29 893079 20200121080933
+70.118.3.102 4 4 3192 20200104082801
+212.90.45.139 2 2 0 20200106173631
+207.246.240.101 1 1 0 20200102211431
+198.27.67.87 6 6 5902 20200112040401
+64.225.66.211 3 3 4185 20200115223550
+202.137.155.95 8 8 8982 20200110124830
+181.113.97.149 2 11 387558 20200107130554
+186.46.175.224 3 42 1485449 20200126093525
+178.17.171.115 2 2 42424 20200114210648
+181.175.146.195 0 1 177935 
+107.170.233.150 3 3 2948 20200109135835
+5.253.19.135 1 1 4185 20200115131909
+92.62.142.49 3 3 2951 20200112043837
+118.125.237.120 0 1 150180 
+77.120.176.171 1 1 4185 20200129170952
+149.129.78.223 1 1 1176 20200112022206
+157.7.184.19 3 3 2951 20200112050642
+43.245.216.69 1 2 110461 20200131073423
+159.203.188.165 1 2 110461 20200116154412
+186.3.241.151 12 97 3658819 20200131133143
+165.22.251.121 6 6 5899 20200112061046
+132.148.104.16 6 6 5902 20200113042213
+104.248.146.1 6 6 5899 20200112021602
+185.99.99.206 1 1 0 20200102034734
+162.214.21.81 3 3 2954 20200104023554
+45.70.197.155 1 20 669270 20200121070624
+195.154.154.89 3 3 2951 20200102033657
+203.124.43.233 3 3 0 20200102083635
+35.232.39.107 1 1 4185 20200118175842
+198.245.49.22 9 9 8859 20200107232949
+190.152.130.67 8 45 1925638 20200109161538
+5.45.75.97 1 1 21212 20200113130329
+35.231.206.60 3 3 2948 20200103231208
+181.39.210.115 2 28 841224 20200127130155
+138.197.198.27 3 3 2948 20200109150610
+159.203.70.169 3 3 2954 20200113080544
+180.183.233.199 1 1 0 20200105003438
+87.118.77.156 3 3 2951 20200103132005
+162.144.79.223 12 12 11798 20200111103641
+195.206.105.217 8 8 13714 20200112162543
+115.79.93.181 1 1 0 20200101191907
+66.249.88.57 1 9 143906 20200116145638
+118.69.238.10 6 6 5896 20200109190402
+35.225.211.131 3 3 2954 20200102055140
+173.236.152.114 3 3 2951 20200103072629
+64.202.189.187 6 6 5902 20200102130512
+165.227.182.180 3 3 2954 20200102022829
+51.75.250.10 6 6 5902 20200112044739
+148.72.211.251 3 3 2951 20200106031331
+190.63.126.112 0 1 70216 
+5.253.19.21 1 1 4185 20200115155555
+170.244.209.25 2 29 893079 20200123071120
+181.112.9.246 0 1 244241 
+159.65.246.30 6 6 5902 20200109180541
+202.137.155.111 4 4 4491 20200109150942
+50.63.166.50 3 3 2951 20200104042013
+186.46.251.122 4 22 1068127 20200106115947
+166.62.85.53 3 3 2948 20200111052407
+192.99.108.166 3 3 0 20200111213113
+62.210.9.65 3 3 2948 20200104063859
+35.221.229.5 6 6 5908 20200113111913
+185.220.100.252 2 2 21824 20200115144650
+181.113.151.122 0 1 101908 
+167.88.7.134 4 4 3922 20200112004505
+149.202.45.11 3 3 2954 20200113032739
+164.40.240.150 3 3 2951 20200102193245
+162.241.176.39 9 9 8853 20200107130332
+188.165.130.148 6 6 5899 20200108012943
+167.99.231.250 6 6 5905 20200106072508
+51.83.76.139 7 7 13493 20200112211447
+181.112.137.69 5 87 3911172 20200130111311
+40.89.159.38 6 6 127272 20200128230712
+34.84.103.120 3 3 2951 20200106022020
+97.74.236.9 3 3 2954 20200102082431
+186.46.224.136 0 1 70216 
+202.46.129.204 3 3 2951 20200102050410
+192.210.223.10 1 1 0 20200112181515
+186.65.35.195 2 28 841224 20200122091636
+178.128.169.88 3 3 2948 20200107163239
+62.210.110.51 3 3 2951 20200106234846
+198.27.80.123 3 3 5951 20200109080048
+45.119.212.14 3 3 2948 20200107231913
+5.253.19.22 0 2 212552 
+68.183.217.198 3 3 2951 20200112042705
+185.220.101.32 2 2 42424 20200119154950
+162.219.250.25 3 3 2948 20200103150318
+159.89.110.45 6 6 5905 20200102223936
+158.174.122.199 10 10 154482 20200120045400
+45.55.93.245 6 6 5896 20200111022840
+192.169.200.145 3 3 2948 20200108055020
+128.199.212.194 3 3 2948 20200111114300
+165.227.204.253 3 3 2954 20200102085741
+145.239.69.74 3 3 2948 20200102074815
+107.150.64.10 1 2 110461 20200129152641
+104.131.58.179 6 6 5899 20200108141804
+159.89.168.88 3 3 2951 20200106032740
+118.172.192.29 1 1 0 20200104060248
+69.163.215.247 3 3 2948 20200109215124
+179.43.134.154 11 11 98341 20200120045306
+162.144.60.165 3 3 2948 20200110054822
+170.244.209.98 7 53 2104695 20200121130041
+84.17.51.14 1 1 0 20200109093658
+208.113.160.7 3 3 2948 20200110114203
+139.180.168.32 6 6 5899 20200107151044
+185.220.101.73 3 3 21824 20200126035120
+202.62.13.210 1 1 0 20200101191607
+190.63.119.220 2 29 893079 20200127195900
+186.46.227.102 3 37 1770996 20200127105631
+190.111.82.177 1 6 70218 20200120144112
+134.209.5.43 3 3 2951 20200109052903
+167.250.205.50 0 1 262960 
+157.230.55.177 6 6 5899 20200108092402
+54.37.21.211 3 3 2948 20200111100346
+40.90.190.194 3 3 2948 20200108220646
+142.93.47.171 12 12 11807 20200111122234
+190.152.236.67 3 15 784934 20200105161210
+200.7.246.159 7 33 1967273 20200113104204
+35.230.162.59 3 3 2951 20200112025052
+190.152.210.118 3 29 845409 20200130163615
+134.209.203.238 3 3 2948 20200103024909
+109.70.100.27 6 6 13540 20200112194551
+186.42.105.49 5 86 2264927 20200127093706
+190.214.121.55 5 24 1157195 20200110082954
+186.42.106.114 0 1 244241 
+172.245.242.180 1 1 0 20200112181513
+69.58.178.28 1 1 4185 20200117122820
+88.218.116.144 3 3 0 20200102090751
+147.135.211.127 9 9 8847 20200112045712
+186.101.137.51 1 16 544807 20200120122841
+186.46.158.2 6 87 2821109 20200122120330
+50.3.136.146 3 3 0 20200108080850
+68.183.67.68 3 3 2954 20200104054125
+113.161.70.172 1 1 1176 20200103130142
+46.101.84.165 6 6 5899 20200108231814
+202.137.155.235 4 4 4491 20200107014316
+104.248.195.110 3 3 2948 20200104020108
+162.144.123.107 3 3 2948 20200109111701
+151.106.10.142 2 2 42424 20200123195524
+89.245.33.141 3 3 2948 20200108142904
+62.102.148.68 15 15 60649 20200126040016
+186.47.86.53 6 86 2794511 20200129143628
+206.189.47.188 2 2 1539 20200103193207
+37.59.14.72 3 3 2948 20200107114717
+137.74.199.200 3 3 2948 20200108081137
+165.227.232.119 3 3 2951 20200112045133
+190.152.237.46 1 20 669270 20200124122940
+80.211.52.62 9 9 8850 20200113105509
+14.161.36.215 9 9 8850 20200109065021
+142.93.2.157 4 6 216737 20200114014139
+106.249.25.137 12 12 11798 20200109223434
+72.34.55.130 3 3 2948 20200110030630
+190.63.235.197 2 28 838126 20200127044601
+36.68.52.206 1 1 0 20200107033726
+190.152.245.18 2 11 387558 20200102195412
+13.52.242.41 3 3 2948 20200110094441
+165.227.203.208 4 4 4124 20200110095747
+107.170.255.48 3 3 2951 20200106062430
+23.83.90.70 1 2 110461 20200123232742
+174.138.1.99 3 3 2951 20200109085451
+128.199.249.213 6 6 5896 20200111011226
+66.102.7.96 1 9 80068 20200121042849
+185.220.101.67 9 9 14326 20200112162409
+162.214.14.226 6 6 5902 20200109115705
+45.178.3.17 0 1 106276 
+200.31.24.162 2 29 943431 20200121230410
+186.178.44.208 2 28 841224 20200128103752
+117.48.201.107 3 3 2951 20200103162148
+186.46.174.23 4 17 787982 20200108120452
+218.94.117.234 2 2 0 20200104094020
+190.12.51.75 3 34 1117296 20200122091924
+43.229.84.112 3 3 2948 20200108135029
+85.10.22.166 6 6 5899 20200109080449
+66.249.83.96 1 1 12503 20200102151620
+207.180.246.61 1 1 4185 20200123191137
+172.245.254.169 4 14 1256607 20200120171704
+35.189.72.205 12 12 11792 20200111143642
+185.220.101.3 3 3 3344 20200112201136
+202.137.155.96 4 4 4491 20200107212428
+195.170.168.40 3 3 2954 20200102162343
+186.42.106.41 1 1 12501 20200106225644
+79.137.41.208 6 6 5896 20200111145541
+113.161.0.2 1 1 0 20200101191307
+190.152.178.214 0 1 70216 
+151.80.147.11 6 6 5896 20200111034019
+185.220.101.27 3 3 5998 20200112030040
+209.99.134.208 3 3 0 20200105210500
+184.75.211.140 3 3 0 20200101212531
+80.4.151.140 3 3 2948 20200107144159
+157.230.153.203 3 3 2948 20200108232644
+190.152.8.170 4 25 1335874 20200106130546
+200.85.83.197 3 36 964359 20200121120609
+89.46.125.39 1 1 612 20200105151755
+46.214.10.107 4 4 4491 20200101225152
+185.220.101.68 8 8 33074 20200126035525
+159.65.155.134 6 6 5902 20200108012123
+201.7.210.50 6 6 5902 20200113031506
+190.111.93.168 0 1 70216 
+217.107.219.12 6 6 5899 20200110003156
+138.197.94.75 3 3 2954 20200102172542
+193.41.4.170 1 1 0 20200104190030
+104.244.74.97 1 1 612 20200113002412
+47.75.126.75 3 3 2948 20200110041814
+159.89.39.130 1 10 353764 20200122191620
+5.253.19.18 1 1 4185 20200130201224
+123.31.43.173 15 15 14746 20200111102520
+144.217.7.33 1 1 21212 20200119035829
+181.39.253.235 4 17 787982 20200108190133
+35.205.179.40 6 6 5899 20200112052201
+50.63.165.245 6 6 5547 20200106050226
+186.46.201.114 2 27 838983 20200131065435
+207.55.255.20 3 3 2951 20200106014546
+200.124.229.71 4 17 787982 20200110103909
+185.220.101.74 1 1 0 20200112201403
+91.121.79.16 3 3 42424 20200128125313
+190.63.1.222 2 29 893079 20200129105955
+47.52.204.228 9 9 8850 20200111031214
+62.164.176.194 3 3 2954 20200102000556
+45.70.13.170 2 28 841224 20200122143813
+196.245.186.153 1 2 110461 20200123055430
+159.203.176.82 6 6 5896 20200110015041
+167.250.180.5 2 14 782304 20200102152857
+202.73.26.34 3 3 2951 20200102150240
+35.239.243.107 9 9 8847 20200110012009
+109.248.147.23 1 1 2487 20200109070727
+200.85.83.112 2 30 958616 20200129220524
+69.162.79.242 9 9 8850 20200111132033
+142.93.59.35 6 6 5896 20200107131331
+192.99.39.157 9 9 8847 20200111105907
+190.152.41.240 3 32 841224 20200121120917
+10.252.221.55 0 12 911 
+103.31.235.14 3 3 2951 20200101231735
+199.249.230.112 1 1 21212 20200114215240
+69.163.224.109 6 6 5896 20200111080106
+212.83.174.252 7 7 7084 20200107180937
+34.76.172.157 3 3 2951 20200106035932
+114.238.59.92 0 1 161498 
+188.165.228.86 6 6 5896 20200111015344
+190.152.44.254 2 30 1112063 20200127100029
+186.4.214.37 2 28 841224 20200121132317
+107.150.64.62 3 3 0 20200112225751
+186.46.195.19 5 29 1495636 20200107085328
+190.63.126.52 0 1 70216 
+54.37.131.90 4 4 16740 20200125170110
+188.163.104.82 1 1 0 20200107115107
+50.63.163.199 3 3 2954 20200103213032
+93.113.110.46 15 15 14743 20200111041718
+188.226.142.195 3 3 2951 20200106064201
+84.3.198.123 3 3 2948 20200108075854
+177.36.8.226 3 3 2948 20200111135809
+142.93.73.213 1 10 353764 20200130221815
+192.210.201.158 1 1 0 20200112181515
+190.63.126.107 2 26 838124 20200127131717
+62.162.103.206 3 3 2951 20200103065646
+138.197.7.55 1 6 43612 20200125123918
+81.0.120.26 3 3 2948 20200111023702
+192.42.116.16 4 4 3899 20200105064421
+139.99.9.139 3 3 0 20200107091642
+45.55.5.34 3 3 2951 20200106015826
+104.131.203.173 6 6 5902 20200108230714
+165.22.191.129 3 3 2954 20200102062110
+192.99.47.10 12 12 11801 20200112051702
+173.236.176.15 3 3 2948 20200102015342
+213.32.20.107 9 9 8853 20200109075741
+66.70.160.187 6 6 5899 20200108084706
+198.27.74.64 3 3 2948 20200108082252
+167.172.175.119 9 9 8853 20200109161826
+212.83.166.238 10 10 10038 20200113050736
+109.70.100.21 3 3 63636 20200120040806
+210.19.220.179 6 6 5902 20200108014952
+157.100.56.29 0 1 70216 
+217.11.133.41 4 4 4491 20200108052628
+181.188.201.73 0 1 70216 
+154.127.59.254 3 3 2951 20200103062601
+207.246.75.153 3 3 0 20200112211241
+139.59.2.181 6 6 5899 20200109162915
+195.228.79.79 3 3 2948 20200103160045
+64.111.127.81 3 3 2948 20200108032638
+185.50.196.127 6 6 5899 20200112042311
+45.70.15.186 1 20 669270 20200126154909
+5.39.90.107 0 1 443348 
+80.211.50.102 6 6 5899 20200112055705
+149.56.129.129 3 3 2948 20200111032136
+176.31.134.73 3 3 2951 20200109055921
+200.24.212.25 0 1 70216 
+45.55.57.150 1 10 353764 20200126192254
+186.42.104.229 0 1 174032 
+128.199.43.109 1 1 4185 20200115183133
+202.137.154.58 4 4 4491 20200108061434
+209.99.135.243 1 1 0 20200106032214
+190.152.131.146 0 2 151538 
+128.140.227.114 3 3 0 20200101015740
+139.59.4.145 12 12 11795 20200109175504
+159.89.1.19 3 3 2948 20200111094200
+190.63.150.150 3 29 823062 20200123173553
+104.238.99.51 9 9 8844 20200110011157
+72.9.150.20 6 6 5908 20200103015904
+45.252.248.18 3 3 2948 20200111081151
+208.97.188.13 3 3 2948 20200110064840
+201.183.176.200 2 29 893079 20200121155008
+66.102.6.224 1 11 143364 20200121044020
+109.87.200.193 3 3 2948 20200107132420
+202.137.154.154 4 4 4491 20200110100515
+200.7.247.250 0 1 70216 
+190.63.1.122 5 36 1260423 20200130125117
+51.255.35.172 12 12 11801 20200112040048
+5.100.249.231 1 1 0 20200104012517
+200.125.230.120 0 1 427374 
+95.154.200.177 1 1 0 20200104164355
+159.89.19.171 6 6 5902 20200113074459
+138.201.195.97 3 3 0 20200103142419
+132.148.151.162 3 3 2951 20200102132355
+157.230.248.89 6 6 5899 20200108223848
+81.16.10.158 9 9 8850 20200113050107
+103.74.123.6 3 3 2951 20200103055702
+149.129.87.85 1 1 1176 20200105051820
+177.134.145.52 1 1 0 20200101191407
+45.94.233.135 3 3 0 20200109003050
+5.188.62.25 1 1 4185 20200117135504
+138.68.80.235 3 3 2948 20200111113202
+96.8.117.93 3 3 0 20200110145054
+23.94.5.108 1 1 0 20200102005011
+104.244.78.55 1 1 21212 20200119200342
+212.92.117.55 1 1 0 20200105162319
+159.89.171.251 3 3 2951 20200109055145
+202.154.182.254 3 3 2951 20200106023040
+168.90.199.243 3 3 0 20200108163241
+128.199.180.123 6 6 5896 20200109140757
+46.165.245.154 3 3 63636 20200120040759
+47.90.22.78 3 3 2951 20200109082059
+190.63.119.151 0 3 94200 
+167.250.180.82 7 57 1881387 20200131095959
+112.197.2.11 3 3 2951 20200102114945
+190.111.82.107 3 16 785352 20200111210619
+186.47.137.94 0 1 262960 
+5.39.87.36 3 3 2951 20200112044112
+103.15.226.14 3 3 2948 20200111010348
+62.210.185.4 9 9 8850 20200107084102
+128.199.58.60 3 3 2948 20200111055549
+167.99.227.112 6 6 5899 20200106041908
+186.46.203.185 0 1 70216 
+23.83.90.98 1 1 0 20200108120806
+186.46.172.18 0 1 70216 
+200.125.228.186 2 11 387557 20200101202038
+188.165.214.104 1 1 0 20200105132920
+103.28.52.65 3 3 2954 20200103232055
+190.152.201.165 2 31 1210866 20200122112049
+109.70.100.20 2 2 42424 20200119200206
+181.112.107.124 2 28 841224 20200127090153
+46.101.119.30 6 6 5902 20200107162058
+117.2.57.231 1 1 0 20200104055948
+186.46.227.129 2 28 841224 20200122065618
+209.99.136.243 3 3 0 20200110005516
+186.65.35.91 1 20 669270 20200120143319
+51.255.83.132 6 6 5899 20200112043201
+186.4.188.237 1 20 669270 20200127112052
+192.169.216.153 12 12 11807 20200112033901
+104.248.118.0 3 3 2951 20200102135720
+68.183.75.36 3 3 2951 20200109091437
+66.249.83.99 1 1 12503 20200116132643
+67.205.12.204 6 6 5896 20200104012606
+89.216.124.253 3 3 2951 20200109062957
+138.68.24.138 3 3 2954 20200103120443
+181.39.254.61 1 20 669270 20200124113955
+179.49.7.16 4 23 1154565 20200113112214
+195.154.83.65 6 6 5902 20200108100022
+41.226.28.41 3 3 2951 20200112053452
+45.133.223.245 1 1 0 20200108073232
+178.62.26.232 6 6 5902 20200110124739
+72.52.87.94 2 28 841224 20200121222525
+194.36.99.79 1 1 21212 20200127223216
+120.26.95.190 12 12 11795 20200112021313
+190.214.120.186 1 4 397376 20200113091822
+195.154.29.107 3 3 2948 20200107120901
+139.59.141.196 3 3 2948 20200108110837
+103.141.234.19 6 6 5896 20200111025501
+195.154.41.214 3 3 8486 20200108220759
+142.93.125.73 3 3 2951 20200106004854
+181.199.58.137 0 2 83232 
+178.128.56.22 3 3 2954 20200113060106
+86.59.84.5 4 4 0 20200106125413
+186.46.174.169 2 29 946213 20200123082145
+167.99.12.47 3 3 2951 20200109084956
+5.182.210.228 6 6 5899 20200109072920
+5.39.74.233 12 12 11807 20200113063527
+168.1.65.202 1 1 4185 20200121010220
+193.58.111.242 1 1 0 20200106105344
+192.169.219.72 3 3 2951 20200106075527
+35.203.155.125 3 3 2951 20200106060159
+142.93.209.221 3 3 2954 20200103064506
+165.22.94.219 6 6 5902 20200112022128
+202.137.155.249 4 4 4491 20200108182452
+64.90.36.114 6 6 5902 20200112025359
+122.53.152.40 6 6 5538 20200110040636
+212.227.86.196 3 3 0 20200101102937
+167.71.45.56 6 6 5908 20200113053722
+188.213.175.168 1 1 0 20200109201036
+54.229.112.37 6 6 5899 20200104040451
+118.69.174.108 6 6 5896 20200110031656
+52.7.252.127 3 3 2951 20200102023939
+74.125.210.7 0 27 1048722 
+23.81.232.36 1 1 4185 20200123140017
+198.100.146.94 6 6 5902 20200106065424
+178.32.222.131 3 3 2954 20200103133717
+138.68.52.53 6 6 5896 20200108033636
+186.42.105.251 2 31 933938 20200117144747
+104.236.127.247 6 6 5896 20200110063632
+206.189.231.196 3 3 2948 20200109234622
+185.220.101.62 3 3 23592 20200115144632
+176.107.187.165 2 2 0 20200106065210
+45.117.81.117 12 12 11801 20200112050015
+35.200.180.182 6 6 5899 20200103233412
+186.42.105.9 2 28 841224 20200117110224
+181.199.51.136 2 32 879647 20200128211745
+149.56.101.239 6 6 5902 20200107123056
+149.56.164.52 3 3 0 20200105185547
+213.149.103.132 9 9 8847 20200107103024
+159.203.36.18 3 3 2951 20200109085838
+178.128.148.115 1 1 1176 20200113065348
+40.87.53.102 6 6 5902 20200103110226
+200.121.132.141 1 1 0 20200101192007
+181.196.72.171 2 28 841224 20200127215250
+186.46.174.68 2 31 1356304 20200121185122
+209.97.175.191 3 3 2951 20200109054438
+60.191.38.77 1 1 21212 20200127132915
+190.12.74.162 3 3 2951 20200112022413
+14.248.83.23 3 3 2948 20200108154318
+190.152.161.6 0 2 854748 
+186.47.152.244 3 18 670752 20200103103451
+200.7.247.78 5 59 1718833 20200130110602
+186.46.185.248 4 56 1682448 20200120084253
+159.203.27.100 3 3 2948 20200107090536
+103.53.43.114 4 4 0 20200105093227
+181.199.52.160 4 31 945175 20200121155222
+104.131.139.147 3 3 2948 20200110081305
+103.48.193.25 6 6 5896 20200108214149
+162.211.109.201 3 3 2951 20200112042909
+200.125.244.21 2 29 893079 20200120172707
+195.176.3.20 8 8 4994 20200112174450
+157.245.167.35 3 3 2951 20200103152040
+185.220.101.20 6 6 6279 20200112004530
+190.152.176.196 3 34 1190372 20200124143655
+185.220.101.79 15 15 20652 20200112004524
+159.89.86.92 6 6 5899 20200112024224
+182.239.43.161 6 6 5896 20200111035848
+148.72.209.9 3 3 2948 20200109230421
+132.148.240.164 3 3 2954 20200104071847
+165.22.35.21 6 6 5902 20200113051142
+178.62.33.222 3 3 2948 20200110062516
+37.59.52.44 6 6 5899 20200112051225
+118.89.215.65 12 12 11795 20200109170050
+198.46.178.93 1 1 21212 20200118095355
+185.220.101.48 6 6 6279 20200105064429
+186.47.137.10 4 19 1068290 20200108161924
+195.222.48.151 3 3 2948 20200108212009
+91.199.212.132 0 3 252 
+200.85.83.208 2 32 879647 20200127092534
+79.172.193.32 5 5 106060 20200115144734
+77.247.181.162 7 7 47540 20200114170437
+190.152.163.230 2 28 809652 20200120205508
+192.249.120.54 3 3 2954 20200113034003
+178.128.101.79 6 6 5899 20200109235423
+192.99.58.112 9 9 8850 20200109133749
+65.74.177.90 6 6 5899 20200112022920
+157.39.154.66 1 1 0 20200104060448
+186.42.105.114 0 1 70216 
+201.219.1.92 2 9 0 20200129160533
+212.83.177.142 9 9 8856 20200107092122
+185.220.101.75 3 3 43036 20200114202457
+190.63.115.2 0 1 70216 
+162.144.90.220 2 2 0 20200106111537
+142.4.22.236 9 9 8850 20200108130208
+46.37.172.123 2 2 0 20200107094957
+178.128.153.159 3 3 2951 20200112033302
+185.220.101.66 9 9 14373 20200112171440
+168.90.199.119 2 2 0 20200108042637
+68.183.48.14 6 6 5896 20200109172104
+167.250.180.146 3 50 1720472 20200128220414
+74.125.210.1 4 26 714332 20200126061840
+123.16.32.67 1 1 0 20200104060649
+149.129.73.26 1 1 1176 20200105051725
+208.109.53.185 3 3 2951 20200112060634
+200.107.20.142 0 1 70216 
+45.70.14.89 0 1 70216 
+35.186.147.101 3 3 2951 20200106053918
+198.12.156.214 6 6 5896 20200108145542
+181.112.60.238 1 20 669270 20200121141125
+162.247.74.216 1 1 21212 20200119035856
+123.134.177.97 0 1 177935 
+185.217.170.41 2 2 8370 20200118073120
+167.71.255.193 2 2 0 20200109025537
+34.76.23.163 3 3 2951 20200109062628
+159.203.11.4 9 9 8847 20200112053846
+146.185.183.107 6 6 5896 20200109221314
+181.112.9.163 2 28 841224 20200128122144
+89.238.167.46 1 1 0 20200113032856
+165.231.85.216 3 3 0 20200110090924
+173.236.72.146 3 3 2951 20200102183532
+125.214.60.254 1 1 0 20200104060148
+46.101.226.14 3 3 2948 20200109163853
+81.177.33.14 3 3 2951 20200102101439
+23.95.50.21 6 6 5896 20200109151644
+200.63.105.132 1 1 4185 20200121072320
+181.112.9.122 2 28 841224 20200124083808
+5.157.37.237 1 2 110461 20200130064002
+178.62.76.138 4 4 4130 20200107075605
+104.245.144.61 3 3 0 20200110051055
+91.134.142.57 6 6 5899 20200108053018
+117.3.132.207 1 1 0 20200101191707
+5.157.24.211 1 1 21212 20200121164621
+190.152.130.38 2 28 838985 20200121095534
+157.230.227.105 6 6 5902 20200109233416
+40.76.79.184 3 3 2954 20200102065101
+200.85.80.37 0 1 70216 
+164.132.98.229 12 12 11804 20200112021806
+118.31.1.246 3 3 2951 20200112041136
+164.132.100.13 9 9 8856 20200104053416
+200.125.235.182 0 1 427374 
+51.15.189.102 3 3 2951 20200104073215
+51.15.252.118 1 1 4185 20200129235542
+113.35.251.98 3 3 0 20200111104123
+159.65.37.182 1 10 353764 20200114143036
+134.209.216.249 3 3 2948 20200111013752
+36.226.172.236 6 6 5896 20200107142220
+51.91.19.92 6 6 5899 20200107135312
+92.222.21.103 3 3 2951 20200112054723
+190.63.150.142 2 26 838124 20200127175446
+186.46.139.213 4 42 1623527 20200128094322
+104.248.40.59 6 6 5902 20200113071011
+163.172.33.155 3 3 0 20200105003229
+191.101.239.230 6 6 5899 20200103004505
+167.172.139.65 3 3 2948 20200108214844
+131.196.9.30 2 29 893079 20200123150318
+190.63.150.167 0 1 70216 
+51.77.141.154 3 3 2948 20200110082527
+52.233.231.186 1 1 4185 20200124033427
+162.209.73.182 6 6 5908 20200102052101
+45.70.197.38 3 15 784934 20200109103832
+181.188.200.161 2 24 673572 20200129145308
+186.47.76.110 2 30 1112063 20200117124207
+190.152.147.150 2 14 782303 20200109102804
+35.233.93.152 3 3 2951 20200104014455
+159.138.157.64 0 1 280805 
+34.214.77.189 1 1 4185 20200125131847
+181.198.24.227 1 22 723366 20200122092441
+116.58.38.84 1 1 0 20200101191506
+37.202.0.11 1 1 4185 20200122204320
+181.113.65.164 2 28 841224 20200117145752
+185.220.101.6 1 1 0 20200112174513
+186.42.104.146 2 28 841224 20200116093717
+157.245.233.164 6 6 5902 20200112063249
+138.68.180.18 1 1 4185 20200118064644
+190.152.15.116 2 28 841224 20200121125441
+159.203.197.196 2 31 879645 20200121042830
+129.205.112.223 2 2 4974 20200106021855
+200.7.246.89 2 30 958616 20200118080627
+149.202.139.17 4 4 21212 20200127003305
+93.61.66.140 4 4 4491 20200110193556
+190.152.129.183 0 1 70216 
+198.71.63.24 6 6 5902 20200112035435
+112.113.118.43 0 1 161498 
+181.199.50.70 0 1 70216 
+185.220.101.5 3 3 63636 20200120045408
+51.254.118.224 9 9 8844 20200108160028
+188.166.181.139 3 3 2948 20200107222225
+193.42.111.92 3 3 2948 20200102012601
+190.63.111.135 4 13 387558 20200113083814
+180.253.169.177 3 3 0 20200102120852
+159.203.27.87 3 3 2954 20200101220610
+66.102.7.103 0 6 62559 
+95.217.60.75 2 2 0 20200106203100
+139.59.136.84 9 9 8847 20200111091928
+190.63.1.136 2 33 889956 20200124122315
+188.166.111.207 3 3 2954 20200103044816
+85.133.220.134 12 12 11795 20200112030122
+181.188.201.195 1 1 64466 20200124153717
+45.55.47.16 6 6 5896 20200109112610
+118.69.244.146 2 2 1772 20200103130145
+54.38.36.244 3 3 2948 20200107150124
+131.196.8.225 2 28 841224 20200127175027
+176.241.2.149 6 6 5902 20200112061312
+103.90.227.222 1 1 0 20200101043606
+146.148.73.246 2 2 0 20200106225943
+109.70.100.29 9 9 14373 20200105151643
+186.46.226.61 4 22 1068128 20200104214315
+190.63.212.247 0 1 82871 
+66.186.19.5 1 1 0 20200102193310
+186.46.172.145 2 31 1356304 20200127081400
+103.221.235.225 1 1 4185 20200123160948
+12.34.228.240 3 3 2948 20200102181523
+5.182.26.126 1 1 4185 20200115131023
+195.176.3.19 2 2 612 20200113002358
+202.137.154.16 4 4 4491 20200102073318
+181.113.17.93 2 14 782304 20200108074535
+167.71.39.221 3 3 2948 20200102110031
+178.128.31.218 3 3 2951 20200102200423
+186.42.107.13 2 15 960239 20200109160815
+177.75.69.142 3 3 0 20200113120309
+115.84.92.250 4 4 4491 20200105040600
+195.176.3.23 2 2 42424 20200114170456
+186.46.122.82 2 30 1112063 20200127101759
+186.4.182.71 2 30 1112063 20200113203114
+148.66.133.15 6 6 5899 20200112030352
+94.23.21.52 6 6 5899 20200112062320
+104.238.103.16 3 3 2948 20200107210257
+104.248.151.112 6 6 5896 20200111101505
+103.143.173.25 9 9 8853 20200108020851
+200.7.211.27 3 48 1510494 20200129174820
+185.220.101.70 2 2 42424 20200119185931
+179.43.134.156 10 10 14373 20200112201327
+139.199.189.213 3 3 2951 20200103104551
+113.161.77.45 4 4 4491 20200104195645
+23.100.232.233 8 64 256788 20200111152152
+103.51.103.3 3 3 2948 20200111121310
+89.36.220.145 3 3 2948 20200109173252
+181.112.9.137 2 30 1112063 20200115074608
+192.188.46.103 2 28 841224 20200117120842
+190.152.210.1 2 29 893079 20200126205723
+35.200.161.138 3 3 2951 20200112044447
+190.152.130.81 0 1 70216 
+178.128.72.117 6 6 5905 20200113052429
+103.115.8.7 3 3 0 20200103212455
+185.220.101.72 1 1 21212 20200115144717
+96.9.208.102 5 5 8370 20200122230604
+185.220.101.25 5 5 106060 20200119185747
+181.188.195.18 2 29 867822 20200129101459
+181.199.52.11 2 28 841224 20200121154702
+186.42.105.58 2 2 0 20200110202920
+107.180.71.116 3 3 2951 20200106034452
+186.47.74.253 6 84 2523672 20200129142928
+118.169.47.229 3 3 2951 20200112062917
+186.46.168.44 2 28 841224 20200127083019
+104.196.7.246 3 3 2954 20200113100849
+139.59.5.179 3 3 2948 20200102174934
+190.152.235.46 0 1 177935 
+47.75.128.216 9 9 8859 20200104010122
+109.95.156.7 1 1 0 20200102000009
+181.196.51.10 2 27 838983 20200122193129
+209.217.245.186 6 6 5896 20200109183944
+64.22.104.67 3 3 2948 20200111063536
+200.7.247.158 0 1 70216 
+46.165.230.5 9 9 55964 20200119184041
+103.5.150.16 3 3 2954 20200103224255
+192.99.149.195 12 12 11801 20200112051950
+47.240.70.133 1 1 1176 20200112023352
+164.132.195.231 3 3 2948 20200110051313
+188.165.251.196 3 3 2948 20200111112029
+181.169.161.159 3 3 0 20200109193033
+181.188.201.249 0 1 70216 
+69.16.196.58 1 1 4185 20200115190353
+188.80.22.177 3 3 2948 20200108155113
+128.199.223.127 15 15 14746 20200111083501
+185.45.66.14 3 3 2948 20200110004208
+178.62.2.40 3 3 2951 20200102030812
+188.213.28.140 3 3 0 20200104182922
+97.74.232.21 9 9 8850 20200107101754
+46.101.63.219 3 3 2948 20200102085059
+181.198.184.195 5 59 1790343 20200130193728
+190.111.82.212 2 29 893079 20200121184317
+223.199.19.106 3 3 0 20200107123611
+202.137.141.121 4 4 4491 20200102212859
+51.77.119.185 9 9 8847 20200109232438
+46.101.150.9 3 3 2951 20200112032328
+91.231.87.91 2 2 0 20200106065215
+167.99.123.34 3 3 2590 20200109212851
+167.99.70.191 3 3 2954 20200113110718
+190.152.204.108 2 14 782304 20200101185509
+157.230.238.19 3 3 2954 20200103071516
+217.12.210.142 2 2 0 20200106065206
+54.174.55.34 1 1 0 20200107143913
+103.74.121.142 9 9 8850 20200113113119
+192.99.32.25 6 6 5896 20200110024701
+113.161.33.240 6 6 5902 20200103235422
+118.217.181.116 6 6 5899 20200108125151
+67.205.57.217 6 6 5899 20200102211750
+201.218.0.186 2 28 841224 20200117113247
+37.17.229.244 3 3 2948 20200109164923
+165.22.209.251 9 9 8847 20200108003234
+212.98.92.23 3 3 2954 20200102134358
+196.196.50.197 1 1 4185 20200115162608
+51.38.39.222 6 6 5905 20200113062423
+186.47.137.235 2 17 1163897 20200102150208
+159.89.126.252 6 6 5899 20200109070611
+186.46.175.37 2 29 893079 20200130213216
+181.196.106.27 4 39 1228781 20200129160009
+158.69.158.103 9 9 190908 20200128213010
+51.255.101.8 12 12 11804 20200109060605
+45.228.180.8 2 30 893081 20200127144905
+66.249.88.96 13 69 1838246 20200131112826
+181.211.35.67 4 39 1010937 20200129172010
+23.102.153.172 3 3 2951 20200104062621
+104.248.144.208 3 3 2948 20200102092325
+157.230.16.157 3 3 2951 20200112034800
+148.72.23.181 3 3 2948 20200102123415
+23.236.232.174 1 1 0 20200112115907
+103.48.192.203 3 3 2951 20200106071206
+188.240.223.5 1 1 4185 20200122173639
+181.211.98.130 3 16 785352 20200102140033
+14.161.45.83 4 4 4491 20200102034544
+142.93.65.231 1 1 0 20200110082822
+200.7.246.236 4 58 1737208 20200121144552
+186.46.173.245 2 32 1600545 20200127091028
+93.114.86.226 3 3 2948 20200111064613
+142.93.231.15 13 13 12977 20200113003610
+185.99.98.42 1 1 0 20200110022142
+132.255.70.76 6 6 5896 20200111011859
+178.62.236.68 3 3 2951 20200112045348
+178.62.9.122 15 15 14746 20200112063544
+66.102.6.230 0 6 286445 
+157.230.45.52 3 3 2951 20200102112059
+192.99.100.51 3 3 2951 20200102203344
+54.174.53.223 1 1 0 20200128143836
+213.39.63.107 4 4 4491 20200109133719
+50.116.97.126 6 6 5899 20200106030922
+138.197.6.76 1 6 43612 20200115162602
+66.102.7.99 6 13 151401 20200121042853
+201.234.215.172 2 28 841224 20200129111226
+190.152.209.60 2 28 841224 20200121150926
+159.203.127.89 1 10 353764 20200118172115
+190.99.79.40 2 28 841224 20200121110043
+181.39.223.20 5 44 1675581 20200130221054
+37.59.60.115 6 6 5896 20200108030745
+159.65.104.150 3 3 2951 20200106055707
+175.126.62.163 3 3 2948 20200103220153
+103.81.84.140 3 3 2948 20200110071448
+54.174.55.36 1 1 0 20200114143846
+166.62.80.109 3 3 2954 20200113092516
+121.52.87.39 1 2 110461 20200131003345
+190.152.211.112 2 28 841224 20200129172303
+159.203.107.212 6 6 5899 20200109074925
+113.161.95.217 4 4 4491 20200110073329
+202.137.141.147 4 4 4491 20200102183740
+181.188.200.81 0 1 70216 
+200.85.83.200 3 22 756288 20200129202643
+186.46.200.160 2 28 841224 20200121214348
+123.116.48.178 3 27 842309 20200119204211
+139.99.121.22 5 7 220922 20200129001238
+118.238.4.201 6 6 5905 20200109053251
+66.102.6.228 2 10 274492 20200121042829
+45.70.197.25 5 65 2434342 20200128100526
+139.59.92.2 3 3 2948 20200102201652
+8.208.20.89 5 5 0 20200106164023
+185.100.87.206 2 2 42424 20200119183849
+200.107.21.239 0 1 427374 
+206.189.153.181 3 3 2948 20200103105727
+192.169.158.224 6 6 5899 20200107125234
+223.25.99.37 3 3 2948 20200111012836
+181.188.200.255 2 29 893079 20200118090156
+186.46.173.85 5 24 1071176 20200102175317
+64.90.48.202 6 6 5902 20200104005435
+186.46.92.162 5 94 4430729 20200128110619
+194.36.96.93 3 3 0 20200111123818
+115.84.99.246 4 4 4491 20200109133424
+212.83.189.102 9 9 8856 20200105163037
+186.47.136.143 3 15 784933 20200108132120
+46.101.104.225 3 3 2948 20200111054443
+167.99.251.192 3 3 2951 20200103021030
+213.32.91.71 1 1 1176 20200101045355
+185.220.101.12 2 2 21212 20200114174703
+186.47.136.220 0 1 70216 
+164.163.161.62 2 28 841224 20200128113310
+167.86.69.24 3 3 2951 20200102053309
+142.93.99.56 9 9 8844 20200108094802
+181.39.242.92 2 28 841224 20200129180853
+181.112.138.35 1 1 2630 20200102113706
+37.59.46.20 9 9 8844 20200109113706
+45.82.199.103 3 3 0 20200112102027
+190.63.239.94 2 28 892220 20200120135701
+116.58.54.141 1 1 0 20200101191806
+186.42.104.154 4 35 907627 20200128204607
+37.187.198.246 1 1 403 20200104012228
+181.198.137.23 2 29 893079 20200127231414
+51.68.11.211 3 3 2951 20200112024728
+103.22.250.194 6 6 5899 20200111040750
+104.131.167.134 3 3 2948 20200102172039
+104.238.73.216 9 9 8853 20200108043143
+128.199.254.23 3 3 2951 20200102122323
+186.4.177.139 2 28 841224 20200121114428
+194.6.231.247 1 1 21212 20200120061606
+167.99.74.119 3 3 2951 20200104000745
+109.232.240.12 2 28 841224 20200120135538
+185.99.99.254 1 1 0 20200103123917
+200.85.83.50 0 1 70216 
+172.245.253.188 4 14 1256607 20200114021047
+181.199.53.147 0 2 488482 
+193.58.110.161 1 1 0 20200109030857
+165.227.206.114 1 1 1176 20200101130602
+35.195.69.244 1 5 546873 20200101162334
+164.163.160.19 2 30 1112063 20200127133518
+181.177.115.193 3 3 0 20200108042122
+144.217.255.89 10 10 56138 20200119183856
+138.197.43.206 6 6 5899 20200109084213
+186.148.172.16 4 4 4491 20200108092252
+54.174.55.120 1 1 0 20200121143913
+190.63.236.138 0 1 70216 
+181.199.52.226 2 36 1020083 20200126171048
+159.65.91.112 2 2 0 20200111123919
+202.137.155.94 4 4 4491 20200104065317
+107.179.19.68 3 3 2948 20200107214752
+162.241.182.166 3 3 2948 20200102164837
+66.249.88.56 0 12 220777 
+209.217.19.2 3 3 2951 20200103083904
+176.10.99.200 10 10 8797 20200112194430
+138.197.96.238 1 1 0 20200106042419
+213.7.90.180 1 1 0 20200104060547
+62.210.232.250 6 6 5899 20200103201700
+148.72.207.135 6 6 5902 20200110103334
+74.125.210.5 2 25 354034 20200126061836
+198.144.181.243 1 1 21212 20200124095419
+208.113.153.203 3 3 2951 20200112061948
+167.71.98.73 3 3 2948 20200111130216
+185.220.101.44 9 9 55917 20200126035253
+178.128.236.202 9 9 8856 20200108153247
+54.37.100.120 12 12 11795 20200111051459
+200.107.18.106 2 28 841224 20200114160434
+198.245.60.109 9 9 8856 20200113040340
+192.162.165.22 1 1 0 20200108141145
+142.93.174.86 3 3 2948 20200110060043
+138.68.245.137 12 12 11798 20200109063817
+201.183.163.79 4 16 784934 20200108152932
+181.198.11.83 2 28 841224 20200131145522
+159.203.44.169 3 3 2948 20200104060718
+190.57.153.90 0 1 70216 
+195.238.186.19 3 3 2948 20200101222924
+139.59.59.75 6 6 5896 20200110014050
+138.197.146.132 3 3 2948 20200108061133
+144.217.72.200 3 3 2948 20200103191136
+142.93.46.172 12 12 11798 20200110121507
+181.39.212.76 2 28 841224 20200129190510
+183.99.77.180 12 12 11801 20200112060039
+200.7.247.38 2 28 809652 20200116074322
+149.129.111.136 1 1 1176 20200110002831
+128.199.150.201 1 1 0 20200106123945
+142.93.18.7 6 6 5899 20200110091947
+138.201.60.47 1 1 21212 20200124045202
+206.189.90.215 3 3 2948 20200111120230
+89.163.239.216 6 6 6302 20200112004459
+186.71.89.184 2 11 387558 20200103160321
+159.138.156.95 0 1 161498 
+45.70.197.53 0 1 174032 
+51.75.192.90 6 6 5899 20200104081931
+134.209.188.47 3 3 2954 20200104013142
+186.43.144.166 3 15 784933 20200102110109
+192.169.139.6 6 6 5905 20200102144751
+181.199.51.81 2 28 841224 20200122122255
+139.59.172.23 6 6 5899 20200112060336
+45.13.231.192 1 1 0 20200108120808
+68.183.60.156 9 9 8850 20200112050931
+185.232.67.16 10 10 29892 20200112153736
+137.74.158.143 6 6 5896 20200110111927
+103.83.36.101 3 3 2948 20200109124733
+91.204.72.77 3 3 2948 20200107171344
+150.95.54.138 7 7 7078 20200113114206
+128.199.110.156 3 3 2948 20200108022901
+190.152.211.190 3 15 782303 20200102190516
+114.67.82.78 3 3 2951 20200102001827
+181.191.232.221 2 30 1112063 20200117104651
+166.62.36.222 3 3 2951 20200109074525
+107.175.216.111 1 2 110461 20200119035057
+159.203.82.201 3 3 2948 20200104030027
+23.129.64.234 8 8 13714 20200113002354
+165.227.109.3 9 9 8847 20200108115148
+68.183.35.70 3 3 2948 20200108050140
+103.143.127.4 1 2 110461 20200119183452
+192.99.31.122 3 3 2948 20200110021002
+167.114.118.135 6 6 5902 20200109091921
+186.178.42.97 2 29 940027 20200114161833
+186.46.174.6 0 1 70216 
+165.227.120.43 12 12 11810 20200113072150
+64.202.184.249 9 9 8847 20200108045106
+104.238.125.133 12 12 11807 20200109093010
+69.163.225.129 3 3 2951 20200112032856
+185.220.101.69 15 15 62196 20200114215352
+192.81.210.176 3 3 2948 20200111004750
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20200101 873 923 3942205 61
+20200102 1290 1484 12052987 188
+20200103 435 495 3994033 156
+20200104 314 350 2007472 75
+20200105 496 554 2714629 56
+20200106 654 708 4574750 123
+20200107 262 367 6629712 97
+20200108 383 508 8057793 132
+20200109 789 928 9570538 145
+20200110 267 354 7363352 92
+20200111 7352 7431 7140592 105
+20200112 690 691 706529 149
+20200113 1411 1826 18346345 80
+20200114 60 295 10500446 34
+20200115 35 233 7901431 28
+20200116 16 160 5625749 10
+20200117 44 359 12604578 20
+20200118 16 103 3480496 10
+20200119 51 126 4060126 32
+20200120 68 675 26251286 44
+20200121 109 1133 37500740 56
+20200122 54 574 20267447 30
+20200123 42 440 12436548 26
+20200124 26 319 10622318 19
+20200125 14 144 5157667 11
+20200126 16 131 5190331 13
+20200127 72 909 32564924 41
+20200128 56 502 21050354 28
+20200129 64 694 23988897 36
+20200130 37 333 13270068 18
+20200131 23 249 9356342 15
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 31
+15mn-30mn 13
+1h+ 36
+0s-30s 1744
+30s-2mn 29
+2mn-5mn 20
+30mn-1h 57
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 47
+/xmlrpc.php 12101 4830982 63 960
+/wp-login.php 2159 3143042 955 67
+/ 847 4299899 578 375
+/wp-cron.php 273 0 136 136
+/fonts/fontawesome-webfont.woff2 266 15923008 36 230
+/assets/fonts/fontawesome-webfont.woff 68 4385333 7 23
+/services.html 68 164790 39 21
+/about.html 48 120980 30 12
+/cpanel 25 312528 18 14
+/contact.html 24 54714 6 15
+/index.php/2019/07/29/nj-online-sports-betting-legal-live-and-accessible-from-anywhere-in-the-state-2/ 21 0 10 10
+/portafolio.html 20 42800 1 10
+/index.php/2019/08/28/8-ways-that-will-continue-to-be-kept-entertained/ 13 0 7 7
+/index.php/2019/08/28/8-tactics-to-make-sure-you-vacation-enjoyed-by-a/ 9 0 3 3
+/webmail 6 75019 3 6
+/index.php/2019/03/28/heres-what-i-know-about-best-custom-paper/ 6 0 2 2
+/index.php/2019/08/26/improve-what-you-actually-experience-in-to-a/ 5 0 2 2
+/manifest.json 5 1005 0 2
+/index.php/2019/09/30/dirty-details-about-free-text-games-unveiled/ 4 0 2 2
+/index.php/2019/09/30/the-little-known-secrets-to-play-for-free/ 3 0 1 1
+/wp-load.php 3 0 3 3
+/index.php/2018/07/06/step-by-step-fast-methods-in-latin-brides-world/ 3 0 3 3
+/index.php/2019/09/08/how-hobby-casino-gambling-transformed-our-lives-in-3/ 3 0 1 1
+/index.php/2019/09/09/one-cheap-way-to-entertain-yourself-on-a-layover/ 3 0 1 1
+/index.php/2019/09/09/new-report-shows-the-lower-down-on-hobby-casino/ 3 0 1 1
+/wp-includes/wlwmanifest.xml 2 2090 0 0
+/index.php/2019/07/09/how-to-update-most-used-installed-on-os-x-solved/ 1 0 1 1
+/index.php/2019/04/16/one-hundred-and-one-analysis-paper-subjects/ 1 0 1 1
+/send_mail.php 2 0 0 0
+/fonts/fontawesome-webfont.woff 2 162476 0 0
+/assets/fonts/fontawesome-webfont.ttf 1 65581 0 0
+/webmail/ 2 25017 1 2
+/index.php/2019/08/31/how-to-create-your-own-website-47/ 1 0 1 1
+/index.php/2019/10/10/ways-to-shop-for-with-online-poker-real-money/ 2 0 2 2
+/index.php/2019/10/11/how-to-create-your-own-website-14/ 1 0 1 1
+/index.php/2019/09/12/casino-games-to-play-no-longer-a-mystery/ 2 0 2 2
+/index.php/2019/09/09/how-my-hobby-casino-gambling-saves-me-time-10/ 1 0 1 1
+/index.php/2019/10/10/check-email/ 1 0 1 1
+//wp-admin/admin-post.php 1 0 1 1
+/index.php/2019/08/16/internet-bride/ 2 0 2 2
+/noticias.html 1 2381 0 0
+/index.php/2019/10/08/how-to-make-a-website-44/ 1 0 1 1
+/index.php/2019/10/12/turkish-brides-3/ 1 0 1 1
+/index.php/2018/09/08/was-jeder-sagt-ber-spielen-spielautomaten/ 1 0 1 1
+/index.php/2019/08/28/9-all-the-time-strategies-for-this-uninterested/ 2 0 2 2
+/index.php/2019/09/12/five-predictions-on-casino-in-the-brand-new-year/ 3 0 1 1
+/index.php/2019/09/09/new-report-reveals-the-low-down-on-hobby-casino/ 2 0 2 2
+END_SIDER

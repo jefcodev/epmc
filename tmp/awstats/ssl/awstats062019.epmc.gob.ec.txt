@@ -1,0 +1,469 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201906 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2676                
+POS_VISITOR 12567               
+POS_DAY 13879               
+POS_DOMAIN 3403                
+POS_LOGIN 3775                
+POS_ROBOT 3930                
+POS_WORMS 4386                
+POS_EMAILSENDER 4517                
+POS_EMAILRECEIVER 4660                
+POS_SESSION 14519               
+POS_SIDER 14717               
+POS_FILETYPES 4795                
+POS_DOWNLOADS 5072                
+POS_OS 5540                
+POS_BROWSER 5681                
+POS_SCREENSIZE 6089                
+POS_UNKNOWNREFERER 6163                
+POS_UNKNOWNREFERERBROWSER 6612                
+POS_ORIGIN 6971                
+POS_SEREFERRALS 7109                
+POS_PAGEREFS 7253                
+POS_SEARCHWORDS 7431                
+POS_KEYWORDS 7583                
+POS_MISC 2340                
+POS_ERRORS 7642                
+POS_CLUSTER 3631                
+POS_SIDER_404 7793                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190701012305 17 3260 17659940788051
+FirstTime 0
+LastTime 20190630005756
+LastUpdate 20190701072536 17 0 16 0 0
+TotalVisits 138                 
+TotalUnique 32                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 33                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 0 34 40 117988
+1 4 4 15758 27 31 332740
+2 6 6 27393 24 44 191082
+3 7 7 0 49 54 329575
+4 10 10 36523 35 41 89164
+5 12 12 61246 32 36 78038
+6 6 7 253501 40 66 497043
+7 6 6 0 44 73 787002
+8 10 10 41228 23 44 317222
+9 9 9 36523 39 45 72871
+10 10 29 349274 46 53 86643
+11 7 7 73056 38 58 231391
+12 6 25 370105 38 50 781493
+13 7 7 19672 35 39 83112
+14 23 62 816130 50 57 99892
+15 24 24 151858 47 47 190611
+16 5 5 36511 33 56 343466
+17 10 29 349291 37 52 893653
+18 3 3 0 38 45 871981
+19 54 54 580572 27 33 353885
+20 5 5 0 45 50 155862
+21 4 4 0 34 54 350300
+22 5 5 0 37 45 297207
+23 3 3 0 24 26 189482
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+zz 113 113 1
+fr 52 52 653606
+cn 16 16 113364
+ec 14 110 1706631
+us 11 11 198345
+ru 11 11 31455
+gb 11 11 114730
+ua 9 9 190652
+it 2 2 23412
+de 1 2 186445
+ir 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+AhrefsBot/ 399 889452 20190630183950 0
+bingbot/ 393 4180153 20190630182357 0
+bingpreview 23 2332161 20190613034636 0
+no_user_agent 20 160696 20190628144413 0
+bot[\s_+:,\.\;\/\\-] 8 134136 20190627190312 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 15857 20190611153700 0
+Screaming[\x20]Frog[\x20]SEO[\x20]Spider/ 1 0 20190626062008 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+svg 1 818 0 0
+pdf 1 186445 0 0
+woff2 5 359480 0 0
+js 45 329338 0 0
+Unknown 1 11705 0 0
+css 20 230855 0 0
+jpg 5 627690 0 0
+png 20 46200 0 0
+php 130 65042 0 0
+shtml 1 36533 0 0
+html 104 1272235 0 0
+gif 5 52300 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 10
+/document/CambiodeSocio.pdf 3 0 534509
+/document/ReformadeEstatutos.pdf 2 0 204414
+/document/ConcesiondeContrato.pdf 2 0 201428
+/document/ConcesiondePermiso.pdf 1 0 101908
+/document/CambiodeVehiculo.pdf 1 0 105412
+/document/REQUISSITOS2017.pdf 1 0 427374
+/document/pac.pdf 1 0 60185
+/document/CambiodeSocioVehiculo.pdf 1 0 106276
+/document/Habilitaciondevehiculo.pdf 1 0 104989
+/document/Deshabilitacion.pdf 1 0 101285
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+macosx11 3 3
+Unknown 134 134
+ios_ipad 1 1
+win10 11 10
+linux 3 3
+win7 186 90
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 19
+msie7.0 49 49
+Unknown 130 130
+opera54.0.2952.51 3 3
+firefox47.0 3 3
+firefox61.0 1 1
+mozilla 4 4
+firefox21.0 18 18
+opera53.0.2907.99 2 2
+firefox67.0 110 14
+safari5.1 1 1
+chrome63.0.3239.132 2 2
+opera54.0.2952.64 3 3
+firefox45.0 1 1
+firefox64.0 2 2
+chrome36.0.1985.143 1 1
+firefox58.0 3 3
+chrome66.0.3359.181 2 2
+opera54.0.2952.71 2 2
+chrome60.0.3112.113 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+WordPress/4.9.10;_https://epmc.gob.ec/prueba 20190614171900
+Dispatch/1.0.0-M1 20190620042915
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190606061420
+WordPress/4.9.10;_https://epmc.gob.ec 20190630005756
+WordPress/4.9.8;_https://epmc.gob.ec/prueba 20190613124211
+python-requests/2.20.1 20190611153720
+Go-http-client/1.1 20190616063703
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+WordPress/4.9.10;_https://epmc.gob.ec 20190630005756
+WordPress/4.9.8;_https://epmc.gob.ec/prueba 20190613124211
+python-requests/2.20.1 20190611153720
+Go-http-client/1.1 20190616063703
+WordPress/4.9.10;_https://epmc.gob.ec/prueba 20190614171900
+Dispatch/1.0.0-M1 20190620042915
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 100 100
+From1 0 0
+From2 0 0
+From3 1 1
+From4 140 237
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://cpanel.epmc.gob.ec 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+302 5 0
+404 228 17589
+400 9 162
+301 29 235
+401 11 385
+206 4 10835
+405 1 42
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 75
+/index.php/2019/06/22/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-3/ 1 -
+/index.php/2019/06/12/the-fight-against-apa-format-research-paper-example-3/ 1 -
+/does_not_exist_6338d 1 -
+/index.php/2019/04/24/who-else-wants-to-learn-about-synthetic-biology/ 4 -
+/installer-backup.php 1 -
+/index.php/2019/06/19/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-2/ 1 -
+/.well-known.zip 1 -
+/does_not_exist_95289 1 -
+/index.php/2019/06/10/die-durchgesickerten-geheimnisse-bachelorarbeit-thema-entdeckt/ 2 -
+//administrator//webconfig.txt.php 1 http://www.google.com.hk
+/magento/downloader/index.php 1 -
+/index.php/2019/06/17/the-fight-against-apa-format-research-paper-example-5/ 2 -
+/magento/errors/503.php 1 -
+/shop/index.php/admin/ 1 -
+/templates/system/css/system.css 1 -
+/index.php/2019/05/31/new-step-by-step-roadmap-for-how-to-create-a-correspondence/ 3 -
+/index.php/2019/06/14/custom-writings-secrets-that-no-one-else-knows-about-2/ 2 -
+/index.php/2019/06/15/if-you-read-nothing-else-today-read-this-report-on-nurse-practitioner-admission-essay/ 3 -
+/admin/images/cal_date_over.gif 1 -
+/wp-content/plugins/blog-designer/js/designer.js 1 -
+///webconfig.txt.php 1 http://www.google.com.hk
+/store/errors/503.php 1 -
+/index.php/2019/06/18/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-2/ 1 -
+/.well-known/assetlinks.json 10 -
+/index.php/2019/06/17/if-you-read-nothing-else-today-read-this-report-on-nurse-practitioner-admission-essay-3/ 1 -
+/index.php/2019/06/15/the-fight-against-apa-format-research-paper-example-4/ 2 -
+/index.php/2019/05/31/what-everyone-is-saying-about-narrative-essay-for-sale/ 2 -
+/index.php/2019/06/17/vital-pieces-of-accounting-case-study-help-3/ 1 -
+/shop/errors/503.php 1 -
+//webconfig.txt.php 1 http://www.google.com.hk
+/index.php/2019/06/01/new-step-by-step-roadmap-for-how-to-create-a-correspondence/ 2 -
+/does_not_exist_6338 1 -
+/index.php/2019/06/21/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-2/ 1 -
+/does_not_exist_95289d 1 -
+/index.php/2019/06/07/daily-life-immediately-after-assist-with-an-essay/ 2 -
+/index.php/2019/06/16/if-you-read-nothing-else-today-read-this-report-on-nurse-practitioner-admission-essay-3/ 3 -
+/index.php/2019/06/15/the-secret-of-writing-an-effective-research-paper-no-one-is-discussing/ 2 -
+/.git/config 1 -
+/index.php/2019/06/15/custom-writings-secrets-that-no-one-else-knows-about-2/ 2 -
+/admin/login.php 1 -
+/.env 1 -
+/index.php/2019/06/02/new-step-by-step-roadmap-for-how-to-create-a-correspondence/ 2 -
+/shop/downloader/index.php 1 -
+//administrator/ 1 -
+/index.php/2019/06/18/if-you-read-nothing-else-today-read-this-report-on-nurse-practitioner-admission-essay-3/ 2 -
+/robots.txt 108 -
+/index.php/2019/06/17/the-secret-of-writing-an-effective-research-paper-no-one-is-discussing-2/ 1 -
+/index.php/2019/06/07/the-most-recognized-issue-you-need-to-request-task-writing/ 2 -
+/downloader/index.php 1 -
+/index.php/2019/06/14/the-fight-against-apa-format-research-paper-example-4/ 3 -
+//user/register/ 1 http://www.google.com.hk
+/errors/503.php 1 -
+/archive.gz 1 -
+/administrator/manifests/files/joomla.xml 1 -
+/index.php/admin/ 1 -
+/portfolio.html 1 -
+/ 3 -
+/index.php/2019/06/15/the-key-to-successful-admissions-essay-help/ 1 -
+/index.php/2019/06/16/the-secret-of-writing-an-effective-research-paper-no-one-is-discussing-2/ 2 -
+/index.php/2019/06/14/die-durchgesickerten-geheimnisse-bachelorarbeit-thema-entdeckt/ 2 -
+/store/index.php/admin/ 1 -
+/store/downloader/index.php 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/index.php/2019/06/18/vital-pieces-of-accounting-case-study-help-3/ 1 -
+/index.php/2019/06/01/what-everyone-is-saying-about-narrative-essay-for-sale-2/ 2 -
+/magento/index.php/admin/ 1 -
+/index.php/2019/06/16/the-fight-against-apa-format-research-paper-example-5/ 2 -
+/index.php/2019/06/16/the-key-to-successful-admissions-essay-help/ 3 -
+/index.php/2019/06/16/vital-pieces-of-accounting-case-study-help/ 3 -
+/index.php/2019/06/15/vital-pieces-of-accounting-case-study-help/ 2 -
+//wp-admin/admin-post.php 1 http://www.google.com.hk
+/document/Constituci%C3%83%C2%B3nJuridica.pdf 2 -
+/index.php/2019/06/07/essay-copy-writer-critical-reviews-never-a-mystery/ 2 -
+/index.php/2019/06/17/the-key-to-successful-admissions-essay-help/ 1 -
+/index.php/2019/06/02/what-everyone-is-saying-about-narrative-essay-for-sale-3/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 33
+10.252.221.1 112 112 1 20190630005756
+62.210.202.81 49 49 580572 20190601194528
+103.243.24.212 13 13 3785 20190611153720
+181.113.39.190 10 86 1334375 20190614171923
+37.115.206.78 8 8 190652 20190608150658
+5.188.211.100 6 6 31455 20190619081536
+185.48.57.142 6 6 46858 20190608104250
+185.48.57.173 4 4 31361 20190608083849
+181.211.103.246 4 24 372256 20190614142644
+5.188.211.114 4 4 0 20190622154311
+60.191.38.77 3 3 109579 20190605115256
+193.70.34.209 2 2 23412 20190607021526
+74.208.211.127 1 1 0 20190628131400
+91.204.139.66 1 1 0 20190619160540
+72.11.153.5 1 1 24723 20190609051008
+35.245.21.27 1 1 7972 20190604135706
+62.4.14.206 1 1 36523 20190608153015
+104.248.15.71 1 1 36511 20190606061054
+206.223.226.44 1 1 0 20190616170306
+72.11.153.57 1 1 25548 20190611082129
+37.17.224.131 1 1 0 20190614063320
+46.105.99.212 1 1 0 20190613200323
+67.215.249.186 1 1 0 20190618042654
+208.98.45.83 1 1 0 20190620042915
+5.78.98.26 1 1 0 20190619160337
+148.251.232.83 0 1 186445 
+51.15.191.81 1 1 36511 20190610121025
+50.62.56.135 1 1 0 20190616063703
+159.203.165.36 1 1 30545 20190606061420
+138.197.0.50 1 1 36523 20190603043827
+212.83.146.233 1 1 36511 20190608160655
+134.209.34.174 1 1 36523 20190606055746
+194.183.179.239 1 1 0 20190622070948
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20190601 55 55 580572 7
+20190602 5 5 36523 5
+20190603 4 4 52220 3
+20190604 8 8 24196 6
+20190605 5 5 88010 3
+20190606 8 8 115279 7
+20190607 5 5 11712 5
+20190608 19 19 310727 9
+20190609 6 6 40481 5
+20190610 6 6 36511 6
+20190611 23 23 29333 7
+20190612 5 5 0 4
+20190613 8 46 667188 6
+20190614 22 80 1039444 13
+20190615 2 2 0 2
+20190616 6 6 0 6
+20190617 4 4 0 3
+20190618 7 7 0 6
+20190619 5 5 0 4
+20190620 2 2 0 2
+20190621 3 3 0 2
+20190622 7 7 0 5
+20190623 4 4 0 3
+20190624 1 1 0 1
+20190625 1 1 0 1
+20190626 4 4 0 3
+20190627 6 7 186445 5
+20190628 5 5 0 4
+20190629 4 4 0 4
+20190630 1 1 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 10
+15mn-30mn 2
+5mn-15mn 2
+30s-2mn 1
+0s-30s 122
+1h+ 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 22
+/wp-cron.php 107 0 91 92
+// 39 462266 0 1
+/ 35 493074 14 25
+/index.php/blog/ 14 126356 13 2
+/xmlrpc.php 12 2652 0 1
+/index.php/2019/06/07/daily-life-immediately-after-assist-with-an-essay/ 6 118162 0 1
+/prueba/ 5 22106 4 0
+/prueba/wp-content/themes/zerif-lite/fonts/fontawesome-webfont.woff2 5 359480 0 4
+/prueba/wp-cron.php 4 0 4 3
+/connectors/system/phpthumb.php 2 23412 2 2
+/index.php/2019/05/20/ideas-formulas-and-shortcuts-for-grademiners-com-review/ 1 24723 1 1
+/index.php/2019/05/20/what-does-grademiners-reviews-mean/ 1 0 1 1
+/prueba/wp-admin/upgrade.php 1 1 1 1
+/wp-login.php 1 1133 1 0
+/index.php/2019/05/22/prime-notch-facts-of-posted-college-essays/ 1 0 1 1
+/prueba/wp-login.php 1 1162 1 0
+//javascript:void(0) 1 11705 0 0
+/index.php/2019/04/16/the-new-angle-on-what-is-i-in-math-just-released/ 1 25548 1 1
+/prueba/wp-admin/load-styles.php 1 36682 0 0
+/index.php/2019/03/28/the-basics-of-central-dogma-of-molecular-biology/ 1 0 1 1
+/403.shtml 1 36533 1 0
+/wp-admin/admin-post.php 1 0 1 1
+END_SIDER

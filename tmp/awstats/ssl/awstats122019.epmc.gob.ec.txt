@@ -1,0 +1,511 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201912 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2690                
+POS_VISITOR 12136               
+POS_DAY 14156               
+POS_DOMAIN 3427                
+POS_LOGIN 3769                
+POS_ROBOT 3924                
+POS_WORMS 4370                
+POS_EMAILSENDER 4501                
+POS_EMAILRECEIVER 4644                
+POS_SESSION 14852               
+POS_SIDER 15029               
+POS_FILETYPES 4779                
+POS_DOWNLOADS 5081                
+POS_OS 5300                
+POS_BROWSER 5517                
+POS_SCREENSIZE 6171                
+POS_UNKNOWNREFERER 6245                
+POS_UNKNOWNREFERERBROWSER 6644                
+POS_ORIGIN 6953                
+POS_SEREFERRALS 7097                
+POS_PAGEREFS 7260                
+POS_SEARCHWORDS 10229               
+POS_KEYWORDS 10381               
+POS_MISC 2353                
+POS_ERRORS 10440               
+POS_CLUSTER 3625                
+POS_SIDER_404 10592               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200101012333 11 1827 15085269870771
+FirstTime 20191201030256
+LastTime 20191231224639
+LastUpdate 20200101072142 11 0 10 0 0
+TotalVisits 171                 
+TotalUnique 53                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 54                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 10 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 0 20 33 102694
+1 7 7 1179 29 38 37984
+2 2 2 0 19 22 38879
+3 9 9 48209 22 26 37449
+4 5 5 36511 21 25 1405
+5 4 4 0 24 29 40156
+6 6 6 415 24 29 38404
+7 13 13 11687 29 36 126585
+8 62 121 924470 21 26 43903
+9 217 341 2088259 32 40 50608
+10 161 163 59032 27 31 5809
+11 195 252 1055262 37 39 24358
+12 167 167 71211 32 35 8394
+13 113 113 27169 45 51 5073
+14 126 126 39934 18 22 428295
+15 193 222 498684 35 41 29392
+16 165 165 60206 32 35 185878
+17 113 164 882764 35 39 50818
+18 7 7 415 16 19 0
+19 23 23 0 33 35 1048
+20 8 8 0 50 52 38719
+21 6 6 36511 22 28 482
+22 60 60 11690 30 39 2306
+23 7 26 332159 18 27 5798
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+ec 1443 1783 5855404
+zz 98 98 1
+ru 57 57 0
+us 41 41 0
+de 22 22 6640
+gb 6 6 132918
+cn 2 2 0
+vn 1 1 11690
+hk 1 1 1179
+ma 0 1 177935
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+AhrefsBot/ 381 107269 20191230014430 0
+bingbot/ 92 736510 20191231234632 0
+bot[\s_+:,\.\;\/\\-] 16 292184 20191231060906 0
+no_user_agent 10 0 20191226133255 0
+(firefox/)([0-9]\.|[0-1][0]\.) 6 0 20191215222140 0
+Apache\-HttpClient/ 4 2358 20191228135820 0
+link 2 0 20191219125208 0
+Googlebot/ 1 26 20191215050325 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+cgi 5 59235 0 0
+woff2 6 265713 0 0
+svg 23 37877 0 0
+jpg 2 303473 0 0
+js 99 2654220 0 0
+tiff 6 990 0 0
+gif 10 19985 0 0
+css 70 598024 0 0
+Unknown 16 138962 0 0
+html 1493 1043879 0 0
+php 116 19510 0 0
+png 137 386631 0 0
+woff 29 657268 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/document/Deshabilitacion.pdf 1 0 101285
+/document/ConcesiondeContrato.pdf 1 0 100714
+/document/ConcesiondePermiso.pdf 1 0 101908
+/document/REQUISSITOS2017.pdf 1 0 427374
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+win8 1 0
+linuxandroid 23 4
+macosx11 8 8
+win7 1780 1459
+win10 4 4
+win2000 6 6
+winlong 3 3
+winxp 20 20
+linux 40 40
+unix 1 1
+macosx12 1 1
+Unknown 125 125
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 32
+firefox15.0.1 6 6
+mozilla 4 4
+chrome13.0.782.112 3 3
+safari10.0 2 2
+safari10.0.3 1 1
+chrome78.0.3904.108 949 750
+chrome59.0.3071.104 26 26
+msie9.0 4 4
+chrome53.0.2785.49 1 1
+chrome75.0.3770.142 2 2
+chrome79.0.3945.88 289 233
+opera7.02 3 3
+chrome40.0.2214.85 6 6
+firefox47.0 2 2
+chrome40.0.2214.89 1 1
+chrome79.0.3945.79 525 459
+chrome79.0.3945.93 21 2
+chrome77.0.3865.120 1 0
+firefox45.0 1 1
+firefox62.0 1 1
+chrome47.0.2526.111 5 5
+chrome51.0.2704.64 1 1
+edge12 3 3
+firefox70.0 2 2
+firefox71.0 1 1
+safari9.0.2 6 6
+msie7.0 5 5
+firefox12.0 2 2
+firefox13.0.1 6 6
+opera12.01 6 6
+Unknown 121 121
+msie6.0 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+WordPress/4.9.13;_https://epmc.gob.ec 20191231130707
+XML-RPC.NET 20191225185123
+WordPress/4.9.12;_https://epmc.gob.ec 20191212200113
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20191205050730
+Go-http-client/1.1 20191207110325
+WordPress/4.9.10;_https://epmc.gob.ec/prueba 20191223232842
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+WordPress/4.9.10;_https://epmc.gob.ec/prueba 20191223232842
+Go-http-client/1.1 20191207110325
+WordPress/4.9.13;_https://epmc.gob.ec 20191231130707
+WordPress/4.9.12;_https://epmc.gob.ec 20191212200113
+XML-RPC.NET 20191225185123
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 145 145
+From1 0 0
+From2 0 1
+From3 1426 1747
+From4 100 119
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 31
+https://webmail.epmc.gob.ec/cpsess5818642850/3rdparty/roundcube/ 491 512
+https://webmail.epmc.gob.ec/cpsess5564875548/3rdparty/roundcube/ 440 465
+https://webmail.epmc.gob.ec/cpsess6776578606/3rdparty/roundcube/ 220 245
+https://webmail.epmc.gob.ec/cpsess2613049862/3rdparty/roundcube/ 134 159
+https://webmail.epmc.gob.ec/cpsess5462439209/3rdparty/roundcube/ 50 69
+https://webmail.epmc.gob.ec/cpsess7693457701/3rdparty/roundcube/ 30 50
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1570528627/webmail/paper_lantern/_assets/css/master-legacy-ltr.cmb.min.css 25 25
+https://webmail.epmc.gob.ec 21 140
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 9 9
+https://webmail.epmc.gob.ec/webmaillogout.cgi 2 2
+https://webmail.epmc.gob.ec/unprotected/loader.html 2 2
+https://webmail.epmc.gob.ec/unprotected/redirect.html 1 1
+http://cpanel.epmc.gob.ec/wp-login.php 1 1
+https://webmail.epmc.gob.ec/cpsess7693457701/3rdparty/roundcube/plugins/return_to_webmail/skins/larry/return_to_webmail.css 0 1
+https://webmail.epmc.gob.ec/cpsess5818642850/3rdparty/roundcube/plugins/jqueryui/themes/larry/jquery-ui.css 0 1
+https://webmail.epmc.gob.ec/cpsess7693457701/3rdparty/roundcube/skins/larry/mail.min.css 0 1
+https://webmail.epmc.gob.ec/cpsess5564875548/3rdparty/roundcube/plugins/return_to_webmail/skins/larry/return_to_webmail.css 0 1
+https://webmail.epmc.gob.ec/cpsess5462439209/3rdparty/roundcube/skins/larry/styles.min.css 0 5
+https://webmail.epmc.gob.ec/cpsess5462439209/3rdparty/roundcube/plugins/return_to_webmail/skins/larry/return_to_webmail.css 0 1
+https://webmail.epmc.gob.ec/cpsess6776578606/3rdparty/roundcube/skins/larry/styles.min.css 0 7
+https://webmail.epmc.gob.ec/cpsess5564875548/3rdparty/roundcube/skins/larry/styles.min.css 0 7
+https://webmail.epmc.gob.ec/cpsess5564875548/3rdparty/roundcube/skins/larry/mail.min.css 0 2
+https://webmail.epmc.gob.ec/cpsess5818642850/3rdparty/roundcube/skins/larry/styles.min.css 0 8
+https://webmail.epmc.gob.ec/cpsess7693457701/3rdparty/roundcube/skins/larry/styles.min.css 0 7
+https://webmail.epmc.gob.ec/cpsess6776578606/3rdparty/roundcube/plugins/return_to_webmail/skins/larry/return_to_webmail.css 0 1
+https://webmail.epmc.gob.ec/cpsess2613049862/3rdparty/roundcube/skins/larry/styles.min.css 0 2
+https://webmail.epmc.gob.ec/cpsess2613049862/3rdparty/roundcube/skins/larry/mail.min.css 0 2
+https://webmail.epmc.gob.ec/cpsess5818642850/3rdparty/roundcube/skins/larry/mail.min.css 0 1
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1570528620/unprotected/cpanel/style_v2_optimized.css 0 18
+https://webmail.epmc.gob.ec/cpsess5818642850/3rdparty/roundcube/plugins/return_to_webmail/skins/larry/return_to_webmail.css 0 1
+https://webmail.epmc.gob.ec/cpsess6776578606/3rdparty/roundcube/skins/larry/mail.min.css 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+405 1 42
+401 16 516
+404 183 71988
+400 6 208
+302 20 11527
+301 41 0
+308 5 523
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 26
+/robots.txt 104 -
+/cpsess5462439209/3rdparty/roundcube/program/resources/blank.webp 1 https://webmail.epmc.gob.ec/cpsess5462439209/3rdparty/roundcube/
+/.ftpconfig 1 -
+/cpsess5564875548/3rdparty/roundcube/program/resources/blank.webp 7 https://webmail.epmc.gob.ec/cpsess5564875548/3rdparty/roundcube/
+/sitemap.xml 1 -
+/cpsess2613049862/3rdparty/roundcube/program/resources/blank.webp 2 https://webmail.epmc.gob.ec/cpsess2613049862/3rdparty/roundcube/
+/deployment-config.json 1 -
+/index.php/author/aortega/page/2/ 1 -
+/ftpsync.settings 1 -
+/qa1w85ntquvza0th 1 -
+/escjqzm7jfl0p4vw 1 -
+/ 39 -
+/wp-config.php.swp 1 -
+/.git/config 1 -
+/cpsess5818642850/3rdparty/roundcube/program/resources/blank.webp 7 https://webmail.epmc.gob.ec/cpsess5818642850/3rdparty/roundcube/
+/1.sh 1 -
+/.remote-sync.json 1 -
+/.well-known/assetlinks.json 2 -
+/sftp-config.json 1 -
+/cpsess6776578606/3rdparty/roundcube/program/resources/blank.webp 2 https://webmail.epmc.gob.ec/cpsess6776578606/3rdparty/roundcube/
+/wp-config.php(1) 1 -
+/cpsess7693457701/3rdparty/roundcube/program/resources/blank.webp 2 https://webmail.epmc.gob.ec/cpsess7693457701/3rdparty/roundcube/
+/.vscode/sftp.json 1 -
+/.vscode/ftp-sync.json 1 -
+/(1)wp-config.php 1 -
+/.wp-config.php.swp 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 54
+181.211.103.246 1441 1762 5523246 20191227121551
+10.252.221.1 98 98 1 20191231130707
+82.202.161.133 53 53 0 20191215223416
+144.76.167.93 16 16 6640 20191225185123
+138.246.253.5 6 6 0 20191219231247
+52.34.24.33 4 4 0 20191207110325
+35.192.30.239 2 2 0 20191204190426
+35.193.212.211 2 2 0 20191211191001
+190.152.129.76 2 21 332158 20191223232841
+60.191.38.77 2 2 0 20191201181312
+92.63.111.27 2 2 0 20191215103843
+18.216.212.180 2 2 0 20191204095747
+157.245.173.69 1 1 0 20191207115106
+34.66.93.27 1 1 0 20191218190857
+35.224.177.23 1 1 0 20191204190437
+103.56.114.212 1 1 1179 20191216011510
+35.226.102.252 1 1 0 20191223072430
+167.172.25.29 1 1 36511 20191203215622
+104.198.248.190 1 1 0 20191211190855
+104.198.252.55 1 1 0 20191224201545
+34.67.147.242 1 1 0 20191211191011
+123.31.31.12 1 1 11690 20191231224639
+34.66.64.84 1 1 0 20191204190332
+159.138.149.136 1 1 0 20191219131320
+159.138.149.165 1 1 0 20191219131334
+35.202.3.98 1 1 0 20191204190401
+35.202.62.163 1 1 0 20191224072857
+34.66.106.34 1 1 0 20191219191209
+185.234.217.88 1 1 0 20191230140429
+45.224.149.188 0 1 177935 
+138.197.3.61 1 1 0 20191205050730
+167.172.29.152 1 1 36511 20191205044558
+35.225.254.12 1 1 0 20191223192702
+34.67.85.183 1 1 0 20191220071346
+34.68.153.158 1 1 0 20191222072249
+51.158.97.248 1 1 0 20191224162108
+35.224.179.30 1 1 0 20191211191022
+52.12.224.107 1 1 0 20191203042316
+34.68.141.15 1 1 0 20191220191539
+104.154.228.118 1 1 0 20191211191033
+159.138.151.27 1 1 0 20191204171940
+34.66.192.163 1 1 0 20191221192011
+35.226.128.48 1 1 0 20191225081948
+35.222.223.158 1 1 0 20191222192223
+34.67.66.130 1 1 0 20191221071730
+35.184.47.154 1 1 0 20191219071149
+159.138.158.143 1 1 0 20191219125220
+35.225.244.170 1 1 0 20191204190348
+167.172.18.83 1 1 36523 20191205035949
+52.41.211.72 1 1 0 20191202111422
+163.172.161.137 1 1 11687 20191224074146
+51.15.192.148 1 1 11686 20191224031056
+35.162.70.167 1 1 0 20191201115401
+213.159.213.137 1 1 0 20191223035628
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20191201 11 11 415 8
+20191202 4 4 0 4
+20191203 4 4 36511 4
+20191204 517 580 1094498 12
+20191205 47 98 935879 8
+20191206 4 5 177935 4
+20191207 3 3 0 3
+20191208 2 2 0 1
+20191209 6 6 12503 6
+20191210 6 6 415 6
+20191211 10 10 12503 9
+20191212 209 294 1315232 8
+20191213 12 12 2905 7
+20191214 2 2 415 2
+20191215 58 58 0 5
+20191216 5 5 38683 4
+20191217 460 526 1126748 3
+20191218 8 8 0 8
+20191219 8 8 12503 8
+20191220 4 4 0 4
+20191221 3 3 0 3
+20191222 7 7 0 6
+20191223 13 32 345492 11
+20191224 9 9 35876 9
+20191225 5 5 415 5
+20191226 5 5 12503 4
+20191227 236 292 1012646 7
+20191228 6 6 0 5
+20191229 4 4 0 4
+20191230 1 1 0 1
+20191231 2 2 11690 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 152
+1h+ 5
+30mn-1h 10
+15mn-30mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 50
+/cpsess5818642850/3rdparty/roundcube/ 479 269405 0 0
+/cpsess5564875548/3rdparty/roundcube/ 435 138111 0 0
+/cpsess6776578606/3rdparty/roundcube/ 215 142239 0 0
+/cpsess2613049862/3rdparty/roundcube/ 131 74411 0 1
+/ 117 192128 59 55
+/wp-cron.php 97 0 87 87
+/cpsess5462439209/3rdparty/roundcube/ 48 19088 0 0
+/cpsess7693457701/3rdparty/roundcube/ 27 131072 0 0
+/xmlrpc.php/xmlrpc.php 16 6640 10 10
+/cpsess5818642850/3rdparty/roundcube/skins/larry/watermark.html 11 2134 0 0
+/webmail 9 112527 9 8
+/login/ 6 876 1 0
+/webmaillogout.cgi 5 59235 0 5
+/cPanel_magic_revision_1386192033/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Semibold-webfont.woff 5 114085 0 0
+/cPanel_magic_revision_1392312282/webmail/paper_lantern/libraries/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 5 115660 0 0
+/cPanel_magic_revision_1386192033/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 5 112790 0 0
+/cPanel_magic_revision_1386192031/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 5 111630 0 0
+/cPanel_magic_revision_1517872139/webmail/paper_lantern/libraries/fontawesome/web-fonts-with-css/webfonts/fa-solid-900.woff2 5 193820 0 0
+/cpsess5564875548/3rdparty/roundcube/skins/larry/watermark.html 4 776 0 0
+/cpsess6776578606/3rdparty/roundcube/skins/larry/watermark.html 4 776 0 0
+/cpsess2613049862/3rdparty/roundcube/skins/larry/watermark.html 3 582 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 3 66978 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 3 68451 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 3 67674 0 0
+/wp-login.php 2 12869 2 2
+/cpsess7693457701/webmail/paper_lantern/ 1 10896 0 0
+/cpsess6776578606/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+/prueba/wp-admin/upgrade.php 1 1 1 1
+/prueba/wp-content/themes/zerif-lite/fonts/fontawesome-webfont.woff2 1 71893 0 1
+/cpsess5462439209/3rdparty/roundcube/skins/larry/watermark.html 1 194 0 0
+/cpsess2613049862/webmail/paper_lantern/ 1 10897 0 0
+/cpsess6776578606/execute/Email/list_pops_with_disk 1 288 0 0
+/unprotected/loader.html 1 905 0 0
+/cpsess5564875548/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+/cpsess5818642850/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+/cpsess6776578606/webmail/paper_lantern/ 1 10879 0 0
+/cpsess5564875548/execute/Email/list_pops_with_disk 1 289 0 0
+/cpsess7693457701/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+/cpsess5818642850/webmail/paper_lantern/ 1 10863 0 0
+/cpanel 2 25001 1 1
+/cpsess5818642850/execute/Email/list_pops_with_disk 1 284 0 0
+/unprotected/redirect.html 2 1026 0 0
+/cpsess2613049862/execute/Email/list_pops_with_disk 1 285 0 0
+/prueba/ 1 4416 1 0
+/cpsess7693457701/execute/Email/list_pops_with_disk 1 288 0 0
+/cpsess2613049862/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+/cpsess7693457701/3rdparty/roundcube/skins/larry/watermark.html 2 388 0 0
+/cpsess5564875548/webmail/paper_lantern/ 1 10910 0 0
+/cpsess5462439209/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+/cpsess5462439209/webmail/paper_lantern/ 1 10907 0 0
+END_SIDER

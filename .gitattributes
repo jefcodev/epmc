@@ -1,0 +1,1 @@
+logs/.php.error.log filter=lfs diff=lfs merge=lfs -text

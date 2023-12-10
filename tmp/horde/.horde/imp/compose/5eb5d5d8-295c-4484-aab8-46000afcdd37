@@ -1,0 +1,143 @@
+Return-Path: <jervisvilla7@gmail.com>
+Delivered-To: matriculacion@epmc.gob.ec
+Received: from gye.ecuahosting.net
+	by gye.ecuahosting.net with LMTP
+	id eD2JG7PStV6vIAAAopOgJA
+	(envelope-from <jervisvilla7@gmail.com>)
+	for <matriculacion@epmc.gob.ec>; Fri, 08 May 2020 16:44:19 -0500
+Return-path: <jervisvilla7@gmail.com>
+Envelope-to: matriculacion@epmc.gob.ec
+Delivery-date: Fri, 08 May 2020 16:44:19 -0500
+Received: from mail-lf1-f46.google.com ([209.85.167.46]:37441)
+	by gye.ecuahosting.net with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <jervisvilla7@gmail.com>)
+	id 1jXAn2-0002Sz-QN
+	for matriculacion@epmc.gob.ec; Fri, 08 May 2020 16:44:19 -0500
+Received: by mail-lf1-f46.google.com with SMTP id t11so2584406lfe.4
+        for <matriculacion@epmc.gob.ec>; Fri, 08 May 2020 14:43:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=6ElV6X/dDxIBCat7ucdoKsRGJayeQohA8724J0wnijQ=;
+        b=q9PYcFDU2gb5vml0gTJSeIMVB/KekHi2vHeZiGubHXmTRDT3RASvCujo/oLEIyqcFb
+         /22BBpdpm4OhNK1Q7tdZr1EO34M7eVfv4fwJf7r/KoHexvIPF9JJr7q4nQpHtnYAfFDf
+         ttTz87IXaCpZrMmc8bMoBr82rs57PzhLCuE09UJhdpRA0XVMoXdZCBUGnqlZCCUjP2h3
+         RxTCZ0eMwNDY2XMn3vypwsO5fhiPUqVF347aPQMShUtu1tn8pjNjglcItDfKrAwWblhe
+         2M/8E5n5io7j9ik6USNfF3P0BhBA7T4kWmxX1jsFvJe+/ycY62HiCBFGUfJNf3TknOfx
+         5qrg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=6ElV6X/dDxIBCat7ucdoKsRGJayeQohA8724J0wnijQ=;
+        b=hAr5ELFzONgGu05NIt5zLZ6e8sAf7Xo/RFMjqkCdYf4gq5HFtCkbdjL+zZUOy3ceG4
+         pin6uvIYeB+MPt6RMLk7NcOfwYv4KQ5ydG9XGn5jMqJsb+Gta0L5nAlymOmEOp74Nlwf
+         NNTPZFddYpqXMRsKbzw2YT70oeA/OzRep4y+n26cp3WlIO/cCEkAYxZhS7uyD2V6cwzb
+         sOb1pouK/TyWKi090EZqNY28fS2VNkzxajyUPt8a35j9Hvnm/CD8uQI9/5or78XO6NAv
+         xrA8cjcRRGXrqdmPipC6NBNOGti0clGZ11+HfaZImB8c+HNbYKhOQ4FgCERwuT1U86jS
+         xT7w==
+X-Gm-Message-State: AOAM533WGvAWdnN2hiKwelYdyF1mZSEEKusYrao1Gnbdtayf63izIGXN
+	M78SaRtGtNYEAXKFuxS+UXjl4MZQbr6JqD1cbBdKsX2O
+X-Google-Smtp-Source: ABdhPJz3OH38ik6Y2uXhsOXaAtjH02h7u3oFKtpY18631lYI/CQhGydpjXxLEwSUWLn4z9ZPZbxjUBFQ4Sn+CyCZurM=
+X-Received: by 2002:ac2:420c:: with SMTP id y12mr3199267lfh.26.1588974213355;
+ Fri, 08 May 2020 14:43:33 -0700 (PDT)
+MIME-Version: 1.0
+References: <CAHuQRHfC22F=XMZUiJjFGvb5gO5miHvSHGRtvdGHKO5zczWtjQ@mail.gmail.com>
+ <20200508164206.Horde.kIembetqkisVWhLrjUCWFy4@www.epmc.gob.ec>
+In-Reply-To: <20200508164206.Horde.kIembetqkisVWhLrjUCWFy4@www.epmc.gob.ec>
+From: Jervis Villa <jervisvilla7@gmail.com>
+Date: Fri, 8 May 2020 16:43:21 -0500
+Message-ID: <CAHuQRHdWzk5tr0j0ik8ZSkM=1nZwRT356yce1CdnP4mcjWjbbA@mail.gmail.com>
+Subject: Re: Matriculacion
+To: matriculacion@epmc.gob.ec
+Content-Type: multipart/alternative; boundary="0000000000008b687505a529e3e4"
+X-Spam-Status: No, score=0.8
+X-Spam-Score: 8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "gye.ecuahosting.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  MUCHAS GRACIAS. El vie., 8 may. 2020 16:42, escribió: > Reciba
+    un cordial saludo de la Empresa Pública de Movilidad de la > Mancomunidad
+    de Cotopaxi, agradecemos por confiar en nuestro servicio. > > Mediante el
+    presente, confirmamos la recepción de sus [...] 
+ Content analysis details:   (0.8 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [jervisvilla7[at]gmail.com]
+ -0.0 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [209.85.167.46 listed in wl.mailspike.net]
+  0.7 LOCALPART_IN_SUBJECT   Local part of To: address appears in
+                             Subject
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit
+                             [jervisvilla7[at]gmail.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+X-Spam-Flag: NO
+
+--0000000000008b687505a529e3e4
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+MUCHAS GRACIAS.
+
+El vie., 8 may. 2020 16:42, <matriculacion@epmc.gob.ec> escribi=C3=B3:
+
+> Reciba un cordial saludo de la Empresa P=C3=BAblica de Movilidad de la
+> Mancomunidad de Cotopaxi, agradecemos por confiar en nuestro servicio.
+>
+> Mediante el presente, confirmamos la recepci=C3=B3n de sus documentos, y
+> damos inicio al proceso de renovaci=C3=B3n de matr=C3=ADcula. Una vez que=
+ el
+> sem=C3=A1foro cambie a amarillo, podr=C3=A1 retirar el documento habilita=
+nte,
+> adicionalmente este ser=C3=A1 remitido por esta v=C3=ADa para su constanc=
+ia.
+>
+> Es un placer atenderle.
+>
+>
+>
+>
+
+--0000000000008b687505a529e3e4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">MUCHAS GRACIAS.=C2=A0</div><br><div class=3D"gmail_quote"=
+><div dir=3D"ltr" class=3D"gmail_attr">El vie., 8 may. 2020 16:42,  &lt;<a =
+href=3D"mailto:matriculacion@epmc.gob.ec">matriculacion@epmc.gob.ec</a>&gt;=
+ escribi=C3=B3:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:=
+0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">Reciba un cordial s=
+aludo de la Empresa P=C3=BAblica de Movilidad de la=C2=A0 <br>
+Mancomunidad de Cotopaxi, agradecemos por confiar en nuestro servicio.<br>
+<br>
+Mediante el presente, confirmamos la recepci=C3=B3n de sus documentos, y=C2=
+=A0 <br>
+damos inicio al proceso de renovaci=C3=B3n de matr=C3=ADcula. Una vez que e=
+l=C2=A0 <br>
+sem=C3=A1foro cambie a amarillo, podr=C3=A1 retirar el documento habilitant=
+e,=C2=A0 <br>
+adicionalmente este ser=C3=A1 remitido por esta v=C3=ADa para su constancia=
+.<br>
+<br>
+Es un placer atenderle.<br>
+<br>
+<br>
+<br>
+</blockquote></div>
+
+--0000000000008b687505a529e3e4--

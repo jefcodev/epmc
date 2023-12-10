@@ -1,0 +1,908 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201803 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2007                
+POS_TIME 2676                
+POS_VISITOR 26178               
+POS_DAY 36635               
+POS_DOMAIN 3566                
+POS_LOGIN 4033                
+POS_ROBOT 4188                
+POS_WORMS 4768                
+POS_EMAILSENDER 4899                
+POS_EMAILRECEIVER 5042                
+POS_SESSION 37527               
+POS_SIDER 37740               
+POS_FILETYPES 5177                
+POS_DOWNLOADS 5494                
+POS_OS 7051                
+POS_BROWSER 7306                
+POS_SCREENSIZE 8503                
+POS_UNKNOWNREFERER 8577                
+POS_UNKNOWNREFERERBROWSER 8934                
+POS_ORIGIN 9362                
+POS_SEREFERRALS 9511                
+POS_PAGEREFS 9826                
+POS_SEARCHWORDS 12592               
+POS_KEYWORDS 12878               
+POS_MISC 2340                
+POS_ERRORS 13050               
+POS_CLUSTER 3889                
+POS_SIDER_404 13162               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180401003147 135 31735 17428323244688
+FirstTime 0
+LastTime 20180331192020
+LastUpdate 20180401074514 135 0 134 0 0
+TotalVisits 436                 
+TotalUnique 236                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 259                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 18 1284385 36 63 201215
+1 13 52 2830615 32 117 519220
+2 2 16 576206 32 57 185121
+3 4 18 599304 20 99 1180236
+4 5 24 611031 30 87 249273
+5 5 70 1123753 24 138 2462155
+6 5 29 1848568 29 46 617144
+7 14 99 6586834 39 142 446222
+8 184 1006 22364214 15 120 160408
+9 137 828 15689907 38 208 2045949
+10 136 748 28415403 36 123 824275
+11 159 846 28159764 36 121 923265
+12 129 812 27023808 33 109 286909
+13 93 407 17912417 33 126 825046
+14 134 688 21266830 33 180 2793095
+15 100 551 19802683 40 133 480683
+16 98 613 25135008 40 182 1491577
+17 56 321 9734158 26 199 1524708
+18 44 224 12286769 31 101 486076
+19 46 307 19322722 40 91 1223417
+20 28 162 8210860 48 129 2852629
+21 43 259 14281110 28 80 907188
+22 27 187 12812059 37 122 1212078
+23 16 103 4020031 40 70 277085
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+ec 1305 7447 260225504
+us 114 627 29706060
+ar 19 108 3368550
+jp 16 78 3894940
+ua 4 4 29102
+ca 4 37 2322736
+ma 2 18 1108992
+br 2 11 387557
+za 2 2 23098
+cn 2 2 6004
+zz 2 41 2912
+ru 2 2 23098
+gb 2 5 23350
+fr 2 2 23098
+cl 1 1 11549
+de 1 1 11549
+mx 0 2 355870
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+Googlebot/ 737 3894232 20180331235910 0
+bingbot/ 119 1044117 20180331185228 0
+DotBot/ 58 7334686 20180318202701 0
+Googlebot\-Image/ 31 2653270 20180331173011 0
+bingpreview 29 1864121 20180325162924 0
+YandexBot/ 24 978582 20180329212110 0
+no_user_agent 22 2007482 20180326100123 0
+facebookexternalhit/ 21 1648241 20180331231656 0
+Dalvik/ 8 722320 20180329161659 0
+YandexImages/ 2 65753 20180311005014 0
+bot[\s_+:,\.\;\/\\-] 1 3002 20180324140039 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+eot 10 279890 0 0
+html 1032 2416704 0 0
+Unknown 5 62506 0 0
+php 2 0 0 0
+js 2256 6633041 0 0
+jpg 1322 194144414 0 0
+txt 42 3164 0 0
+ttf 6 327905 0 0
+png 469 32529980 0 0
+pdf 200 35780017 0 0
+gif 413 610932 0 0
+css 2206 9099633 0 0
+woff 425 19635783 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 25
+/document/CambiodeSocioVehiculo.pdf 68 0 7294856
+/document/REQUISSITOS2017.pdf 48 3 20968292
+/document/CambiodeSocio.pdf 25 0 4388039
+/document/Constituci%C3%B3nJuridica.pdf 20 0 2003138
+/document/CambiodeVehiculo.pdf 20 0 2139881
+/document/ReformadeEstatutos.pdf 18 0 1871826
+/document/ConcesiondeContrato.pdf 15 0 1540791
+/document/ConcesiondePermiso.pdf 14 0 1455740
+/.well-known/pki-validation/FD290B341F5844507824A7D4268B3D77.txt 14 0 1099
+/document/Habilitaciondevehiculo.pdf 13 0 1395778
+/document/Deshabilitacion.pdf 13 0 1347389
+/document/pac.pdf 7 0 429173
+/.well-known/pki-validation/A5D4613DB64DFDDA1D4AB37E210E3D6F.txt 6 0 462
+/.well-known/pki-validation/C27736E289AAF1B26F9670FDFAA4EAFA.txt 5 0 385
+/.well-known/pki-validation/531E03A1A66AD6F2F860428E651B94C2.txt 4 0 308
+/.well-known/pki-validation/9F8BC9D3FFDB11A8FD1700D7A704F910.txt 3 0 231
+/.well-known/pki-validation/FB4528C8AC6526B5A2B1FAAC184ADDD7.txt 2 0 154
+/.well-known/pki-validation/A7077B30DF4F99680679D3FB5B873C48.txt 1 0 64
+/.well-known/pki-validation/2B9DD55734A1DE5EB929C04AABCD720D.txt 1 0 64
+/.well-known/pki-validation/0C9B7EEF27CF9F713ECAE5ADDEC608F6.txt 1 0 64
+/.well-known/pki-validation/AB2BB865EEA7CBF28719D45D2C0EDBEB.txt 1 0 77
+/.well-known/pki-validation/9085FD815C9C05F11804DEAA65F6A808.txt 1 0 64
+/.well-known/pki-validation/7C13906FA04BEF4D52F59B3BB72720F7.txt 1 0 64
+/.well-known/pki-validation/CE6E4D27095BB9BFBED9F80E898ED84E.txt 1 0 64
+/.well-known/pki-validation/5131984F6DFB1485A5C2A406C9317603.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+macosx 74 12
+ios_iphone 328 55
+Unknown 51 9
+win8 76 9
+win7 4737 861
+win10 931 152
+ios_ipad 17 2
+win8.1 673 124
+linux 144 37
+winunknown 3 3
+macosx12 12 11
+linuxandroid 1171 167
+winxp 174 38
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 55
+firefox57.0 48 6
+msie7.0 5 3
+chrome38.0.1025.166 26 2
+firefox59.0 1513 267
+chrome64.0.3282.123 17 3
+chrome65.0.3325.109 501 76
+firefox53.0 40 11
+chrome57.12.2987.98 18 2
+firefox44.0 16 2
+firefox50.0 20 5
+chrome41.0.2272.118 16 2
+chrome62.0.3202.84 33 5
+chrome67.0.3385.0 16 2
+msie8.0 55 7
+firefox27.0 1 1
+firefox32.0 56 14
+firefox47.0 48 7
+msie10.0 1 0
+safari9.0 2 2
+chrome40.0.2214.93 16 2
+chrome58.0.3029.83 16 2
+firefox58.0 1978 378
+chrome65.0.3325.162 140 21
+msie11.0 69 14
+firefox33.0 33 8
+safari 37 6
+chrome65.0.3325.146 18 3
+chrome61.0.3163.100 13 13
+chrome38.0.2125.102 34 4
+chrome64.0.3282.186 1624 278
+chrome65.0.3325.181 698 118
+chrome42.0.2311.152 2 2
+chrome63.0.3239.132 2 2
+safari11.0 271 45
+chrome49.0.2623.112 100 18
+android 16 2
+chrome45.0.2454.94 16 2
+safari10.0 18 2
+chrome56.0.2924.87 213 31
+chrome55.0.2883.91 21 3
+chrome63.0.3239.111 17 3
+chrome30.0.0.0 16 2
+chrome34.0.1847.137 1 1
+mozilla 1 1
+chrome49.0.2623.75 5 5
+chrome64.0.3282.137 196 27
+Unknown 59 17
+chrome60.0.3112.90 30 5
+firefox42.0 30 6
+safari8.0 17 2
+firefox56.0 78 12
+firefox52.0 66 12
+chrome61.0.3163.98 16 2
+opera51.0.2830.55 74 12
+chrome59.0.3071.125 18 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+ia_archiver 20180329172825
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180304195829
+PocketParser/2.0_(_https://getpocket.com/pocketparser_ua) 20180321093556
+WordPress/4.9.4;_https://epmc.gob.ec/prueba 20180324130805
+COMODO_DCV 20180303054612
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Microsoft-CryptoAPI/6.3 20180305085042
+ia_archiver 20180329172825
+python-requests/1.2.3_CPython/2.7.12_Linux/4.9.76-3.78.amzn1.x86_64 20180305205544
+PocketParser/2.0_(_https://getpocket.com/pocketparser_ua) 20180321093556
+WordPress/4.9.4;_https://epmc.gob.ec/prueba 20180324130805
+Microsoft-CryptoAPI/6.1 20180316083840
+COMODO_DCV 20180303054612
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 280 389
+From1 12 12
+From2 294 312
+From3 129 129
+From4 765 7549
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 9
+myway 5 5
+www_google_com_ec 206 222
+int_search_myway_com 1 1
+www_google_com 64 64
+bing 1 1
+www_google_es 1 1
+www_google_com_mx 0 2
+live 15 15
+espanol_search_yahoo_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 36
+http://www.sri.gob.ec/web/guest/home 27 27
+http://www.ecuadorlegalonline.com/consultas/agencia-nacional-de-transito/valores-a-pagar-por-matricula-matriculacion-vehicular/ 17 17
+http://sisepec.espoch.edu.ec/index.jsp 13 13
+http://www.geoportaligm.gob.ec/portal/ 10 10
+http://www.elcomercio.com 8 8
+http://www.amt.gob.ec 6 6
+http://www.ecuadorlegalonline.com/consultas/secretaria-movilidad-quito/consultar-multas-amt-quito/ 5 5
+http://sisepec.espoch.edu.ec 4 4
+http://www.elcomercio.com/actualidad/contratos-compra-vehiculos-usados-registro.html 4 4
+http://www.elcomercio.com/actualidad/pasos-revision-matriculacion-vehiculo-quito.html 4 4
+http://esforse.mil.ec/intranet/index.php/procesodeseleccion-esp 2 2
+http://www.socioempleo.gob.ec/socioEmpleo-war/paginas/index.jsf 2 2
+http://servicios.comisiontransito.gob.ec/app_citaciones_consulta/ 2 2
+http://www.buenosnegocios.com/notas/428-atencion-telefonica-10-consejos-utiles 2 2
+http://www.forosecuador.ec/forum/comunidad/foro-libre/1816-imprimir-duplicado-de-factura-cnt-ecuador 2 2
+http://www.forosecuador.ec/css.php 1 1
+http://www.monografias.com/trabajos85/arqueo-caja-administracion-bancaria-y-instituciones-financieras/arqueo-caja-administracion-bancaria-y-instituciones-financieras.shtml 1 1
+http://www.revistalideres.ec/css/a4e1b9a.css 1 1
+http://imigra.com.ec/pichincha/quito/cooperativas/14525e/cooperativa_de_ahorro_y_credito_corporacion_centro_ltda 1 1
+http://ecuadorec.com/consultar-planilla-de-luz-latacunga-elepco/ 1 1
+http://www.radios.com.ec 1 1
+http://www.forosecuador.ec/forum/ecuador/tr%C3%A1mites/24322-visitas-c%C3%A1rcel-de-latacunga-consultar-horarios-de-visitas 1 1
+http://www.cityshops.es/2016-camisas-de-manga-larga-giorgio-di-mare-hombre-camisa-mlarga-rayas-diagonales-y-bordados-blanco-en-venta-p-1099.html 1 1
+http://www.ecuadorlegalonline.com/consultas/agencia-nacional-de-transito/consulta-de-multas-por-placa/ 1 1
+http://www.elcomercio.com/css/a4e1b9a.css 1 1
+http://www.zoneinradio.com 1 1
+http://myblogs-mostacillasdeno-hemi.blogspot.com/2010/05/collar-tubular-crochet.html 1 1
+http://hosteleriaecuador.com/cuanto-necesito-abrir-negocio/ 1 1
+http://www.geoportaligm.gob.ec/portal/index.php/contactos/ 1 1
+http://socioempleo.gob.ec/socioEmpleo-war/paginas/index.jsf 1 1
+http://www.ecuadorlegalonline.com/consultas/agencia-nacional-de-transito/consulta-de-citaciones/ 1 1
+http://profitwizardpro.com/es/ 1 1
+http://www.forosecuador.ec/forum/ecuador/econom%C3%ADa-y-finanzas/4021-sacar-mecanizado-del-iess-por-internet-mecanizado-para-imprimir 1 1
+http://hairdoctors.com.co 1 1
+https://www.facebook.com 1 1
+http://holamauricio.com.ec 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 5
+%5ebsb%5exdm902%5elmesla%5eec 5
+%5ey6%5exdm404%5ettab02%5eec 1
+epmc+cotopaxi 1
+mancomunidad+de+latacunga 1
+mancomunidad+de+cotopaxi 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+%5ebsb%5exdm902%5elmesla%5eec 5
+cotopaxi 2
+de 2
+mancomunidad 2
+%5ey6%5exdm404%5ettab02%5eec 1
+latacunga 1
+epmc 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 60 1958700
+404 1143 0
+301 4 468
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 177
+/templates/epmc2017ver03/css/template.css 16 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/modules/mod_tc_team3/assets/js/jquery.custom.js 5 http://www.epmc.gob.ec/index.php/78-empresa/71-empresa
+/modules/mod_junewsflash/assets/css/mod_junewsflash_layout4.css 5 http://www.epmc.gob.ec/index.php/78-empresa/71-empresa
+/administrator 1 -
+/media/mod_vvisit_counter/digit_counter/default.css 14 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/admin 3 -
+/index.php/transparencia/category/6-remuneracion 1 -
+/templates/epmc2017ver03/script.responsive.js 16 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/wp-admin/ 2 -
+/index.php/requisitos/category/3-remat 1 -
+/modules/mod_junewsflash/assets/js/jquery.bxslider.js 5 http://www.epmc.gob.ec/index.php/78-empresa/71-empresa
+/templates/epmc2017/script.responsive.js 9 http://epmc.gob.ec/index.php/inicio/mv
+/facturacion/help.php 1 -
+/templates/system/css/general.css 24 http://epmc.gob.ec/index.php/inicio/mv
+/templates/epmc/images/designer/EPMC.ico 1 -
+/index.php/quienes-somos/mision-vision 3 -
+/media/mod_rssocial/js/jquery-noconflict.js 17 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/index.php/ser/matriculacion-vehicular 3 -
+/templates/epmc/script.js 5 http://epmc.gob.ec/index.php/77-deapartamentos/71-transparencia
+/media/system/js/caption.js 21 http://epmc.gob.ec/index.php/inicio/mv
+/media/mod_rssocial/js/rssocial.js 17 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/media/mod_rssocial/css/rssocial-anim.css 16 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/xmlrpc.php 7 -
+/facturacion 4 -
+/templates/epmc/bootstrap.min.js 5 http://epmc.gob.ec/index.php/77-deapartamentos/71-transparencia
+/media/mod_rssocial/js/jquery.js 16 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/templates/epmc/css/bootstrap.css 3 http://www.epmc.gob.ec/index.php/component/mailto/
+/modules/mod_jf_mobilemenu/assets/jf_mm.min.js 11 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/modules/mod_phocagallery_slideshow_floom/javascript/floom.js 14 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/images/portfolio/img8.jpg 3 -
+/templates/epmc2017ver03/script.js 15 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/modules/mod_tc_team3/assets/js/jquery.owl.carousel.js 5 http://www.epmc.gob.ec/index.php/78-empresa/71-empresa
+//wp-content/plugins/cherry-plugin/includes/css/cherry-plugin.css 4 -
+/blog/robots.txt 2 -
+/portfolio.html 2 -
+/components/com_phocadownload/assets/custom.css 2 http://epmc.gob.ec/index.php/transparencia/category/11-formularios
+/index.php/contacto 24 http://epmc.gob.ec/index.php/contacto
+/media/system/js/validate.js 5 http://www.epmc.gob.ec/index.php/login
+/templates/beez_20/javascript/hide.js 1 http://www.epmc.gob.ec/index.php/park-links
+/index.php/transparencia/category/10-servicios 1 -
+/wp-admin 1 -
+/components/com_phocadownload/assets/phocadownloadrating.css 1 http://epmc.gob.ec/index.php/transparencia/category/14-presupuesto
+/index.php/inicio/mv/80-epmc 1 -
+/index.php/transparencia/2015/e2015 1 -
+/components/com_phocadownload/assets/overlib/overlib_mini.js 2 http://epmc.gob.ec/index.php/transparencia/category/11-formularios
+/ 4 -
+/index.php/component/content/ 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/index.php/component/content/category/77-deapartamentos 1 -
+/templates/beez5/css/position.css 2 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/media/system/js/mootools-more.js 23 http://epmc.gob.ec/index.php/inicio/mv
+/index.php/galeria 1 -
+/media/mod_rssocial/css/rssocial.css 17 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/templates/beez_20/javascript/md_stylechanger.js 1 http://www.epmc.gob.ec/index.php/park-links
+/modules/mod_tc_team3/assets/js/jquery-noconflict.js 5 http://www.epmc.gob.ec/index.php/78-empresa/71-empresa
+/components/com_phocadownload/assets/phocadownloadbuttonrc.css 2 http://epmc.gob.ec/index.php/transparencia/category/11-formularios
+/index.php/contactos 2 -
+/theme/assets/global/plugins/jquery-file-upload/server/php/ 2 http://epmc.gob.ec/theme/assets/global/plugins/jquery-file-upload/server/php/
+/components/com_phocadownload/assets/phocadownload-grey.css 2 http://epmc.gob.ec/index.php/transparencia/category/11-formularios
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/index.php/inicio/introduccion 2 -
+/wp//wp-login.php 1 -
+/modules/mod_tc_team3/assets/font-awesome.css 5 http://www.epmc.gob.ec/index.php/78-empresa/71-empresa
+/templates/beez5/css/general.css 3 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/templates/beez_20/css/template.css 1 http://epmc.gob.ec/index.php/component/mailto/
+/index.php/ser/gt/titulos-habilitantes 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/wp2android-turn-wp-site-into-android-app/readme.txt 2 http://epmc.gob.ec/wp-content/plugins/wp2android-turn-wp-site-into-android-app/readme.txt
+/templates/epmc2017/css/template.css 9 http://epmc.gob.ec/index.php/inicio/mv
+/modules/mod_tc_team3/assets/js/jquery.min.js 5 http://www.epmc.gob.ec/index.php/78-empresa/71-empresa
+/index.php/component/mailto/ 11 -
+/templates/beez_20/css/.css 1 http://epmc.gob.ec/index.php/component/mailto/
+/modules/mod_slideshowck/assets/jquery.mobile.customized.min.js 1 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+/index.php/ser/gt 1 -
+/templates/beez5/css/beez5.css 2 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/media/system/js/modal.js 3 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+/index.php/galeria/1-brigadas/detail/4-bsigchos1 1 -
+/components/com_b2jcontact/css/b2jcontact.css 2 -
+/index.php/ser/gtra/rtv 1 -
+/templates/epmc/jquery.js 8 http://www.epmc.gob.ec/index.php/component/mailto/
+/index.php/ser/gtra/sv 2 -
+/templates/epmc2017/jquery.js 9 http://epmc.gob.ec/index.php/inicio/mv
+/media/mod_rssocial/js/jquery-migrate.js 17 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/images/vision.jpg 3 -
+/templates/beez5/css/print.css 3 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/modules/mod_slideshowck/assets/camera.min.js 1 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+/index.php/transparencia/category/8-directorio 2 -
+/index.php/requisitos 3 -
+/apple-touch-icon.png 1 -
+/index.php/component/banners/click/2 2 -
+/templates/epmc2017ver03/css/print.css 3 http://epmc.gob.ec/index.php/component/mailto/
+/modules/mod_tc_team3/assets/css/owl.carousel.css 5 http://www.epmc.gob.ec/index.php/78-empresa/71-empresa
+/templates/epmc/CloudZoom.js 5 http://epmc.gob.ec/index.php/77-deapartamentos/71-transparencia
+/templates/epmc2017ver03/css/template.responsive.css 15 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/templates/beez5/javascript/hide.js 2 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/wordpress/ 2 -
+/images/objetivp.jpg 2 -
+/license.txt 2 -
+/blog/wp-includes/wlwmanifest.xml 1 -
+/images/portfolio/img9.jpg 2 -
+/modules/mod_jf_mobilemenu/assets/jf_mm.min.css 11 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/wp-content/plugins/cherry-plugin/README.md 2 http://epmc.gob.ec/wp-content/plugins/cherry-plugin/README.md
+/modules/mod_phocagallery_slideshow_floom/css/style.css 14 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/modules/mod_slideshowck/themes/default/css/camera.css 1 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+//wp-login.php 1 -
+/index.php/transparencia/category/2-extructura 1 -
+/templates/beez5/javascript/md_stylechanger.js 2 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/index.php/ser/gtra 2 -
+/media/mod_rssocial/css/rssocial-font.css 16 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/index.php/77-deapartamentos/71-transparencia 6 -
+/index.php/servicios/77-deapartamentos 1 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/modules/mod_jf_mobilemenu/assets/jquery.jf_multilevelpushmenu.min.js 11 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/templates/beez_20/css/general_mozilla.css 2 http://epmc.gob.ec/index.php/component/mailto/
+/media/system/js/core.js 31 http://epmc.gob.ec/index.php/inicio/mv
+/wp-json/wp/v2/users/ 2 -
+/facturacion/js/bootstrap.js 1 http://www.epmc.gob.ec/facturacion/login.php
+/components/com_phocagallery/assets/jquery/jquery-1.6.4.min.js 2 http://epmc.gob.ec/index.php/galeria/2-brigada-pujili/detail/10-brigada-pujili
+/facturacion/js/jquery-2.1.1.min.js 1 http://www.epmc.gob.ec/facturacion/login.php
+/templates/epmc/css/template.css 3 http://www.epmc.gob.ec/index.php/component/mailto/
+/templates/beez_20/css/layout.css 2 http://epmc.gob.ec/index.php/component/mailto/
+/index.php/component/banners/click/3 4 -
+/wp-content/plugins/wp-dreamworkgallery/readme.txt 1 http://epmc.gob.ec/wp-content/plugins/wp-dreamworkgallery/readme.txt
+/templates/epmc2017/script.js 9 http://epmc.gob.ec/index.php/inicio/mv
+/wp/ 2 -
+/templates/epmc/css/bootstrap.min.css 5 http://epmc.gob.ec/index.php/77-deapartamentos/71-transparencia
+/media/mod_vvisit_counter/stats/default.css 16 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/media/system/js/mootools-core.js 30 http://epmc.gob.ec/index.php/inicio/mv
+//wp-content/plugins/xaisyndicate/idx.php 4 -
+/robots.txt 268 -
+/media/system/css/modal.css 3 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+/modules/mod_slideshowck/assets/jquery.min.js 1 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+/blog/ 2 -
+/plugins/content/phocadownload/assets/css/phocadownload.css 13 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/templates/beez5/css/layout.css 2 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/blog//wp-login.php 1 -
+/assets/modules/evogallery/js/uploadify/uploadify.css 2 http://epmc.gob.ec/assets/modules/evogallery/js/uploadify/uploadify.css
+/wp-content/themes/u-design/style.css 2 http://epmc.gob.ec/wp-content/themes/u-design/style.css
+/media/system/images/arrow.png 1 -
+/wp-content/plugins/wp-front-end-repository/js/uploadify/uploadify.css 1 http://www.epmc.gob.ec/wp-content/plugins/wp-front-end-repository/js/uploadify/uploadify.css
+/templates/beez_20/css/general.css 2 http://epmc.gob.ec/index.php/component/mailto/
+/modules/mod_slideshowck/assets/jquery.easing.1.3.js 1 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+/index.php/login 1 -
+/templates/epmc2017ver03/jquery.js 15 http://epmc.gob.ec/index.php/quienes-somos/78-noticias
+/index.php/transparencia/2016 1 -
+/components/com_phocagallery/assets/fadeslideshow/fadeslideshow.js 2 http://epmc.gob.ec/index.php/galeria/2-brigada-pujili/detail/10-brigada-pujili
+/components/com_phocadownload/assets/phocadownload.css 1 http://epmc.gob.ec/index.php/transparencia/category/13-presupuesto
+/templates/beez_20/css/print.css 2 http://epmc.gob.ec/index.php/component/mailto/
+/index.php/transparencia/category/3-estructura 4 -
+/modules/mod_junewsflash/assets/css/style_common.css 5 http://www.epmc.gob.ec/index.php/78-empresa/71-empresa
+/templates/beez_20/css/position.css 2 http://epmc.gob.ec/index.php/component/mailto/
+/facturacion/css/bootstrap.css 1 http://www.epmc.gob.ec/facturacion/login.php
+/components/com_phocadownload/assets/images/up.png 4 -
+/index.php/component/content/article/78-noticias/76-facturacion 2 -
+/facturacion/login.php 1 -
+/components/com_phocagallery/assets/phocagallery.css 1 http://epmc.gob.ec/index.php/galeria/2-brigada-pujili/detail/10-brigada-pujili
+/images/portfolio/img7.jpg 2 -
+/templates/beez5/css/general_mozilla.css 1 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/wp/wp-includes/wlwmanifest.xml 1 -
+/wordpress//wp-login.php 1 -
+/index.php 5 -
+/templates/epmc/css/template.min.css 5 http://epmc.gob.ec/index.php/77-deapartamentos/71-transparencia
+/templates/epmc2017/css/template.responsive.css 9 http://epmc.gob.ec/index.php/inicio/mv
+/images/m.jpg 2 -
+/index.php/ser/gtra/matri 2 -
+/index.php/component/users/ 10 -
+/modules/mod_tc_team3/assets/js/jquery.custom.one.js 5 http://www.epmc.gob.ec/index.php/78-empresa/71-empresa
+/index.php/ser/gt/fis 1 -
+/index.php/component/phocadownload/category/1-requisitos 1 -
+/templates/system/css/system.css 28 http://www.epmc.gob.ec/index.php/78-empresa/71-empresa
+/templates/beez_20/css/nature.css 1 http://www.epmc.gob.ec/index.php/park-links
+/administrator/components/com_simplephotogallery/lib/uploadFile.php 2 http://epmc.gob.ec/administrator/components/com_simplephotogallery/lib/uploadFile.php
+/wp-content/plugins/wpstorecart/readme.txt 2 http://epmc.gob.ec/wp-content/plugins/wpstorecart/readme.txt
+/modules/mod_tc_team3/assets/css/style.css 5 http://www.epmc.gob.ec/index.php/78-empresa/71-empresa
+/assets/fonts/glyphicons-halflings-regular.eot 8 http://www.epmc.gob.ec/
+/index.php/galeria/2-brigada-pujili/detail/10-brigada-pujili 1 -
+/components/com_phocadownload/assets/phocadownloadbutton.css 2 http://epmc.gob.ec/index.php/transparencia/category/11-formularios
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 259
+181.211.103.246 460 2439 27514162 20180329142926
+181.113.39.190 136 643 12017255 20180329120813
+66.249.88.59 25 161 8631887 20180329224703
+66.249.88.57 21 135 6181142 20180328121443
+66.249.88.58 21 154 7242742 20180329224619
+186.42.105.37 15 63 3076755 20180328135749
+186.46.195.19 13 80 3094346 20180326101143
+186.42.107.49 13 67 4166723 20180319212933
+181.112.81.74 12 93 9196277 20180331192020
+181.112.59.171 11 40 1658769 20180319170533
+181.211.13.35 11 53 2595647 20180329110622
+54.67.59.131 11 11 33022 20180329174300
+190.152.129.184 11 67 3233021 20180326100637
+201.234.207.132 10 50 2214031 20180315142134
+181.112.83.252 9 50 3403057 20180320141621
+186.46.236.194 9 48 2017751 20180308150230
+186.46.168.42 9 48 1105946 20180322144135
+181.196.55.81 9 30 1676096 20180331012812
+186.71.139.216 8 51 2366825 20180320122134
+181.112.139.132 8 33 990933 20180320083551
+164.163.163.30 8 33 1871362 20180322112214
+190.152.128.144 8 44 2398690 20180327184640
+186.42.107.92 7 40 2433922 20180327170825
+186.46.92.162 7 49 2716122 20180302120803
+190.96.111.55 7 31 1865827 20180321102540
+131.196.8.226 0 3 636675 
+181.112.104.110 2 16 576205 20180324175215
+181.112.155.114 2 16 576206 20180305143607
+186.46.172.169 3 17 576206 20180328220213
+188.165.244.171 1 1 11549 20180312214423
+164.163.163.12 2 16 576206 20180318214959
+181.199.93.75 1 14 398583 20180306080942
+181.113.18.90 2 16 576205 20180311123609
+181.112.105.227 4 20 759819 20180317211010
+186.46.224.237 2 16 576206 20180320132158
+186.46.226.87 5 29 1743925 20180322230157
+190.63.150.158 3 18 180565 20180321145928
+177.228.252.76 0 1 177935 
+182.138.137.137 1 1 3002 20180326101035
+186.3.192.72 5 42 3018225 20180325110344
+181.199.1.53 4 22 1154147 20180328194719
+190.63.126.143 2 16 576206 20180305091456
+190.152.129.165 2 17 1003580 20180328085240
+186.46.224.39 3 31 2257787 20180326193021
+186.47.97.1 5 29 1541727 20180327122554
+186.42.107.7 5 29 1435869 20180313124903
+131.196.15.38 2 18 1109856 20180308231727
+181.112.143.6 5 24 1157195 20180307144915
+181.112.8.141 6 42 1901806 20180323165612
+186.3.83.163 4 19 705462 20180321195926
+190.152.131.175 1 14 398583 20180313121418
+186.42.107.52 3 17 576206 20180326152423
+138.185.136.86 2 11 387557 20180328160816
+181.112.82.61 3 18 756771 20180308140619
+18.196.205.164 3 3 3002 20180303180546
+181.112.81.23 4 32 3573181 20180303125055
+186.46.173.166 2 17 681618 20180306170743
+164.163.163.58 5 28 1435823 20180325191310
+186.46.224.233 0 2 430985 
+181.112.82.249 2 16 576206 20180328174941
+181.196.52.172 4 32 3573181 20180323154230
+190.214.215.167 1 14 398583 20180304081037
+186.46.122.162 2 16 576206 20180328080707
+186.101.174.145 7 43 2324029 20180324153618
+190.63.150.84 3 18 1003580 20180326185600
+91.199.212.132 0 3 252 
+190.152.130.147 5 36 2325789 20180319104529
+200.105.247.44 1 14 398583 20180328103646
+181.112.104.9 3 17 588707 20180324131327
+186.46.175.118 4 22 1151517 20180305115431
+190.154.195.34 3 15 784934 20180301172103
+200.7.247.209 1 4 0 20180307171415
+186.47.96.49 2 18 1109856 20180309082157
+179.49.54.242 3 30 3392616 20180314070651
+192.188.58.7 4 22 1154146 20180315114434
+66.249.83.199 1 1 65453 20180315084157
+186.46.201.149 0 1 98803 
+181.112.80.239 1 14 398583 20180319083533
+66.102.8.27 0 1 352 
+186.46.203.101 2 16 576206 20180307163147
+190.152.245.18 5 30 1719662 20180307161908
+181.39.87.117 0 1 262960 
+201.234.218.18 4 22 1154519 20180320164840
+186.42.97.130 3 21 1151517 20180305153659
+181.198.127.75 4 21 1112329 20180307144646
+18.197.123.191 3 3 3002 20180305205544
+181.188.201.159 2 16 0 20180317152143
+186.69.7.82 4 23 1581893 20180324171104
+45.228.180.13 2 17 1003580 20180302094553
+200.125.245.6 3 17 579208 20180317180448
+181.112.106.107 2 3 180110 20180320125724
+181.112.224.129 5 24 1147720 20180309163105
+181.39.102.43 2 16 576206 20180322143526
+66.249.83.67 0 1 177935 
+186.3.123.34 3 21 1151517 20180319133017
+181.112.9.67 7 32 1547777 20180323115029
+190.63.119.80 2 16 576206 20180316161705
+186.101.106.82 4 20 776780 20180319141023
+94.23.23.207 1 1 11549 20180318105342
+186.42.105.109 6 31 1544775 20180322203618
+190.152.204.12 5 30 1969100 20180311202751
+186.46.227.17 2 16 576206 20180315083025
+190.152.149.18 5 27 1101855 20180326142940
+201.219.50.254 1 14 495496 20180327115853
+181.112.146.122 5 24 1157195 20180326112351
+186.46.24.46 2 16 576206 20180315153826
+190.63.119.118 4 32 1152411 20180307162521
+192.188.58.9 2 16 576205 20180314154035
+190.152.244.250 0 1 280805 
+186.42.106.123 6 7 8680 20180328140745
+186.71.70.146 2 16 576206 20180326111734
+38.80.23.201 1 1 11549 20180307151821
+200.7.247.155 2 16 576206 20180313092038
+150.70.188.177 1 1 11549 20180317035109
+189.225.15.191 0 1 177935 
+190.152.130.121 2 16 576205 20180322123544
+190.57.173.106 0 1 106276 
+66.249.83.69 1 2 3590 20180315084155
+181.199.38.18 3 23 1685166 20180314100707
+181.112.224.111 6 39 2434125 20180324113817
+190.152.130.177 2 16 576206 20180323161142
+181.112.82.134 2 18 1109856 20180326150131
+200.85.80.153 2 16 576206 20180302133015
+190.152.8.35 3 18 579253 20180321094110
+181.196.55.231 4 32 1152410 20180320230933
+181.196.53.124 2 19 1104952 20180312121304
+190.152.214.150 0 1 1890 
+190.57.173.14 4 19 759773 20180315155349
+181.199.71.54 1 1 3002 20180326130204
+190.152.131.130 2 3 180110 20180323152542
+66.249.83.7 0 8 356842 
+54.92.184.62 1 1 3002 20180321093556
+66.249.83.23 0 15 759025 
+69.174.87.28 2 11 387558 20180318204438
+54.175.234.220 2 16 576206 20180330142510
+190.131.133.72 3 21 1151517 20180319191606
+181.196.60.2 3 22 1257793 20180320181805
+181.112.104.40 4 23 1154565 20180319114400
+186.46.225.161 2 16 576206 20180302215601
+181.112.105.223 3 17 579208 20180311173645
+66.102.8.23 1 1 2381 20180323215239
+186.42.104.130 2 18 1284385 20180312202820
+181.112.80.11 1 12 115700 20180327185507
+190.152.131.148 5 23 1157148 20180319103417
+10.252.221.1 2 2 0 20180324130805
+181.196.54.166 2 20 1964604 20180301193836
+200.24.222.58 5 24 1260423 20180301095009
+186.4.174.162 3 21 1151517 20180321143806
+186.46.239.205 2 16 576206 20180317161203
+186.46.173.174 1 14 398583 20180313195046
+181.39.222.34 3 21 1151517 20180323102118
+186.46.224.41 2 16 576206 20180306161609
+190.63.150.91 3 17 576206 20180329080956
+66.102.7.205 0 5 411031 
+181.113.119.250 3 21 1151517 20180319084332
+91.200.12.98 2 2 6004 20180321184924
+181.211.240.45 7 31 1686651 20180305102418
+186.4.211.79 1 14 398583 20180313170025
+66.249.83.71 0 1 3463 
+186.46.226.177 7 31 1441500 20180314114351
+181.112.157.100 6 29 1438453 20180315090803
+190.152.8.170 4 23 1154565 20180305125040
+181.175.156.97 2 16 0 20180307115643
+181.112.106.81 3 18 579254 20180319155417
+41.79.77.19 2 2 23098 20180324033748
+186.46.226.112 3 31 3819990 20180327193659
+186.46.224.8 3 18 756771 20180308200735
+181.188.200.197 2 16 576206 20180309085553
+66.249.83.5 1 5 541446 20180314123408
+200.85.83.54 2 18 1430954 20180329165734
+181.112.105.86 3 18 756771 20180301224423
+190.10.201.88 2 18 969180 20180320164718
+178.210.90.90 2 2 23098 20180317232453
+190.152.130.244 3 20 701718 20180321143624
+190.63.119.172 0 1 1301 
+200.7.247.207 4 23 608029 20180307045901
+181.196.48.226 2 16 576206 20180329084919
+181.198.143.112 1 14 398583 20180329095754
+181.196.54.85 2 16 576206 20180324023415
+181.175.150.203 3 19 1184145 20180302225744
+186.42.104.29 1 14 398583 20180311194207
+66.249.83.25 2 15 913214 20180323215239
+175.42.1.211 1 1 3002 20180302164326
+10.252.221.55 0 39 2912 
+54.82.89.102 1 1 2630 20180331175620
+186.47.84.242 2 14 782303 20180306144452
+186.4.233.5 4 28 1845566 20180325065021
+190.63.255.237 2 16 576206 20180314123201
+45.6.224.249 2 16 576205 20180321112350
+85.214.212.241 1 1 11549 20180307155901
+190.114.255.36 1 1 11549 20180312081946
+200.124.225.71 2 16 576206 20180316161645
+186.47.86.21 6 29 1501032 20180309104041
+190.152.128.246 2 18 1109855 20180324205450
+181.112.8.65 3 23 917695 20180329121537
+45.228.180.8 0 1 105412 
+190.152.22.58 7 32 1547777 20180306084657
+66.249.83.195 0 1 352 
+181.112.9.167 2 17 754141 20180326124519
+200.24.212.25 3 12 544383 20180307050429
+131.196.8.245 2 16 576205 20180320163825
+186.46.6.124 7 31 1042918 20180305122053
+181.112.151.99 3 18 756770 20180327162826
+181.39.150.94 2 18 1109856 20180301100045
+200.32.70.210 5 36 0 20180320102910
+186.46.173.151 2 16 576206 20180325165956
+181.112.81.173 2 16 576205 20180320100746
+190.63.119.65 3 18 1003580 20180315114641
+66.102.7.207 0 4 706734 
+186.46.73.108 1 14 398583 20180317162744
+200.7.247.56 0 1 177935 
+186.42.163.142 2 16 576206 20180307095751
+200.7.247.104 2 16 576206 20180317035012
+186.47.203.130 4 20 759818 20180316124751
+46.118.155.165 2 2 23098 20180331072302
+190.57.174.10 6 41 1959814 20180327114052
+186.42.107.72 2 17 682482 20180329100904
+190.152.128.32 0 1 177935 
+190.152.178.62 2 13 573593 20180322103717
+190.12.12.82 3 19 596261 20180326125838
+190.152.128.233 2 17 1003580 20180326210933
+186.46.175.81 2 16 576206 20180322081206
+200.85.80.223 5 7 548660 20180317180746
+66.249.83.9 2 7 131394 20180314123505
+186.46.225.253 1 14 398583 20180315153209
+200.63.105.107 7 31 1441500 20180316180920
+199.204.248.103 1 1 11549 20180317233649
+190.152.128.110 3 18 579254 20180316114158
+181.112.151.30 2 20 1394024 20180312161057
+159.203.127.174 1 1 11549 20180304195829
+190.12.20.83 3 17 576206 20180320110858
+186.46.175.0 2 17 1003580 20180322144109
+186.46.226.97 2 18 1109856 20180325222229
+190.63.119.244 1 3 3002 20180308145323
+167.250.180.130 3 18 756770 20180314212542
+186.46.174.99 4 22 1154147 20180309153321
+181.112.83.189 3 20 1149746 20180326114046
+66.102.7.203 1 2 303979 20180323215237
+181.112.80.78 3 21 1472003 20180309222820
+181.196.52.212 7 33 1604960 20180305130928
+200.85.80.172 2 17 682482 20180325100402
+190.152.245.94 5 32 1818383 20180326100732
+186.46.174.213 6 34 2042324 20180327223201
+181.112.61.90 6 30 1535254 20180305152052
+181.199.38.0 2 16 576205 20180302230118
+200.110.72.43 3 15 775459 20180307092847
+186.46.227.250 4 22 1154147 20180314192245
+54.165.59.7 5 5 54771 20180329172825
+186.46.1.58 7 49 4149387 20180313183454
+181.112.9.222 7 31 1441501 20180315172913
+66.249.83.27 2 20 842283 20180323215239
+51.4.207.124 2 2 23098 20180303130227
+186.47.214.14 3 22 857509 20180302084546
+186.71.248.248 1 14 398583 20180329215852
+190.152.130.37 2 16 576206 20180327144329
+186.46.172.230 6 33 1664384 20180306111837
+181.113.57.178 7 31 1441501 20180321105953
+186.42.106.36 2 11 210041 20180326195516
+186.46.225.171 3 18 756771 20180314170740
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180301 87 350 10610602 12
+20180302 44 221 8855883 14
+20180303 10 80 3605447 5
+20180304 3 16 413134 3
+20180305 81 414 15735048 19
+20180306 53 320 10903413 15
+20180307 85 384 11654163 24
+20180308 30 179 5002854 15
+20180309 38 235 9524474 12
+20180310 2 16 576206 1
+20180311 11 77 3523096 4
+20180312 40 227 4209628 15
+20180313 62 568 12895484 19
+20180314 71 340 14160658 21
+20180315 67 417 12204456 23
+20180316 53 259 9438077 12
+20180317 23 110 3473329 11
+20180318 10 62 2558101 8
+20180319 90 480 16687578 23
+20180320 75 429 16111493 19
+20180321 66 295 8942721 15
+20180322 55 311 11341274 16
+20180323 44 285 15481247 19
+20180324 36 225 12243417 11
+20180325 26 185 10431511 9
+20180326 100 548 20719193 31
+20180327 58 412 18555719 18
+20180328 85 444 9933320 17
+20180329 49 357 10632606 19
+20180330 2 16 576206 1
+20180331 24 126 10898101 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 35
+0s-30s 265
+30mn-1h 29
+1h+ 20
+2mn-5mn 22
+15mn-30mn 20
+30s-2mn 45
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 708 1619529 356 149
+/assets/fonts/fontawesome-webfont.woff 425 19635783 51 177
+/services.html 113 275867 5 26
+/about.html 90 234206 14 25
+/portafolio.html 57 116497 0 20
+/contact.html 54 134766 5 23
+/assets/fonts/fontawesome-webfont.eot 10 279890 0 2
+/noticias.html 10 35839 1 6
+/assets/fonts/fontawesome-webfont.ttf 6 327905 1 3
+/cpanel 5 62506 1 3
+/prueba/wp-cron.php 2 0 2 2
+END_SIDER

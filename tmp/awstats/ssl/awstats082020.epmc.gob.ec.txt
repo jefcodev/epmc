@@ -1,0 +1,662 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202008 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2677                
+POS_VISITOR 12769               
+POS_DAY 16980               
+POS_DOMAIN 3497                
+POS_LOGIN 3986                
+POS_ROBOT 4141                
+POS_WORMS 4702                
+POS_EMAILSENDER 4833                
+POS_EMAILRECEIVER 4976                
+POS_SESSION 17722               
+POS_SIDER 17923               
+POS_FILETYPES 5111                
+POS_DOWNLOADS 5437                
+POS_OS 7981                
+POS_BROWSER 8226                
+POS_SCREENSIZE 9440                
+POS_UNKNOWNREFERER 9514                
+POS_UNKNOWNREFERERBROWSER 9888                
+POS_ORIGIN 9987                
+POS_SEREFERRALS 10127               
+POS_PAGEREFS 10309               
+POS_SEARCHWORDS 10666               
+POS_KEYWORDS 10818               
+POS_MISC 2341                
+POS_ERRORS 10877               
+POS_CLUSTER 3842                
+POS_SIDER_404 11074               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200901005153 58 12730 11586685958834
+FirstTime 0
+LastTime 20200831173351
+LastUpdate 20200901072923 58 0 57 0 0
+TotalVisits 118                 
+TotalUnique 86                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 113                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 8 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 16 687667 23 43 1287982
+1 4 4 27074 28 42 826189
+2 6 7 135099 15 30 652394
+3 4 4 48973 23 37 290065
+4 5 5 62105 20 44 2004800
+5 5 5 55404 22 38 985901
+6 5 6 335036 21 41 1175815
+7 4 39 1663957 25 35 11260621
+8 15 56 2204484 31 59 1156088
+9 28 104 4070161 29 49 1396968
+10 13 24 2852425 38 65 755712
+11 50 332 9750813 90 109 11569575
+12 16 141 8548430 31 56 929734
+13 6 7 602002 22 41 545266
+14 5 5 23643 22 47 1308604
+15 13 95 3101987 32 57 1129564
+16 18 133 7644466 24 50 2389866
+17 18 143 7319829 42 72 1283051
+18 50 121 4979215 30 103 2069455
+19 4 8 796857 17 31 1935938
+20 17 51 1238360 25 48 638456
+21 7 49 3227182 11 22 636856
+22 0 2 256284 29 40 814360
+23 17 20 170963 48 78 909821
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+ec 94 637 35558259
+us 65 142 4473218
+nz 46 367 13613383
+cn 29 32 442458
+de 20 20 0
+dk 12 12 455165
+ru 12 12 455021
+gb 11 11 76339
+ma 8 79 2855993
+cz 6 6 151918
+jp 3 3 10614
+ca 3 38 1176675
+ar 2 2 7429
+pt 2 2 7175
+id 2 2 7429
+ae 1 7 49522
+fr 1 1 12216
+cl 1 1 6809
+in 0 3 442793
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bingbot/ 248 44505850 20200831170338 118
+bot[\s_+:,\.\;\/\\-] 123 949587 20200831115421 89
+no_user_agent 90 352633 20200831185059 0
+bingpreview 60 923009 20200803180112 0
+AhrefsBot/ 53 163926 20200831101744 25
+Googlebot/ 10 260 20200829045738 10
+Python\-urllib/ 9 341425 20200830233206 0
+unknown 6 156 20200830233209 6
+curl 4 151676 20200816235111 0
+[\s_+:,\.\;\/\\-]bot 3 17493 20200822033001 0
+Dalvik/ 1 5831 20200804085823 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+css 247 1836807 0 0
+jpg 182 40742529 0 0
+gif 16 370544 0 0
+map 1 4288 0 0
+xml 2 24449 0 0
+svg 1 2399 0 0
+woff 23 1358866 0 0
+html 182 2351170 0 0
+pdf 4 491686 0 0
+png 205 5011286 0 0
+Unknown 66 299665 0 0
+js 404 4415816 0 0
+ttf 23 2529172 0 0
+php 21 363739 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 56
+/uploads/lotaip_1593702560.pdf 3 0 582003
+/uploads/lotaip_1591819605.pdf 3 0 701499
+/uploads/lotaip_1593700454.pdf 2 0 378062
+/uploads/f_1593186788.pdf 2 0 21790558
+/uploads/lotaip_1593700431.pdf 2 0 382488
+/uploads/lotaip_1586823502.pdf 2 0 463720
+/uploads/lotaip_1588898396.pdf 2 0 437966
+/uploads/lotaip_1583434791.pdf 2 0 372972
+/uploads/lotaip_1593702680.pdf 2 0 363460
+/uploads/lotaip_1588906769.pdf 2 0 452218
+/uploads/F-012%20Formulario%20Cambio%20de%20Socio.pdf 2 0 255988
+/uploads/lotaip_1586823855.pdf 2 0 446232
+/uploads/f_1583937899.pdf 2 0 1009540
+/uploads/lotaip_1593699444.pdf 2 0 382532
+/uploads/lotaip_1588898457.pdf 2 0 437978
+/uploads/lotaip_1593701323.pdf 2 0 381120
+/uploads/lotaip_1593699410.pdf 2 0 388048
+/uploads/lotaip_1593700477.pdf 2 0 381074
+/uploads/lotaip_1593701217.pdf 2 0 387992
+/uploads/lotaip_1593701194.pdf 2 0 372990
+/uploads/lotaip_1586823236.pdf 2 0 388350
+/uploads/lotaip_1588902810.pdf 1 0 230685
+/uploads/lotaip_1588899434.pdf 1 0 219016
+/uploads/F-002%20Formulario%20de%20Concesi%C3%B3n%20de%20Permiso%20de%20Operaci%C3%B3n.pdf 1 0 45996
+/uploads/F-006%20Formulario%20de%20Incremento%20de%20Cupo.pdf 1 0 46437
+/uploads/f_1583937445.pdf 1 0 368995
+/uploads/lotaip_1593702656.pdf 1 0 189018
+/uploads/lotaip_1588899499.pdf 1 0 218994
+/uploads/lotaip_1593699342.pdf 1 0 199607
+/uploads/lotaip_1593702543.pdf 1 0 186473
+/uploads/lotaip_1593702757.pdf 1 0 189099
+/uploads/lotaip_1593700506.pdf 1 0 181805
+/uploads/lotaip_1593700372.pdf 1 0 186474
+/uploads/lotaip_1587821490.pdf 1 0 183714
+/uploads/lotaip_1586823802.pdf 1 0 223239
+/uploads/F-007%20Formulario%20para%20Habilitaci%C3%B3n%20de%20Veh%C3%ADculo.pdf 1 0 158650
+/uploads/lotaip_1593702637.pdf 1 0 190320
+/uploads/lotaip_1593702580.pdf 1 0 180757
+/uploads/lotaip_1588902839.pdf 1 0 230978
+/uploads/lotaip_1593699377.pdf 1 0 186477
+/uploads/lotaip_1587823376.pdf 1 0 194647
+/uploads/lotaip_1587821322.pdf 1 0 67602
+/uploads/lotaip_1591647278.pdf 1 0 277157
+/uploads/lotaip_1591648133.pdf 1 0 121092
+/uploads/lotaip_1588907212.pdf 1 0 227173
+/uploads/lotaip_1593699570.pdf 1 0 181729
+/uploads/lotaip_1593701249.pdf 1 0 180747
+/uploads/lotaip_1593699543.pdf 1 0 190693
+/uploads/lotaip_1586823583.pdf 1 0 223152
+/uploads/lotaip_1593700390.pdf 1 0 194143
+/uploads/f_1583937890.pdf 1 0 492391
+/uploads/lotaip_1591648959.pdf 1 0 424289
+/uploads/lotaip_1583269807.pdf 1 0 183919
+/uploads/lotaip_1588899531.pdf 1 0 219032
+/uploads/lotaip_1593700350.pdf 1 0 199605
+/uploads/lotaip_1593702607.pdf 1 0 190542
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+Unknown 17 17
+linux 16 16
+winlong 1 1
+winxp 7 7
+win10 781 90
+macosx10 3 3
+win7 250 91
+linuxandroid 85 33
+macosx9 1 1
+win8 171 17
+macosx7 1 1
+macosx 32 29
+macosx8 3 3
+macosx11 9 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 54
+chrome67.0.3396.87 1 1
+chrome56.0.2986.42 2 2
+firefox76.0 41 4
+firefox69.0 1 1
+chrome85.0.4183.83 39 3
+chrome37.0.2062.94 1 1
+chrome47.0.2526.106 1 1
+chrome38.0.2122.0 1 1
+chrome78.0.3904.108 8 8
+chrome35.0.1895.0 1 1
+chrome75.0.3770.142 2 2
+chrome84.0.4147.125 250 23
+Unknown 3 3
+firefox57.0 1 1
+opera12.16 2 2
+msie7.0 3 2
+firefox47.0 6 6
+chrome32.0.1700.116 1 1
+chrome34.0.1841.0 1 1
+chrome73.0.3683.90 30 30
+firefox28.0 1 1
+chrome36.0.1985.125 2 2
+chrome32.0.1700.102 1 1
+chrome32.0.1700.174 1 1
+chrome34.0.1847.132 1 1
+chrome84.0.4147.111 40 3
+chrome63.0.3239.132 1 1
+chrome51.0.2704.103 50 47
+chrome84.0.4147.105 476 65
+chrome36.0.1941.0 1 1
+chrome52.0.2777.85 1 1
+opera12.15 3 3
+chrome81.0.4044.138 21 16
+firefox80.0 29 1
+chrome60.0.3112.113 4 0
+firefox72.0 1 1
+chrome79.0.3883.121 1 1
+chrome34.0.1847.131 1 1
+chrome30.0.1599.12124 1 1
+mozilla 12 12
+chrome75.0.3770.143 8 0
+chrome32.0.1700.139 1 1
+chrome84.0.4147.135 104 9
+chrome30.0.1599.114 1 1
+firefox79.0 179 13
+chrome32.0.1700.107 1 1
+chrome80.0.3987.149 13 13
+opera12.10 2 2
+firefox77.0 1 1
+chrome65.0.3325.181 1 1
+chrome30.0.1552.0 1 1
+opera69.0.3686.95 1 0
+chrome40.0.2214.85 20 20
+netscape5.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200809085754
+Mozilla/5.0_(compatible;_PR-CY.RU;___https://a.pr-cy.ru) 20200831113256
+\ 20200829001259
+Mozilla/5.0 20200814130955
+Mozilla/5.0_AppleWebKit/537.36_(KHTML_like_Gecko)_Chrome/79.0.3883.121 20200826022811
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+\ 20200829001259
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 253 269
+From1 0 0
+From2 1 48
+From3 7 13
+From4 57 1047
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_es 0 1
+www_google_com 1 47
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://a.pr-cy.ru/www.epmc.gob.ec 6 6
+http://webmail.epmc.gob.ec 1 1
+https://webmail.epmc.gob.ec 0 3
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1589296194/unprotected/cpanel/style_v2_optimized.css 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+401 66 2543
+302 1 205
+400 18 676
+500 75 43946
+503 1 5830
+405 1 374
+301 195 57256
+404 195 129763
+206 51 297501
+406 1 373
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 42
+/uploads/lotaip_1583435680.pdf 3 -
+/uploads/lotaip_1583435529.pdf 2 -
+/.well-known/assetlinks.json 12 -
+/img/crane.png 47 -
+/index.php/requisitos 4 -
+/uploads/lotaip_1583269048.pdf 1 -
+/uploads/lotaip_1583434707.pdf 1 -
+/info@epmc.gob.ec 4 -
+/uploads/lotaip_1583268782.pdf 1 -
+/about.html 1 -
+/manifest.json 50 https://www.epmc.gob.ec/
+/js/admin.js 1 -
+/uploads/lotaip_1583255669.pdf 2 -
+/uploads/lotaip_1586824384.pdf 1 -
+/.env 1 -
+/uploads/lotaip_1583271059.pdf 1 -
+/assets/images/44.png 2 https://www.google.com/
+/document/pac.pdf 3 -
+/uploads/lotaip_1593702522.pdf 1 -
+/uploads/lotaip_1583435264.pdf 1 -
+/wp-cron.php 2 https://epmc.gob.ec/wp-cron.php
+/uploads/lotaip_1583253083.pdf 2 -
+/uploads/lotaip_1583268700.pdf 2 -
+/dns-query 3 -
+/uploads/lotaip_1586824899.pdf 1 -
+/sistema-turnos 1 -
+/uploads/lotaip_1583268735.pdf 2 -
+/uploads/lotaip_1583434641.pdf 1 -
+/wp-login.php 2 -
+/assets/images/about.jpg 8 https://www.google.com/
+/uploads/lotaip_1583255341.pdf 2 -
+/uploads/lotaip_1583435576.pdf 1 -
+/index.html 1 -
+/sitemap.xml 3 -
+/uploads/lotaip_1583254924.pdf 1 -
+/license.php 11 -
+/index.php/2019/04/25/the-new-angle-on-book-report-ideas-just-released 6 https://epmc.gob.ec/index.php/2019/04/25/the-new-angle-on-book-report-ideas-just-released/
+/uploads/lotaip_1583270957.pdf 1 -
+/xmlrpc.php 3 -
+/uploads/lotaip_1583435135.pdf 1 -
+/uploads/lotaip_1586825624.pdf 1 -
+/old/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 113
+35.192.100.184 31 31 378807 20200830182020
+45.70.197.139 29 193 5058526 20200811115631
+190.57.173.179 24 149 6659684 20200807174718
+138.246.253.15 20 20 0 20200830101056
+45.70.197.47 13 167 7750463 20200823151039
+185.253.96.17 12 12 455021 20200801095935
+195.181.166.144 12 12 455165 20200817183905
+190.152.204.212 7 10 800910 20200812102354
+200.63.105.156 7 77 2359187 20200813093935
+167.250.180.83 7 76 2344363 20200814205017
+183.136.225.35 6 6 227526 20200828000236
+190.110.205.250 6 43 1198644 20200804084911
+27.115.124.10 6 7 58729 20200830233209
+186.71.144.138 5 50 3550053 20200826162017
+186.47.74.252 5 91 6732747 20200813153846
+45.224.150.3 5 42 1681557 20200818170842
+190.152.131.50 4 39 1182515 20200805125757
+27.115.124.9 4 4 42504 20200830233205
+190.152.202.23 4 48 3542604 20200828122413
+27.115.124.75 4 5 53459 20200830233209
+186.46.207.38 4 4 13744 20200810080828
+186.46.227.39 4 40 1184751 20200818153805
+45.224.150.10 3 37 1174436 20200806071917
+3.81.245.94 3 3 101199 20200829001259
+164.163.160.1 3 3 10614 20200825205421
+51.161.73.62 2 2 11064 20200826035143
+167.250.180.82 0 2 276968 
+51.158.97.248 1 1 5836 20200803041410
+45.189.56.4 0 2 304309 
+45.71.115.179 0 1 483683 
+181.191.233.27 1 1 6809 20200824152005
+76.217.31.195 1 1 5832 20200826022811
+134.209.96.196 1 1 7429 20200814091204
+198.143.182.66 1 1 7429 20200813085824
+104.144.236.48 1 1 5831 20200812144239
+186.46.227.107 1 27 539277 20200830180402
+60.166.128.154 2 2 11064 20200819150446
+186.3.40.132 0 3 197305 
+163.172.163.25 1 1 12214 20200804130048
+104.41.11.165 2 2 7429 20200816173005
+146.120.204.210 1 1 25320 20200826002152
+206.189.204.168 3 3 15575 20200804160910
+190.152.210.248 0 1 575198 
+51.15.242.216 1 1 12215 20200804131238
+181.211.63.224 0 1 112823 
+113.31.115.156 1 1 5831 20200804085807
+45.71.200.5 2 2 11668 20200826214043
+131.196.9.202 3 38 1176675 20200831173351
+190.63.238.156 2 2 10383 20200804143247
+45.70.197.153 0 1 272230 
+190.152.130.23 0 1 483683 
+117.60.238.33 1 1 0 20200812185237
+104.131.67.208 1 1 37909 20200809063213
+181.211.103.246 1 1 12501 20200820094731
+167.71.187.39 1 1 37909 20200802050348
+186.46.175.213 0 1 49222 
+51.158.117.104 3 3 17506 20200803125307
+167.250.180.118 0 1 112823 
+192.210.169.248 1 1 5832 20200813121802
+186.178.42.193 2 2 6908 20200811191707
+146.120.204.229 1 1 25320 20200804170507
+58.52.113.251 1 1 7429 20200805015423
+51.91.129.4 1 1 5835 20200824200039
+181.188.200.223 0 1 258722 
+186.47.136.84 0 1 49222 
+200.85.83.62 3 3 10440 20200805105149
+181.113.119.170 2 2 13589 20200820084812
+186.47.137.18 0 2 492805 
+186.42.104.243 0 1 483683 
+146.120.204.87 1 1 25320 20200831113256
+190.63.1.161 2 2 7034 20200804200433
+167.250.180.98 2 2 10378 20200803204531
+146.120.204.29 1 1 25320 20200821061804
+3.129.247.159 2 2 11665 20200816053919
+27.115.124.74 2 3 16271 20200830233202
+200.73.132.11 2 2 7429 20200816013938
+186.101.138.6 0 1 49222 
+190.63.119.46 3 3 15578 20200819160958
+104.131.89.68 1 1 37921 20200809085754
+185.81.157.112 1 1 12216 20200804013533
+190.111.82.185 0 8 2157186 
+186.46.195.19 0 1 49222 
+51.15.242.22 1 1 5832 20200803135324
+190.63.240.230 0 2 511152 
+42.157.195.85 1 1 12216 20200814130955
+192.111.131.1 2 2 7429 20200817091347
+190.107.236.201 2 2 6940 20200814203045
+104.131.77.226 1 1 25367 20200809063115
+5.107.73.209 1 7 49522 20200804004010
+200.7.246.77 2 2 7014 20200803184546
+186.46.201.21 0 1 259142 
+45.71.39.224 2 3 36813 20200814094336
+89.26.241.102 1 1 1346 20200818153800
+190.152.209.199 2 2 10384 20200805204717
+107.175.71.42 1 1 5830 20200830054741
+146.120.204.137 1 1 25320 20200817204047
+186.46.113.16 0 1 138484 
+51.15.247.217 1 1 5837 20200802065418
+134.122.89.123 0 4 491686 
+125.161.204.11 2 2 7429 20200820024744
+167.250.180.218 0 1 483683 
+45.183.139.25 0 1 138484 
+68.183.152.14 1 1 25318 20200809045326
+190.152.191.77 0 2 468617 
+181.199.51.112 0 2 98444 
+94.46.247.80 1 1 5829 20200811044318
+186.46.206.156 0 4 995934 
+167.250.180.11 1 1 3484 20200820195916
+186.46.173.239 2 2 7022 20200820122438
+223.215.27.153 1 1 7429 20200807144311
+104.131.79.86 1 1 25122 20200809043919
+146.120.204.71 1 1 25318 20200810092117
+179.49.61.247 0 2 256284 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20200801 16 53 1893813 2
+20200802 4 4 55421 4
+20200803 7 8 147714 5
+20200804 19 62 1348954 10
+20200805 10 45 1210768 4
+20200806 4 81 4413803 2
+20200807 53 321 11482010 7
+20200809 5 5 151637 5
+20200810 12 84 4379290 3
+20200811 10 72 2722133 4
+20200812 9 13 1290424 3
+20200813 14 128 5915050 6
+20200814 10 47 1969972 6
+20200816 6 6 26523 3
+20200817 16 19 1095410 4
+20200818 13 84 2374429 6
+20200819 7 9 519867 4
+20200820 8 14 1393385 5
+20200821 1 2 600518 1
+20200822 3 3 0 3
+20200823 5 51 2115833 3
+20200824 2 12 2357536 2
+20200825 4 8 615584 2
+20200826 11 59 4067725 5
+20200827 4 10 678453 2
+20200828 8 56 4641371 3
+20200829 3 3 37921 3
+20200830 50 79 1094877 9
+20200831 4 39 1201995 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 2
+30s-2mn 4
+30mn-1h 1
+5mn-15mn 3
+2mn-5mn 3
+0s-30s 105
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 65
+/ 135 1314174 78 68
+/turnos 28 145392 13 10
+/front/fonts/ionicons.ttf 23 2529172 0 6
+/front/fonts/Simple-Line-Icons.woff 23 1358866 0 2
+/license.php 13 59432 9 9
+/turnero/salcedo 4 27178 2 3
+/sistema-turnos/12847 4 14172 1 0
+/sistema-turnos/12326 4 13744 1 1
+/sistema-turnos/12861 3 10572 0 1
+/sistema-turnos/11589 3 10440 1 1
+/sistema-turnos/17058 3 10614 1 1
+/noticia/salcedo-ahora-cuenta-con-servicio-de-transporte-diferenciado 2 10464 0 2
+/login 2 2694 1 2
+/phpMyAdmin/ 2 75854 0 0
+/phpinfo.php 2 76743 1 0
+/adminer.php 2 75854 0 0
+/phpmyadmin/ 2 75854 2 0
+/phpminiadmin.php 2 75864 0 2
+/mysqladmin/ 2 75854 0 0
+/sistema-turnos/11127 2 7014 1 1
+/sistema-turnos/11489 2 7034 1 1
+/myadmin/ 2 75848 0 0
+/sistema-turnos/13580 2 6940 1 1
+/database/ 2 75850 0 0
+/sitemap.xml 2 24449 0 1
+/web/ 1 12221 0 0
+/blog/ 1 12224 0 0
+/v1/ 1 12216 0 0
+/install/ 1 12222 0 0
+/wp/ 1 12223 0 0
+/old-wp/ 1 12220 0 0
+/sistema-turnos/15579 1 3484 1 1
+/2020/ 1 12219 0 0
+/cms/ 1 12222 0 0
+/temp/ 1 12219 0 0
+/demo/ 1 12216 0 0
+/back/assets/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css.map 1 4288 0 0
+/new/ 1 12221 0 0
+/sistema-turnos/18321 1 3492 1 1
+/old-site/ 1 12226 0 0
+/wp1/ 1 12219 0 0
+/bk/ 1 12217 0 0
+/backup/ 1 12219 0 0
+/site/ 1 12216 0 0
+/home/ 1 12220 0 0
+/db/ 2 75838 0 0
+/dev/ 1 12218 0 0
+/mysql/ 2 75844 0 0
+/sistema-turnos/8748 2 6908 1 1
+/test/ 1 12217 0 0
+/sql.php 2 75846 0 0
+/sql/ 2 75840 0 0
+/pma/ 2 75840 0 0
+/wordpress/ 1 12228 0 0
+/sistema-turnos/15435 2 7022 1 1
+/cpanel 1 12501 1 1
+/new-site/ 1 12222 0 1
+/old/ 1 12218 0 0
+/2019/ 1 12225 0 0
+/bak/ 1 12219 0 0
+/wp2/ 1 12217 0 0
+/2018/ 1 12220 0 0
+/main/ 1 12217 0 0
+/tmp/ 1 12217 0 0
+/v2/ 1 12216 0 0
+END_SIDER

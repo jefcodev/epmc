@@ -1,0 +1,303 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201901 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2688                
+POS_VISITOR 7048                
+POS_DAY 7386                
+POS_DOMAIN 3311                
+POS_LOGIN 3592                
+POS_ROBOT 3747                
+POS_WORMS 4096                
+POS_EMAILSENDER 4227                
+POS_EMAILRECEIVER 4370                
+POS_SESSION 7792                
+POS_SIDER 7949                
+POS_FILETYPES 4505                
+POS_DOWNLOADS 4618                
+POS_OS 4968                
+POS_BROWSER 5104                
+POS_SCREENSIZE 5271                
+POS_UNKNOWNREFERER 5345                
+POS_UNKNOWNREFERERBROWSER 5522                
+POS_ORIGIN 5782                
+POS_SEREFERRALS 5914                
+POS_PAGEREFS 6058                
+POS_SEARCHWORDS 6206                
+POS_KEYWORDS 6358                
+POS_MISC 2352                
+POS_ERRORS 6417                
+POS_CLUSTER 3448                
+POS_SIDER_404 6571                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190201012112 17 2588 5253975056475
+FirstTime 20190101221119
+LastTime 20190131224955
+LastUpdate 20190201073338 17 0 16 0 0
+TotalVisits 41                  
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 34938 2 5 455220
+1 2 2 0 4 10 108352
+2 2 2 0 10 11 72916
+3 1 1 0 5 5 742
+4 2 2 0 6 8 7067
+5 0 0 0 6 7 38286
+6 0 0 0 4 9 207619
+7 1 1 0 6 9 36509
+8 2 2 7091 5 5 28588
+9 2 2 0 9 11 66896
+10 1 1 27846 5 5 40620
+11 3 3 1209 12 13 81085
+12 0 0 0 7 7 1899
+13 1 1 0 3 3 30529
+14 3 3 1209 9 12 95019
+15 2 2 7091 4 7 36531
+16 1 1 0 10 13 4160
+17 3 3 7092 4 6 28588
+18 1 1 0 5 15 539912
+19 1 1 0 3 6 141562
+20 0 0 0 37 40 1348974
+21 9 9 2240 11 13 59102
+22 4 4 7997 11 35 380892
+23 1 1 0 9 17 851349
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+zz 28 28 0
+tw 6 6 2240
+us 6 6 64209
+de 3 3 0
+ec 2 2 2418
+cn 1 1 27846
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bingbot/ 59 1752384 20190131212813 0
+no_user_agent 9 255980 20190131132806 0
+bingpreview 6 795335 20190119235628 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 15474 20190121212839 0
+bot[\s_+:,\.\;\/\\-] 1 27846 20190118004628 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+xml 2 2418 0 0
+php 34 2240 0 0
+html 10 92055 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 7
+/document/REQUISSITOS2017.pdf 2 0 854748
+/document/Deshabilitacion.pdf 1 0 101285
+/document/CambiodeSocio.pdf 1 0 174032
+/document/ReformadeEstatutos.pdf 1 0 102207
+/document/CambiodeVehiculo.pdf 1 0 105412
+/document/Habilitaciondevehiculo.pdf 1 0 104989
+/document/CambiodeSocioVehiculo.pdf 1 0 106276
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win7 4 4
+macosx10 1 1
+win8 2 2
+Unknown 33 33
+macosx11 1 1
+macosx12 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+chrome61.0.3163.100 5 5
+firefox45.0 1 1
+firefox47.0 1 1
+Unknown 35 35
+chrome40.0.2214.85 3 3
+chrome52.0.2743.116 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/4.9.9;_https://epmc.gob.ec 20190131224955
+python-requests/2.20.1 20190121212917
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-requests/2.20.1 20190121212917
+Microsoft_Office/14.0_(Windows_NT_6.2;_Microsoft_Outlook_14.0.4760;_Pro) 20190131115835
+WordPress/4.9.9;_https://epmc.gob.ec 20190131224955
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 8 8
+From1 0 0
+From2 0 0
+From3 0 0
+From4 38 38
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+301 30 0
+400 10 260
+404 59 0
+403 3 30271
+503 20 19566
+405 1 42
+401 73 1765259
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 8
+/robots.txt 38 -
+/F0C4_374 1 -
+/F0C4.aspx 1 -
+/.well-known/assetlinks.json 10 -
+/xmlrpc.php 3 https://epmc.gob.ec/xmlrpc.php
+/.htF0C4_764 1 -
+/ 4 -
+/portfolio.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 7
+10.252.221.1 28 28 0 20190131224955
+103.229.124.213 6 6 2240 20190121212917
+13.57.233.99 5 5 36363 20190131224957
+138.246.253.5 3 3 0 20190130152116
+181.211.103.246 2 2 2418 20190131115835
+34.222.227.15 1 1 27846 20190123104529
+60.191.38.77 1 1 27846 20190128000552
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20190101 1 1 0 1
+20190102 3 3 0 3
+20190103 1 1 0 1
+20190109 2 2 0 2
+20190110 3 3 0 3
+20190112 1 1 0 1
+20190115 1 1 0 1
+20190116 1 1 1209 1
+20190117 2 2 0 2
+20190118 4 4 7092 4
+20190119 2 2 0 2
+20190120 1 1 0 1
+20190121 8 8 2240 3
+20190122 2 2 7092 2
+20190123 3 3 27846 3
+20190125 3 3 7091 3
+20190128 3 3 34937 3
+20190130 2 2 0 2
+20190131 3 3 9206 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 40
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/wp-cron.php 28 0 28 28
+/ 10 92055 10 10
+/xmlrpc.php 5 1105 0 1
+/autodiscover/autodiscover.xml 2 2418 2 2
+/wp-login.php 1 1135 1 0
+END_SIDER

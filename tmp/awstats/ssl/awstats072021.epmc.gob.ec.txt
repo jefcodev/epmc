@@ -1,0 +1,1484 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202107 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2694                
+POS_VISITOR 44095               
+POS_DAY 56623               
+POS_DOMAIN 3609                
+POS_LOGIN 4178                
+POS_ROBOT 4333                
+POS_WORMS 4903                
+POS_EMAILSENDER 5034                
+POS_EMAILRECEIVER 5177                
+POS_SESSION 57498               
+POS_SIDER 57707               
+POS_FILETYPES 5312                
+POS_DOWNLOADS 5727                
+POS_OS 11524               
+POS_BROWSER 11896               
+POS_SCREENSIZE 13263               
+POS_UNKNOWNREFERER 13337               
+POS_UNKNOWNREFERERBROWSER 14281               
+POS_ORIGIN 15007               
+POS_SEREFERRALS 15152               
+POS_PAGEREFS 15461               
+POS_SEARCHWORDS 16463               
+POS_KEYWORDS 16615               
+POS_MISC 2357                
+POS_ERRORS 16674               
+POS_CLUSTER 4034                
+POS_SIDER_404 16866               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210801000213 216 49838 10186429757334
+FirstTime 20210701000729
+LastTime 20210731205302
+LastUpdate 20210801072115 216 0 215 0 0
+TotalVisits 228                 
+TotalUnique 196                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 371                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 24 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 29 51 3078753 60 108 5305250
+1 22 24 4310979 52 109 5481458
+2 24 25 417068 64 138 3946484
+3 15 16 137727 45 95 5779539
+4 46 47 261546 45 218 13738493
+5 30 33 2590129 56 125 7713428
+6 23 67 10759293 125 376 68714327
+7 35 46 19789339 110 152 3226002
+8 64 233 53847434 76 212 5629596
+9 56 154 40109891 75 165 7730128
+10 52 298 85733034 74 143 4478596
+11 39 286 83478211 91 205 14363456
+12 73 421 59028512 81 191 5635874
+13 39 124 70901302 60 223 8535365
+14 60 202 44346896 64 201 7214830
+15 51 95 21882157 61 160 4386513
+16 17 28 25047239 60 126 6740337
+17 38 119 37002345 74 169 7594532
+18 38 139 35778481 65 157 3771692
+19 14 103 39910892 77 134 7049131
+20 18 70 40525913 66 153 6851312
+21 106 311 41390660 116 229 5681079
+22 43 48 17828282 51 101 3556600
+23 22 38 930497 55 112 5568365
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+us 536 570 15345482
+ec 337 1926 587895718
+ma 25 230 24903177
+de 12 12 28024
+ca 11 124 27406629
+gr 9 9 302068
+ru 7 7 60624
+nz 4 39 24855951
+cn 4 31 1250680
+cz 4 4 113000
+ar 3 5 8140263
+do 1 1 6166
+gb 1 1 37911
+cu 0 1 4065006
+cw 0 1 1721810
+uy 0 1 18437
+jp 0 1 4065006
+in 0 8 18173031
+fr 0 1 4065006
+co 0 1 234083
+py 0 1 4065006
+hn 0 3 12195018
+pa 0 1 138484
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bingbot/ 1068 118187707 20210731235029 98
+bot[\s_+:,\.\;\/\\-] 340 64690275 20210731043712 89
+bingpreview 276 11023338 20210731164315 0
+AhrefsBot/ 247 1203936 20210731214627 52
+YandexBot/ 115 585606 20210731204020 75
+no_user_agent 90 160425 20210731225047 0
+unknown 49 1274 20210730073855 49
+yandex 44 527253 20210729180846 0
+curl 10 189719 20210702004242 0
+Googlebot/ 5 2782166 20210731080849 3
+YandexImages/ 2 2122074 20210731102636 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 19
+svg 10 12403 0 0
+jpeg 7 836428 0 0
+gif 16 327722 0 0
+txt 1 12225 0 0
+ttf 45 4838416 0 0
+tiff 1 165 0 0
+js 783 9082794 0 0
+Unknown 608 3866170 0 0
+pdf 37 5892559 0 0
+png 292 6550695 0 0
+php 1 12261 0 0
+css 466 3633986 0 0
+jpg 409 699163378 0 0
+woff 46 1940716 0 0
+woff2 10 589314 0 0
+html 242 2284358 0 0
+xls 1 18437 0 0
+cfm 2 24456 0 0
+webp 1 97 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 124
+/requisitos/f_1621613267.pdf 37 0 3358305
+/uploads/lotaip_1620161356.pdf 10 0 5870430
+/uploads/lotaip_1620160944.pdf 10 0 1731440
+/uploads/lotaip_1618316670.pdf 9 0 3789909
+/uploads/lotaip_1618317799.pdf 9 0 3836295
+/uploads/lotaip_1618315970.pdf 9 0 3882303
+/uploads/lotaip_1618316763.pdf 9 0 3820266
+/uploads/lotaip_1620396141.pdf 9 0 1127268
+/uploads/lotaip_1618317547.pdf 9 0 3761001
+/uploads/lotaip_1618316727.pdf 9 0 3783987
+/uploads/lotaip_1620396175.pdf 9 0 1043748
+/uploads/lotaip_1618317597.pdf 9 0 3775599
+/uploads/lotaip_1618317982.pdf 9 0 3778047
+/uploads/f_1622666842.pdf 9 0 4433706
+/uploads/lotaip_1618317445.pdf 9 0 3772359
+/uploads/lotaip_1618317577.pdf 9 0 3771630
+/uploads/lotaip_1618317387.pdf 9 0 3778047
+/uploads/f_1622666786.pdf 9 0 5694588
+/uploads/lotaip_1618317268.pdf 8 0 3350488
+/uploads/lotaip_1618317648.pdf 8 0 3343112
+/uploads/f_1620057718.pdf 8 0 7099616
+/uploads/lotaip_1618316186.pdf 7 0 2902949
+/uploads/f_1622234717.pdf 7 0 3440276
+/uploads/lotaip_1623448223.pdf 6 0 1049993
+/uploads/lotaip_1623183404.pdf 5 0 557680
+/uploads/lotaip_1624482588.pdf 3 0 387837
+/uploads/f_1603477246.pdf 3 0 1529649
+/uploads/lotaip_1624482570.pdf 3 0 377403
+/uploads/lotaip_1627330284.xls 3 0 55311
+/uploads/lotaip_1617030864.pdf 3 0 394680
+/uploads/lotaip_1617046906.pdf 3 0 1212909
+/uploads/lotaip_1587821322.pdf 2 0 135204
+/uploads/f_1624031577.pdf 2 0 986140
+/uploads/lotaip_1617227697.pdf 2 0 349288
+/uploads/lotaip_1617227386.pdf 2 0 366188
+/uploads/lotaip_1618317302.pdf 2 0 838140
+/uploads/f_1600211989.pdf 2 0 905876
+/uploads/lotaip_1617722817.xls 2 0 13350
+/uploads/f_1593186788.pdf 2 0 2849812
+/uploads/F-008%20Formulario%20para%20Deshabilitacion%20de%20Veh%C3%ADculo.pdf 2 0 277662
+/uploads/lotaip_1625862621.pdf 2 0 888091
+/uploads/lotaip_1617227126.pdf 2 0 380142
+/uploads/lotaip_1617227232.pdf 2 0 380144
+/uploads/lotaip_1607090128.pdf 2 0 430352
+/uploads/lotaip_1596646996.pdf 1 0 199890
+/uploads/lotaip_1597343313.pdf 1 0 225477
+/uploads/lotaip_1587821404.pdf 1 0 183918
+/uploads/F-004%20Formulario%20de%20Concesion%20de%20Contrato%20de%20Operaci%C3%B3n.pdf 1 0 38893
+/uploads/lotaip_1617227550.pdf 1 0 183088
+/uploads/f_1600212134.pdf 1 0 286176
+/uploads/F-010%20Formulario%20de%20Cambio%20de%20Socio%20y%20Veh%C3%ADculo.pdf 1 0 84034
+/uploads/lotaip_1605097865.xls 1 0 18232
+/uploads/lotaip_1625862671.pdf 1 0 428217
+/uploads/lotaip_1588899281.pdf 1 0 219971
+/uploads/f_1610636196.pdf 1 0 736385
+/uploads/lotaip_1599061743.pdf 1 0 217551
+/uploads/lotaip_1583270839.pdf 1 0 183682
+/uploads/lotaip_1617227784.pdf 1 0 174642
+/uploads/f_1601413024.pdf 1 0 508656
+/uploads/lotaip_1610998784.xls 1 0 10320
+/uploads/lotaip_1607102469.pdf 1 0 277033
+/uploads/F-012%20Formulario%20Cambio%20de%20Socio.pdf 1 0 127994
+/uploads/F-006%20Formulario%20de%20Incremento%20de%20Cupo.pdf 1 0 39871
+/uploads/lotaip_1623183265.pdf 1 0 150376
+/uploads/lotaip_1617050158.pdf 1 0 426265
+/uploads/lotaip_1596653822.xlsx 1 0 67139
+/uploads/lotaip_1625863196.pdf 1 0 238047
+/uploads/lotaip_1617047035.pdf 1 0 405777
+/uploads/f_1601413112.pdf 1 0 511694
+/uploads/lotaip_1586823074.pdf 1 0 207485
+/uploads/lotaip_1617227667.pdf 1 0 174641
+/uploads/lotaip_1597340200.pdf 1 0 188104
+/uploads/lotaip_1625863110.pdf 1 0 238042
+/uploads/lotaip_1610998720.xls 1 0 13515
+/uploads/lotaip_1620160957.pdf 1 0 183598
+/uploads/F-002%20Formulario%20de%20Concesi%C3%B3n%20de%20Permiso%20de%20Operaci%C3%B3n.pdf 1 0 39706
+/uploads/lotaip_1597343224.pdf 1 0 223386
+/uploads/lotaip_1617227014.pdf 1 0 190072
+/uploads/lotaip_1591819481.pdf 1 0 204073
+/uploads/lotaip_1617049745.pdf 1 0 414731
+/uploads/lotaip_1625863076.pdf 1 0 238059
+/uploads/lotaip_1605104543.xls 1 0 6690
+/uploads/lotaip_1588949687.pdf 1 0 425293
+/uploads/lotaip_1588898489.pdf 1 0 218972
+/uploads/lotaip_1617227172.pdf 1 0 190071
+/uploads/lotaip_1599747331.pdf 1 0 277157
+/uploads/lotaip_1599747191.pdf 1 0 193642
+/uploads/lotaip_1617227895.pdf 1 0 174641
+/uploads/lotaip_1617033030.xls 1 0 8047
+/uploads/lotaip_1618318104.pdf 1 0 417019
+/uploads/F-001%20Formulario%20de%20Informe%20Previo%20de%20Constituci%C3%B3n%20Jur%C3%ADdica.xls.pdf 1 0 37239
+/uploads/lotaip_1609964131.pdf 1 0 277049
+/uploads/lotaip_1618318033.pdf 1 0 419783
+/uploads/f_1598559023.pdf 1 0 564883
+/uploads/lotaip_1610372477.pdf 1 0 193635
+/uploads/lotaip_1625234087.pdf 1 0 150376
+/uploads/F-009%20Formulario%20de%20Cambio%20de%20Socio%20%20con%20Habilitacion%20Veh%C3%ADculo.pdf 1 0 128267
+/uploads/lotaip_1587821490.pdf 1 0 183714
+/uploads/lotaip_1597342035.pdf 1 0 173464
+/uploads/lotaip_1618316513.pdf 1 0 422345
+/cpsess0095173551/3rdparty/roundcube/program/resources/dummy.pdf 1 0 686
+/uploads/F-011%20Formulario%20de%20Cambio%20de%20Veh%C3%ADculo.pdf 1 0 97978
+/uploads/lotaip_1605015817.pdf 1 0 0
+/uploads/lotaip_1588898457.pdf 1 0 218989
+/uploads/f_1616089784.pdf 1 0 611961
+/uploads/lotaip_1587822276.pdf 1 0 191063
+/uploads/lotaip_1586823312.pdf 1 0 194109
+/uploads/lotaip_1606148439.xls 1 0 16557
+/uploads/f_1619623466.pdf 1 0 509474
+/uploads/lotaip_1617231790.xls 1 0 18036
+/uploads/lotaip_1597342067.pdf 1 0 173954
+/uploads/f_1605962813.pdf 1 0 544686
+/uploads/lotaip_1617030712.pdf 1 0 131135
+/uploads/F-005%20Formulario%20de%20Renovaci%C3%B3n%20de%20Contrato%20de%20Operaci%C3%B3n.pdf 1 0 38236
+/uploads/lotaip_1591650840.pdf 1 0 489793
+/uploads/lotaip_1617047188.pdf 1 0 405780
+/readme.txt 1 0 12225
+/uploads/lotaip_1596646951.pdf 1 0 183771
+/uploads/lotaip_1617118910.xls 1 0 13843
+/uploads/F-003%20Formulario%20de%20Renovaci%C3%B3n%20Permiso%20de%20Operaci%C3%B3n.pdf 1 0 38656
+/uploads/lotaip_1602516043.pdf 1 0 184633
+/uploads/lotaip_1625862688.pdf 1 0 458505
+/uploads/F-007%20Formulario%20para%20Habilitaci%C3%B3n%20de%20Veh%C3%ADculo.pdf 1 0 94914
+/uploads/lotaip_1597342197.pdf 1 0 183684
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+Unknown 464 464
+macosx 4 0
+androidmarshmallow 1 0
+winnt 3 3
+win7 352 141
+android 3 0
+win8.1 59 11
+winvista 1 1
+macosx9 2 2
+android10 36 3
+win8 5 3
+ios_iphone 206 14
+winxp 8 6
+macosx10 2 1
+linuxandroid 41 2
+linux 34 33
+androidpie 8 1
+androidoreo 2 0
+macosx8 2 2
+linuxubuntu 3 3
+macosx15 55 9
+win10 1687 255
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 60
+firefox40.0 2 2
+chrome83.0.4103.97 32 32
+firefox52.0 2 0
+chrome44.0.2403.155 2 2
+chrome27.0.1453.93 1 1
+safari14.1.2 51 7
+chrome80.0.3987.99 1 0
+chrome91.0.4472.120 14 0
+firefox73.0 2 2
+chrome55.0.2919.83 1 1
+chrome88.0.4324.146 11 11
+chrome70.0.3538.80 30 3
+chrome78.0.3904.62 1 1
+chrome41.0.2224.3 3 3
+chrome37.0.2062.124 1 0
+chrome89.0.4389.114 4 4
+chrome87.0.4280.141 1 0
+chrome92.0.4515.107 445 45
+safari14.1.1 132 9
+chrome79.0.3945.136 1 0
+chrome73.0.3683.103 1 1
+chrome91.0.4472.164 402 82
+chrome41.0.2226.0 3 3
+chrome41.0.2227.1 1 1
+chrome83.0.4103.116 1 0
+chrome53.0.2820.59 3 3
+chrome42.0.2311.90 7 7
+chrome34.0.1866.237 2 2
+chrome70.0.3538.77 1 1
+chrome60.0.3112.113 10 0
+chrome58.0.3029.110 1 1
+firefox89.0 296 33
+chrome72.0.3626.121 1 0
+chrome91.0.4472.123 2 0
+chrome87.0.4280.101 1 0
+safari14.0.2 2 0
+chrome35.0.1916.47 2 2
+chrome37.0.2049.0 6 6
+chrome88.0.4324.190 1 1
+chrome90.0.4430.212 1 0
+chrome91.0.4472.124 560 62
+msie9.0 15 0
+Unknown 453 453
+chrome92.0.4515.115 33 2
+firefox45.0 6 6
+chrome54.0.2866.71 2 2
+firefox88.0 6 6
+mozilla 11 11
+firefox90.0 124 41
+chrome81.0.4044.122 1 0
+safari12.1.2 72 5
+chrome51.0.2704.103 81 79
+chrome91.0.4472.114 124 13
+chrome41.0.2225.0 2 2
+chrome41.0.2228.0 1 1
+chrome91.0.4472.101 1 0
+firefox66.0 2 2
+firefox 1 1
+chrome36.0.1985.125 1 1
+chrome91.0.4472.106 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Buck/2.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20210729222956
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210731033936
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20210708023701
+WhatsApp/2.21.2.18_A 20210723100126
+Mozilla/5.0_(compatible;_PR-CY.RU;___https://a.pr-cy.ru) 20210730212449
+scalaj-http/2.4.2 20210729222217
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210731205302
+Go_http_package 20210705234956
+WhatsApp/2.21.14.24_A 20210731084247
+Mozilla/5.0_(compatible;_evc-batch/2.0) 20210723131814
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Go_http_package 20210705234956
+WhatsApp/2.21.14.24_A 20210731084247
+WhatsApp/2.21.2.18_A 20210723100126
+Buck/2.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20210729222956
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210731033936
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210731205302
+scalaj-http/2.4.2 20210729222217
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 759 805
+From1 0 0
+From2 23 203
+From3 45 118
+From4 127 1852
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 8
+www_google_com_hk 7 7
+www_google_com 5 175
+www_google_com_mx 0 4
+images_search_yahoo_catchall 0 1
+www_google_es 0 1
+www_bing_com 5 7
+r_search_yahoo_com 3 3
+bing 3 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+https://webmail.epmc.gob.ec/cpsess0095173551/3rdparty/roundcube/ 15 41
+https://webmail.epmc.gob.ec 8 41
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/open_sans.min.css 6 6
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1612432714/webmail/paper_lantern/_assets/css/master-legacy-ltr.cmb.min.css 6 6
+https://a.pr-cy.ru/www.epmc.gob.ec 4 4
+https://webmail.epmc.gob.ec/cpsess0095173551/3rdparty/roundcube/skins/elastic/styles/styles.css 4 4
+http://190.11.252.26:80 2 2
+https://webmail.epmc.gob.ec/cpsess0095173551/3rdparty/roundcube/plugins/return_to_webmail/skins/elastic/return_to_webmail.css 0 1
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1626429468/unprotected/cpanel/style_v2_optimized.css 0 12
+https://webmail.epmc.gob.ec/cpsess0095173551/3rdparty/roundcube/skins/elastic/watermark.html 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+302 22 4231
+401 133 5720
+400 53 2288
+301 69 19260
+500 336 972433
+206 345 15786082
+404 714 412442
+308 1 91
+405 2 748
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 446
+/uploads/f-007%20formulario%20para%20habilitaci%C3%B3n%20de%20veh%C3%ADculo.pdf 1 -
+/index.php/2019/07/08/the-death-of-pay-for-term-papers 1 -
+/index.php/2019/07/19/test-post-7 1 -
+/uploads/lotaip_1583952708.pdf 1 -
+/index.php/2019/09/24/just-what-is-the-simplest-way-to-write-your-press-free-up-4 1 -
+/index.php/2019/07/08/the-death-of-pay-for-term-papers-3 1 -
+/uploads/lotaip_1602516081.pdf 2 -
+/index.php/2019/10/07/a-history-of-essay-outline-example-refuted 1 -
+/index.php/2019/07/22/wahl-bachelor-arbeit-aussetzen-ist-einfach 1 -
+/_.htaccess 1 -
+/index.php/2019/07/10/test-post-2 1 -
+/uploads/lotaip_1593701160.pdf 1 -
+/vendor/.env 1 -
+/example.htaccess 1 -
+/validar_placa 4 -
+/uploads/lotaip_1612888680.xls 1 -
+/index.php/2019/09/19/ukrainian-woman-online-without-further-ado-lets 1 -
+/index.php/2019/08/31/paragraph-kinds-problem-and-solution-help-written-4 1 -
+/index.php/2019/09/05/draftkings-fined-in-nj-over-self-exclusion-227 1 -
+/index.php/2019/09/24/the-little-known-secrets-to-science-communication 1 -
+/index.php/2019/07/31/120-exploratory-essay-topics-the-ultimate-guide-3 1 -
+/index.php/2019/07/24/die-gliederung-einer-hausarbeit-zu-vertuschen 1 -
+/index.php/2019/08/15/how-dungeons-dragons-primes-students-for-118 1 -
+/index.php/2019/09/19/mebeverine-senza-ricetta-epmc-gob-ec 1 -
+/document/pac.pdf 1 -
+/am/XUI/Login 3 -
+/wp-content/themes/Sitio-34/ajax/categoryDownload.php 3 -
+/index.php/2019/08/13/startling-facts-about-social-psychology-theories-in-nursing-unveiled 1 -
+/index.php/2019/08/13/what-is-truly-happening-with-what-is-shop-math 1 -
+/index.php/2019/10/11/top-guide-of-casino-is-safe 1 -
+/index.php/2018/09/20/realistic-products-for-best-beauty-brides 1 -
+/index.php/2019/10/07/the-essay-outline-example-cover-up 1 -
+/uploads/lotaip_1583435529.pdf 1 -
+/index.php/2019/07/14/1831 1 -
+/index.php/2019/04/25/50-creative-writing-matters-for-youths 1 -
+/index.php/2019/06/10/die-durchgesickerten-geheimnisse-bachelorarbeit-thema-entdeckt 1 -
+/index.php/2019/07/20/the-importance-of-how-to-modify-a-report 1 -
+/.env 2 -
+/index.php/2019/04 1 -
+/index.php/2019/09/07/your-likelihood-of-poker-2 1 -
+/index.php/2019/09/21/how-to-play-whist-before-you-buy-what-to-know 1 -
+/xmlrpc.php 1 -
+/index.php/2019/09/16/5-easy-details-about-ultimate-video-poker 1 -
+/index.php/2019/09/18/billiga-marken-aygestin-piller-epmc-gob-ec 1 -
+/index.php/2019/07/22/introducing-affordable-assignment-help 3 -
+/index.php/2019/06/15/the-secret-of-writing-an-effective-research-paper-no-one-is-discussing 1 -
+/index.php/2018/07 1 -
+/index.php/2019/07/14/1816 1 -
+/.git/info/exclude 4 https://www.epmc.gob.ec/.git/info/exclude
+/index.php/2019/09/01/the-three-major-elements-found-in-the-manufacture 1 -
+/index.php/2019/09/11/best-casino-during-history 1 -
+/index.php/2019/03/28/heres-what-i-know-about-best-custom-paper 1 -
+/document/Deshabilitacion.pdf 1 -
+/index.php/2019/09/19/hidden-solutions-to-online-games-unveiled 1 -
+/uploads/f-003%20formulario%20de%20renovaci%C3%B3n%20permiso%20de%20operaci%C3%B3n.pdf 1 -
+/uploads/f-010%20formulario%20de%20cambio%20de%20socio%20y%20veh%C3%ADculo.pdf 1 -
+/uploads/lotaip_1615901401.pdf 1 -
+/index.php/2019/09/04/prendi-sildigra-100-mg-online 1 -
+/index.php/2019/08/26/the-secret-to-pay-for-term-papers-4 1 -
+/index.php/2019/08/28/where-to-learn-how-to-have-fun-online-casino 1 -
+/index.php/2019/09/24/steer-clear-of-this-with-your-online-computer-2 4 -
+/uploads/lotaip_1605016227.pdf 1 -
+/index.php/2019/08/12/the-upside-to-next-day-essay 1 -
+/index.php/2019/03/29/529 1 -
+/cpsess0095173551/3rdparty/roundcube/ 3 https://webmail.epmc.gob.ec/cpsess0095173551/3rdparty/roundcube/
+/uploads/lotaip_1583952785.pdf 1 -
+/index.php/2019/04/25/the-trick-to-pro-college-application-essay-writers 1 -
+/index.php/2019/08/14/wynn-hotels-limited-makes-sense-35-certain-million-4 1 -
+/index.php/2019/09/20/best-place-to-order-tamsulosin-online 1 -
+/index.php/2019/08/16/wordpress-post-1565959874-7071064 1 -
+/index.php/2019/09/20/problems-with-your-player-s-creativity 1 -
+/index.php/2019/09/15/billiga-ilosone-online-epmc-gob-ec 1 -
+/index.php/2019/09/11/norvasc-5-mg-vente-en-ligne 1 -
+/turnos/salcedo 1 -
+/index.php/2019/07/23/the-importance-of-how-to-modify-a-report 1 -
+/turnos/apple-icon-72x72.png 4 -
+/turnos/favicon-96x96.png 3 -
+/index.php/2019/09/11/approaches-to-buy-best-casino 1 -
+/index.php/2019/06/18/the-fight-against-apa-format-research-paper-example-5 1 -
+/index.php/2019/06/18/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert 1 -
+/index.php/2019/08/07/secrets-about-quantum-mechanics-for-dummies-exposed 1 -
+/index.php/2019/08/31/10-matters-you-will-may-start-working-on-today-to 1 -
+/index.php/2019/07/31/how-to-choose-admission-essay-topics 1 -
+/wp-content/themes/Sitio-31/ajax/categoryDownload.php 3 -
+/index.php/2019/09/10/inspiring-activities-creative-ideas-regarding-your 1 -
+/index.php/2019/09/13/the-basic-facts-of-understanding-deposit-play 1 -
+/index.php/2019/09/21/tadalis-generico-online 1 -
+/index.php/2019/07/15/glossary-of-terms-4 1 -
+/turnos/android-icon-192x192.png 4 -
+/img/crane.png 69 -
+/index.php/2019/08/17/vital-pieces-of-what-is-chemical-energy-in-physics 1 -
+/index.php/2019/08/23/get-the-scoop-on-differences-between-theories-and-conceptual-model-in-nursing-before-youre-too-late 1 -
+/index.php/2019/08/09/productive-listenings-extreme-personal-computer-47 1 -
+/index.php/2019/06/09/just-how-much-does-liposuction-plus-a-tummy-tuck 1 -
+/uploads/lotaip_1607089346.pdf 1 -
+/index.php/2019/09/26/losartan-handla-billigt-pa-natet 1 -
+/index.php/2019/09/21/quebec-releases-long-awaited-cannabis-regulations-93 1 -
+/index.php/2019/08/29/the-way-in-which-towards-captivate-your-self-at 1 -
+/uploads/lotaip_1616100024.pdf 1 -
+/index.php/2019/06/17/vital-pieces-of-accounting-case-study-help-3 1 -
+/index.php/2019/03/29/the-actual-key-of-compose-my-specialized-document-that-nobody-is-going-over 1 -
+/index.php/2019/09/14/indicators-on-3d-action-games-you-need-to-know 1 -
+/openam/ui/PWResetUserValidation 3 -
+/uploads/lotaip_1596822715.pdf 1 -
+/index.php/2019/09/10/how-frequently-does-your-the-things-you-need-make 1 -
+/uploads/lotaip_1583434707.pdf 1 -
+/index.php/2019/07/15/the-key-to-emotional-intimacy 1 -
+/index.php/2019/09/02/dirty-factual-statements-about-choosing-the-best 1 -
+/uploads/f-009%20formulario%20de%20cambio%20de%20socio%20%20con%20habilitacion%20veh%C3%ADculo.pdf 1 -
+/index.php/2019/08/29/just-how-to-buy-underwear-for-a-female-without-5 1 -
+/index.php/2019/09/21/unanswered-questions-into-how-to-play-whist 1 -
+/index.php/2019/08/15/meet-russian-girls-118 2 -
+/index.php/2019/08/23/physics-websites-the-story-2 1 -
+/am/UI/Login 3 -
+/index.php/2019/07/19/ruthless-cheap-assignment-help-strategies-exploited 1 -
+/index.php/2019/08/26/court-rejects-ninja-modern-casino-owner-s-put-2 1 -
+/index.php/2019/06/17/vital-pieces-of-accounting-case-study-help 1 -
+/index.php/2019/08/21/top-define-mixture-in-chemistry-reviews 1 -
+/index.php/2019/10/01/top-chemistry-ring-reviews-4 1 -
+/public/.env 1 -
+/index.php/2019/09/09/obtain-the-scoop-on-hobby-casino-gambling-until 1 -
+/index.php/2019/08/05/einfhrung-diplomarbeit-2 1 -
+/turnos/apple-icon-76x76.png 4 -
+/index.php/2019/06/09/die-beliebteste-hausarbeit-writgre 1 -
+/uploads/lotaip_1616099981.pdf 1 -
+/turnos/apple-icon-180x180.png 4 -
+/index.php/2019/07/20/organizational-behaviour-a-management-challenge-8 1 -
+/index.php/2019/09/26/kopa-cipro-online-basta-priserna 1 -
+/wp-content/plugins/formidable/css/frm_grids.css 1 -
+/index.php/2019/09/20/wholesale-zovirax 1 -
+/index.php/2019/08/12/what-you-need-to-know-about-nursing-theories-the-base-for-professional-nursing-practice 1 -
+/index.php/2019/09/07/acheter-des-aristocort-10-mg-avec-ordonnance 1 -
+/index.php/2019/08/17/the-confidential-secrets-for-tracker-physics-2 1 -
+/index.php/2019/08/14/the-characteristics-of-personal-essay-format 1 -
+/index.php/2019/09/21/the-single-most-essential-thing-you-need-to-know-with-regards-to-analysis-cardstock-writing-assistance-2 1 -
+/apple-app-site-association 4 -
+/index.php/2019/09/05/ex-nfl-celebrity-ricky-williams-launches-really-26 1 -
+/info@epmc.gob.ec 5 -
+/index.php/2019/10/07/the-ideal-approach-to-biology-diffusion 1 -
+/index.php/2019/08/02/unbelievable-information-striking-foreign-4 1 -
+/index.php/2019/07/16/exploring-motif-an-essential-element-to-successful 1 -
+/index.php/2019/08/23/magical-solutions-to-biome-definition-biology-identified-3 1 -
+/index.php/2019/07/26/wahl-bachelor-arbeit-aussetzen-ist-einfach 1 -
+/index.php/2019/10/06/comprare-generico-diclofenac 1 -
+/index.php/2019/07/26/the-secret-to-discreetly-definition 1 -
+/index.php/2019/07/20/the-secret-to-discreetly-definition 1 -
+/uploads/lotaip_1583435135.pdf 1 -
+/feed 1 -
+/index.php/2019/08/19/what-you-dont-know-about-apa-format-literature-review 1 -
+/index.php/category/essay-writing 1 -
+/index.php/2019/05/29/valuable-techniques-for-term-papers-help-you-can-begin-to-use-immediately-3 1 -
+/index.php/2019/09/05/dea-to-permit-more-cannabis-become-grown-when-you-57 1 -
+/ui/PWResetUserValidation 3 -
+/uploads/lotaip_1583952726.pdf 1 -
+/index.php/2019/09/20/things-you-can-and-can-t-use-your-most-slot 1 -
+/index.php/2019/09/02/helping-others-realize-the-advantages-of-choosing 1 -
+/index.php/2019/10/14/comprare-kamagra-soft-basso-prezzo 1 -
+/uploads/lotaip_1583435264.pdf 1 -
+/index.php/2019/08/24/top-define-mixture-in-chemistry-reviews-2 1 -
+/opensso/XUI/Login 3 -
+/index.php/2019/10/12/the-ultimate-ut-mathematics-trick 3 -
+/index.php/2019/09/02/the-idiot-s-guide-to-choosing-the-best-online 1 -
+/index.php/2019/07/26/top-choices-of-the-importance-of-literature-review 1 -
+/index.php/2019/06/22/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-2 1 -
+/index.php/2019/09/02/7-reasons-why-you-should-have-fun-with-desktop 1 -
+/index.php/2019/08/22/the-unexposed-secret-of-examples-of-nursing-leadership-theories-2 1 -
+/index.php/2019/09/18/expository-dissertation-aid-and-even-creating-expository-report 1 -
+/index.php/2019/07/21/writing-a-report-outline-secrets-2 1 -
+/uploads/f-006%20formulario%20de%20incremento%20de%20cupo.pdf 1 -
+/wp-content/themes/Sitio-33/ajax/categoryDownload.php 2 -
+/uploads/lotaip_1583952756.pdf 1 -
+/uploads/lotaip_1596822684.pdf 1 -
+/uploads/lotaip_1611005414.xls 1 -
+/index.php/2019/09/12/who-else-desires-to-understand-new-games 1 -
+/index.php/2019/03/30/very-good-study-paper-matter-choose-just-one-with-us 1 -
+/index.php/2019/08/15/the-confidential-secrets-for-tracker-physics-2 1 -
+/index.php/2019/07/14/1829 2 -
+/index.php/2019/09/07/the-benefit-of-range-of-games-offered-by-the 1 -
+/index.php/2019/06/07/daily-life-immediately-after-assist-with-an-essay 1 -
+/index.php/2019/09/18/10-most-amazing-for-online-games-changing-exactly 1 -
+/index.php/2019/09/11/the-top-report-on-3d-action-games 1 -
+/index.php/2019/05/29/valuable-techniques-for-term-papers-help-you-can-begin-to-use-immediately-2 1 -
+/index.php/2019/08/09/why-tufts-the-stage-after-my-very-own-final-9 1 -
+/turno 1 -
+/index.php/2019/01/21/there-is-in-this-manner-a-likely-to-make-the 1 -
+/index.php/2019/09/16/the-best-ways-to-use-internet-poker-in-your-home 1 -
+/a.htaccess 1 -
+/index.php/2019/08/04/life-death-and-best-paper-writer-helper-2 3 -
+/index.php/2019/10/07/i-hold-going-out-with-guys-who-can-t-inform-i-am 1 -
+/index.php/2019/07/14/the-most-online-dating-profile-photos-that-is-3 1 -
+/document/ConcesiondeContrato.pdf 1 -
+/index.php/2019/08/29/ways-to-help-you-have-your-own-self-during-family 1 -
+/uploads/lotaip_1583271059.pdf 1 -
+/index.php/2019/07/22/die-gliederung-einer-hausarbeit-zu-vertuschen 1 -
+/index.php/2019/09/19/differentiating-by-offering-choices-111 1 -
+/index.php/2019/08/28/the-actual-most-effective-enjoyable-for-the 1 -
+/index.php/2019/08/15/the-confidential-secrets-for-tracker-physics 1 -
+/index.php/2019/09/21/the-single-most-essential-thing-you-need-to-know-with-regards-to-analysis-cardstock-writing-assistance 1 -
+/index.php/2019/04/26/the-battle-over-who-is-able-to-help-me-to-compose-7 1 -
+/index.php/2019/07/26/whos-talking-about-dissertation-results-and-why-you-should-be-worried 1 -
+/index.php/2019/09/18/where-you-should-find-the-best-deals-on-mistakes 1 -
+/index.php/2019/07/31/einfhrung-diplomarbeit-2 1 -
+/index.php/2019/09/21/facts-fiction-and-how-to-play-whist-2 1 -
+/index.php/2019/07/19/the-importance-of-how-to-modify-a-report 1 -
+/index.php/2019/08/09/translating-adventure-of-thrones-so-i-was-a-12 1 -
+/apple-touch-icon.png 2 -
+/index.php/2018/11 1 -
+/index.php/2019/08/28/8-ways-that-will-continue-to-be-kept-entertained 1 -
+/uploads/lotaip_1586824899.pdf 1 -
+/index.php/2019/09/20/just-what-is-the-simplest-way-to-write-your-press-free-up 1 -
+/index.php/2019/10/11/the-ultimate-ut-mathematics-trick 3 -
+/index.php/2019/09/09/posso-comprare-professional-viagra-online-epmc-gob-ec 1 -
+/index.php/2019/09/06/what-does-plane-or-bus-trip-do 3 -
+/index.php/2019/06/21/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-2 1 -
+/index.php/2019/03/28/ways-to-decide-on-a-statistic-assignment-writing-service-company 1 -
+/uploads/lotaip_1583268821.pdf 1 -
+/index.php/2019/09/07/cefuroxime-expedition-de-nuit 1 -
+/index.php/2019/06/06/personal-life-loss-and-thesis-crafting 1 -
+/index.php/2019/08/07/the-birth-of-immigration-biology 1 -
+/index.php/2019/03 1 -
+/index.php/2019/08/30/you-are-you-aquire-people-more-youthful-in-order 1 -
+/index.php/2019/08/29/you-questioned-myself-to-ask-someone-using-a-day 1 -
+/index.php/2019/08/11/the-upside-to-next-day-essay 1 -
+/index.php/2019/07/25/die-gliederung-einer-hausarbeit-zu-vertuschen 1 -
+/index.php/2019/09/25/fair-record-exposes-the-unanswered-questions-on 1 -
+/index.php/category/pay-for-essay 1 -
+/index.php/2019/09/11/openstax-physics-fundamentals-explained 3 -
+/index.php/2019/09/16/this-is-of-playing-game-online 1 -
+/index.php/blog 1 -
+/index.php/2019/08/12/a-neutral-perspective-on-constant-r-in-chemistry 1 -
+/index.php/2019/09/26/keflex-marke-till-salu-visa-mc-amex-ar-tillganglig 1 -
+/index.html 2 -
+/index.php/2019/10/01/introducing-stomata-definition-biology-3 1 -
+/index.php/2019/08/30/why-students-that-are-american-essay-writing 1 -
+/index.php/2019/09/07/choosing-for-is-straightforward 1 -
+/sistemas-turnos/73411 1 -
+/index.php/2019/06/18/the-key-to-successful-admissions-essay-help 1 -
+/index.php/2019/09/10/churchill-downs-gets-regulating-approval-meant-for-7 1 -
+/manifest.json 75 https://www.epmc.gob.ec/
+/index.php/2019/09/18/top-best-games-reviews 1 -
+/index.php/2019/09/17/why-online-cash-makes-life-easier 1 -
+/wedmail 1 -
+/uploads/lotaip_1614202720.pdf 1 -
+/index.php/2019/06/05/discrete-math-examples-secrets-that-no-one-else-knows-about 1 -
+/turnos/apple-icon-144x144.png 3 -
+/index.php/2019/07/14/1818 1 -
+/sitemap.xml 1 -
+/index.php/2019/09/12/the-thing-you-need-to-understand-about 1 -
+/index.php/2019/06/11/how-you-can-save-cash-with-process-essay-subjects 1 -
+/index.php/2019/10/09/chinese-poker-hand-setting-finding-it-cheap 7 -
+/index.php/2019/07/16/1873 1 -
+/index.php/2019/10/09/what-everyone-is-saying-about-chinese-poker-hand 1 -
+/index.php/2018/08 1 -
+/index.php/2019/09/27/priligy-miglior-prezzo 1 -
+/index.php/2019/09/14/several-reasons-why-you-should-always-work-with-a 1 -
+/index.php/2019/09/13/why-i-purchased-a-casino-games-for-my-elderly 1 -
+/index.php/2019/09/14/the-30-second-trick-for-what-is-y-intercept-in-math-2 1 -
+/index.php/2019/08/21/vital-pieces-of-what-is-chemical-energy-in-physics 1 -
+/index.php/2019/09/27/metaglip-reale-in-vendita 1 -
+/index.php/2019/07/11/1724 1 -
+/index.php/2019/08/22/this-guide-is-made-to-help-you-to-get-started-on 1 -
+/uploads/lotaip_1583268782.pdf 1 -
+/index.php/2019/08/29/kindred-proceeds-live-with-scientific-games-13 1 -
+/index.php/2019/10/01/physics-art-tips-amp-guide-4 1 -
+/index.php/2019/06/10/custom-writings-secrets-that-no-one-else-knows-about 1 -
+/index.php/2019/07/24/wahl-bachelor-arbeit-aussetzen-ist-einfach 1 -
+/index.php/2019/09/02/mail-order-ofloxacin-from-canada 1 -
+/index.php/2019/09/26/zestril-billigt 1 -
+/sample.htaccess 1 -
+/index.php/2019/07/21/formatierung-hausarbeit-guide 1 -
+/index.php/2019/08/15/achat-warfarin-online-remise-sur-reorganise 1 -
+/index.php/2019/09/18/the-low-down-on-for-online-games-revealed 1 -
+/index.php/2019/07/13/the-importance-of-movie-star-carr-mesolithic-77 1 -
+/uploads/lotaip_1583255341.pdf 1 -
+/uploads/f-008%20formulario%20para%20deshabilitacion%20de%20veh%C3%ADculo.pdf 1 -
+/uploads/lotaip_1583253083.pdf 1 -
+/index.php/2019/08/29/top-manufacturers-of-us-fulbright-students-in-2015-9 1 -
+/index.php/2019/07/22/why-everyone-is-wrong-regarding-theoretical-physics-definition-and-why-you-must-view-this-report 1 -
+/index.php/2019/07/09/fundamentally-synonym-features-2 1 -
+/%20placas 1 -
+/index.php/2019/09/04/the-annals-of-ways-to-entertain-yourself-on-the 1 -
+/index.php/2019/09/10/unusual-article-gives-the-reality-to-you-on-the 1 -
+/index.php/2019/08/23/a-review-of-chemistry-joke 1 -
+/index.php/2019/08/12/a-fools-handbook-to-how-to-boost-your-technical-skills 1 -
+/index.php/2019/09/04/advanced-poker-training-fundamentals-explained 1 -
+/index.php/2019/07/29/einfhrung-diplomarbeit 1 -
+/index.php/2019/08/31/the-benefit-via-rtp-2 1 -
+/index.php/2019/08/17/the-lost-secret-of-best-online-free-essay-writer 1 -
+/htaccess 1 -
+/index.php/2019/09/29/the-hidden-treasure-of-the-flop-will-tell-you-just 1 -
+/turnos/apple-icon-120x120.png 3 -
+/index.php/2019/09/07/comment-puis-je-obtenir-une-ordonnance-pour-antabuse 1 -
+/readme.txt 3 -
+/_something_.cfm 4 -
+/index.php/2019/09/04/the-best-reason-you-ought-not-buy-land-based 1 -
+/index.php/2019/09/20/the-appeal-of-top-essay-writers-essayontime-com 1 -
+/index.php/2019/08/11/utah-chemistry-what-is-it 1 -
+/index.php/2019/07/12/emergency-reaction-to-american-air-companies-14 1 -
+/index.php/2019/08/21/magical-solutions-to-biome-definition-biology-identified 1 -
+/index.php/2019/08/21/lab-report-help 1 -
+/uploads/f-005%20formulario%20de%20renovaci%C3%B3n%20de%20contrato%20de%20operaci%C3%B3n.pdf 1 -
+/uploads/f-011%20formulario%20de%20cambio%20de%20veh%C3%ADculo.pdf 1 -
+/index.php/2019/09/01/what-to-do-about-buy-assignment-au-before-its-too-late-2 1 -
+/index.php/2019/07/16/1870 1 -
+/index.php/2019/08/05/how-to-choose-admission-essay-topics-2 1 -
+/index.php/2019/06/20/top-5-wta-in-acest-moment-1 1 -
+/index.php/2019/06/10/virtual-datarooms-in-trading 1 -
+/index.php/2019/07/08/the-death-of-pay-for-term-papers-2 1 -
+/index.php/2019/06/30/was-sie-tun-sollten-ber-die-dissertation-englisch-beginn-in-den-nchsten-neun-minuten 1 -
+/index.php/2019/08/19/wellbutrin-sr-150-mg-meilleur-ordre-discount-online-pharmacy-expedition-trackable 1 -
+/index.php/2019/06/14/vital-pieces-of-accounting-case-study-help 1 -
+/index.php/2019/08/26/completely-transform-so-what-an-individual-now 1 -
+/uploads/lotaip_1593702522.pdf 2 -
+/index.php/2019/05/19/the-demise-of-paperhelp-org-review-2 1 -
+/index.php/2019/05/28/the-pitfall-of-best-buy-essay 1 -
+/index.php/2019/07/23/the-secret-to-discreetly-definition 1 -
+/index.php/2019/04/28/50-creative-writing-matters-for-youths 1 -
+/index.php/2019/09/17/details-fiction-and-player-s-creativity 1 -
+/index.php/2019/09/08/the-single-best-strategy-to-use-for-activities 1 -
+/storage/.env 1 -
+/index.php/2019/08/08/nov-a-single-male-impotence-apps-are-in-ah 1 -
+/index.php/2019/09/29/the-secret-life-of-free-text-games-2 1 -
+/wp-json/wc/store/products/collection-data 1 -
+/index.php/2019/08/22/the-dos-and-donts-of-how-to-structure-an-essay 1 -
+/.htaccess 1 -
+/openam/UI/Login 3 -
+/index.php/2019/09/04/reasoned-explanations-why-advanced-poker-training 1 -
+/index.php/2019/04/25/the-real-tale-about-write-our-essay-university-6 1 -
+/wp-login.php 2 -
+/ads.txt 12 -
+/htaccess_for_page_not_found_redirects.htaccess 1 -
+/index.php/2019/10/12/the-ultimate-ut-mathematics-trick-2 1 -
+/index.php/2019/08/21/the-dos-and-donts-of-how-to-structure-an-essay 1 -
+/index.php/2019/08/17/whatever-they-told-you-about-best-college-essay-writer-is-dead-wrong-and-heres-why-2 1 -
+/index.php/2019/07/20/the-how-to-measure-the-student-s-accomplishment-cover-up 1 -
+/uploads/lotaip_1602515974.pdf 1 -
+/index.php/2019/07/29/heres-what-i-know-about-what-is-the-best-paper-writing-service 1 -
+/index.php/2019/09/10/the-ultimate-guide-to-software-based-on-the 1 -
+/opensso/UI/Login 3 -
+/uploads/lotaip_1583952746.pdf 1 -
+/index.php/2019/10/14/birmingham-covington-building-a-student-centered-397 1 -
+/turnos/apple-icon-114x114.png 4 -
+/index.php/2019/07/12/hello-world-6 1 -
+/index.php/2019/09/11/meilleurs-prix-stromectol-3-mg-comprimes-a-vendre-airmail-expedition 1 -
+/index.php/2019/10/01/online-game-eight-reasons-for-college-students-to 1 -
+/index.php/2019/07/27/whos-talking-about-dissertation-results-and-why-you-should-be-worried 1 -
+/index.php/2018/09/15/essential-details-of-rusbrides-in-the-uk 1 -
+/turnos/apple-icon-57x57.png 3 -
+/uploads/lotaip_1583952775.pdf 1 -
+/index.php/2019/08/30/essay-writing-services-reviews-and-how-it-may-be 1 -
+/index.php/2019/01 1 -
+/uploads/lotaip_1583952765.pdf 1 -
+/index.php/2019/09/02/were-you-trying-to-find-essay-assist-british-since 1 -
+/index.php/2019/09/17/playing-safe-on-irish-online-casinos-should-you 1 -
+/index.php/2019/09/06/any-force-for-take-up-how-fun-and-also-game-help 1 -
+/index.php/2019/07/29/whos-talking-about-dissertation-results-and-why-you-should-be-worried 1 -
+/index.php/2019/09/21/things-to-do-with-a-game-of-solitaire-is-good-for 1 -
+/index.php/2019/08/30/structure-of-dissertation-uk-explained 3 -
+/index.php/2019/10/10/the-new-fuss-about-essentail-biology-2 1 -
+/index.php/2019/09/21/a-simple-strategy-for-a-game-of-solitaire-is-good 3 -
+/index.php/2019/06/05/the-advantages-of-professional-cover-letter-writer 1 -
+/index.php/2019/09/16/the-benefit-of-what-are-banking-options-and-payout 1 -
+/index.php/2019/06/05/kids-work-and-speech-therapy-help 1 -
+/index.php/2019/04/21/common-and-skilled-sites-top-best-organized 1 -
+/index.php/2019/08/07/five-ways-to-nurture-pitie-in-boys-and-girls-3 1 -
+/index.php/2019/09/29/indocin-svensk-apotek 1 -
+/index.php/2019/05/28/what-you-dont-know-about-buy-university-essays 1 -
+/index.php/2019/07/04/the-issue-about-come-up-with-a-old-fashioned-paper-on-line 1 -
+/turnos/favicon-16x16.png 3 -
+/index.php/2019/08/28/a-ideal-entertaining-for-the-purpose-of-you 1 -
+/index.php/2019/09/10/consultation-en-ligne-sinequan 1 -
+/index.php/2019/07/04/american-ideas-essay 1 -
+/index.php/2019/08/29/an-important-game-s-shipping-model-assists 1 -
+/index.php/2019/09/10/ordre-de-cytotec-200-mg-generique 1 -
+/index.php/2019/07/30/top-choices-of-the-importance-of-literature-review 1 -
+/OpenAM-11.0.0/ui/PWResetUserValidation 3 -
+/index.php/2019/07/08/narrative-coursework-about-summer-season-vacation-22 1 -
+/index.php/2019/08/21/the-secret-to-pay-for-term-papers 1 -
+/index.php/2019/09/15/advair-diskus-bast-for-bestallning 1 -
+/index.php/2019/08/19/aygestin-moins-cher-ou-commander-options-de-paiement-flexibles-avec-prescription 1 -
+/index.php/2019/09/20/test-post-63 1 -
+/index.php/2019/08/07/negotiation-in-addition-to-discord-administration-documents-upon-theory-in-addition-to-practice 1 -
+/index.php/2019/05 3 -
+/index.php/2019/08/28/a-top-facts-to-make-sure-you-accomplish-through 1 -
+/index.php/2019/08/05/just-how-to-cope-with-workplace-anxiousness-the-89 1 -
+/index.php/2019/09/24/importance-of-pieces-of-paper-editing-represents-6 1 -
+/uploads/lotaip_1617029809.pdf 3 -
+/index.php/2019/09/11/the-recently-leaked-secrets-to-computer-science-cover-letter-uncovered 1 -
+/index.php/2019/07/16/impact-with-legislation-for-internal-revenue-6 1 -
+/index.php/2019/08/07/introducing-expository-essay-topics 1 -
+/index.php/2019/08/30/what-to-do-about-buy-assignment-au-before-its-too-late 1 -
+/index.php/2019/09/06/page-1053 1 -
+/index.php/2019/09/10/commander-des-lipitor-generiques-livraison-dans-le-monde-entier 1 -
+/index.php/2019/09/14/analysis-upsides-of-gambling 1 -
+/index.php/2019/06/20/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-2 1 -
+/index.php/2019/10/10/the-essay-outline-example-cover-up-3 1 -
+/wp-content/themes/Sitio-32/ajax/categoryDownload.php 2 -
+/index.php/2019/07/10/how-to-sense-of-balance-action-story-and-talk-in-4 1 -
+/index.php/2019/08/30/the-writing-example-the-writing-sample-is-a-top-3 1 -
+/uploads/lotaip_1583952737.pdf 1 -
+/index.php/2019/07/12/1738 1 -
+/index.php/2019/08/02/an-idiot-s-guide-to-applying-to-college-295 1 -
+/index.php/2019/09/14/reported-buzz-on-doppler-effect-definition-physics-exposed-2 1 -
+/index.php/2019/07/21/wahl-bachelor-arbeit-aussetzen-ist-einfach 1 -
+/index.php/2019/09/07/the-odds-of-betting 1 -
+/index.php/2019/09/03/7-excellent-reasons-to-engage-in-laptop-or 1 -
+/index.php/2019/06/12/the-fight-against-apa-format-research-paper-example 1 -
+/index.php/2019/07/12/hello-world-5 1 -
+/index.php/2019/07/26/the-theoretical-science-diaries 1 -
+/index.php/2019/07/16/how-to-choose-a-university-a-do-it-yourself-guide-21 1 -
+/document/ReformadeEstatutos.pdf 1 -
+/WEBMAIL 2 -
+/index.php/2019/06/19/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-2 1 -
+/turnos/favicon-32x32.png 2 -
+/index.php/2019/08/10/utah-chemistry-what-is-it 1 -
+/index.php/2019/08/19/the-dos-and-donts-of-how-to-structure-an-essay 1 -
+/uploads/lotaip_1583435680.pdf 1 -
+/index.php/2019/10/07/making-fail-harder-job-than-transferring 1 -
+/index.php/2019/10/12/the-secret-of-online-casino-payments-that-no-body 1 -
+/.well-known/apple-app-site-association 3 -
+/index.php/2019/04/25/the-inexplicable-mystery-into-best-essays-for-sale 1 -
+/index.php/2019/03/28/how-to-create-a-fantastic-shopper-services-essay 1 -
+/index.php/2019/09/19/the-true-definition-of-hero-vs-the-media-s-2 1 -
+/index.php/2019/07/19/meet-a-russian-girl 1 -
+/index.php/2019/06/07/essay-copy-writer-critical-reviews-never-a-mystery 1 -
+/index.php/2019/09/12/tufts-elegance-of-2019-supplemental-essays-when 1 -
+/uploads/lotaip_1614187807.pdf 1 -
+/index.php/2019/09/26/5-tips-about-world-of-online-games-you-need-to-use-2 1 -
+/index.php/2019/07/16/1900 1 -
+/uploads/lotaip_1583952808.pdf 1 -
+/turnos/apple-icon-152x152.png 3 -
+/index.php/2019/09/25/the-significance-of-fun-online-games-2 1 -
+/index.php/2019/08/10/introducing-expository-essay-topics-2 1 -
+/sistema-turnos 2 -
+/turnos/apple-icon-60x60.png 3 -
+/uploads/lotaip_1588897204.pdf 1 -
+/index.php/2019/10/06/sconto-pillola-valacyclovir 1 -
+/uploads/lotaip_1583434641.pdf 1 -
+/index.php/2019/08/16/wordpress-post-1565959874-4002988 1 -
+/index.php/2019/09/17/things-to-know-about-card-counting-in-casino-3 1 -
+/index.php/2019/06/18/vital-pieces-of-accounting-case-study-help-3 1 -
+/index.php/2019/04/25/the-demise-of-paperhelp-org-review 1 -
+/index.php/2019/09/16/how-to-play-omaha-poker-for-dummies 1 -
+/index.php/category/data-room 1 -
+/index.php/2019/09/08/details-of-range-of-games-offered-by-the-online 1 -
+/index.php/2019/07/21/introducing-affordable-assignment-help 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 371
+181.211.103.246 141 714 108677646 20210731084247
+190.99.78.118 41 114 1337397 20210724213904
+45.236.104.64 20 177 18121342 20210702210822
+3.86.228.15 14 14 67827 20210706083211
+100.26.226.203 13 13 63623 20210704120953
+3.87.31.116 13 13 63295 20210711174510
+3.237.28.47 13 13 64387 20210702181017
+54.198.39.95 13 13 64470 20210712162803
+3.90.52.170 13 13 52988 20210715065141
+54.80.71.240 13 13 64170 20210718183043
+35.175.218.4 13 13 53313 20210728044302
+54.87.32.124 13 13 64141 20210729222956
+18.215.189.224 13 13 53323 20210722054632
+34.200.228.140 13 13 53038 20210725221422
+54.166.11.135 13 13 64305 20210717003529
+34.239.165.153 13 13 52857 20210724011526
+34.207.107.85 13 13 53674 20210727081117
+3.237.25.68 13 13 53519 20210724224416
+54.90.226.114 13 13 53131 20210723050053
+3.83.50.78 13 13 63822 20210701001510
+52.90.80.215 13 13 53173 20210709234058
+34.204.203.68 13 13 53012 20210720120845
+54.221.85.132 13 13 52719 20210701215214
+52.23.187.181 13 13 52880 20210709030716
+34.201.120.239 13 13 53603 20210717215803
+66.175.209.214 3 3 36706 20210701010957
+186.47.136.176 12 12 42144 20210705145249
+186.101.247.142 0 1 4065006 
+181.196.89.86 0 1 4065006 
+222.79.48.173 0 1 1076 
+152.207.132.63 0 1 4065006 
+201.183.60.93 0 1 1379119 
+190.152.203.77 3 48 16664150 20210723103359
+190.11.20.18 6 45 4515763 20210728094144
+54.203.167.124 1 1 6166 20210725142247
+45.71.203.68 0 1 4065006 
+181.113.98.231 6 6 20604 20210707173543
+181.198.42.195 0 4 485132 
+34.213.76.71 1 1 6166 20210725142150
+181.112.81.219 0 4 485132 
+34.218.222.130 1 1 6132 20210701222829
+186.47.211.62 0 1 4065006 
+200.24.136.62 1 27 1601272 20210723100144
+208.110.85.68 1 1 6172 20210721062923
+186.178.6.1 1 1 6172 20210729113559
+35.158.111.152 1 1 6166 20210724073549
+157.100.75.130 3 33 4700146 20210730113127
+179.49.27.162 2 2 6960 20210712082631
+40.77.167.11 0 1 14933 
+201.182.148.10 0 1 4065006 
+190.52.196.114 0 1 4065006 
+45.238.57.6 0 1 1721810 
+190.52.205.137 0 1 1379119 
+201.182.86.77 0 1 4065006 
+186.4.250.3 0 1 4065006 
+186.70.32.78 0 1 4065006 
+54.81.225.130 2 2 12338 20210715150246
+34.247.37.135 1 1 0 20210709040708
+92.118.160.41 1 1 28024 20210710033005
+45.179.140.133 0 1 1422811 
+34.221.33.26 1 1 6168 20210723142853
+157.100.56.163 0 1 1344147 
+201.183.100.193 0 1 122928 
+157.100.74.24 0 1 1422811 
+181.115.60.55 0 1 4065006 
+34.220.248.208 1 1 6166 20210710142515
+190.63.239.38 9 9 31032 20210714204825
+37.162.144.110 0 1 4065006 
+186.46.226.65 0 2 3144621 
+34.96.130.16 1 1 28250 20210707024032
+190.152.130.97 3 3 10296 20210713100236
+45.70.201.18 1 27 1601232 20210731084510
+92.118.160.61 1 1 28089 20210703140359
+45.70.198.176 0 2 2642296 
+186.43.227.68 0 1 4065006 
+179.49.27.14 0 1 4065006 
+18.219.128.13 2 2 12344 20210731105539
+144.86.173.4 1 1 28026 20210727215139
+157.100.91.168 0 2 2642296 
+190.89.129.156 0 1 1721810 
+144.86.173.15 1 1 28026 20210720083012
+157.100.173.54 3 33 4700146 20210721141807
+92.118.160.9 1 1 28306 20210705191914
+201.183.162.207 0 1 4065006 
+200.115.33.93 0 1 4065006 
+181.112.222.139 1 1 6170 20210729080726
+186.47.139.26 5 43 4507290 20210702065612
+181.199.58.81 1 27 1601223 20210705144232
+173.255.229.249 1 1 6131 20210701074557
+181.188.201.175 3 31 4453856 20210727151437
+190.63.126.206 0 1 4065006 
+64.225.48.117 1 1 37923 20210708023701
+54.185.227.95 1 1 6169 20210707164046
+167.250.180.109 1 4 55391 20210709090750
+45.70.15.243 0 1 4065006 
+34.238.127.96 1 1 4700 20210730184010
+45.173.228.60 0 1 160966 
+138.246.253.5 11 11 0 20210720113732
+146.120.204.176 1 1 28250 20210716103353
+76.72.172.170 1 1 12220 20210731073128
+190.12.31.226 0 1 4065006 
+181.113.113.2 0 2 148083 
+186.101.214.66 0 1 1721810 
+181.140.194.140 0 1 234083 
+181.199.58.132 0 1 4065006 
+34.221.185.200 1 1 6169 20210730142155
+186.46.200.28 0 2 74377 
+52.34.223.243 3 3 28645 20210713084657
+186.46.175.146 0 1 138484 
+34.221.48.234 1 1 6170 20210716142501
+200.24.136.55 0 1 1379119 
+45.224.150.161 0 1 1422811 
+181.188.216.138 0 1 4065006 
+77.83.28.23 6 6 32753 20210712175203
+190.12.12.226 0 1 1321148 
+190.152.202.193 2 2 6918 20210723210002
+131.196.9.55 1 27 1410576 20210701101446
+181.112.224.111 0 1 122619 
+34.212.46.185 1 1 6169 20210715142058
+186.42.105.180 0 1 138484 
+181.198.234.148 0 1 4065006 
+92.118.160.57 1 1 37927 20210731184055
+181.115.64.51 0 1 4065006 
+54.200.45.130 1 1 6169 20210726144416
+40.77.167.71 0 1 306 
+54.189.204.43 3 3 28645 20210713090920
+167.250.180.82 0 1 138484 
+181.196.72.97 0 1 4065006 
+200.24.212.31 0 1 4065006 
+119.39.46.191 1 1 28250 20210714120006
+34.86.35.15 1 1 27871 20210702014603
+1.14.17.89 1 1 6169 20210722012358
+200.7.247.175 6 6 20580 20210714043459
+200.105.247.41 4 41 4498942 20210722145205
+164.163.160.180 0 1 4065006 
+198.204.234.251 1 1 12261 20210708061714
+157.100.76.171 5 42 4505082 20210705122049
+201.183.167.252 0 2 2801930 
+204.199.146.161 0 1 4065006 
+190.12.0.226 0 1 4065006 
+40.77.167.75 0 1 528 
+131.196.9.1 1 1 6174 20210712205731
+200.7.246.73 2 28 1706428 20210721125832
+144.86.173.17 1 1 28026 20210722182530
+144.86.173.151 1 1 28250 20210730104241
+34.96.130.2 1 1 28089 20210703012910
+186.4.222.70 0 1 4065006 
+179.49.44.31 0 1 4065006 
+186.47.139.44 0 1 138484 
+181.199.59.97 0 1 1321148 
+107.150.46.51 1 1 6138 20210701190408
+198.204.240.246 2 2 12269 20210704022746
+181.112.8.91 0 1 4065006 
+131.196.9.59 6 58 16961456 20210718194101
+34.216.218.31 1 1 6169 20210706153356
+45.224.22.172 0 1 49222 
+190.12.11.204 0 1 4065006 
+157.100.93.21 3 33 4700146 20210723102643
+157.245.1.217 1 1 28250 20210708021222
+186.43.185.100 0 1 4065006 
+200.124.252.168 0 1 4065006 
+66.228.43.48 1 1 12223 20210725230031
+186.4.247.37 0 2 74377 
+35.167.66.233 1 1 6167 20210711141223
+179.26.123.49 0 1 18437 
+181.175.41.81 0 2 5444125 
+66.175.209.220 1 1 6138 20210701090907
+45.228.180.24 0 1 138484 
+190.11.7.231 0 1 1451204 
+45.71.200.100 3 3 10425 20210726125127
+34.220.106.120 1 1 6170 20210728143621
+191.99.1.92 0 1 4065006 
+190.96.98.158 0 1 4065006 
+193.30.121.226 1 1 28024 20210717230748
+54.190.49.215 1 1 6167 20210717181836
+186.5.67.154 0 1 1422811 
+186.47.138.7 3 32 629121 20210723100723
+190.152.128.176 0 1 4065006 
+58.19.80.143 0 1 60548 
+186.178.113.46 0 1 4065006 
+34.86.35.18 1 1 28026 20210709042931
+134.122.12.166 1 1 28026 20210708013329
+186.1.137.134 0 1 138484 
+45.228.180.12 0 1 49222 
+221.13.12.253 0 1 96383 
+181.39.37.226 0 1 4065006 
+186.46.154.218 0 1 4065006 
+92.118.160.5 2 2 75834 20210705234956
+45.162.72.61 0 1 4065006 
+34.216.43.134 1 1 6170 20210729141850
+45.70.202.227 0 1 4065006 
+138.128.118.130 1 1 6170 20210712235042
+186.68.226.252 0 1 4065006 
+54.184.107.182 1 1 6170 20210713172807
+54.212.92.68 1 1 6169 20210714144043
+64.71.131.244 2 2 56052 20210723131814
+92.118.160.13 2 2 75862 20210731205302
+179.49.32.224 0 1 4065006 
+190.152.202.58 2 2 6988 20210726065300
+34.220.189.57 1 1 6170 20210728143700
+45.71.37.142 0 1 4065006 
+181.199.58.148 0 1 4065006 
+97.107.137.12 12 12 140608 20210701112257
+134.122.89.123 0 10 3203630 
+190.11.0.207 0 1 4065006 
+146.120.204.117 1 1 28250 20210730212449
+190.63.150.132 0 1 4065006 
+167.250.180.218 0 1 190746 
+34.86.35.3 1 1 28026 20210715143044
+144.86.173.19 1 1 28026 20210731032721
+111.162.143.67 0 1 24217 
+190.152.179.159 0 1 1379119 
+186.3.213.227 0 1 4065006 
+173.255.236.109 1 1 6176 20210725232751
+40.77.167.30 0 3 121279 
+181.188.193.85 0 2 5444125 
+190.110.43.79 1 1 6166 20210724113731
+186.46.158.2 3 55 3409408 20210730115022
+144.86.173.148 1 1 28306 20210726204712
+96.126.108.64 1 1 6170 20210725233423
+181.115.5.49 0 1 4065006 
+104.237.149.61 1 1 12225 20210723003216
+181.198.42.97 0 1 4065006 
+146.120.204.24 1 1 28250 20210713121732
+35.167.203.207 1 1 6170 20210730143532
+34.86.35.21 1 1 28146 20210702134923
+190.52.188.137 0 1 4065006 
+181.112.8.234 0 1 4065006 
+45.71.37.85 0 1 138484 
+192.151.145.140 1 1 6132 20210702035720
+66.228.38.22 1 1 12218 20210729024403
+186.47.183.78 0 1 4065006 
+45.188.234.241 0 2 329230 
+131.196.112.68 0 1 1422811 
+76.72.172.167 1 1 12224 20210730123123
+27.224.137.52 0 1 3602 
+45.224.150.220 2 18 1550016 20210730184927
+181.112.149.76 6 6 20910 20210714135813
+60.13.136.14 0 1 29748 
+179.49.61.135 0 2 5444125 
+181.39.110.194 0 1 4065006 
+190.11.3.55 3 33 4700110 20210702153815
+167.172.18.98 1 1 37911 20210708022721
+45.70.196.2 0 1 4065006 
+61.135.15.135 1 1 37939 20210722175833
+45.189.57.130 0 1 4065006 
+157.100.75.97 0 1 4065006 
+182.138.137.146 0 1 79763 
+186.4.241.191 0 1 4065006 
+157.100.227.78 0 1 1436235 
+200.7.246.218 0 1 4065006 
+181.211.189.74 0 1 4065006 
+181.199.59.225 0 1 4065006 
+18.232.68.96 12 12 48709 20210707072901
+157.100.173.160 0 1 4065006 
+186.47.136.177 0 1 49222 
+124.227.31.88 0 1 35611 
+186.46.185.248 0 1 4065006 
+181.188.200.249 2 2 6979 20210731083909
+131.196.9.40 0 2 2757383 
+181.199.12.166 0 1 4065006 
+144.86.173.140 1 1 28250 20210728003449
+35.173.31.53 7 8 97815 20210725100404
+157.55.39.167 0 1 7875 
+45.183.141.226 0 1 4065006 
+34.221.36.71 1 1 6169 20210714144011
+54.185.3.96 1 1 6169 20210707170812
+190.154.191.97 0 1 4065006 
+54.242.64.143 13 13 53268 20210705093409
+179.49.52.19 1 15 176664 20210715235748
+200.107.250.222 0 1 4065006 
+45.224.150.232 2 28 1706454 20210729130701
+201.183.102.99 0 1 4065006 
+190.152.163.254 0 1 4065006 
+157.55.39.155 0 1 30679 
+181.198.35.119 3 48 16665860 20210727110556
+157.100.75.244 0 1 4065006 
+52.36.22.117 1 1 6132 20210702143923
+200.63.107.84 0 1 138484 
+3.91.149.175 13 13 53389 20210714102134
+54.186.107.59 1 1 6167 20210728144732
+18.233.160.9 1 1 6170 20210712221052
+45.71.186.84 0 1 138484 
+181.112.228.91 0 1 4065006 
+34.86.35.2 1 1 37911 20210703045332
+45.179.140.225 0 1 4065006 
+124.227.31.6 0 1 211807 
+200.7.247.133 0 1 1721810 
+201.218.0.213 0 2 8130012 
+181.113.99.153 4 41 4498946 20210712184859
+3.93.33.17 13 13 63983 20210708053605
+45.228.180.21 0 1 138484 
+34.221.65.169 1 1 6170 20210715141634
+157.100.54.86 0 1 4065006 
+157.100.171.122 0 1 1379119 
+34.216.119.102 1 1 6170 20210713172909
+200.93.220.35 0 1 1379119 
+146.120.204.74 1 1 28250 20210720105228
+18.236.125.38 1 1 6169 20210706161227
+165.227.64.164 1 1 28306 20210708023043
+186.47.138.101 0 1 138484 
+186.5.4.105 0 1 4065006 
+185.151.125.197 1 1 27871 20210704201544
+200.7.208.130 3 33 4700110 20210701124325
+186.71.94.16 0 1 4065006 
+186.42.106.88 6 6 20946 20210711090512
+54.201.90.12 1 1 6170 20210706150501
+190.152.215.85 12 62 8429416 20210713113332
+190.214.121.131 0 1 112823 
+157.100.174.45 0 2 2782088 
+71.235.92.122 0 1 4065006 
+18.207.153.199 13 13 64336 20210703153533
+124.89.90.51 0 1 8071 
+200.7.246.179 1 1 3487 20210721124615
+45.33.84.7 1 1 12231 20210723025203
+52.91.201.44 13 13 63492 20210710211447
+92.118.160.37 1 1 28026 20210719012807
+34.77.162.29 1 1 37923 20210701144238
+190.152.129.87 2 2 6968 20210719215711
+173.249.53.220 1 1 28250 20210730131448
+131.196.9.53 0 2 148083 
+45.224.150.255 1 1 5332 20210705124104
+181.199.59.59 0 1 4065006 
+190.152.189.154 0 1 4065006 
+54.167.128.172 13 13 53711 20210713130444
+54.158.157.13 13 13 54006 20210719155039
+54.245.129.29 1 1 6170 20210721143552
+201.182.150.213 3 3 10251 20210721214158
+181.175.144.27 5 72 9312974 20210726183614
+157.100.75.16 0 1 4065006 
+157.55.39.39 0 3 1584 
+181.199.54.118 0 1 4065006 
+181.113.147.12 0 1 4065006 
+190.152.22.253 0 1 4065006 
+107.150.63.173 1 1 6135 20210702232558
+181.113.98.237 9 9 31077 20210726075956
+190.152.207.208 0 1 1721810 
+18.207.136.41 13 13 64291 20210716041515
+148.78.1.70 3 3 10344 20210712092108
+186.46.203.152 0 1 4065006 
+200.7.246.41 1 27 1702941 20210721124646
+131.196.112.24 3 33 4700146 20210728171513
+207.46.13.89 0 1 306 
+207.46.13.28 0 1 528 
+181.199.40.223 0 1 4065006 
+34.77.162.14 1 1 28026 20210707023031
+181.112.51.182 0 1 25155 
+157.100.170.50 0 2 2801930 
+54.88.49.186 1 1 4700 20210730150807
+138.197.102.29 1 1 6169 20210725201155
+124.126.78.166 1 17 623884 20210714001348
+186.66.177.74 0 1 4065006 
+167.250.180.108 0 1 138484 
+181.112.105.178 0 1 4065006 
+186.33.180.95 0 1 4065006 
+100.26.236.14 13 13 53170 20210729021750
+190.152.163.127 0 1 4065006 
+181.39.61.190 0 1 4065006 
+190.152.234.154 3 45 12432558 20210712081820
+18.237.189.198 1 1 6165 20210724143610
+3.89.253.183 3 3 10112 20210721092458
+181.199.59.196 3 3 10374 20210702190845
+144.86.173.22 1 1 28306 20210731033936
+54.201.63.47 1 1 6169 20210714142938
+190.12.37.66 2 2 6924 20210728175014
+220.200.165.206 0 1 3612 
+34.208.53.5 1 1 6169 20210723142602
+181.196.247.78 0 1 4065006 
+207.46.13.179 0 2 612 
+35.162.94.227 1 1 6170 20210723144135
+107.150.46.53 1 1 6169 20210707053252
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20210701 51 116 26946270 13
+20210702 49 284 58771712 10
+20210703 17 23 4484120 5
+20210704 16 16 135547 4
+20210705 34 108 30818757 7
+20210706 17 22 20411365 4
+20210707 23 34 21552284 7
+20210708 19 28 18022198 7
+20210709 29 37 16729502 5
+20210710 15 18 4237655 3
+20210711 20 21 90714 3
+20210712 34 125 42097171 9
+20210713 54 229 50860302 10
+20210714 39 70 14997212 9
+20210715 19 37 16542379 6
+20210716 15 23 17910532 3
+20210717 28 31 9704922 4
+20210718 19 77 25506070 2
+20210719 27 72 24716575 10
+20210720 40 127 54479491 8
+20210721 32 181 23147367 12
+20210722 27 74 20142966 7
+20210723 37 194 50521929 13
+20210724 70 149 6150892 6
+20210725 26 29 5907574 8
+20210726 31 112 20365996 9
+20210727 54 172 37033413 8
+20210728 28 112 29725267 8
+20210729 46 205 38388534 8
+20210730 16 125 24844510 11
+20210731 22 127 23843354 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+2mn-5mn 7
+5mn-15mn 40
+0s-30s 159
+30mn-1h 2
+30s-2mn 10
+15mn-30mn 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 109
+/ 208 2083561 150 110
+/turnos 62 331039 15 5
+/front/fonts/ionicons.ttf 45 4838416 0 15
+/consultas 36 154959 2 0
+/noticias 35 137803 0 3
+/requsitos 33 151127 0 1
+/formularios 32 146210 0 0
+/administrativos 32 132856 0 0
+/quienes-somos 32 148660 0 0
+/front/fonts/Simple-Line-Icons.woff 29 1654016 0 0
+/turnero/salcedo 20 141129 3 2
+/documentos/pac-reformas 18 70952 0 1
+/documentos/rendicion-de-cuentas-2019 16 58926 0 3
+/documentos/pac 15 58035 0 5
+/documentos/autorizacion-para-renovacion-anual-de-matricula 14 49140 0 4
+/cpsess0095173551/3rdparty/roundcube/ 13 43067 0 1
+/lotaip 13 192709 0 6
+/sistema-turnos/71552 12 42144 1 1
+/documentos/solicitud-de-cotizacion 12 47952 0 3
+/noticia/calendario-de-matriculacion-vehicular-2021 12 56328 10 4
+/directorio 11 44863 0 1
+/documentos/publicaciones 10 43238 0 3
+/documentos/resoluciones 10 39918 0 5
+/documentos/estados-financieros 10 36372 0 1
+/admin/turnos/create 9 35888 0 0
+/webmail 5 62516 2 2
+/cpsess0095173551/3rdparty/roundcube/skins/elastic/watermark.html 3 909 0 0
+/noticia/epmc-aplica-la-normativa-legal-en-taxis-de-la-provincia 2 37048 0 0
+/cpsess0095173551/webmail/paper_lantern/mail/clientconf.html 1 11520 0 0
+/back/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2 5 322330 0 1
+/sistema-turnos/72543 2 6960 1 1
+/sistema-turnos/74684 5 17435 3 4
+/a.htaccess 1 12222 0 0
+/openam/XUI/ 1 12228 0 1
+/openam/UI/Login 1 12223 0 0
+/.htaccess 1 12227 1 0
+/cPanel_magic_revision_1616517441/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 1 22432 0 0
+/sistema-turnos/76077 3 10392 1 0
+/cPanel_magic_revision_1616517441/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 1 22660 0 0
+/openam/ui/PWResetUserValidation 1 12235 1 0
+/am/XUI/ 1 12222 0 0
+/google_stats 2 114 0 0
+/sso/UI/ 1 12227 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 2 45320 0 0
+/admin 7 21195 0 0
+/cPanel_magic_revision_1612367464/webmail/paper_lantern/libraries/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 1 23320 0 0
+/sample.htaccess 1 12227 0 0
+/cpanel 3 37502 0 3
+/sistema-turnos/72926 3 10296 1 1
+/sistema-turnos/71531 1 3432 1 1
+/opensso/XUI/Login 1 12227 0 0
+/script/ 1 12218 1 1
+/sistema-turnos/72592 3 10344 1 1
+/sistema-turnos/75426 2 6988 1 1
+/_something_.cfm 2 24456 2 2
+/htaccess 1 12219 0 0
+/validar_cedula/1803310497 1 24 0 0
+/sistema-turnos/75669 3 10425 1 1
+/sistema-turnos/73282 6 20910 1 1
+/sistema-turnos/76089 5 17425 1 1
+/admin/turno/76077 1 49 0 0
+/cpsess0095173551/webmail/paper_lantern/ 2 22632 0 0
+/sistema-turnos/70777 1 3429 1 1
+/cPanel_magic_revision_1612978646/3rdparty/roundcube/skins/elastic/fonts/roboto-v19-regular-700.woff2 1 51088 0 0
+/sistema-turnos/72446 6 20946 1 1
+/back/webarch/fonts/custom-set.woff 6 36192 0 0
+/sso/XUI/ 1 12228 0 0
+/sistema-turnos/73374 9 31032 1 1
+/cPanel_magic_revision_1616517441/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Italic-webfont.woff 1 23188 0 0
+/sistema-turnos/76088 5 17470 1 3
+/validar_placa/IBN0356 1 22 0 1
+/am/XUI/Login 1 12231 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 2 45816 0 0
+/admin/turno/76078 1 49 0 0
+/admin/generales 2 9980 0 0
+/cPanel_magic_revision_1612978646/3rdparty/roundcube/skins/elastic/fonts/roboto-v19-regular.woff2 1 51116 0 0
+/cPanel_magic_revision_1612978646/3rdparty/roundcube/skins/elastic/fonts/fa-solid-900.woff2 1 75440 0 0
+/ui/PWResetUserValidation 1 12230 0 1
+/cPanel_magic_revision_1615231936/webmail/paper_lantern/libraries/fontawesome/webfonts/fa-solid-900.woff2 1 75760 0 0
+/cPanel_magic_revision_1616517441/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Semibold-webfont.woff 1 22908 0 0
+//wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 1 12261 1 1
+/admin/turnos 9 1014899 0 0
+/sistema-turnos/75447 9 31077 1 1
+/OpenAM-11.0.0/ui/PWResetUserValidation 1 12241 0 0
+/_.htaccess 1 12221 0 0
+/opensso/UI/Login 1 12231 0 0
+/turnero/lamana 1 7059 1 0
+/cPanel_magic_revision_1612978646/3rdparty/roundcube/skins/elastic/fonts/fa-regular-400.woff2 1 13580 0 0
+/sistema-turnos/73110 6 20580 1 1
+/am/UI/Login 1 12221 0 0
+/turnero/pujili 1 7064 0 0
+/XUI/ 1 12219 0 0
+/sistema-turnos/75203 3 10443 1 2
+/login 8 10782 3 1
+/htaccess_for_page_not_found_redirects.htaccess 1 12245 0 1
+// 8 49183 7 6
+/sistema-turnos/74225 2 6968 1 1
+/cpsess0095173551/execute/Email/list_pops_with_disk 3 860 0 0
+/sistema-turnos/74799 3 10251 1 1
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 2 44864 0 0
+/sistema-turnos/71913 6 20604 1 1
+/sistema-turnos/71277 3 10374 1 1
+/sistema-turnos/76709 7 24500 2 3
+/sistema-turnos/76460 2 6924 1 1
+/sistema-turnos/77158 3 10323 1 2
+/sistema-turnos/75362 2 6918 1 1
+/example.htaccess 1 12229 0 0
+/sistema-turnos/76078 2 6884 0 0
+/login/ 1 144 0 0
+END_SIDER

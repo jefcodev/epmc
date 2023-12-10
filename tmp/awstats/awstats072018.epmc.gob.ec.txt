@@ -1,0 +1,2746 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201807 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2007                
+POS_TIME 2685                
+POS_VISITOR 98649               
+POS_DAY 121179              
+POS_DOMAIN 3800                
+POS_LOGIN 4800                
+POS_ROBOT 4955                
+POS_WORMS 6149                
+POS_EMAILSENDER 6280                
+POS_EMAILRECEIVER 6423                
+POS_SESSION 122117              
+POS_SIDER 122330              
+POS_FILETYPES 6558                
+POS_DOWNLOADS 6887                
+POS_OS 7430                
+POS_BROWSER 8081                
+POS_SCREENSIZE 15199               
+POS_UNKNOWNREFERER 15273               
+POS_UNKNOWNREFERERBROWSER 16790               
+POS_ORIGIN 17511               
+POS_SEREFERRALS 17672               
+POS_PAGEREFS 18579               
+POS_SEARCHWORDS 77518               
+POS_KEYWORDS 82219               
+POS_MISC 2349                
+POS_ERRORS 85455               
+POS_CLUSTER 4656                
+POS_SIDER_404 85558               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180801000002 66562 14928998 12267726267392
+FirstTime 0
+LastTime 20180731235958
+LastUpdate 20180801072755 66562 0 66561 0 0
+TotalVisits 821                 
+TotalUnique 527                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 573                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9479 9602 107881739 2150 2216 526809
+1 9837 9981 110366316 2815 2934 1343590
+2 9276 9383 101523032 1953 2017 277440
+3 9123 9239 100442101 1621 1679 1637481
+4 9862 9976 107719872 1356 1424 994264
+5 9536 9596 104045403 1488 1558 706527
+6 8595 8797 102843083 1424 1485 1188390
+7 9331 9843 122186939 1562 1631 2006245
+8 9400 10734 148918148 1919 2116 839054
+9 9818 10691 141513484 1809 1949 3692384
+10 9430 10186 129634313 1713 1819 581330
+11 9814 10531 140119710 1794 1906 1214874
+12 10559 11119 142356685 2178 2272 768579
+13 9725 10328 136354035 2221 2344 1964420
+14 9205 10228 148710052 1544 1654 1077289
+15 11445 12317 166372181 1964 2087 868761
+16 13449 13954 171507420 4171 4281 804979
+17 12285 12816 159945171 2556 2635 1319280
+18 13092 13551 172949544 3118 3216 1191334
+19 14403 15027 186475004 2795 2954 831796
+20 15824 16240 190985346 4102 4184 946621
+21 14656 15403 185480302 2700 2795 1527531
+22 13978 14587 178037614 3791 3970 2232790
+23 12983 13422 157153484 3079 3165 646582
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 59
+ec 264481 275319 3336370829
+us 305 1457 60389971
+ru 45 89 617536
+co 25 78 3689074
+ca 22 81 2894035
+ua 20 40 46711
+id 19 24 62824
+br 15 39 599601
+ma 13 103 3680503
+de 12 12 36024
+ar 12 52 2264461
+hu 12 32 6004
+vn 11 21 1462515
+cn 8 11 33192
+cz 7 17 6004
+gb 7 7 38108
+th 6 16 9006
+pk 5 15 3002
+ir 5 15 6004
+ro 5 5 20555
+nl 5 19 582210
+fr 4 4 19693
+mx 4 4 6004
+ps 4 9 6004
+dk 4 8 6004
+tw 1 1 3002
+pl 0 3 0
+mn 1 1 3002
+np 1 1 3002
+si 1 1 3002
+ba 1 1 3002
+ve 3 8 37827
+at 1 1 3002
+bg 2 2 6004
+jp 1 1 3002
+gr 3 3 8144
+se 1 1 11549
+cr 0 1 2078
+za 1 1 3002
+hk 2 2 14551
+md 1 1 3002
+it 2 2 14551
+sg 3 3 9006
+py 1 1 3002
+ng 1 1 3002
+bo 1 1 3002
+rs 2 2 6004
+pe 2 2 6004
+nz 2 11 475198
+kr 1 1 3002
+am 1 1 3002
+ge 2 2 5142
+sc 1 1 3002
+kz 2 2 6004
+cl 1 1 3002
+lv 2 5 0
+tr 2 2 6004
+bd 0 1 0
+in 3 6 9006
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 28
+Googlebot/ 767 3858088 20180731230048 0
+no_user_agent 719 6876074 20180731220948 0
+(firefox/)([0-9]\.|[0-1][0]\.) 703 6302092 20180731235531 0
+Firefox/1\.5 114 342228 20180731235437 0
+bingbot/ 82 1316177 20180731222810 0
+YandexBot/ 80 240160 20180731131952 0
+bingpreview 58 1901057 20180731035200 0
+Python\-urllib/ 52 600548 20180728182701 0
+DotBot/ 17 1625616 20180725164044 0
+SeznamBot/ 16 576205 20180727222040 0
+Googlebot\-Image/ 14 87027 20180731104005 0
+Baiduspider/ 14 161686 20180731103503 0
+YandexMobileBot/ 14 120480 20180704010010 0
+msnbot/ 13 181340 20180731010903 0
+Konqueror/ 11 33022 20180731234416 0
+bot[\s_+:,\.\;\/\\-] 7 21014 20180731095951 0
+Dalvik/ 7 1124753 20180731152357 0
+robot 4 12008 20180731173716 0
+facebookexternalhit/ 4 1123220 20180726164403 0
+baidu 3 34647 20180730210754 0
+php 3 9006 20180731091323 0
+2345Explorer/ 3 9006 20180728173738 0
+yacybot 2 6004 20180731210253 0
+nbot 1 3002 20180727205439 0
+nutch 1 3002 20180731071218 0
+feed 1 3002 20180731105007 0
+Links[\x20]\( 1 3002 20180731220122 0
+Wget/ 1 3002 20180731082433 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+jpg 2027 347901210 0 0
+ttf 65 4262765 0 0
+svg 1 86405 0 0
+css 4227 22487699 0 0
+js 4157 14810642 0 0
+pdf 473 64036179 0 0
+Unknown 1 12501 0 0
+gif 775 1392593 0 0
+eot 3 167934 0 0
+cgi 1 1424 0 0
+woff 739 40842350 0 0
+png 786 55953713 0 0
+html 264296 2861565563 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 11
+/document/REQUISSITOS2017.pdf 110 0 40648452
+/document/CambiodeSocioVehiculo.pdf 99 0 8995272
+/document/CambiodeSocio.pdf 51 0 6327217
+/document/ConcesiondePermiso.pdf 49 0 3595808
+/document/CambiodeVehiculo.pdf 38 0 2466664
+/document/ConcesiondeContrato.pdf 37 0 2356530
+/document/ReformadeEstatutos.pdf 34 0 2054840
+/document/Constituci%C3%B3nJuridica.pdf 33 0 1886283
+/document/Deshabilitacion.pdf 31 0 1630788
+/document/Habilitaciondevehiculo.pdf 30 0 1585142
+/document/pac.pdf 10 0 601850
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 38
+Unknown 668 597
+linuxubuntu 32 21
+wince 6 6
+ios_iphone 11896 11694
+blackberry 196 127
+winunknown 130 120
+winnt 231 139
+linuxfedora 3 3
+j2me 33 8
+win8.1 1148 462
+macosx6 254 244
+symbian 111 111
+linuxdebian 52 10
+winphone 103 103
+win10 3633 1156
+linuxsuse 1 1
+linuxandroid 243019 241405
+macosx11 69 57
+bsdfreebsd 14 2
+win2003 458 458
+macosx 484 399
+macintosh 16 2
+macosx10 80 55
+macosx12 1277 638
+win8 478 235
+macosx7 163 119
+macosx9 19 19
+ios_ipad 153 119
+win7 8836 3621
+linux 845 488
+beos 1 1
+win98 16 2
+macosx5 29 15
+winlong 181 167
+winxp 2858 2476
+win2000 2 2
+unix 49 16
+macosx8 7 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 346
+chrome35.0.1916.47 1 1
+chrome64.0.3282.167 7 6
+chrome11.0.697.0 16 2
+chrome63.0.3239.26 2 2
+chrome40.0.2214.111 24 24
+chrome67.0.3381.1 1 1
+opera52.0.2871.99 11 11
+opera11.10 123 97
+chrome8.0.552.224 2 2
+chrome59.0.3071.125 80 13
+chrome52.0.2743.83 2 1
+chrome11.0.700.3 1 1
+opera41.0.2353.56 1 1
+chrome42.0.2311.135 7 7
+safari6.0 6 5
+chrome49.0.2623.75 9 9
+safari5.1 364 333
+firefox60.0.1 1 1
+android 171096 171067
+chrome25.0.1364.8 5768 5768
+safari4.0.1 29 15
+firefox58.7 5 5
+chrome59.0.3071.115 125 60
+chrome63.0.3239.108 2 2
+chrome28.0.1500.94 21 3
+nokia 233 219
+firefox56.0 5 5
+firefox24.0 1 1
+chrome42.0.2311.152 234 234
+chrome36.0.1985.97 1 1
+opera8.01 1 1
+opera12.17 4 4
+firefox26.0 3 2
+chrome31.0.1650.57 1 1
+chrome47.0.2526.80 5 5
+firefox 8 8
+greatnews 1 1
+opera54.0.2952.60 1 1
+chrome0.2.149.27 107 107
+firefox47.0 30 12
+safari4.0.3 1 1
+chrome51.0.2704.84 6 6
+chrome62.0.3202.94 17 3
+chrome68.0.3440.75 74 9
+safari4.0 14 4
+safari7.0.0.254 31 3
+chrome9.0.600.2 16 2
+firefox32.0 3 2
+safari2.0.3 1 1
+firefox53.0 1 1
+netscape5.0 6 6
+chrome68.0.3440.15 1 1
+safari7.1.0.346 1 1
+bonecho 4 4
+chrome66.0.3359.117 79 56
+chrome9.0.597.107 1 1
+firefox48.0 1 1
+firefox19.0 1 1
+opera26.0.1656.60 1 1
+chrome53.0.2785.116 3 3
+lg\- 2872 2872
+chrome63.0.3239.132 26 23
+chrome35.0.2117.157 1 1
+chrome40.0.2214.115 32 18
+chrome57.0.2987.98 2 2
+chrome60.0.3112.113 404 134
+opera10.54 2 2
+chrome56.0.2924.87 9 9
+firefox54.0 266 81
+chrome53.0.2785.143 2 2
+opera6.01 17 3
+opera34.0.2036.50 113 113
+chrome19.0.1047.0 16 2
+chrome11.0.696.65 1 1
+chrome40.0 3 3
+firefox27.0 35 11
+firefox22.0 2 1
+safari2.0.4 2 2
+chrome28.0.1500.72 3 2
+chrome26.0.1410.64 6 5
+chrome34.0.1847.131 1 1
+chrome62.0.3202.62 1 1
+edge12 1 1
+chrome27.0.1453.110 2 1
+chrome35.0 1 1
+opera54.0.2952.54 27 2
+chrome39.0.2171.99 2 2
+safari7.1.3 1 1
+firefox61.0 3868 1233
+firefox20.0 1 1
+msie9.0 396 390
+chrome39.0.0.0 39 7
+chrome43.0.2357.93 69 8
+msie8.0 441 336
+k\-meleon 15 2
+chrome65.0.3325.162 3 3
+firefox45.9 5 5
+chrome52.0.2743.116 73 73
+opera10.00 4 4
+firefox46.0 9 9
+firefox51.0 52 13
+safari8.0 24 11
+safari7.0.5 2 1
+opera9.5 1 1
+firefox50.0 74 28
+msie11.0 448 291
+chrome66.0.3359.139 324 178
+firefox45.3 25 11
+firefox29.0 2 1
+edge17 17 2
+chrome37.0.2062.94 1 1
+netscape4.07 16 2
+chrome6.0.460.0 5 5
+safari10.1.2 199 101
+chrome47.0.2526.111 178 178
+firefox55.0 144 57
+safari11.0.1 3 3
+chrome24.0.1312.57 4 4
+opera50.0.2762.67 1 1
+chrome33.0.0.0 2850 2849
+chrome7.0.540.0 1 1
+chrome66.0.3355.4 1 1
+opera48.0.2685.52 1 1
+firefox34.0 72 72
+chrome18.0.1025.166 43589 43589
+opera10.1 1 1
+firefox15.1 1 1
+chrome66.0.3343.4 3 3
+chrome57.0.2987.133 22 22
+chrome51.0.2321.18 8 8
+chrome22.0.1229.94 3 3
+chrome51.0.2704.106 2 2
+chrome37.0.2062.117 2919 2919
+chrome49.0.2623.110 83 69
+seamonkey 64 14
+safari9.1.1 4 4
+chrome18.0 1 1
+chrome59.0.3071.15 2 2
+chrome51.0.2704.81 15 12
+opera9.27 101 101
+chrome68.0.3427.0 3 3
+chrome6.0.453.1 1 1
+opera28. 1 1
+chrome66.0.3359.181 62 44
+chrome30.0.0.0 2 1
+blackberry 39 11
+safari5.0.2 326 326
+mozilla 390 287
+safari11.0.3 21 3
+chrome48.0.2564.95 2873 2873
+safari5.0 26 26
+chrome65.0.3325.183 28 28
+opera11.50 4 4
+safari4.0.5 5 5
+chrome55.0.2883.96 1 1
+chrome64.0.3282.119 2 2
+safari3.0.3 16 2
+chrome41.0.2272.118 18 3
+opera8.50 8 8
+opera10.60 1 1
+edge13 3 3
+chrome12.0.750.0 1 1
+chrome61.0.3163.100 17 17
+opera8.0 252 252
+chrome4.0.223.2 3 3
+chrome32.0.1700.102 23 5
+chrome38.0.1025.166 59 4
+samsung 8986 8986
+chrome67.0.3396.79 12 12
+safari9.0.2 1 1
+chrome66.0.3359.170 6 6
+firefox30.0 14 12
+firefox38.0 104 104
+opera53.0.2907.68 19 5
+chrome63.0.3239.84 14 10
+msie7.0 1423 1355
+opera55.0.2962.0 2 2
+chrome14.0.814.0 1 1
+chrome37.0.2062.120 3 1
+opera11.11 228 228
+opera12.10 103 103
+iceweasel 33 5
+chrome58.0.3029.81 1 0
+firefox4 1 1
+chrome27.0.1453.116 1 1
+safari10.0 54 10
+firefox39.0 1 1
+netscape4.74 16 2
+chrome67.0.3396.81 4 4
+opera52.0.2871.64 13 5
+firefox41.0 16 3
+opera53.0.2907.37 1 1
+chrome65.0.3298.4 2 2
+opera9.02 2 2
+firefox16.0 8 6
+firefox45.0 406 71
+chrome4.0.211.2 2 2
+chrome61.0.3163.79 1 1
+chrome35.0.1916.114 2 2
+minefield 3 3
+chrome30.0.1599.101 92 90
+opera10.5 1 1
+chrome67.0.3396.87 1349 224
+chrome56.0.2924.28 1 1
+chrome68.0.3440.70 68 10
+epiphany 1 1
+chrome5.0.342.1 1 1
+safari 247 124
+chrome17.0.963.56 109 109
+opera16.76 20 6
+safari8.0.3 15 5
+chrome69.0.3463.1 1 1
+opera42.0.2393.94 4 4
+safari11.0 105 18
+opera53.0.2907.99 8 7
+chrome51.0.2704.103 13 13
+chrome61.0.3163.91 1 1
+chrome44.0.2403.125 2 2
+chrome20.0.1132.47 4 4
+chrome58.0.1152.33 9 9
+chrome14.0.810.0 1 1
+chrome3.0.195.27 1 1
+chrome10.0.648.204 14 2
+opera51.0.2830.55 2 2
+firefox40.1 16 16
+safari3.0 1 1
+quicktime 1 1
+firefox35.0 35 12
+chrome55.0.2883.87 7 7
+firefox45.9.0 6 6
+chrome64.0.3282.186 13 5
+chrome4.0.207.0 10 1
+chrome49.0.2623.112 60 10
+chrome67.0.3396.99 3681 639
+chrome51.0.2704.79 21 8
+iceape 16 2
+opera9.80 18 5
+opera9.21 1 1
+edge14 16 13
+chrome20.0.1090.0 1 1
+chrome66.0.3359.126 18 4
+safari4.0.2 1 1
+firefox21.0 1 1
+safari9.0 1 1
+chrome55.0.2883.91 66 9
+msie6.0 287 169
+chrome31.0.1650.63 6 3
+chrome66.0.3359.66 1 1
+firefox60.0 466 127
+opera54.0.2952.41 234 37
+chrome52.0.2743.91 4 3
+chrome18.0.1003.1 13 13
+chrome65.0.3325.181 266 87
+firefox31.0 5 4
+firefox57.0 249 190
+safari6.0.0.337 110 110
+opera9.22 16 2
+chrome68.0.3440.7 4 4
+firefox53.2 7 7
+chrome62.0.3202.75 4 4
+opera10.50 1 1
+chrome41.0.2272.96 1 1
+icecat 16 2
+firefox40.0 1 1
+safari11.1 4 4
+opera52.0.2871.40 17 3
+safari10.0.2 1 1
+chrome54.0.2840.59 5 5
+chrome29.0.1547.62 1 1
+firefox59.0 99 23
+chrome66.0.3359.158 36 7
+Unknown 516 487
+chrome58.3.3029.81 16 2
+chrome68.0.3432.3 1 1
+chrome48.0.2564.116 2 2
+chrome67.0.3396.62 9 4
+chrome63.0.3239.111 16 2
+chrome32.0.1700.107 5 5
+chrome67.0.3393.4 10 10
+firefox52.0 87 36
+sonyericsson 8548 8548
+chrome60.0.3112.101 584 197
+firefox58.0 54 11
+chrome17.0.963.65 14 14
+safari7.0 2 2
+chrome65.0.3325.109 51 6
+opera54.0.2952.51 3 2
+safari3.1 115 115
+chrome54.0.2840.71 3 3
+chrome3.0.197.11 1 1
+mot\- 16 2
+opera9.63 12 2
+chrome29.0.1547.76 2 1
+safari11.1.1 3 3
+msie10.0 73 44
+firefox36.0 5 5
+chrome60.0.3112.50 23 9
+chrome60.0.3112.78 1 1
+chrome44.0.2403.133 2943 2913
+chrome9.0.596.0 1 1
+chrome53.0.2785.104 23 23
+chrome33.0.1750.146 4 3
+opera9.20 1 1
+chrome1.0.154.53 651 651
+chrome4.0.222.5 1 1
+chrome53.0.2341.18 7 7
+chrome40.0.2214.93 6 6
+chrome2.0.164.0 1 1
+chrome4.0.211.0 16 2
+safari5.1.5 96 96
+chrome40.0.2214.94 51 13
+safari6.0.0.450 15 2
+chrome50.0.2661.102 25 13
+chrome38.0.2125.102 1 1
+chrome17.0.963.46 1 1
+opera11.60 8 5
+chrome55.0.2883.103 1 1
+chrome13.0.782.20 1 1
+firefox49.0 6 6
+opera7.0 16 2
+chrome53.0.2785.35 4 4
+chrome58.0.3029.110 4 4
+chrome41.0.2227.1 1 1
+chrome43.0.2357.121 3 3
+chrome9.0.597.19 15 1
+chrome60.0.3112.90 836 293
+chrome18.6.872.0 1 1
+safari11.0.2 31 30
+opera50.0.2762.58 2 2
+opera18.0.2254.106200 1 0
+iphone 122 118
+msie5.0 124 124
+chrome55.19.2883.75 16 2
+safari5.0.5 5 5
+chrome65.0.3325.146 1 1
+opera48.0.2685.35 1 1
+chrome28.0.1500.95 3 2
+firefox43.0 84 84
+safari8.0.2 1 1
+chrome12.0.742.122 4 4
+opera8.54 1 1
+chrome65.0.3315.3 1 1
+chrome55.0.2883.95 14 14
+chrome54.0.2840.98 4 4
+chrome53.0.2785.89 2 2
+chrome55.0.2883.75 5 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 24
+Nokia5530XpressMusic/GoBrowser/1.6.0.48 20180731014632
+LibraryZend_Http_ClientZend_Http_Client 20180727200353
+NOKIA5700/_UCWEB7.0.2.37/28/999 20180731235822
+BlitzBOT@tricus.net_(Mozilla_compatible) 20180727023903
+SonyEricssonW700c/R1CA_Browser/SEMC-Browser/4.2_Profile/MIDP-2.0_Configuration/CLDC-1.1 20180727224103
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180704011211
+IUC(U;iOS_5.1.1;Zh-cn;320*480;)/UCWEB8.9.1.271/42/800 20180731235352
+ia_archiver 20180702085517
+UCWEB7.0.2.37/28/999 20180731234659
+python-requests/2.18.3 20180730041358
+MOT-V300/0B.09.19R_MIB/2.2_Profile/MIDP-2.0_Configuration/CLDC-1.0 20180727215002
+GreatNews/1.0 20180727210247
+Opera/9.80_(S60;_SymbOS;_Opera_Mobi/1209;_U;_fr)_Presto/2.5.28_Version/10.1 20180731080322
+Opera/9.80_(Series_60;_Opera_Mini/6.5.29702/28.2647;_U;_es)_Presto/2.8.119_Version/11.10 20180727074910
+SiteBar/3.3.8_(Bookmark_Server;_http://sitebar.org/) 20180731074132
+NokiaC5-00/GoBrowser 20180731035047
+SAMSUNG-SGH-G508E/G508EZCIG2_SHP/VPP/R5_NetFront/3.4_Qtv5.3_SMM-MMS/1.2.0_profile/MIDP-2.0_configuration/CLDC-1.1 20180731235614
+larbin_2.6.2_kalou@kalou.net 20180726222138
+larbin_2.6.3_(larbin@behner.org) 20180731103837
+Openwave/_UCWEB7.0.2.37/28/999 20180731235717
+Chrome/63.0.3239.132_Safari/537.36 20180731200427
+NokiaN81/GoBrowser/1.6.0.70 20180728112613
+Nokia6120c/GoBrowser/1.6.0.48 20180731175211
+Nokia6220c/GoBrowser/1.6.86 20180728192213
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 13
+python-requests/2.18.3 20180730041358
+larbin_2.6.2_kalou@kalou.net 20180726222138
+UCWEB7.0.2.37/28/999 20180731234659
+larbin_2.6.3_(larbin@behner.org) 20180731103837
+Openwave/_UCWEB7.0.2.37/28/999 20180731235717
+ia_archiver 20180702085517
+Midori/0.1.7_(X11;_Linux;_U;_de-de)_WebKit/532_ 20180731071926
+Microsoft-CryptoAPI/6.1 20180730140517
+IUC(U;iOS_5.1.1;Zh-cn;320*480;)/UCWEB8.9.1.271/42/800 20180731235352
+SiteBar/3.3.8_(Bookmark_Server;_http://sitebar.org/) 20180731074132
+MQQBrowser/38_(iOS_4;_U;_CPU_like_Mac_OS_X;_zh-cn) 20180731234319
+Microsoft-CryptoAPI/6.3 20180713110028
+LibraryZend_Http_ClientZend_Http_Client 20180727200353
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 242702 243311
+From1 33 36
+From2 686 773
+From3 20217 20245
+From4 1467 13186
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 42
+www_google_com_ag 1 1
+www_google_mk 1 1
+www_google_com_ph 1 1
+www_google_com_ec 246 269
+live 11 11
+www_google_ca 1 1
+myway 79 79
+yandexru 1 1
+www_google_com_mt 1 1
+google_la 1 1
+r_search_yahoo_com 1 1
+duckduckgo 2 16
+search 1 1
+www_google_co_jp 12 12
+www_google_com 202 217
+espanol_search_yahoo_com 1 1
+www_google_vg 1 1
+www_google_sk 8 8
+search_yahoo_com 17 17
+www_google_es 3 4
+www_google_com_jm 1 1
+qwant_com 2 14
+www_google_com_sv 0 1
+msn 1 1
+rr 1 1
+google_com_tr 1 1
+www_google_ht 1 1
+www_google_com_bz 1 3
+www_google_pt 2 2
+www_google_gy 1 1
+www_google_nl 1 1
+www_google_co_uk 1 1
+bing 51 51
+se_search_yahoo_com 1 1
+ecosia 14 14
+www_google_co_ve 1 1
+www_google_com_gi 1 1
+www_google_ie 1 1
+google_co_ck 1 1
+www_google_gl 2 5
+youtube 9 25
+www_google_dk 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 852
+http://wx.flycua.com/wechat/ 17079 17079
+http://www.elcomercio.com 152 152
+http://www.gob.ec 144 144
+http://mlog.aipai.com/g.gif 122 122
+http://watchmygirlfriend.tv/t/ 112 112
+http://jpsex100.xyz 108 108
+http://behmusic.org/wp-content/cache/autoptimize/css/autoptimize_48776a4b8cc550911a1e442dc6efe75f.css 108 108
+http://jpsex100.xyz 101 101
+http://bachjay.com/%D8%A7%D8%AA%D8%B5%D9%84-%D8%A8%D9%86%D8%A7/ 73 73
+http://behmusic.org/wp-content/cache/autoptimize/css/autoptimize_70f4803aab9d3fcae12f39d159d07abe.css 58 58
+http://watchmygfvideos.com 47 47
+http://www.elcomercio.com/css/a4e1b9a.css 46 46
+http://www.ellitoral.com/index.php/diarios/2015/01/24/nosotros/NOS-07.html 42 42
+http://popmode.net/front/css/style.css 39 39
+http://erotichdworld.com 38 38
+http://adpays.net/v.php 30 30
+http://promodj.com 29 29
+http://www.un.org/en/events/global-assets/css/main.css 28 28
+http://petitetinyporn.com 27 27
+http://www.mojeek.co.uk/search 25 25
+http://appapi.inspsearchapi.com/search/client 21 21
+http://realtybiznews.com 20 20
+http://kiosko.net/ec/np/ec_lahora.html 20 20
+http://watchmygirlfriend.tv/t/indexs.php 20 20
+http://pornday.live 19 19
+http://guruofporn.com 2 2
+http://www.mymirror.xyz/summer-appropriate-animal-prints/ 1 1
+http://www.metacafe.com/videos_about/sphere%20labs%20male%20enhancement/newest/ 5 5
+http://mugtama.com/hot-reports/2014-02-01-12-32-36/item/75021-2018-07-30-07-23-03.html 1 1
+http://waimai.meituan.com/home/wsvtp9grbzuy 1 1
+http://promodj.com/kostya.funk/mixes/6644620/Retro_diskoteka_KOSTYA_FUNK_MIX 2 2
+http://www.soft-ware.net/pc/audio/player 1 1
+http://jpsex100.xyz/index.php/2018/07/21/girl-drives-bound-guy-crazy/ 1 1
+http://www.iboogie.com 1 1
+http://facebook.com 1 1
+http://rapcity.com/__media__/js/netsoltrademark.php 1 1
+http://frasesblog.com/te-amo/ 3 3
+http://www.freelifetimeeasysex.com 3 3
+http://www.nnart.fun 1 1
+http://molinergd.com/2012/11/20/easymute-pausa-o-baja-el-volumen-de-tu-musica-con-un-simple-gesto/ 1 1
+http://www.heraldscotland.com/news/16380968.snps-ian-blackford-apologises-over-fake-scotland-is-a-region-of-england-tweet-from-brexit-secretary-dominic-raab/ 1 1
+http://ww12.boygirlsexvideo.com 2 2
+http://festyy.com/wJAu4m 1 1
+http://www.phoenixnewtimes.com/music/como-una-mujer-mexicana-gay-encontr-su-segunda-casa-en-un-club-nocturno-de-phoenix-8693713 1 1
+http://amabitch.com 5 5
+http://gizmorati.com/2013/03/04/unusual-samsung-galaxy-s4-video-promots-the-smartphone/ 1 1
+http://www.meipai.com/media/1026249751 1 1
+http://behmusic.org 1 1
+http://www.tanea.gr/news/politics/article/5596597/kammenos-oi-katoikoi-sto-mati-poy-ekanan-katalhpsh-stis-aktes-ftaine/ 2 2
+http://www.metacafe.com/videos_about/%20constant%20concentration%20reviews/newest/ 2 2
+http://www.sghdw.info/azsdhytbjs/EzD8pM0rEIlzeNd/ 1 1
+http://teenspussy.top 7 7
+http://promodj.com/dimas-mixon/tracks/6392098/Davidenko_Dimas_Mixon_Following_original_mix 3 3
+http://festyy.com/wKeFFz 1 1
+http://www.atyrauff.kz/user/SextonDelgado04/ 1 1
+http://promodj.com/dimas-mixon/promos/6612649/Dimas_Mixon_best_trance_music 4 4
+http://www.ketab-store.ml 1 1
+http://www.yucatan.com.mx/editorial/formatos-para-el-debate-politico 1 1
+http://www.holidayhouses-sa.com 2 2
+http://www.elcolombiano.com/blogs/plazapublica/3-claves-para-ser-un-buen-candidato-politico-2-0-por-jsdg/1075 1 1
+http://promodj.com/djmajor/remixes/6240068/Sean_Paul_Don_t_Stop_Feeling_The_Beat_Vladislav_K_Dj_MAJOR_MashUp_2k17 2 2
+http://promodj.com/dj.gambino/remixes/6607160/Jah_Khalib_vs_Sickbeatz_Podoydi_Poblizhe_Detka_Dj_Gambino_Mashup 4 4
+http://promodj.com/dimas-mixon/mixes/6529378/Dimas_Mixon_progressive_soul_vol5 3 3
+http://waimai.meituan.com/home/wsvy1b337c6b 1 1
+http://gestyy.com/wKyeJ5 1 1
+http://www.whyspirit.com/modules/wordpress/wp-ktai.php 1 1
+http://festyy.com/wJPP3V 1 1
+http://www.koalicjapolnoc.pl/video/video.php 1 1
+http://jpsex100.xyz/index.php/page/6/ 1 1
+http://www.dont-stop-music.com/video/amy-winehouse-back-to-black/ 1 1
+http://imagenesgenialesparapasar.com/imagenes-amor-novia-quitarle-lo-enojada/ 1 1
+http://inscripciones.competencias.gob.ec/login 2 2
+http://www.gdsvg.info/aznknqirpv/EzD8pM0rEIlzeNd/ 1 1
+http://www.heraldscotland.com/news/16386535.rangers-hit-with-500000-in-legal-bills-dispute-with-mike-ashleys-sports-direct/ 7 7
+http://www.eassociates.cc/__media__/js/netsoltrademark.php 2 2
+http://www.manjunath.com/__media__/js/netsoltrademark.php 1 1
+http://www.metacafe.com/videos_about/cdx%20labs%20cbd%20reviews/newest/ 1 1
+http://www.thefeedme.com/2018/07/how-to-be-cool-and-popular-in-sixth_22.html 1 1
+http://promodj.com/dimas-mixon/mixes/6636391/Dimas_Mixon_music_for_friends 3 3
+http://www.hjkljn.info/azddutxlef/EzD8pM0rEIlzeNd/ 1 1
+http://behmusic.org/44066/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D8%AC%D8%AA%D8%A8%DB%8C-%DA%A9%D8%A8%DB%8C%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%DB%8C%D8%B4%D9%87/ 1 1
+http://promodj.com/extralibertylife/remixes/6645822/MARUV_Focus_On_Me_Extra_Liberty_Life_Remix 2 2
+http://www.gdsvg.info/azldzcygff/EzD8pM0rEIlzeNd/ 1 1
+http://homemadegftube.com 12 12
+http://www.metacafe.com/videos_about/%20rvxadryl%20male%20enhancement%20review/newest/ 1 1
+http://sellanycars.net/essential_grid/what-is-the-importance-of-the-bill-of-sale-for-buying-a-car/ 1 1
+http://www.jacksonpalace.gr 1 1
+http://www.soft-ware.net/pc/hobby/musik 1 1
+http://www.metacafe.com/videos_about/%20julia%27s%20finest%20cream%20review/newest/ 1 1
+http://www.sghdw.info/azuhnaweee/EzD8pM0rEIlzeNd/ 1 1
+http://aaaasecurestorage.com/__media__/js/netsoltrademark.php 1 1
+http://evqcw.xyz/keywordsvid-Funniest-Panda-Videos-EVER-20.html 1 1
+http://dallasargvj.timeblog.net/7245505/sexy-spartagen-xt 1 1
+http://www.sofilmeshd.net/assassino-a-preco-fixo-torrent-bluray-720p-e-1080p-dual-audio/ 1 1
+http://promodj.com/djmajor/remixes/6159112/Noisestorm_Same_Deep_Heist_Water_Vladislav_K_Dj_MAJOR_Mash_Up 2 2
+http://promodj.com/djratek/remixes/6542833/Foggy_Klaas_Come_Into_My_Dream_Dj_Ratek_Mixshow_edit_extended 1 1
+http://rmg-med.ru/pentax/videoprocessor/EPK-3000-DEFINA 1 1
+http://www.raisingpet.com/pets-and-people/can-pets-vegetarians/ 1 1
+http://promodj.com/dimas-mixon/promos/6629698/Dimas_Mixon_Trance_in_Crimea_2018 4 4
+http://www.automachi.com/onemachi/ 5 5
+http://www.jghkjl.info/azatpfbsdv/EzD8pM0rEIlzeNd/ 1 1
+http://apps3963.check-ourbigmoney67.loan/5975293871/ 1 1
+http://promodj.com/elis.brooklyn/promos/6433465/Elis_Brooklyn_DeepConnect_Vol_2_0 4 4
+http://darkstreams.site/index.php 1 1
+http://collegefuckparty.org 1 1
+http://xmonkeyporn.com 3 3
+http://prettywhores.info 2 2
+http://www.ledyourparty.com 2 2
+http://www.filikula.club 4 4
+http://oregamita.blog.jp/archives/5931648.html 1 1
+http://xrysessyntages.com/katigories-syntagon/nistisima-chortofagika/page/3/ 2 2
+http://promodj.com/djmajor/remixes/6168922/The_Weeknd_ft_Daft_Punk_Starboy_Vladislav_K_Dj_MAJOR_MashUp_2k17 2 2
+http://game4175.check-faustmoney8.loan/8241091349/ 1 1
+http://realamaturevideos.com 1 1
+http://promodj.com/djratek/remixes/6433871/Global_Deejays_Everybody_s_Free_Dj_Ratek_Bootleg_Mix 2 2
+http://cheers090.pixnet.net/blog/post/330923465-%E6%89%8B%E7%B9%AA%E7%A9%BF%E6%90%AD%E9%80%A0%E5%9E%8B%E2%9D%A4-teva-x-%E6%84%9B%E7%8E%A9%E5%AE%A2%E4%B8%96%E7%95%8C%E9%87%8E%E9%A4%90%E6%97%A5%EF%BC%8C%E6%99%82 3 3
+https://www.download.hr/download-vzochat.html 1 1
+http://viid.me/qg65Uy 1 1
+http://promodj.com/andrey.pach/mixes/6618784/Andrey_Pach_Moral_rank_TECHNO 1 1
+http://promodj.com/djmajor/remixes/6182239/DJ_Sandro_Escobar_vs_Blestyaschie_Chao_Bambino_Vladislav_K_Dj_MAJOR_Mash_Up_2k17 2 2
+http://urbanette.com/how-to-deal-with-haters/ 1 1
+http://headline.mtfj.net/s/topics_safe.php 2 2
+http://www.revistaestilo.net/estilodevida/795482-152/8-frases-que-enojan-a-las-mujeres 1 1
+http://promodj.com/djmajor/remixes/6144505/Deepswing_In_The_Music_Vladislav_K_Dj_MAJOR_Mash_Up 2 2
+http://api-t.iqiyi.com/feed/get_feeds 1 1
+http://www.etadjewellery.com/alob/lesbian_video/ 1 1
+http://www.sghdw.info/azeiemyjpl/EzD8pM0rEIlzeNd/ 1 1
+http://www.fresh1027fm.com/shop/ 1 1
+http://festyy.com/wJPP3I 1 1
+http://www.destakjornal.com.br/opiniao-destak/blogs/silicon-minds 4 4
+http://yt.mmstat.com 1 1
+http://trabajaenrealce.blogspot.com/2010/09/realce-promocion-amigo-facebook.html 1 1
+http://www.sghdw.info/azibltyqce/EzD8pM0rEIlzeNd/ 1 1
+http://steezylist.com 2 2
+http://gestyy.com/wYZQ3O 1 1
+http://www.gdsvg.info/azodvvewbb/EzD8pM0rEIlzeNd/ 1 1
+http://oregamita.blog.jp/archives/cat_161680.html 1 1
+http://promodj.com/dimas-mixon/mixes/6636727/Dimas_Mixon_playing_trance_in_mix_2018 3 3
+http://aldoarqangel.blogspot.com/2009/03/prendisndo-doblar-planos.html 1 1
+http://promodj.com/djmajor/remixes/6370376/Luis_Fonsi_ft_Daddy_Yankee_Despacito_DJ_MAJOR_Mash_UP 1 1
+http://promodj.com/djmajor/remixes/6573002/Desiigner_Dj_Tarantino_Dj_Dyxanin_Timmy_Turner_DJ_MAJOR_Mash_Up_2k18 2 2
+http://promodj.com/djmajor/remixes/6186187/Monatik_DJ_A_one_Vihodnoy_DJ_MAJOR_2k17_Mash_Up 2 2
+http://promodj.com/dimas-mixon/mixes/6457045/Dimas_Mixon_beautiful_mix_2017 3 3
+http://vidsamateur.com 1 1
+http://www.youngteenlove.com 2 2
+http://api.weibo.cn/2/account/mobile_get 2 2
+http://www.in.gr/2018/07/26/apopsi/o-panos-kammenos-kapote-prepei-na-voulonei/ 2 2
+http://promodj.com/djmajor/remixes/6598548/Eldzhei_Barthezz_Brain_Ultramarinovie_tanci_DJ_MAJOR_DJ_ARTEM_SHUSTOV_2k18_Mash_Up 2 2
+http://festyy.com/wJBgNw 1 1
+http://www.codigopostal.gob.ec 2 2
+http://www.sghdw.info/azvifcpsli/EzD8pM0rEIlzeNd/ 1 1
+http://promodj.com/dimas-mixon/radioshows/2485530/guestmix_Dimas_Mixon_Real_Fm98_3 3 3
+http://www.hjkljn.info/azjfcamuxj/EzD8pM0rEIlzeNd/ 1 1
+http://www.gdsvg.info/azxdmbhwxn/EzD8pM0rEIlzeNd/ 1 1
+http://trabzonhaberajansi.net 1 1
+https://www.download.hr/download-safe-chat-with-parental-controls.html 1 1
+http://supertightporn.com 18 18
+http://livechat.to10.gr/live/ 15 15
+http://esashq.org/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom//facebook.png 1 1
+http://www.grosir-gaun.com 1 1
+http://oregamita.blog.jp/archives/cat_171150.html 1 1
+http://twitter.com 1 1
+http://www.phoenixnewtimes.com/music/blackberry-smoke-charlie-starr-lynyrd-skynyrd-9510490 1 1
+http://www.luxuo.com/style/watches/omega-released-new-railmaster-denim.html 2 2
+http://promodj.com/djmajor/remixes/6191539/Matthew_Koma_Kisses_Back_DJ_MAJOR_2k17_Mash_UP 2 2
+http://www.ecuadorlegalonline.com/consultas/agencia-nacional-de-transito/consulta-de-multas-vehiculos-licencias/ 2 2
+http://www.todayfinancewatch.com/daily-market-preview-facebooks-ceo-takes-on-trump/ 1 1
+http://www.onlinesocialbookmarker.com/story.php 1 1
+http://www.pottyteen.gdn 1 1
+http://esashq.org 2 2
+http://promodj.com/dimas-mixon/tracks/6377278/Davidenko_Dimas_Mixon_Mechanics 3 3
+http://www.vivamedia.ca/how-to-improve-your-ranking-with-seo-video-marketing/ 1 1
+http://promodj.com/dimas-mixon/mixes/6529374/Dimas_Mixon_progressive_soul_vol_4 4 4
+http://www.elcomercio.com/actualidad/ley-recuperacion-capitales-asamblea-ecuador.html 4 4
+http://convos06.de 1 1
+http://webcache.googleusercontent.com/search 0 13
+http://promodj.com/dimas-mixon/mixes/2478576/Dj_Dimas_Mixon_Azov_night_party_in_da_mix_2011 2 2
+http://www.tanea.gr/news/greece/article/5598579/mati-gnwrizan-gia-toys-nekroys-4-5-wres-prin-apo-to-sooy-tsipra-sto-syntonistiko/ 3 3
+http://www.metacafe.com/videos_about/renown%20cream%20reviews/newest/ 1 1
+http://www.elcomercio.com/actualidad/entrega-placas-retrasos-municipios-ecuador.html 5 5
+http://anaguro.yanen.org/index.cgi 1 1
+http://www.sghdw.info/azkorcalnj/EzD8pM0rEIlzeNd/ 1 1
+http://www.hjkljn.info/azpxykboax/EzD8pM0rEIlzeNd/ 1 1
+http://www.bestshareware.net/allsoftware-d-3.htm 1 1
+http://sexyfandom.com/archives/2017/05/leyla-sexy-take-on-marvels-blade/ 1 1
+http://promodj.com/dimas-mixon/mixes/6620834/Dimas_Mixon_progressive_soul_vol_9 3 3
+http://www.superfitness.rurac.h.el.lemat.hi.s915.15blog.gewinnspiele.es/php.php 1 1
+http://win-best-bonus.com 5 5
+http://www.palermo.edu 6 6
+http://bybybicycle.blog.jp 4 4
+http://so.youku.com/search_video/q_+rvxadryl 1 1
+http://coolanime-sex.com/cool-video/aXQtMjE0LTE0MDcxMTEz/%C3%83%C2%83%C3%82%C2%A7%C3%83%C2%82%C3%82%C2%AB%C3%83%C2%82%C3%82%C2%8A%C3%83%C2%83%C3%82%C2%A5%C3%83%C2%82%C3%82%C2%8F%C3%83%C2%82%C3%82%C2%96%C3%83%C2%83%C3%82%C2%A5%C3%83%C2%82%C3%82%C2%B9%C3%83%C2%82%C3%82%C2%B4%C3%83%C2%83%C3%82%C2%A8%C3%83%C2%82%C3%82%C2%BC%C3%83%C2%82%C3%82%C2%95%C3%83%C2%83%C3%82%C2%A7%C3%83%C2%82%C3%82%C2%9A%C3%83%C2%82%C3%82%C2%84%C3%83%C2%83%C3%82%C2%A5%C3%83%C2%82%C3%82%C2%A6%C3%83%C2%82%C3%82%C2%BB%C3%83%C2%83%C3%82%C2%A5%C3%83%C2%82%C3%82%C2%AD%C3%83%C2%82%C3%82%C2%90-%C3%83%C2%83%C3%82%C2%A6%C3%83%C2%82%C3%82%C2%9C%C3%83%C2%82%C3%82%C2%89%C3%83%C2%83%C3%82%C2%A8%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%82%C3%82%C2%80/ 1 1
+http://briannelsonsingersongwriter.com/search/free-sex-porn-video.html 1 1
+http://www.gdsvg.info/azrsdgarjh/EzD8pM0rEIlzeNd/ 1 1
+http://www.chatib.us 4 4
+http://aglomeradodigital.com.br/video-5-criaturas-misteriosas-do-fundo-do-mar/ 1 1
+http://www.soku.com/search_video/q_ingredient%20science%20garcinia%20cambogia 1 1
+http://xtrememixxradio.com 3 3
+http://www.hqgirlsvids.gdn 1 1
+http://www.thewebthemes.com 1 1
+http://wwww.delicious.com 1 1
+http://promodj.com/dimas-mixon/mixes/6514892/Dimas_Mixon_progressive_soul_vol3 4 4
+http://behmusic.org/singer/%D9%85%D8%A7%D8%B2%DB%8C%D8%A7%D8%B1-%D9%81%D9%84%D8%A7%D8%AD%DB%8C/ 1 1
+http://www.bestshareware.net/allsoftware-0-9.htm 1 1
+http://ww12.boygirlsexvideo.com 2 2
+http://www.thefeedme.com/2018/07/how-to-avoid-menstruation.html 1 1
+http://www.komikipedia.eus/index.php 1 1
+http://www.sexuria.com 1 1
+http://www.to10.gr/podosfero/champions-league/333780/apolythike-o-viki-apo-ti-vasilia/ 1 1
+http://www.jghkjl.info/azxyvggzlf/EzD8pM0rEIlzeNd/ 1 1
+http://promodj.com/dimas-mixon/promos/6469589/Dimas_Mixon_Golden_autumn_progressive_mix2017 3 3
+http://pornday.live 1 1
+http://promodj.com/djmajor/remixes/6566120/Desiigner_Dj_Tarantino_Dj_Dyxanin_Timmy_Turner_DJ_MAJOR_Radio_Mash_Up_2k18 2 2
+http://sndesign.ru 1 1
+http://down.chinaz.com/soft/37545.htm 6 6
+http://whazupnaija.com/entertainment/ 1 1
+http://valaaguelaquesipuedo.com/antes-de-lo-previsto-se-empieza-a-restablecer-servicio-normal-en-el-sector-de-ciudad-bolivar/ 1 1
+http://649lottery.com/__media__/js/netsoltrademark.php 1 1
+http://www.luxuo.com/properties/hotel/caldera-house.html 4 4
+http://www.expertbanda.com/2018/05/facebook-se-paise-kaise-kamaye-in-hindi.html 1 1
+http://www.gonowapps.com/2018/07/blog-post_27.html 1 1
+http://promodj.com/djmajor/remixes/6542837/Stromae_Alors_On_Danse_Vladislav_K_Dj_MAJOR_Mash_Up_2k17 2 2
+http://latestnewspapers.blogspot.com/2012/04/10-cool-facebook-status-tips-and-tricks.html 1 1
+http://bc.vc/U2C8gdy 2 2
+http://www.variouseconomy.com/tag/kutaisi-airport 2 2
+http://da.videotutorial.ro/cum-sa-faci-un-sistem-de-supraveghere-inteligent-cu-o-simpla-camera-web-tutorial-video/ 1 1
+http://www.luxuo.com/lifestyle/travel/the-ultimate-luxury-travel-guide-lightfoot-travel.html 3 3
+http://jpsex100.xyz/index.php/2018/07/21/japanese-girl-likes-to-swallow-milk/ 2 2
+http://assys01.fc2.com/1363 1 1
+http://www.sghdw.info/azdiehwcsc/EzD8pM0rEIlzeNd/ 1 1
+http://ditaduramilitarensf9ano2011.blogspot.com/2011/10/musica-jorge-maravilha-de-chico-buarque.html 1 1
+http://www.filikula.club 3 3
+http://www.hjkljn.info/azwlfcuwym/EzD8pM0rEIlzeNd/ 1 1
+http://spotcleaner.fun 1 1
+http://www.metacafe.com/videos_about/radiantly%20slim%20reviews/newest/ 6 6
+http://waimai.meituan.com/home/wwe29s8unhrj 1 1
+http://vidsamateur.com 13 13
+http://loteriagratuita.cf 1 1
+http://promodj.com/djmajor/remixes/6566831/Zomb_XM_Delaem_Fleks_DJ_MAJOR_DJ_ARTM_SHUSTOV_2k18_Mash_Up 2 2
+http://hsbnoticias.com/noticias/vida-moderna/barbara-evans-la-sexy-exnovia-de-paolo-guerrero-desafio-inst-378751 1 1
+http://promodj.com/djmajor/remixes/6321585/Rasmus_In_The_Shadows_Vladislav_K_Dj_MAJOR_MashUp_2k17 2 2
+http://promodj.com/djmajor/remixes/6598549/Grivina_x_Leo_Burn_Alex_Shik_x_Dj_Tarantino_Dj_Dyxanin_Malo_Dj_MAJOR_DJ_ARTEM_SHUSTOV_2k18_Mash_Up 2 2
+http://bestgirls.website/2018/07/17/outdoor-anal-with-tattooed-ass/ 1 1
+http://destyy.com/wK09GD 1 1
+http://amabitch.com 3 3
+http://kinhtetuanminh.com/sach-marketing-dich-vu-hien-dai-luu-dan-tho-book1623.html 1 1
+http://promodj.com/djmajor/mixes/6209920/DJ_MAJOR_Trap_Dubstep_VIP_mix 2 2
+http://www.wotbox.com/search 1 1
+http://promodj.com/djmajor/remixes/6311353/Lev_Leschenko_Den_pobedi_Vladislav_K_DJ_MAJOR_mash_up_2k17 2 2
+http://promodj.com/dj.gambino/promos/6616753/Dj_Gambino_TECHNO_LOGIC 3 3
+https://www.download3k.de/DownloadLink4-Aimersoft-3GP-Video-Converter.html 1 1
+http://click.mcrntrk.com/rtb/feedclick 1 1
+http://mixer.video.iqiyi.com/jp/mixin/videos/499328500 1 1
+http://promodj.com/djmajor/mixes/6598536/Vladislav_K_Dj_MAJOR_Tech_House_Nation_1 2 2
+http://www.gdsvg.info/aztzxsmrsa/EzD8pM0rEIlzeNd/ 1 1
+http://xtrememixxradio.com/wp-content/cache/autoptimize/css/autoptimize_5dcfd86c8764a60a6ef6c6720585d751.css 3 3
+http://jpsex100.xyz/index.php/2018/07/21/japanese-baby-girl-boned/ 2 2
+http://www.metacafe.com/videos_about/cognigenx%20clarity/newest/ 10 10
+http://tuber.space 2 2
+http://destyy.com/wJO7Ng 3 3
+http://jpsex100.xyz/index.php/page/2/ 2 2
+http://www.germanvtol.com/__media__/js/netsoltrademark.php 1 1
+http://viid.me/fG0g05b5a4ddaf2671OMGSbbsmbX4ZV 1 1
+http://www.adlift.com/in/blog/youtube-remarketing-just-market-can-remarket/ 1 1
+http://adbit.rigala.net 1 1
+http://jpsex100.xyz/index.php/page/3/ 1 1
+http://promodj.com/djmajor/mixes/6198731/Vladislav_K_Dj_Major_MegaFresh_Mix_3 2 2
+http://cv61215-wordpress-13.tw1.ru/2018/06/26/expert-online-video-marketing-tactics-you-must-know/ 1 1
+http://promodj.com/dimas-mixon/mixes/3700596/Dj_Dimas_Mixon_Nostalgia_mix2012 4 4
+http://prettynudes.supertop-100.com/index.php 1 1
+http://www.sofilmeshd.net/torrent-o-nome-da-rosa-dvdrip-dual-audio-1986/ 1 1
+http://viid.me/qfyTCw 1 1
+http://www.thefeedme.com/2018/07/how-to-announce-your-engagement-to.html 1 1
+http://down.chinaz.com/soft/27438.htm 7 7
+http://www.fshfs.info/azrexwmvxc/EzD8pM0rEIlzeNd/ 1 1
+http://www.cinemartmagazine.it/serie-tv/newstv/montalbano-amore-stasera-secondo-episodio/ 1 2
+http://promodj.com/djmajor/remixes/6548708/Elena_Temnikova_Vdoh_Vladislav_K_Dj_MAJOR_Remix 2 2
+http://promodj.com/djmajor/remixes/6584725/J_Balvin_Willy_William_x_Dmitry_V_x_Chester_Young_Mi_Gente_DJ_MAJOR_ARTEM_SHUSTOV_2k18_Radio_Mash_Up 2 2
+http://www.openld.de/search.php 1 1
+http://www.fshfs.info/azhritgfiu/EzD8pM0rEIlzeNd/ 1 1
+http://www.mercadocentral.gob.ar/servicios/precios-y-vol%FAmenes/precios-mayoristas 1 1
+http://www.salud180.com/salud-dia-dia/5-tips-para-calmar-una-mujer-enojada 1 1
+http://www.silec.com.ec/Webtools/LexisFinder/Default.aspx 1 1
+http://promodj.com/djmajor/remixes/6152736/Chassio_feat_Michelle_Hord_Makem_Move_Dj_MAJOR_Vladislav_K_Radio_Mash_Up 2 2
+http://www.ebook30.com 1 1
+http://promodj.com/djmajor/remixes/6644805/MiyaGi_Captain_DJ_Artem_Shustov_DJ_MAJOR_Remix 1 1
+http://entertainment.abs-cbn.com/Tv/Home 1 1
+http://festyy.com/wKrLNC 3 3
+http://ucuystore.blogspot.com/2015/09/telltale-games-share-their-tips-for.html 1 1
+http://noahglobal.net/shorewalk-vacation-villas-rentals.htm 1 1
+http://viid.me/qEK9dC 4 4
+http://www.jghkjl.info/azoiubuwkr/EzD8pM0rEIlzeNd/ 1 1
+http://allforanimals.xyz/avoiding-dangerous-play-items-budgerigar/ 1 1
+http://sambadur.net 1 1
+http://erotichdworld.com 1 1
+http://www.metacafe.com/videos_about/%20constant%20concentration%20review/newest/ 2 2
+http://www.metacafe.com/videos_about/cognigenx%20clarity%20ingredients/newest/ 5 5
+http://linurl.co/ads/ 7 7
+http://hv-clothing.com 1 1
+http://www.sghdw.info/azejfypptp/EzD8pM0rEIlzeNd/ 1 1
+http://www.thefeedme.com/2018/07/how-to-be-yourself.html 1 1
+http://promodj.com/djmajor/remixes/6389334/Stromae_Alors_On_Danse_Vladislav_K_Dj_MAJOR_Radio_Mash_Up_2k17 1 1
+http://oregamita.blog.jp/archives/6984985.html 2 2
+http://sellanycars.net/vehicle/mercedes-benz-c-class-24/ 1 1
+http://angelaoeiras.com/videos-receitas/ 1 1
+http://www.luxuo.com/style/fashion/virgil-abloh-x-nike-the-ten-limited-collection.html 2 2
+http://www.luxuo.com/style/watches/girard-perregaux-laureato-watch.html 2 2
+http://www.metacafe.com/videos_about/radiantly%20slim%20diet%20pills/newest/ 2 2
+http://behmusic.org/singer/%D8%B3%DB%8C%D8%B1%D9%88%D8%A7%D9%86-%D8%AE%D8%B3%D8%B1%D9%88%DB%8C/ 1 1
+http://www.100franquicias.com.ec/estilos3.php 1 1
+http://www.fundacionlucadetena.org/index.php/que-hacemos/editoriales/editorialeducacion/57-habilidades-psicomotrices-psicomotricidad-fina-psicomotricidad-gruesa.html 1 1
+http://www.meipai.com/media/1023766498 2 2
+http://technorati.com/search 14 14
+http://Inncomparable.com/__media__/js/netsoltrademark.php 1 1
+http://www.hjkljn.info/azuqvjvtrw/EzD8pM0rEIlzeNd/ 1 1
+http://destyy.com/wJ9TAM 2 2
+http://Www.Sunqiang.Org.cn/webtool/Index.asp 1 1
+http://www.metacafe.com/videos_about/sphere%20labs%20male%20enhancement%20reviews/newest/ 3 3
+http://promodj.com/elis.brooklyn/mixes/6445189/Elis_Brooklyn_DeepConnect_3 4 4
+http://www.competencias.gob.ec/impuesto-al-rodaje-ya-no-sera-recaudado-por-el-sri/ 1 1
+http://www.metacafe.com/videos_about/cognigenx%20clarity%20reviews/newest/ 4 4
+http://hannn246.pixnet.net/blog/post/403218641-%E3%80%90%E5%8C%97%E6%B5%B7%E9%81%93%E7%95%99%E5%A3%BD%E9%83%BD%E3%80%91%E5%A4%8F%E5%AD%A3%E9%81%8A%E6%A8%82%E5%9C%92%E5%A5%BD%E7%8E%A9%E5%88%BA%E6%BF%80%E5%B0%96%E5%8F%AB%E6%BB%BF 18 18
+http://pornday.live/tag/lingerie/ 11 11
+http://zenptp.fr/promote1.php 1 1
+http://halalgoogling.com/search/web 2 2
+http://promodj.com/djmajor/remixes/6323699/Estradarada_Vite_Nado_Viyti_DJ_MAJOR_2k17_Mash_UP 2 2
+http://www.elcomercio.com/actualidad/deudapublica-cierre-primersemestre-productointernobruto-ecuador.html 4 4
+http://www.extrapassport.com/legal/reasons-why-musicians-should-look-for-legal-advice/ 2 2
+http://bybybicycle.blog.jp 1 1
+http://www.ketab-store.ml 5 5
+http://www.pro-ps.ru/wiki/doku.php/the_typical_salary_for_a_video_sport_tester 1 1
+http://www.femmevetements.net 1 1
+http://www.metacafe.com/videos_about/%20julias%20finest/newest/ 1 1
+http://promodj.com/dimas-mixon/tracks/6387698/Davidenko_Pavel_Medvedev_Dmitry_Na_plyazhe_On_the_beach_original_mix 4 4
+http://www.seikotuin-site.info 1 1
+http://www.cefuc.com/webmail/redir.php 3 3
+http://www.fresh1027fm.com/product-category/freshfm-cinema-tv-listings-soca-downloads-photos-mp3-downloads/ 1 1
+http://rockten.us/__media__/js/netsoltrademark.php 1 1
+http://murzilka.top 1 1
+http://promodj.com/djmajor/mixes/6345718/DJ_MAJOR_DeepMixNation_june_2k17 1 1
+http://www.ecuadorlegalonline.com/consultas/registro-civil/codigos-provincia-cedula-identidad/ 1 1
+http://promodj.com/dimas-mixon/remixes/2432242/Klaas_Ft_Bodybangers_Freak_Dj_Dimas_Mixon_mash_up 3 3
+http://promodj.com/djmajor/remixes/6598551/J_Balvin_Willy_William_x_Dmitry_V_x_Chester_Young_Mi_Gente_DJ_MAJOR_ARTEM_SHUSTOV_2k18_Mash_Up 2 2
+http://paxtonfwlap.ka-blogs.com/7197016/a-review-of-why-be-racist-sexist-homophobic-shirt 1 1
+http://behmusic.org/singer/%D9%85%D9%87%D8%AF%DB%8C-%DB%8C%D8%B1%D8%A7%D8%AD%DB%8C/ 1 1
+http://www.filikula.online 1 1
+http://ctpp.org.ec/noticias/tipos-de-licencias-para-conducir-en-el-ecuador/ 1 1
+http://codednaija.com.ng 2 2
+http://gestyy.com/wYZEyO 1 1
+http://waimai.meituan.com/home/wwek1vymg9p6 1 1
+http://www.sghdw.info/azecnrqkne/EzD8pM0rEIlzeNd/ 1 1
+http://172.17.0.155:6030/check/paginas/checkpoint/che_solicitar_turno.jsp 1 1
+http://hammock-youtuber.jp/youtube-course/how-to-download-youtube-and-make-it-dvd/ 1 1
+http://www.erdieindustries.net/__media__/js/netsoltrademark.php 1 1
+http://esforse.mil.ec/intranet/templates/helion/css/template.css 1 1
+http://jpsex100.xyz/index.php/2018/07/21/japan-girl-bondage-with-cumshot-2/ 2 2
+https://www.download3k.de/DownloadLink6-VisioForge-Video-Edit-ActiveX-Version.html 1 1
+http://www.mysticbanana.com/any-websites-online-that-offer-free-yoga-videos-to-watch-for-beginners.html 1 1
+http://www.heraldscotland.com/news/16383516.celtic-call-for-talks-in-old-firm-ticket-allocation-row-while-restricting-sales-to-rangers-fans/ 1 1
+http://promodj.com/dj.gambino/remixes/6607152/Vou_Vou_Polehche_Dj_Gambino_Mashup 3 3
+http://www.elgrafico.mx/la-roja/11-01-2018/hermanitos-mueren-calcinados-al-interior-de-su-vivienda-en-chalco 1 1
+http://dedanejolovo427.tk/2303845/4382016/483d25fb96-mind-relaxing-indian-music-free-download-4c7a20f24f 1 1
+http://www.cruzetalk.com/forum/36-gen1-audio-electronics/11446-pandora-issues.html 1 1
+http://judeporn.com 3 3
+http://bestofthelist.com/the-most-handsome-british-actors-2018/ 2 2
+http://www.competencias.gob.ec/inscribete-en-la-plataforma-virtual-del-cnc-y-participa-en-los-cursos-virtuales/ 2 2
+http://www.vinden.nl 2 2
+https://www.download.hr/download-safe-chat-w-parental-controls.html 1 1
+http://didilist.com 2 2
+http://www.facebook.com/jackjmcadoo 4 4
+http://www.eva.ro/dragoste/sex/tu-ce-stii-despre-orgasm-articol-10787.html 1 1
+http://www.sghdw.info/azpddbwjbf/EzD8pM0rEIlzeNd/ 1 1
+http://www.searchhippo.com/q.php 2 2
+http://www.ecuadorlegalonline.com/consultas/agencia-nacional-de-transito/consultar-multas-transito-ant-ecuador/ 2 2
+http://cheers090.pixnet.net/blog/post/324933522-%E6%95%B4%E7%90%86%E6%88%BF%E9%96%93%E2%9D%A4%E5%B0%8F%E9%A0%90%E7%AE%97%E6%89%93%E9%80%A0%E5%8C%97%E6%AD%90%E9%A2%A8%E6%A0%BC%E5%8C%96%E5%A6%9D%E6%AA%AF-atelier- 2 2
+http://www.murthasolutions.com/Partners.html 1 1
+http://promodj.com/dimas-mixon/mixes/6637712/Dimas_Mixon_summer_trance_mix_in_Crimea 4 4
+http://jpsex100.xyz/index.php/2018/07/21/young-girl-meets-old-man/ 1 1
+http://videos.gotelugu.com/play/177/'Pata'sala%20-4%20(Ippatikinka%20Naa%20Vayasu%20from%20Pokiri)%20by%20Lyricist%20Bhaskarabhatla 1 1
+http://xrysessyntages.com/syntagi/biskota-me-kanela-ke-mavri-zachari/ 1 1
+http://pasted.co/d4cdd10b 1 1
+http://festyy.com/wJBgB6 1 1
+http://behmusic.org/61339/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%84-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%DB%8C-%D9%85%D8%AF%D8%A7%D9%81%D8%B9%D8%A7/ 1 1
+http://www.gototravelbazaar.com 1 1
+http://www.metacafe.com/videos_about/rx%20zmax/newest/ 1 1
+http://promodj.com/djmajor/promos/6638934/Lesha_Svik_Malinovii_svet_DJ_MAJOR_DJ_Artem_Shustov_Radio_Remix 2 2
+http://petitetinyporn.com 2 2
+http://www.soft-ware.net/pc/audio 1 1
+http://www.luxuo.com/properties/properties-featured/hollywood-penthouse-the-residences-at-the-west-hollywood-edition.html 1 1
+http://amateurhometube.com 1 1
+http://www2.airpura-china.com/www.youtube.com%2Fwatch%3Fv%3D6i2YN_42m_w/guestbook/entry 1 1
+http://5stalker.ru/engine/redirect.php 2 2
+http://promodj.com/dj.gambino/promos/6638483/Dj_Gambino_Sexy_Deep 3 3
+http://hannn246.pixnet.net/blog/post/403210289-%e3%80%90%e5%8f%b0%e5%8c%97%e4%bd%8f%e5%ae%bf%e3%80%91%e5%85%86%e5%9f%ba%e6%97%85%e9%a4%a8-c.c.-hotel-%e7%be%8e%e7%bf%bb%e5%a4%a7%e7%90%86%e7%9f%b3%e6%b5%b4 5 5
+http://promodj.com/dimas-mixon/remixes/2459669/Radio_Killer_feat_Adela_I_Miss_You_Dj_Dimas_Mixon_mash_up11 3 3
+http://promodj.com/djmajor/remixes/6618141/Rasa_Kavabanga_Depo_Kolibri_Vitamin_DJ_MAJOR_Artem_Shustov_Remix 2 2
+http://www.metacafe.com/videos_about/%20keto%20renew%20weight%20loss/newest/ 1 1
+http://assys01.fc2.com/1389 1 1
+http://promodj.com/dimas-mixon/mixes/6612647/Dimas_Mixon_progressive_soul_vol_7 2 2
+http://mexicoanime.com/watch/avatar-la-leyenda-de-aang-libro-fuego-493 1 1
+http://promodj.com/djmajor/remixes/6552366/Dzhigan_feat_Artem_Kacher_DNK_Vladislav_K_Dj_MAJOR_Radio_Remix 2 2
+http://hichemlamine.rigala.net 1 1
+http://www.metacafe.com/videos_about/%20rx%20zmax%20male%20enhancement/newest/ 1 1
+http://festyy.com/wKrLMl 2 2
+http://epikporn.com 1 1
+http://www.tovima.gr/society/article/ 18 18
+http://www.in.gr 1 1
+http://www.minglano.es/frases-para-mi-novia-que-esta-enojada.htm 5 5
+http://www.sghdw.info/azqrdrsloo/EzD8pM0rEIlzeNd/ 1 1
+http://gestyy.com/wYXaen 1 1
+http://promodj.com/dj.gambino/remixes/6607801/V_Etu_Noch_Dj_Tarantino_Dj_Dyxanin_Dj_Gambino_Remix 3 3
+http://promodj.com/dimas-mixon/mixes/6635214/Dimas_Mixon_Trance_is_always_with_us_in_mix2018 3 3
+http://www.psdtemplatesblog.com/page/20/ 2 14
+http://sexpin.ru 1 1
+http://promodj.com/dimas-mixon/remixes/2372853/Serebro_davay_derzhatsya_za_ruki_Dj_Dimas_Mixon_remix 2 2
+http://pasted.co/ade9b414 1 1
+http://housegirls.org 1 1
+http://www.seikotuin-site.info/rank.php 1 1
+http://lormikpromotions.com/portfolio-view/audio-format/ 1 1
+http://hsbnoticias.com/Farandula/video-la-escena-de-sexo-explicito-de-alessandra-ambrosio-par-144631 1 1
+http://www.raisingpet.com/pets-and-people/people-foods-pets-can-eat/ 2 2
+http://www.metacafe.com/videos_about/%20rx%20zmax%20reviews/newest/ 2 2
+http://yt.mmstat.com 10 10
+http://promodj.com/dimas-mixon/radioshows/6619648/Tanzploschadka_8_iyunya_2018_chas_2_Dimas_Mixon_guest_mix_promodj_com 3 3
+http://amigohan.pixnet.net/blog/post/106745396-%5B%E7%A9%BF%E6%90%AD%5D%E5%AF%86%E7%93%9C%E6%95%99%E4%B8%BB%E7%9A%84%E6%99%82%E5%B0%9A%E8%A9%B1%E9%A1%8C%E4%B9%8B2014%E6%98%A5%E5%A4%8F%E6%B5%81%E8%A1%8C%E5%85%83%E7%B4%A0 9 9
+http://247-video.net/embed/top10_ru_dream 4 4
+http://u117945.pixnet.net/blog/post/399697387 1 1
+http://www.hjkljn.info/azqtfmerel/EzD8pM0rEIlzeNd/ 1 1
+http://mexicoanime.com/watch/lupin-iii-part-5-31 1 1
+http://www.luxuo.com/style/watches/swatch-group-leaves-baselworld-its-the-end-of-an-era.html 6 6
+http://www.metacafe.com/videos_about/cognigenx%20clarity%20review/newest/ 3 3
+http://mugtama.com/domestic-social/item/75071-2010.html 1 1
+http://www.gototravelbazaar.com 1 1
+http://www.gdsvg.info/azczixyeve/EzD8pM0rEIlzeNd/ 1 1
+http://zhenshen.top/2018/05/20/best-japanese-girl-momoka-matsuno-risa-tanigawa-riko-tachibana-in-exotic-jav-movie/ 1 1
+http://behmusic.org/40167/%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-%D8%A8%D9%87-%D9%85%D9%88%D8%B2%DB%8C%DA%A9/ 1 1
+http://www.sghdw.info/azxdrfqlsu/EzD8pM0rEIlzeNd/ 1 1
+http://www.tanea.gr/news/greece/article/5596579/syntaraktikh-istoria-afhsa-th-mhtera-moy-na-kaei-eprepe-na-dialeksw-poion-tha-swsw/ 3 3
+http://mp.weixin.qq.com 1 1
+http://www.gemtraffic.com 1 1
+http://www.pagenews.gr/2018/07/21/politiki/alekos-flampouraris-nea-epithesi-sto-spiti-tou/ 4 4
+http://promodj.com/djmajor/remixes/6573007/Ofenbach_Nick_Waterhouse_Shnaps_vs_d3stra_YASTREB_Olmega_Katchi_DJ_MAJOR_Vladislav_K_Mash_up_2k18 2 2
+http://promodj.com/dj.gambino/promos/6635409/Dj_Gambino_Guest_Mix_Without_Voices_Podcast 4 4
+http://www.viagraforsalenz.nu/2016/12/30/viagra-the-most-effective-medication-to-improve-your-sexual-life/ 1 1
+http://promodj.com/djmajor/mixes/6640626/Vladislav_K_Dj_MAJOR_Tech_Mix_Nation_2 2 2
+http://hsbnoticias.com/noticias/vida-moderna/fotos-florencia-cassi-se-bajo-su-sexy-tanga-sobre-la-cama-y-270639 1 1
+http://denatalejewelry.com/__media__/js/netsoltrademark.php 1 1
+http://www.youngteenpornpics.top 1 1
+http://assys01.fc2.com/1407 1 1
+http://shockvideo.xyz 1 1
+http://www.sanyaairport.com/autoweb/airport/airport.do 9 9
+http://prettywhores.info/2018/07/18/asian-twinks-bas-and-saem-barebacking/ 1 1
+http://www.telemetro.com/vidayestilo/pareja/frases-solteras-anos-soportan-escuchar_0_884011882.html 1 1
+https://www.cjb.net 1 1
+http://pinterest.com 1 1
+http://app7998.check-ourbiggestmoney22.loan/3766617842/ 1 1
+http://adbit.rigala.net 2 2
+http://freequesting.info/www.Electroniccigaretteslove.com%2Fpriv-one-kit-freeshipping.html/video/ginger-nausea-menstrual-cramps-irritable-bowel-syndrome/ 1 1
+http://guruofporn.com 2 2
+http://promodj.com/djmajor/remixes/6200143/Jack_U_feat_2_Chainz_Febreze_Vladislav_K_Dj_MAJOR_Mash_Up_2k17 2 2
+http://promodj.com/dj.gambino/remixes/6607776/Black_Dmitriy_Exception_vs_Imran_Rzaeff_Dj_Gambino_Mashup 4 4
+http://www.hqgirlsvids.gdn 1 1
+http://raxsex.com/busty-blonde-chessie-kay-fucks-her-husband/ 1 1
+http://inscripciones.competencias.gob.ec/seguridad/registro 3 3
+http://www.lsgeek.com/hardware/proxmark-pro-proxmark3-standalone-open-source-rfid-tester-video.html 1 1
+http://www.sghdw.info/azpfcsxhzs/EzD8pM0rEIlzeNd/ 1 1
+http://www.metacafe.com/videos_about/cdx%20labs%20cbd%20review/newest/ 2 2
+http://newpuru.doorblog.jp/archives/53894462.html 1 1
+http://www.politicsnews.xyz/nine-us-duck-boat-victims-family-governor/ 5 5
+http://ferbilisim.com.tr 8 8
+http://www.baldwinboneandjoint.com/facebook/show/product/ 1 1
+http://promodj.com/djmajor/remixes/6615326/RASA_Molodim_Dj_MAJOR_Vladislav_K_Roma_Slike_Remix 1 1
+http://www.gonowapps.com/2018/07/cheetah-keyboard.html 2 2
+http://www.metacafe.com/videos_about/cdx%20labs%20cbd%20oil/newest/ 6 6
+http://orgasmlist.com 1 1
+http://behmusic.org/singer/%D9%85%D9%87%D8%AF%DB%8C-%D9%85%D8%AF%D8%B1%D8%B3/ 1 1
+http://promodj.com/djmajor/remixes/6640422/MiyaGi_Captain_DJ_Artem_Shustov_DJ_MAJOR_Radio_Remix 2 2
+http://www.vide-tout-maison-bureau-pas-cher.be/contact.php 1 1
+http://mixer.video.iqiyi.com/jp/mixin/videos/1869108209 1 1
+http://www.sghdw.info/azxtndqvgq/EzD8pM0rEIlzeNd/ 1 1
+http://promodj.com/dimas-mixon/mixes/6624428/Dimas_Mixon_progressive_soul_vol_10 3 3
+http://www.amatureteenpics.com 1 1
+http://down.chinaz.com/soft/34975.htm 2 2
+http://viid.me/qRxR0m 1 1
+http://www.ecuadorlegalonline.com/consultas/agencia-nacional-de-transito/consulta-de-citaciones/ 6 6
+http://scratchdownload.club 1 1
+http://www.ecuadorlegalonline.com/consultas/agencia-nacional-de-transito/valores-a-pagar-por-matricula-matriculacion-vehicular/ 10 10
+http://festyy.com/wKei1j 1 1
+http://kinhtetuanminh.com/sach-quan-tri-quan-he-khach-hang-luu-dan-tho-book4087.html 1 1
+http://bybybicycle.blog.jp/archives/2776443.html 2 2
+http://allforanimals.xyz/truth-dog-years/ 1 1
+http://www.metacafe.com/videos_about/creme%20de%20la%20jolla%20anti%20aging/newest/ 6 6
+http://www.jghkjl.info/azhfjcyrwt/EzD8pM0rEIlzeNd/ 1 1
+http://bestbrandads.com 1 1
+http://mobile.tovima.gr/article.aspx 3 3
+http://www.sghdw.info/azlqmphbbx/EzD8pM0rEIlzeNd/ 1 1
+http://promodj.com/djmajor/remixes/6256527/Clean_Bandit_feat_Sean_Paul_and_Anne_Marie_Rockabye_Vladislav_K_Dj_MAJOR_Remix 2 2
+http://waimai.meituan.com/home/wrr2k1me0ngb 1 1
+http://www.fertibabyceara.com.br/ferbaby-videos/o-que-devo-saber-ao-escolher-adiar-a-gravidez/ 1 1
+http://www.soft-ware.net/pc/video 2 2
+http://www.sghdw.info/azsufypack/EzD8pM0rEIlzeNd/ 1 1
+http://promodj.com/djratek/remixes/6518929/Reel_2_Real_Aquagen_I_Like_To_Blade_It_Dj_Ratek_Master_Bootleg_Mix 1 1
+http://promodj.com/elis.brooklyn/promos/6429073/Elis_Brooklyn_DeepConnect 4 4
+http://www.luxuo.com/motoring/automobile/bugatti-chiron-sky-view-close-to-roofless-bugatti-as-it-gets.html 2 2
+http://mayarlamine.rigala.net 2 2
+http://promodj.com/dimas-mixon/mixes/3805799/Dj_Dimas_Mixon_Ms_Grase_demomix2012 2 2
+http://www.gdsvg.info/azdgioozzz/EzD8pM0rEIlzeNd/ 1 1
+http://promodj.com/dj.gambino/remixes/6624159/Inna_ft_Switch_Off_Hot_Dj_Gambino_Mashup 3 3
+http://www.raisingpet.com/pets-and-people/owners-guide-great-pet-health/ 2 2
+http://clearload.bid/-36721UVQO/2ZkoK 1 1
+http://oregamita.blog.jp/archives/5994246.html 2 2
+http://parts.blog.livedoor.jp/ad/dc_header.html 1 1
+http://promodj.com/dimas-mixon/mixes/6612642/Dimas_Mixon_progressive_soul_vol_6 3 3
+http://promodj.com/djmajor/remixes/6557584/Zomb_XM_Delaem_Fleks_DJ_MAJOR_DJ_ARTM_SHUSTOV_2k18_Radio_Mash_Up 2 2
+http://promodj.com/dj.gambino/promos/6632950/Dj_Gambino_Ultimatum_vol_2 3 3
+http://promodj.com/elis.brooklyn/mixes/6556931/Elis_Brooklyn_DeepConnect_4 4 4
+http://hsbnoticias.com/Farandula/yanet-garcia-la-chica-sexi-del-clima-calienta-instagram-con-359078 1 1
+http://www.metacafe.com/videos_about/radiantly%20slim/newest/ 5 5
+http://videos.gotelugu.com/play/181/'Pata'sala%20-8%20(Nuvvele%20Nuvvele%20from%20Devudu%20Chesina%20Manushulu)%20by%20Lyricist%20Bhaskarabhatla 1 1
+http://wiki.bwfiles.com/index.php 1 1
+http://www.metacafe.com/videos_about/cdx%20labs%20cbd/newest/ 2 2
+http://www.winsite.com/Audio/Music-Management/Crescendo-Plus/ 1 1
+http://app0998.check-johnymoney74.loan/6348625930/ 1 1
+http://24saa.ma/46652.html 1 1
+http://promodj.com/djmajor/remixes/6159115/Rochelle_feat_Kalibwoy_Way_Up_Vladislav_K_Dj_MAJOR_Mash_Up 2 2
+http://viid.me/qRiMy3 1 1
+http://www.forosecuador.ec/forum/ecuador/educaci%C3%B3n-y-ciencia/116562-simulador-de-pruebas-psicom%C3%A9tricas-quiero-ser-maestro-6-ministerio-de-educaci%C3%B3n 1 1
+http://normour.com/r/361ff498-92b9-11e8-9f89-1104b78e0e4c/1/ 1 1
+http://destyy.com/wJ9TOv 1 1
+http://allforanimals.xyz/black-cat-adoption/ 2 2
+http://www.metacafe.com/videos_about/radiantly%20slim%20review/newest/ 2 2
+http://link.tl/1IKYw 1 1
+http://promodj.com/djmajor/remixes/6609496/Rasa_Kavabanga_Depo_Kolibri_Vitamin_DJ_MAJOR_Artem_Shustov_Radio_Remix 2 2
+http://www.gdsvg.info/aznitszrdk/EzD8pM0rEIlzeNd/ 1 1
+http://epaper360.com 10 10
+https://www.download3k.de/DownloadLink4-VisioForge-Video-Edit-ActiveX-Version.html 1 1
+http://pinterest.com 1 1
+http://appsrgv.com/apps/home/1614 1 1
+http://adwiin-music.com/2015/10/20/video-drake-hotline-bling/ 1 1
+http://www.imommy.gr/news/article/12551/h-tragikh-istoria-ths-basilikhs-xeroybeim-poy-kahke-mazi-me-ta-paidia-ths/ 4 4
+http://www.loansfinance.net 2 2
+http://tout-pour-mon-chat.blogspot.com.tr/2011/07/le-laser-pour-chats-jouet-ideal-ou.html 1 1
+http://promodj.com/dj.gambino/promos/6607256/Dj_Gambino_Ultimatum_no_jingles 4 4
+http://www.virgula.com.br/musica/eddie-vedder-e-vaiado-em-show-por-piada-sobre-copa-do-mundo/ 1 1
+http://swatantrakhat.com 1 1
+http://promodj.com/djmajor/remixes/6598528/RASA_Molodim_Dj_MAJOR_Vladislav_K_Roma_Slike_Radio_Remix 2 2
+http://www.raisingpet.com 1 1
+http://www.metacafe.com/videos_about/keto%20renew%20reviews/newest/ 1 1
+http://www.wiffy.in/2018/07/how-to-avoid-mononucleosis.html 1 1
+http://www.fibre-fast.com/__media__/js/netsoltrademark.php 1 1
+http://www.luxurytravelersguide.com/there-are-so-many-things-to-try-and-experience-at-the-dude-ranches/ 1 1
+http://103fm.com.ua/photovideo/photo/view-photo/6/447.html 1 1
+http://www.dvoryanskoe.ru/city/elem,576/ 1 1
+http://www.metacafe.com/videos_about/renown%20skin%20labs/newest/ 1 1
+http://hsbnoticias.com/noticias/vida-moderna/fotos-sexys-garotas-libres-de-zika-despidieron-el-carnaval-d-185300 1 1
+http://www.lavendos.com/eragon/ 2 2
+http://hv-clothing.com 9 9
+http://amigohan.pixnet.net/blog/post/348189061-%E3%80%90%E6%B8%85%E6%BD%94%E3%80%91faith%E5%94%AF%E8%86%9A-%E7%B6%93%E5%85%B8%E5%8D%B8%E5%A6%9D%E5%87%9D%E8%86%A0-cleansing--%EF%BD%9C%E7%94%A8 6 6
+http://www.trang-phuc.com 1 1
+http://promodj.com/dj.gambino/remixes/6635388/MiyaGi_Endshpil_BadaBum_Twenty_Four_DJ_KIRILLICH_Dj_Gambino_Edit 4 4
+http://www.destakjornal.com.br/lifestyle/insider 3 3
+http://freequesting.info/nutritionfacts.org/video/ginger-nausea-menstrual-cramps-irritable-bowel-syndrome/ 1 1
+http://newcelebnews.com/meghan-markle-confirms-father-will-not-attend-royal-wedding/ 1 1
+http://watchmygfvideos.com 1 1
+http://videos.gotelugu.com/play/151/Naa%20Paata%2015%20-Oka%20Chinni%20Navve%20Navvi%20-Ashok 1 1
+http://winsig-hsm.blogspot.com/2008/05/script-high-school-musical.html 1 1
+http://smartfinancialman.com/cash-advance-loans-online-cover-the-cost-of-retailer-price-tricks/ 2 2
+http://www.soku.com/search_video/q_androtestin 1 1
+http://hotels.ctrip.com/hotel/484823.html 1 1
+http://www.sghdw.info/azaunwmcnp/EzD8pM0rEIlzeNd/ 1 1
+http://www.lansingnewsnow.com/story/100648/vidcuratorfx-software-shows-the-ways-to-create-100s-of-traffic-pulling-videos-in-many-niches-with-just-one-click.html 1 1
+http://hvac-hacks.com/hvac-news-2/ 1 1
+http://promodj.com/dimas-mixon/promos/2358225/Dj_Dimas_Mixon_music_in_heart_in_da_mix_2011 4 4
+http://www.searchnz.co.nz/search.aspx 9 9
+http://www.linkbucksmedia.com/f55d82d86ddab28fe2ae/a907a66b40d476709b5c 1 1
+http://promodj.com/dimas-mixon/mixes/6464565/Dimas_Mixon_progressive_soul_vol_2 4 4
+http://promodj.com/dimas-mixon/tracks/6379567/Davidenko_Dimas_Mixon_Nightflight_original 4 4
+http://clearload.bid/-36721DORP/2ZE7j 1 1
+http://promodj.com/djmajor/remixes/6275533/Gribi_Taet_Lyod_DJ_MAJOR_Vladislav_K_Mash_UP_2k17 2 2
+http://festyy.com/wKrLNe 3 3
+http://www.in.gr/2018/07/31/apopsi/ston-syriza-exoun-provlima-tin-eleytheria-tou-typou-ginate-sekiouritate-tou-tsipra/ 1 1
+http://promodj.com/dj.gambino/remixes/6607158/Bicht_better_have_my_money_Dj_Gambino_Mashup 4 4
+http://festyy.com/wO5TI3 1 1
+http://www.worthmovie.com 6 6
+http://www.moebel-webkatalog.de/index.php 2 2
+http://hinterlaces.com/como-hacer-un-debate-politico/ 1 1
+http://inoutonline.com.br/14-dicas-essenciais-para-fazer-uma-promocao-ou-sorteio-no-facebook/ 1 1
+http://www.lettreducadre.fr/9191/videosurveillance-ou-videoprotection-a-chacun-son-opinion/ 1 1
+http://www.competencias.gob.ec/competencia/nivel/4/ 1 1
+http://jorgensenmays95.affiliatblogger.com/9472870/the-nice-video-recreation-crash-of-1983 2 2
+http://www.jghkjl.info/azbfyfdbfc/EzD8pM0rEIlzeNd/ 1 1
+http://promodj.com/djmajor/remixes/6321576/Pakito_Living_On_Video_Vladislav_K_Dj_MAJOR_MashUp_2k17 2 2
+http://earn-money52739.affiliatblogger.com/11632916/little-known-facts-about-videography 1 1
+http://pinkpig.club 1 1
+http://www.gdsvg.info/azatzwbngl/EzD8pM0rEIlzeNd/ 1 1
+http://extremoz.rn.leg.br/institucional/noticias/escola-das-dunas/@@captcha/audio 1 1
+http://promodj.com/djratek/remixes/6497609/Dj_Smash_Moscow_Never_Sleeps_Dj_Ratek_Bootleg 1 1
+http://destyy.com/wJ9QOH 1 1
+http://promodj.com/djratek/mixes/6645346/DJ_RATEK_Summer_Melody_July_2018 1 1
+http://promodj.com/dj.gambino/remixes/6635385/Ligalayz_Buduschie_Mami_Dj_Kosta_Dj_Gambino_Edit_100_128_bmp 2 2
+http://economipedia.com/definiciones/barreras-de-entrada.html 1 1
+http://promodj.com/dj.gambino/remixes/6634693/Timati_Egor_Krid_GUCCI_Dj_Gambino_Mashup 4 4
+http://assys01.fc2.com/1356 1 1
+http://promodj.com/djmajor/remixes/6605973/Feduk_Zakrivai_glaza_DJ_MAJOR_Vladislav_K_Artem_Shustov_Radio_Remix 2 2
+http://promodj.com/djmajor/remixes/6615324/Feduk_Zakrivai_glaza_DJ_MAJOR_Vladislav_K_Artem_Shustov_Remix 1 1
+http://desire-xx.supertop-100.com/index.php 15 15
+http://noidelcalcetto.altervista.org/index.php 1 1
+http://www.fuckhergently.club 3 3
+http://pornoarchive.xyz 2 2
+http://www.imommy.gr/mama/fashion-beauty/article/12577/ta-pente-lathh-poy-kanete-otan-bazete-kragion/ 1 1
+http://promodj.com/djmajor/remixes/6584729/Justin_Timberlake_Sexy_Back_DJ_MAJOR_DJ_ARTEM_SHUSTOV_2k18_Radio_Mash_Up 1 1
+http://aldianews.com/topics/leaders/entrepreneurs/4 1 1
+http://dfcf123456.blogspot.com 1 1
+http://sweeps6284.check-johnymoney92.loan/8874108410/ 1 1
+http://www.metacafe.com/videos_about/julias%20finest/newest/ 3 3
+http://files.cnblogs.com/flydoos/CheckUpdate.css 4 4
+http://www.chilecomparte.cl/foros/topic/1583988-icarly-todas-las-temporadas-audio-latino-hdtv/ 1 1
+http://noticiasnobrasil.info/que-brasil-voce-quer-para-o-futuro-saiba-como-enviar-o-seu-video-2/ 1 1
+http://aldiaonline.com 2 2
+http://promodj.com/likepost/remixes/6559922/Like_Post_feat_Brad_Rock_Love_U_Dual_Frequency_Alvim_Remix 1 1
+http://promodj.com/djmajor/remixes/6573005/Flo_Rida_feat_Maluma_Chester_Young_Hola_DJ_MAJOR_Mash_Up_2k18 2 2
+http://tentaclehentai.net/blog/2018/07/29/hery-095-hanako-love-haruna-love-sweet-sekkyu-hd-720p/ 1 1
+http://www.metacafe.com/videos_about/creme%20de%20la%20jolla%20cream/newest/ 6 6
+http://www.luxuo.com/motoring/automobile/north-america-first-mclaren-senna.html 3 3
+http://promodj.com/djmajor/remixes/6159106/Faustix_feat_Barbara_Moleko_Dont_U_Worry_Vladislav_K_Dj_MAJOR_Mash_Up 2 2
+http://destyy.com/wK0nui 1 1
+http://www.gdsvg.info/azwzvlmxes/EzD8pM0rEIlzeNd/ 1 1
+http://www.heraldscotland.com/news/16379474.clueless-talksport-host-andy-goldstein-says-rangers-are-not-a-massive-club-worldwide-and-theres-no-other-team-but-celtic-in-scotland/ 1 1
+https://www.ad.nl 1 1
+http://www.soku.com/search_video/q_%E5%B7%A5%E4%BA%BA%E5%A4%A7%E9%99%A2 1 1
+http://www.proxyserverlist24.top 2 2
+http://promodj.com/djmajor/remixes/6275531/IOWA_Ulibaysya_DJ_MAJOR_Vladislav_K_Mash_Up 2 2
+http://www.hjkljn.info/azdtewzudc/EzD8pM0rEIlzeNd/ 1 1
+http://promodj.com/djmajor/remixes/6220542/Tove_Lo_Cool_Girl_DJ_MAJOR_2k17_Mash_up 2 2
+http://www.ads1games.com/flash-epilepsy-and-video-games/ 1 1
+http://codednaija.com.ng 1 1
+http://www.to10.gr/podosfero/europa-league/333395/winmasters-gr-evropaiko-taxidi-xekinai-gia-atromito-ke-astera-tripolis/ 1 1
+http://agirlsguidetocars.com/2016-chevy-cruze-made-music-nashville/ 1 1
+http://www.shipssystems.com 5 5
+http://promodj.com/djmajor/remixes/6598552/Jah_Khalib_x_RICH_MAX_Kormashow_Vou_vou_palehche_DJ_MAJOR_DJ_ARTEM_SHUSTOV_2k18_Mash_Up 2 2
+http://www.radiomunicipallatacunga.gob.ec 6 6
+http://waimai.meituan.com/home/wwe28w8mfxyk 1 1
+http://www.metacafe.com/videos_about/creme%20de%20la%20jolla/newest/ 5 5
+http://promodj.com/dj.gambino/promos/6619392/Dj_Gambino_Russian_Popi 3 3
+http://waimai.meituan.com/home/wwe0z00wh9fm 1 1
+http://descary.com/comment-lier-la-section-employeurs-de-votre-profil-a-votre-page-facebook/ 1 1
+http://www.facebook.com/search.php 6 6
+http://www.metacafe.com/videos_about/constant%20concentration/newest/ 3 3
+http://www.hailsham.me.uk/link.asp 1 1
+http://promodj.com/djmajor/remixes/6584723/Grivina_x_Leo_Burn_Alex_Shik_x_Dj_Tarantino_Dj_Dyxanin_Malo_Dj_MAJOR_DJ_ARTEM_SHUSTOV_2k18_Radio_Mash_Up 2 2
+http://www.wiffy.in/2018/07/how-to-act-like-pirate.html 1 1
+http://www.geckogeek.fr/lire-le-flux-dune-webcam-camera-video-avec-opencv.html 1 1
+http://www.ecuadorlegalonline.com/consultas/matriculacion-vehicular/ 9 9
+http://zonaj.net/noticia/1205/2/50-frases-celebres-amistad/ 1 1
+http://promodj.com/djmajor/remixes/6200144/Don_Diablo_feat_Maluca_My_Window_Vladislav_K_Dj_MAJOR_Mash_Up_2k17 1 1
+http://www.metacafe.com/videos_about/%20rx%20zmax%20pills/newest/ 4 4
+http://www.dx.com/en/extremedeals 1 1
+http://www.hitzunlimitedradio.com 2 2
+http://promodj.com/djmajor/remixes/6566123/Flo_Rida_feat_Maluma_Chester_Young_Hola_DJ_MAJOR_Radio_Mash_Up_2k18 2 2
+http://www.thefeedme.com/2018/07/how-to-be-lovely.html 1 1
+http://behmusic.org/wp-content/cache/autoptimize/css/autoptimize_e4ed6a0cf363be443101a2aeeeb18e88.css 5 5
+http://www.thefeedme.com/2018/07/how-to-be-productive.html 1 1
+http://hsbnoticias.com/noticias/vida-moderna/video-jack-nicholson-regresara-al-cine-para-hacer-la-version-274257 1 1
+http://www.dailymail.co.uk/news/article-5327487/Soldiers-postcard-arrives-schools-post-100-years-on.html 1 1
+http://cheers090.pixnet.net/blog/post/348263914-%E6%97%A5%E6%9C%AC%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6%EF%BC%8C%E9%81%8A%E6%97%A5%E5%B0%8F%E5%9E%8B%E5%9C%98%E5%B0%88%E5%B1%AC%E4%BD%8F%E5%AE%BF%E9%87%91%E6%BE%A4%E6%BA%AB%E9%A6%A8 7 7
+http://www.ferracinitienda.cl/catalogo 1 1
+http://Musical-Light-Plane.flashgamesplayer.com 1 1
+http://www.orbita-tver.ru/item/gta_na_telefon_skachat_nokia_x200.php 1 1
+http://nap-sack.org/forums/topic/816/fifa-17-official-music-list/view/post_id/1629 1 1
+http://youtube.morewap.com.ng/video-view/WMiaR6EFDGs/abogados-accidentes-de-auto-en-los-angeles.html 1 1
+http://openhousemouse.com/__media__/js/netsoltrademark.php 1 1
+http://www.intercambiosvirtuales.org/juegos/microsoft-flight-simulator-x-deluxe-edition-espanol-pc-game 1 1
+http://promodj.com/djmajor/mixes/6242215/DJ_MAJOR_For_the_Ladies_DEEP_HOUSE_MIX 2 2
+http://www.sofilmeshd.net/torrent-como-treinar-o-seu-dragao-2-web-dl-720p-e-1080p-dual-audio-2014/ 1 1
+http://www.casaparatodos.gob.ec 1 1
+http://promodj.com/djmajor/remixes/6144504/Alisha_Pillay_Mayday_Vladislav_K_Dj_MAJOR_Mash_Up 2 2
+http://www.elcomercio.com/actualidad/operadoras-transporte-logros-seguridadvial-ecuador.html 8 8
+http://promodj.com/djmajor/mixes/6452155/DJ_MAJOR_DeepMixNation_2_October 2 2
+http://www.netimaj.com 1 1
+http://ubajarainfoco.com.br/2016/09/28/as-vesperas-das-eleicoes-municipais-esquema-de-fraude-em-pesquisas-eleitorais-no-ceara-e-revelado-em-audio/ 1 1
+http://techrena.net/googl-youtube-url-shorteners/ 2 2
+http://www.metacafe.com/videos_about/julia%27s%20finest%20anti%20wrinkle%20cream/newest/ 3 3
+http://jpsex100.xyz/index.php/2018/07/21/asian-girl-with-big-tits/ 1 1
+http://radio104.com.br/henrique-e-juliano-divulgam-primeiro-video-do-novo-dvd/ 1 1
+http://down.chinaz.com/soft/38052.htm 7 7
+http://www.imommy.gr/deco-ideas/article/12534/apisteytes-metamorfwseis-xwrwn-prin-kai-meta/ 1 1
+http://adultamateurtube.com 1 1
+http://www.sghdw.info/azfzacokhm/EzD8pM0rEIlzeNd/ 1 1
+http://elcalce.com/pr/tendencias/frases-tipicas-de-una-mujer-enojada/ 4 4
+http://www.sghdw.info/azpgpndkiz/EzD8pM0rEIlzeNd/ 1 1
+https://www.facebook.com/gameswelt/ 1 2
+http://traffictobitcoin.yoo7.com 1 1
+http://www.copypastesymbol.com 1 1
+http://img.dxcdn.com/combo/global/v5.3.7/css/ 1 1
+http://promodj.com/djmajor/remixes/6598553/Justin_Timberlake_Sexy_Back_DJ_MAJOR_DJ_ARTEM_SHUSTOV_2k18_Mash_Up 2 2
+http://mugtama.com/misc/item/75042-2018-07-30-14-27-59.html 1 1
+http://jay-webmarketing.com.ln.is/url/go/ 1 1
+http://www.wehave.tech 1 1
+http://promodj.com/djmajor/remixes/6584727/Jah_Khalib_x_RICH_MAX_Kormashow_Vou_vou_palehche_DJ_MAJOR_DJ_ARTEM_SHUSTOV_2k18_Radio_Mash_Up 2 2
+http://mexicoanime.com/watch/ghost-in-the-shell-arise-alternative-architecture-623 1 1
+http://blog.naver.com/2016apple83 7 7
+http://www.ecuadorlegalonline.com/transito/consultar-multas-cte/ 1 1
+http://www.imommy.gr/vrefos/frontida/article/12587/pote-mporw-na-parw-to-mwro-moy-eksw/2134 7 7
+http://newpuru.doorblog.jp 1 1
+http://promodj.com/dimas-mixon/mixes/6633321/Dimas_Mixon_progressive_soul_vol_12 4 4
+http://promodj.com/dimas-mixon/mixes/6642196/Dimas_Mixon_progressive_soul_vol_14 3 3
+http://www.metalbuildingsonline.com/__media__/js/netsoltrademark.php 2 2
+http://www.blogger.com/comment.g 1 1
+http://www.wiffy.in/2018/07/how-to-be-cool-and-popular-in-sixth.html 1 1
+http://www.fshfs.info/azaqtbvvab/EzD8pM0rEIlzeNd/ 1 1
+http://www.jghkjl.info/azofpssogv/EzD8pM0rEIlzeNd/ 1 1
+http://promodj.com/djmajor/remixes/6200139/Akon_Chris_Brown_Moon_walk_Vladislav_K_Dj_MAJOR_Mash_Up_2k17 2 2
+http://www.optimaitalia.com/blog/2018/06/11/ritorno-di-fiamma-per-justin-bieber-e-hailey-baldwin-definitivo-laddio-a-selena-gomez-video/1139469 1 1
+http://avodaily.com/7-sites-where-you-can-download-free-music-legally/ 1 1
+http://www.cifrovik.ru/redirect/ 5 5
+http://www.metacafe.com/videos_about/julia%27s%20finest%20cream%20review/newest/ 4 4
+http://www.metacafe.com/videos_about/%20keto%20renew%20diet%20pills/newest/ 1 1
+http://promodj.com/dimas-mixon/mixes/6618032/Dimas_Mixon_progressive_soul_vol_8 4 4
+http://www.jghkjl.info/azudlrsaay/EzD8pM0rEIlzeNd/ 1 1
+http://parts.blog.livedoor.jp/css/lite2/common.css 6 6
+http://www.fshfs.info/aziziarfbp/EzD8pM0rEIlzeNd/ 1 1
+http://promodj.com/dimas-mixon/mixes/6635065/Dimas_Mixon_progressive_soul_vol_13 4 4
+http://hotelgeulisbandung.com/librari/share/index.php 2 2
+http://promodj.com/djmajor/remixes/6573004/Camila_Cabello_feat_Young_Thug_Lis_Hot_Loud_Havana_DJ_MAJOR_Mash_Up_2k18 2 2
+http://promodj.com/dimas-mixon/mixes/2484797/Dj_Dimas_Mixon_In_Summer_On_The_Sea_in_mix2011 3 3
+http://oregamita.blog.jp/archives/9186456.html 1 1
+http://www.sghdw.info/azxluzlofv/EzD8pM0rEIlzeNd/ 1 1
+https://www.download3k.de/DownloadLink5-VisioForge-Video-Edit-ActiveX-Version.html 1 1
+http://teentubecam.com 9 9
+http://noahglobal.net/area%20highlights.htm 1 1
+http://www.thefeedme.com/2018/07/how-to-avoid-contributing-to-traffic.html 1 1
+http://promodj.com/djmajor/remixes/6448885/Eldzhey_Rvanie_dzhinsi_DJ_MAJOR_26_VLADISLAV_K_Mash_Up 2 2
+http://destyy.com/wKweWX 1 1
+http://down.chinaz.com/soft/36673.htm 5 5
+http://promodj.com/djmajor/radioshows/6575684/Sergey_Raf_Techcolor_007_Dj_MAJOR_Guest_Mix_Record_Minimal_Tech_04_04_2018 2 2
+http://www.trang-phuc.com 1 1
+http://www.ecuadorlegalonline.com/denuncias/denuncia-perdida-de-documentos/ 2 2
+http://www.zs-antikeuhren.de/jump.php 1 1
+http://www.sghdw.info/azafyrwdec/EzD8pM0rEIlzeNd/ 1 1
+http://adultvirtualworlds.net 6 6
+http://www.politicsnews.xyz/14-migrant-children-reunited-us/ 3 3
+http://engi.pw/bGIjb 1 1
+http://www.clothing-marketing.com 1 2
+http://theblogwidgets.com/2013/08/facebook-popup-widget-with-lightbox.html 1 1
+http://www.fshfs.info/azdxzbnnaw/EzD8pM0rEIlzeNd/ 1 1
+http://24saa.ma/46664.html 1 1
+http://promodj.com/djmajor/remixes/6566126/Ofenbach_Nick_Waterhouse_Shnaps_vs_d3stra_YASTREB_Olmega_Katchi_DJ_MAJOR_Vladislav_K_Radio_Mash_up_2k18 2 2
+http://centralsiteweb.com 1 1
+http://www.metacafe.com/videos_about/%20new%20you%20wrinkle%20cream%20reviews/newest/ 1 1
+http://destyy.com/wK0bVg 2 2
+http://infar.be/index.php 1 1
+http://t.sharethis.com/a/t_.htm 2 2
+http://festyy.com/wJBgB3 2 2
+http://servicios.comisiontransito.gob.ec/app_citaciones_consulta/ 3 3
+http://www.forexaty.com 1 1
+http://www.nusp2.id/berita/detail/video-profil-kementerian-pekerjaan-umum-dan-perumahan-rakyat 1 1
+http://waimai.meituan.com/home/wrr2hyf2c8tu 1 1
+http://www.ubp.edu.ar/carreras/ 1 1
+http://www.teenpron.club 2 2
+http://ferbilisim.com.tr 5 5
+http://www.luxuo.com/the-lux-list/the-lux-list-featured/pat-mcgrath-labs-is-really-worth-1-billion.html 4 4
+http://www.ecuadorlegalonline.com/consultas/agencia-nacional-de-transito/consultar-a-quien-pertenece-un-vehiculo-por-placa-ant/ 2 2
+http://mexicoanime.com/watch/komori-san-wa-kotowarenai-544 1 1
+http://www.veoh.com/find/ 4 4
+http://7anime.net/watch/naruto-season-2-33 1 1
+http://promodj.com/dimas-mixon/mixes/6627763/Dimas_Mixon_progressive_soul_vol_11 3 3
+http://newcelebnews.com/20-ways-spoil-bestie-national-best-friend-day-2018/ 1 1
+http://www.thaiload.com/fb/src/Facebook/Authentication/mod_filezipr.php 1 1
+http://www.sex-planet.pw 2 2
+http://clkmein.com/q9dZrW 1 1
+http://sextubenetwork.com 1 1
+http://robthebookies.com 2 2
+http://promotycoon.com 1 1
+http://destyy.com/wK0nut 1 1
+http://videos.gotelugu.com/play/175/'Pata'sala%20-15%20(Kajalu%20Chelliva%20from%20Balupu)%20by%20Lyricist%20Bhaskarabhatla 1 1
+http://www.edownload.cz/sw/123-flash-chat-server/download/ 1 1
+http://www.metacafe.com/videos_about/radiantly%20slim%20diet/newest/ 2 2
+http://promodj.com/djmajor/remixes/6542832/Elena_Temnikova_Vdoh_Vladislav_K_Dj_MAJOR_Radio_Remix 2 2
+http://www.jghkjl.info/azdlwosjvj/EzD8pM0rEIlzeNd/ 1 1
+http://www.jerseymujeres.com 1 1
+http://jay-webmarketing.com.ln.is 1 1
+http://festyy.com/wFCvbo 1 1
+http://www.gdsvg.info/azmfnvmttp/EzD8pM0rEIlzeNd/ 1 1
+http://www.luxurytravelersguide.com 1 1
+http://sweeps0303.check-johnymoney60.loan/8940626070/ 1 1
+http://www.videosessolibero.com/videoperadultigratis3-Pagina6/Bionda.html 1 1
+http://telugu.telugujournalist.com/category/reviews/page/1/ 2 2
+http://eroticpics.pw/tgp.php 1 1
+http://hessgay26.amoblog.com/is-there-a-doctor-who-time-warfare-audio-8398155 1 1
+http://promodj.com/djmajor/remixes/6566802/Dzhigan_feat_Artem_Kacher_DNK_Vladislav_K_Dj_MAJOR_Remix 2 2
+http://tidal.com/us/store/album/68818332 1 1
+http://promodj.com/dimas-mixon/promos/2432528/Dj_Dimas_Mixon_demo_mix2010_11 2 2
+http://www.thefeedme.com/2018/07/how-to-back-up-mac.html 1 1
+http://beyondearth.eu/__media__/js/netsoltrademark.php 1 1
+http://www.luxuo.com/style/watches/girard-perregaux-laureato-summer-edition-2018.html 4 4
+http://photogallery.spectrumphotographic.com/main.php 1 1
+http://promodj.com/djmajor/remixes/6169405/Fly_Project_Mandala_Vladislav_K_Dj_MAJOR_Mash_Up_2k17 2 2
+http://whatdidudo.co.za/gallery.html 1 1
+http://www.amgbet11.com 1 1
+http://widgets.jotform.io/socialShare/min/styles.min.css 1 1
+http://ceesty.com/wKuXzo 1 1
+http://www.herbsadvisor.com/natural-health/look-refreshing-summer-wine-besides-color-pink/ 2 2
+http://www.metacafe.com/videos_about/julia%27s%20finest%20cream/newest/ 3 3
+http://www.winxfan.su/blog/fita259/1-added-blaster-all-their-head-also-advised-all-apply-watch-kim-kardashian-full-sex-tap 1 1
+http://www.metacafe.com/videos_about/cdx%20labs%20cannabinol%20isolate/newest/ 4 4
+http://www.filikula.online 1 1
+http://www.gdsvg.info/azxuqaaibd/EzD8pM0rEIlzeNd/ 1 1
+http://promodj.com/djmajor/remixes/6275519/Dr_Dre_Snoop_Dogg_The_Next_Episode_DJ_MAJOR_Vladislav_K_MASH_UP 2 2
+http://www.gdsvg.info/azqmqohmde/EzD8pM0rEIlzeNd/ 1 1
+http://www.alumat.com.tr 1 1
+http://www.hjkljn.info/azecdxnwtg/EzD8pM0rEIlzeNd/ 1 1
+http://newcelebnews.com/nick-jonas-priyanka-chopra-went-double-date-joe-jonas-sophie-turner/ 1 1
+http://prize3666.check-faustmoney19.loan/6868787239/ 1 1
+http://ucuystore.blogspot.com/2015/08/daftar-laptop-asus-harga-3-jutaan.html 1 1
+http://mobile.tanea.gr/Article.aspx 6 6
+http://housegirls.org/2018/05/12/realitykings-mike-in-brazil-roge-ferro-samira-ferraz-rock-hard-ass-2/ 1 1
+http://www.gdsvg.info/azgxnycped/EzD8pM0rEIlzeNd/ 1 1
+http://www.phoenixnewtimes.com/profile/mobileSubscribe 1 1
+http://www.raisingpet.com 1 1
+http://www.metacafe.com/videos_about/julia%27s%20finest/newest/ 5 5
+http://weio851015.pixnet.net/blog/post/403229066-%5B%E6%B2%90%E6%B5%B4%E6%96%B0%E9%AB%94%E9%A9%97%5D-kustie%E8%94%BB%E6%96%AF%E6%B1%80%E8%8A%B1%E7%93%A3%E6%B2%90%E6%B5%B4%E9%9C%B2%E2%9D%A4%E5%84%AA%E9%9B%85%E6%B8%85 6 6
+http://www.localsnapsext.com/25885/ 1 1
+http://freshnudes.supertop-100.com/index.php 4 4
+http://obutecodanet.ig.com.br/index.php/2018/01/30/seria-esse-o-peixe-cobra-veja-o-video/ 1 1
+http://www.metacafe.com/videos_about/sphere%20labs/newest/ 2 2
+http://akajona.com/Fun_With_Italian_Charm_Bracelets 1 1
+http://www.ecuadorlegalonline.com/consultas/agencia-nacional-de-transito/pago-de-matricula/ 1 1
+http://promodj.com/djmajor/remixes/6187255/Fergie_M_I_L_F_DJ_MAJOR_2k17_mash_up 1 1
+http://promodj.com/dj.gambino/remixes/6635426/Dr_Dre_The_Next_Episode_Dj_Gambino_Edit 3 3
+http://reward9812.check-faustmoney13.loan/7234107849/ 1 1
+http://www.youngteenlove.com 2 2
+http://www.forosecuador.ec/forum/aficiones/autos-y-motos/9245-consulta-pago-de-matr%C3%ADcula-vehicular-2018-consulta-valor-2018-sri 1 1
+http://smartfinancialman.com/tag/flood-damage/ 2 2
+http://promodj.com/djmajor/remixes/6566118/Camila_Cabello_feat_Young_Thug_Lis_Hot_Loud_Havana_DJ_MAJOR_Radio_Mash_Up_2k18 2 2
+http://www.metacafe.com/videos_about/%20constant%20concentration%20ingredients%20/newest/ 3 3
+http://yesmiss.com/__media__/js/netsoltrademark.php 1 1
+http://www.institutochicoxavier.org.br/homossexualidade-do-livro-vida-e-sexo-emmanual-pela-psicografia-de-chico-xavier-capitulo-21/ 1 1
+http://www.thewebthemes.com 3 3
+http://videos.gotelugu.com/play/36/Telangana%20Chicken%20curry%20-Easy%20Method 1 1
+http://www.gdsvg.info/azgkrlxzit/EzD8pM0rEIlzeNd/ 1 1
+http://www.gatherproxy.com 4 4
+http://mexicoanime.com/watch/sword-art-online-alternative-gun-gale-online-25 1 1
+http://api.geetest.com/ajax.php 16 16
+http://viralvideos.technology/Campaign/V818/ 2 2
+http://promodj.com/djmajor/remixes/6193999/Irakli_i_Leonid_Rudenko_Muzhchina_Ne_Tancuet_DJ_MAJOR_Vladislav_K_Mash_up 1 1
+http://www.ecuadorlegalonline.com/consultas/secretaria-movilidad-quito/consultar-historial-de-revision-vehicular/ 1 1
+http://api-t.iqiyi.com/qx_api/comment/get_video_comments 2 2
+http://promodj.com/kostya.funk/mixes/6644621/Retro_diskoteka_KOSTYA_FUNK_MIX 2 2
+http://www.gdsvg.info/aztnmmwgjg/EzD8pM0rEIlzeNd/ 1 1
+http://www.ecuadorlegalonline.com/consultas/agencia-nacional-de-transito/consulta-de-multas-por-placa/ 18 18
+http://api.geetest.com/get.php 12 12
+http://cutemodels.co 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 58
+%5eba5%5exdm497%5elmesla%5eec 76
+join+now+to+promote+your+business+find+partners+build+relationships+and+reconnect+with+community.+sync+with+facebook+twitter+email+sms+and+more 20
+pere 15
+all 6
+url+internetov%e9+str%e1nky+zanechat+koment%c3%a1%c5%99+isomorph 6
+join+now+to+promote+your+business+find+partners+build+relationships+and+reconnect+with+community.+sync+with+facebook+twitter+email+sms+and+more+onward 4
+home+videos+playlists+categories+community+photos+stories+adultflickscript+video+sitemap 3
+%5ey6%5expt804%5elmes%5eec 3
+amazon%e3%83%9e%e3%83%b3%e3%82%ac 3
+%e9%9b%bb%e5%ad%90%e6%9b%b8%e7%b1%8d 2
+%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%83%9e%e3%83%b3%e3%82%ac 2
+created+their+profile.+stream+blog+posts+photos+videos+followers+following 2
+ebookjapan 2
+users+can+communicate+using+quick+status+updates+of+160+characters+or+less.+this+free+flowing+dialogue+lets+you+send+messages+pictures+and+video+to+anyone 2
+powered+by+michatronic.de+spyware+loc+ie 1
+toyota+rush+2019+join+our+fast-growing+community.+find+new+friends+date+up+share+photo+and+video. 1
+popular+tags+recently+viewed+videos+new+videos+categories 1
+url+internetov%e9+str%e1nky+zanechat+koment%c3%a1%c5%99+virginity 1
+enter+word+verification+in+box+below+guestbook+sex 1
+site+.edu+html+code+is+displayed+as+text+sex+powered+by+dotclear 1
+this+site+uses+keywordluv.+musicale 1
+join+now+to+promote+your+business+find+partners+build+relationships+and+reconnect+with+community.+sync+with+facebook+twitter+email+sms+and+more+rooibos+tea+reviews 1
+%e3%83%9e%e3%83%b3%e3%82%ac%e3%81%8a%e3%81%99%e3%81%99%e3%82%81 1
+this+site+uses+keywordluv.+videotape+loc+nz 1
+create+your+own+group+or+join+others+share+your+photos+and+videos 1
+zanechat+koment%c3%a1%c5%99+hanna+url+internetov%e9+str%e1nky 1
+powered+by+michatronic.de 1
+ovarico+cancro+tumore+-+ivaluehealth.net 1
+pleated+skirt 1
+most+recent+videos+videos+being+watched+not+a+member+yet%3f+sign+up+now 1
+user+videos+people+have+watched+recent+badges+about+this+qhub+user+information+videos+watched+x+loc+us 1
+audiology+%ec%9d%b4%eb%a6%84%2f%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8%eb%a1%9c+%ea%b8%80%ec%93%b0%ea%b8%b0+uri+non-public 1
+zanechat+koment%c3%a1%c5%99+guys+url+internetov%e9+str%e1nky 1
+zanechat+koment%c3%a1%c5%99+url+internetov%e9+str%e1nky+hurricane+loc+mt 1
+share+your+photos+and+videos+create+your+own+group+or+join+others 1
+regarding+audio+visual+startseite+%3e+weblogs+%3e+weblog+von 1
+\xc3\x98\xc2\xb1\xc3\x98\xc2\xac\xc3\x98\xc2\xa7\xc3\x99\xc2\x84\xc3\x99\xc2\x8a+\xc3\x98\xc2\xb3\xc3\x98\xc2\xaa\xc3\x98\xc2\xb1\xc3\x98\xc2\xa7\xc3\x98\xc2\xaa 1
+this+site+uses+keywordluv.+chateau 1
+%e9%9b%bb%e5%ad%90%e3%83%9e%e3%83%b3%e3%82%ac 1
+profile+videos+pictures+audios+channels+comments+favorites+subscribers+friends+loc+us 1
+site+.biz+created+their+profile.+stream+blog+posts+photos+videos+followers+following+necesitar 1
+zanechat+koment%c3%a1%c5%99+url+internetov%e9+str%e1nky+ellis 1
+\xc3\x99\xc2\x86\xc3\x98\xc2\xb3\xc3\x98\xc2\xa7\xc3\x98\xc2\xa1+\xc3\x98\xc2\xa3\xc3\x98\xc2\xb3\xc3\x99\xc2\x81\xc3\x99\xc2\x84+\xc3\x99\xc2\x85\xc3\x98\xc2\xb9\xc3\x98\xc2\xb7\xc3\x99\xc2\x81 1
+schizofrenii+choroby+psychiczne+-+ivaluehealth.net 1
+akute+nebennierenkrise+-+ivaluehealth.net 1
+\xc3\x98\xc2\xa7\xc3\x99\xc2\x84\xc3\x99\xc2\x85\xc3\x99\xc2\x86\xc3\x98\xc2\xb2\xc3\x99\xc2\x84+\xc3\x99\xc2\x88\xc3\x98\xc2\xa7\xc3\x99\xc2\x84\xc3\x98\xc2\xad\xc3\x98\xc2\xaf\xc3\x99\xc2\x8a\xc3\x99\xc2\x82\xc3\x98\xc2\xa9+\xc3\x99\xc2\x88\xc3\x98\xc2\xb3\xc3\x98\xc2\xa7\xc3\x98\xc2\xaf\xc3\x98\xc2\xa9+\xc3\x98\xc2\xa7\xc3\x99\xc2\x84\xc3\x99\xc2\x82\xc3\x98\xc2\xb6\xc3\x99\xc2\x8a\xc3\x98\xc2\xa9 1
+commerce+zanechat+koment%c3%a1%c5%99+url+internetov%e9+str%e1nky 1
+site+.gov+join+our+fast-growing+community.+find+new+friends+date+up+share+photo+and+video.+avoid+additional+wrinkles 1
+view+slideshow+submit+a+comment+for+this+photo+spyware+loc+in 1
+procentra+-+ivaluehealth.net 1
+site+.com+add+comment+powered+by+lifetype+sex 1
+users+can+communicate+using+quick+status+updates+of+160+characters+or+less.+powered+by+phoca+guestbook+d+this+free+flowing+dialogue+lets+you+send+messages+pictures+and+video+to+anyone 1
+create+your+own+group+or+join+others+share+your+photos+and+videos+loc+bh 1
+www.wallinpaper.net%2fsitemap-pages%2f361.xml 1
+%e3%83%9e%e3%83%b3%e3%82%ac 1
+centro+de+matriculacion+vehicular+salcedo 1
+site+.biz+this+free+flowing+dialogue+lets+you+send+messages+pictures+and+video+to+anyone+users+can+communicate+using+quick+status+updates+of+160+characters+or+less. 1
+act%3dtrackback+trackback+loft+conversion+essex+uk 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 225
+%5eba5%5exdm497%5elmesla%5eec 76
+and 59
+with 50
+your 31
+join 30
+to 29
+community. 27
+find 27
+now 26
+reconnect 25
+twitter 25
+sync 25
+relationships 25
+more 25
+sms 25
+facebook 25
+promote 25
+business 25
+partners 25
+build 25
+email 25
+videos 16
+pere 15
+zanechat 12
+str%e1nky 12
+flowing 4
+loft 1
+2019 1
+comments 1
+all 6
+posts 3
+ellis 1
+bh 1
+recent 2
+x 1
+anyone 4
+in 2
+viewed 1
+%e3%83%9e%e3%83%b3%e3%82%ac%e3%81%8a%e3%81%99%e3%81%99%e3%82%81 1
+home 3
+for 1
+qhub 1
+using 4
+following 3
+von 1
+dotclear 1
+michatronic.de 2
+most 1
+nebennierenkrise 1
+regarding 1
+.edu 1
+us 2
+quick 4
+new 3
+their 3
+date 2
+necesitar 1
+cancro 1
+others 3
+stream 3
+or 7
+mt 1
+playlists 3
+pleated 1
+weblog 1
+weblogs 1
+send 4
+.biz 2
+ie 1
+psychiczne 1
+%e3%83%9e%e3%83%b3%e3%82%ac 1
+reviews 1
+hurricane 1
+fast-growing 2
+.gov 1
+loc 7
+isomorph 6
+stories 3
+is 1
+procentra 1
+de 1
+centro 1
+\xc3\x98\xc2\xb1\xc3\x98\xc2\xac\xc3\x98\xc2\xa7\xc3\x99\xc2\x84\xc3\x99\xc2\x8a 1
+uses 3
+avoid 1
+ivaluehealth.net 4
+onward 4
+internetov%e9 12
+rush 1
+sitemap 3
+code 1
+- 4
+rooibos 1
+can 4
+audiology 1
+you 4
+profile 1
+ovarico 1
+%3e 2
+user 2
+displayed 1
+adultflickscript 3
+nz 1
+musicale 1
+being 1
+characters 4
+ebookjapan 2
+text 1
+.com 1
+create 3
+audios 1
+subscribers 1
+recently 1
+d 1
+up 3
+communicate 4
+below 1
+%e9%9b%bb%e5%ad%90%e6%9b%b8%e7%b1%8d 2
+koment%c3%a1%c5%99 12
+non-public 1
+tumore 1
+profile. 3
+not 1
+people 1
+\xc3\x98\xc2\xa3\xc3\x98\xc2\xb3\xc3\x99\xc2\x81\xc3\x99\xc2\x84 1
+sign 1
+act%3dtrackback 1
+pictures 5
+group 3
+submit 1
+by 5
+box 1
+html 1
+\xc3\x98\xc2\xb3\xc3\x98\xc2\xaa\xc3\x98\xc2\xb1\xc3\x98\xc2\xa7\xc3\x98\xc2\xaa 1
+160 4
+own 3
+photos 9
+add 1
+schizofrenii 1
+video 7
+akute 1
+chateau 1
+www.wallinpaper.net%2fsitemap-pages%2f361.xml 1
+uk 1
+share 5
+a 2
+powered 5
+status 4
+phoca 1
+toyota 1
+users 4
+slideshow 1
+\xc3\x98\xc2\xa7\xc3\x99\xc2\x84\xc3\x99\xc2\x85\xc3\x99\xc2\x86\xc3\x98\xc2\xb2\xc3\x99\xc2\x84 1
+community 3
+videotape 1
+messages 4
+comment 2
+choroby 1
+%5ey6%5expt804%5elmes%5eec 3
+skirt 1
+amazon%e3%83%9e%e3%83%b3%e3%82%ac 3
+virginity 1
+this 9
+yet%3f 1
+channels 1
+blog 3
+have 1
+additional 1
+essex 1
+url 12
+lifetype 1
+startseite 1
+visual 1
+favorites 1
+free 4
+photo 3
+\xc3\x99\xc2\x88\xc3\x98\xc2\xb3\xc3\x98\xc2\xa7\xc3\x98\xc2\xaf\xc3\x98\xc2\xa9 1
+trackback 1
+badges 1
+matriculacion 1
+less. 4
+uri 1
+created 3
+information 1
+of 4
+as 1
+salcedo 1
+video. 2
+wrinkles 1
+guys 1
+keywordluv. 3
+%ec%9d%b4%eb%a6%84%2f%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8%eb%a1%9c 1
+our 2
+enter 1
+popular 1
+member 1
+%ea%b8%80%ec%93%b0%ea%b8%b0 1
+verification 1
+conversion 1
+view 1
+tea 1
+\xc3\x99\xc2\x85\xc3\x98\xc2\xb9\xc3\x98\xc2\xb7\xc3\x99\xc2\x81 1
+\xc3\x99\xc2\x86\xc3\x98\xc2\xb3\xc3\x98\xc2\xa7\xc3\x98\xc2\xa1 1
+dialogue 4
+followers 3
+updates 4
+site 8
+vehicular 1
+guestbook 2
+word 1
+commerce 1
+\xc3\x99\xc2\x88\xc3\x98\xc2\xa7\xc3\x99\xc2\x84\xc3\x98\xc2\xad\xc3\x98\xc2\xaf\xc3\x99\xc2\x8a\xc3\x99\xc2\x82\xc3\x98\xc2\xa9 1
+%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%83%9e%e3%83%b3%e3%82%ac 2
+\xc3\x98\xc2\xa7\xc3\x99\xc2\x84\xc3\x99\xc2\x82\xc3\x98\xc2\xb6\xc3\x99\xc2\x8a\xc3\x98\xc2\xa9 1
+%e9%9b%bb%e5%ad%90%e3%83%9e%e3%83%b3%e3%82%ac 1
+audio 1
+hanna 1
+categories 4
+tags 1
+lets 4
+sex 3
+watched 3
+about 1
+spyware 2
+friends 3
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 81 2611882
+404 54729 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 195
+/img-sys/contentbox.jpg 1 http://epmc.gob.ec/cgi-sys/suspendedpage.cgi
+/templates/epmc2017ver03/images/system/printButton.png 1 -
+/index.php/transparencia/2015 2 -
+/index.php/component/banners/click/12 3 -
+/index.php/component/users/ 5 -
+/media/system/js/core.js 11 http://www.epmc.gob.ec/index.php/ser/gtra/matri
+/index.php/component/banners/click/11 3 -
+/index.php/80-nove/79-infor 1 -
+/media/system/js/caption.js 9 http://www.epmc.gob.ec/index.php/quienes-somos
+/templates/epmc/css/template.min.css 3 http://epmc.gob.ec/index.php/77-deapartamentos/71-transparencia
+/media/system/js/modal.js 1 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+/assets/css/font-awesome.min.css 20 http://www.epmc.gob.ec/
+/templates/beez5/css/layout.css 1 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/modules/mod_phocagallery_slideshow_floom/javascript/floom.js 7 http://epmc.gob.ec/index.php/login
+/index.php/component/banners/click/7 1 -
+/index.php/quienes-somos/80-nove/75-nuevodier 1 -
+/templates/beez5/javascript/hide.js 1 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/templates/beez5/css/general.css 1 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/templates/epmc/css/bootstrap.min.css 3 http://epmc.gob.ec/index.php/77-deapartamentos/71-transparencia
+/wp//wp-login.php 5 -
+/index.php/quienes-somos 2 -
+/index.php/quienes-somos/80-nove 5 -
+/wordpress//wp-login.php 5 -
+/assets/js/jquery.cslider.js 36 http://www.epmc.gob.ec
+/templates/beez5/css/position.css 1 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/assets/js/modernizr-latest.js 27 http://www.epmc.gob.ec
+/components/com_phocadownload/assets/phocadownloadrating.css 1 http://epmc.gob.ec/index.php/transparencia/category/11-formularios
+/index.php/transparencia/2017 2 -
+/templates/epmc2017/jquery.js 4 http://www.epmc.gob.ec/index.php/ser/gt
+/modules/mod_slideshowck/assets/jquery.easing.1.3.js 1 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+/ 53271 http://www.elcomercio.com/actualidad/entrega-placas-retrasos-municipios-ecuador.html
+/index.php/component/banners/click/6 1 -
+/index.php/inicio/mv 4 -
+/components/com_phocadownload/assets/phocadownload.css 1 http://epmc.gob.ec/index.php/transparencia/category/11-formularios
+/templates/epmc/jquery.js 6 http://www.epmc.gob.ec/index.php/component/mailto/
+/user/register/ 1 -
+/index.php/servicios 2 -
+/index.php/ser/gtra/sv 3 -
+/media/mod_rssocial/js/jquery-migrate.js 11 http://epmc.gob.ec/index.php/login
+/index.php/78-empresa/72-creacion 1 -
+/assets/fonts/fontawesome-webfont.ttf 24 http://www.epmc.gob.ec/assets/css/font-awesome.min.css
+/index.php/78-noticias/76-facturacion 1 -
+/dbs.php 4 -
+/index.php/requisitos/category/3-remat 2 -
+/modules/mod_tc_team3/assets/js/jquery.min.js 5 http://epmc.gob.ec/index.php/noticia1/77-deapartamentos/71-transparencia
+/templates/epmc2017/css/template.responsive.css 3 http://www.epmc.gob.ec/index.php/ser/gt
+/noticias.html 1 http://www.epmc.gob.ec/
+/modules/mod_tc_team3/assets/js/jquery.owl.carousel.js 5 http://epmc.gob.ec/index.php/noticia1/77-deapartamentos/71-transparencia
+/index.php/component/banners/click/8 1 -
+/media/mod_rssocial/css/rssocial-font.css 11 http://epmc.gob.ec/index.php/login
+/index.php/galeria 2 -
+/modules/mod_phocagallery_slideshow_floom/css/style.css 9 http://epmc.gob.ec/index.php/login
+/images/portfolio/img8.jpg 2 http://epmc.gob.ec/noticias.html
+/index.php/noticia2 2 -
+/modules/mod_junewsflash/assets/js/jquery.bxslider.js 4 http://www.epmc.gob.ec/index.php/80-nove/77-invitacion
+/assets/js/custom.js 36 http://www.epmc.gob.ec/
+/index.php/quienes-somos/78-empresa/72-creacion 1 -
+/assets/css/style.css 23 http://www.epmc.gob.ec/
+/facturacion/help.php 6 -
+/index.php/sri 1 -
+/templates/epmc/css/bootstrap.css 3 http://www.epmc.gob.ec/index.php/component/mailto/
+/plugins/content/phocadownload/assets/css/phocadownload.css 6 http://epmc.gob.ec/index.php/quienes-somos/80-nove/75-nuevodier
+/modules/mod_tc_team3/assets/js/jquery.custom.one.js 4 http://www.epmc.gob.ec/index.php/80-nove/77-invitacion
+/index.php/79-departamentos/79-ma 2 -
+/index.php/component/mailto/ 32 -
+/wp-login.php 6 http://www.epmc.gob.ec/wp-login.php
+/templates/epmc2017ver03/css/template.css 9 http://www.epmc.gob.ec/index.php/quienes-somos
+/templates/epmc2017ver03/images/system/emailButton.png 2 -
+/templates/epmc/css/template.css 3 http://www.epmc.gob.ec/index.php/component/mailto/
+/theme/assets/global/plugins/jquery-file-upload/server/php/ 1 http://www.epmc.gob.ec/theme/assets/global/plugins/jquery-file-upload/server/php/
+/images/portfolio/img9.jpg 1 http://epmc.gob.ec/noticias.html
+/blog//wp-login.php 5 -
+/index.php/80-nove 1 -
+/apple-touch-icon.png 1 -
+/connectors/system/phpthumb.php 8 -
+/index.php/transparencia/2016 2 -
+/index.php/ser/gtra 5 -
+/img-sys/headerbg.jpg 1 http://epmc.gob.ec/cgi-sys/suspendedpage.cgi
+/index.php/ser/gt/fis 6 -
+/index.php/login 4 -
+/templates/epmc/CloudZoom.js 3 http://epmc.gob.ec/index.php/77-deapartamentos/71-transparencia
+/facturacion/ 7 -
+/document/REQUISSITOS2017.pdf 1 -
+/index.php/quienes-somos/78-noticias/76-facturacion 1 -
+/modules/mod_tc_team3/assets/font-awesome.css 4 http://www.epmc.gob.ec/index.php/80-nove/77-invitacion
+/index.php/quienes-somos/77-deapartamentos/71-transparencia 1 -
+/index.php/requisitos 14 -
+/templates/system/css/general.css 13 http://epmc.gob.ec/index.php/login
+/index.php/transparencia 5 -
+/templates/epmc2017ver03/jquery.js 10 http://epmc.gob.ec/index.php/login
+/index.php/component/banners/click/2 1 -
+/modules/mod_junewsflash/assets/css/mod_junewsflash_layout4.css 4 http://www.epmc.gob.ec/index.php/80-nove/77-invitacion
+/index.php/quienes-somos/78-empresa/71-empresa 1 -
+/index.php/contactos 5 -
+/index.php/inicio/71-inicio 2 -
+/components/com_phocadownload/assets/phocadownloadbuttonrc.css 1 http://epmc.gob.ec/index.php/transparencia/category/11-formularios
+/index.php/79-departamentos 1 -
+/index.php/inicio/introduccion 4 -
+/facturacion/css/bootstrap.css 1 http://www.epmc.gob.ec/facturacion/login.php
+/index.php/transparencia/category/3-estructura 1 -
+/components/com_phocagallery/assets/phocagallery.css 2 http://epmc.gob.ec/index.php/galeria/1-brigadas/detail/7-bsigchos4
+/index.php/inicio 6 -
+/index.php/quienes-somos/80-nove/77-invitacion 1 -
+/modules/mod_junewsflash/assets/css/style_common.css 4 http://epmc.gob.ec/index.php/noticia1/77-deapartamentos/71-transparencia
+/index.php/component/banners/click/4 4 -
+/index.php/component/banners/click/10 1 -
+/index.php/noticia1 1 -
+/templates/epmc2017ver03/script.responsive.js 11 http://epmc.gob.ec/index.php/login
+/index.php/78-empresa/71-empresa 1 -
+/signup.php 1 http://www.epmc.gob.ec
+/templates/beez5/javascript/md_stylechanger.js 1 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/media/mod_rssocial/css/rssocial.css 9 http://epmc.gob.ec/index.php/login
+/ads.txt 2 -
+/media/system/css/modal.css 2 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+/assets/css/bootstrap-theme.css 27 http://www.epmc.gob.ec
+/templates/epmc2017ver03/css/template.responsive.css 10 http://www.epmc.gob.ec/index.php/quienes-somos
+/modules/mod_jf_mobilemenu/assets/jf_mm.min.js 9 http://www.epmc.gob.ec/index.php/quienes-somos
+/media/mod_rssocial/js/rssocial.js 9 http://epmc.gob.ec/index.php/login
+/components/com_phocadownload/assets/overlib/overlib_mini.js 1 http://epmc.gob.ec/index.php/transparencia/category/11-formularios
+/facturacion/js/bootstrap.js 1 http://www.epmc.gob.ec/facturacion/login.php
+/components/com_phocagallery/assets/fadeslideshow/fadeslideshow.js 2 http://epmc.gob.ec/index.php/galeria/1-brigadas/detail/7-bsigchos4
+/index.php/component/banners/click/5 1 -
+/assets/fonts/fontawesome-webfont.woff 36 http://www.epmc.gob.ec/assets/css/font-awesome.min.css
+/media/mod_vvisit_counter/digit_counter/default.css 10 http://epmc.gob.ec/index.php/login
+/index.php/ser/gt/titulos-habilitantes 2 -
+/portfolio.html 2 -
+/templates/epmc2017ver03/script.js 10 http://epmc.gob.ec/index.php/login
+/modules/mod_jf_mobilemenu/assets/jquery.jf_multilevelpushmenu.min.js 8 http://epmc.gob.ec/index.php/noticia1/77-deapartamentos/71-transparencia
+/index.php/component/banners/click/9 1 -
+/components/com_phocagallery/assets/jquery/jquery-1.6.4.min.js 2 http://epmc.gob.ec/index.php/galeria/1-brigadas/detail/7-bsigchos4
+/modules/mod_slideshowck/themes/default/css/camera.css 1 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+/templates/epmc/bootstrap.min.js 3 http://epmc.gob.ec/index.php/77-deapartamentos/71-transparencia
+/facturacion 12 -
+/modules/mod_jf_mobilemenu/assets/jf_mm.min.css 8 http://epmc.gob.ec/index.php/noticia1/77-deapartamentos/71-transparencia
+/facturacion/js/jquery-2.1.1.min.js 1 http://www.epmc.gob.ec/facturacion/login.php
+/wp-content/plugins/wpstorecart/readme.txt 1 http://epmc.gob.ec/wp-content/plugins/wpstorecart/readme.txt
+/templates/epmc2017ver03/images/flash.swf 1 -
+/portafolio.html 1 http://freequesting.info/www.Electroniccigaretteslove.com%2Fpriv-one-kit-freeshipping.html/video/ginger-nausea-menstrual-cramps-irritable-bowel-syndrome/
+/components/com_phocadownload/assets/phocadownloadbutton.css 1 http://epmc.gob.ec/index.php/transparencia/category/11-formularios
+/media/mod_rssocial/js/jquery.js 10 http://www.epmc.gob.ec/index.php/quienes-somos
+/media/system/js/mootools-more.js 12 http://www.epmc.gob.ec/index.php/transparencia
+/index.php/quienes-somos/80-nove/24-briga 1 -
+/index.php 2 -
+/templates/system/css/system.css 11 http://epmc.gob.ec/index.php/noticia1/77-deapartamentos/71-transparencia
+/index.php/component/phocadownload/category/1-requisitos 1 -
+/index.php/contacto 6 -
+/robots.txt 323 -
+/templates/beez5/css/general_mozilla.css 1 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/assets/images/a1.jpg 22 http://www.epmc.gob.ec
+/media/mod_vvisit_counter/stats/default.css 10 http://epmc.gob.ec/index.php/login
+/modules/mod_tc_team3/assets/js/jquery-noconflict.js 4 http://www.epmc.gob.ec/index.php/80-nove/77-invitacion
+/index.php/quienes-somos/mision-vision 2 -
+/index.php/ser/gtra/rtv 5 -
+/templates/beez5/css/print.css 1 http://www.epmc.gob.ec/index.php/fruit-encyclopedia
+/index.php/noticia1/77-deapartamentos/71-transparencia 1 -
+/index.php/component/content/article/78-noticias/76-facturacion 2 -
+//wp-login.php 5 -
+/modules/mod_tc_team3/assets/js/jquery.custom.js 4 http://www.epmc.gob.ec/index.php/80-nove/77-invitacion
+/index.php/noticia3 1 -
+/server/php/ 1 http://epmc.gob.ec/server/php/
+/modules/mod_slideshowck/assets/jquery.min.js 1 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+/index.php/ser 10 -
+/templates/epmc2017ver03/css/print.css 1 http://epmc.gob.ec/index.php/component/mailto/
+/templates/epmc2017/script.responsive.js 4 http://www.epmc.gob.ec/index.php/ser/gt
+/modules/mod_slideshowck/assets/jquery.mobile.customized.min.js 1 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+/templates/epmc2017/script.js 4 http://www.epmc.gob.ec/index.php/ser/gt
+/templates/epmc/script.js 3 http://epmc.gob.ec/index.php/77-deapartamentos/71-transparencia
+/media/mod_rssocial/js/jquery-noconflict.js 10 http://www.epmc.gob.ec/index.php/quienes-somos
+/index.php/ser/gtra/matri 2 -
+/assets/images/antLogos.png 21 http://www.epmc.gob.ec
+/components/com_phocadownload/assets/custom.css 1 http://epmc.gob.ec/index.php/transparencia/category/11-formularios
+/modules/mod_tc_team3/assets/css/owl.carousel.css 3 http://www.epmc.gob.ec/index.php/78-empresa/71-empresa
+/media/system/js/validate.js 4 http://www.epmc.gob.ec/index.php/login
+/assets/images/bg_header.jpg 33 http://www.epmc.gob.ec/assets/css/style.css
+/templates/epmc2017/css/template.css 4 http://www.epmc.gob.ec/index.php/ser/gt
+/assets/css/bootstrap.min.css 16 http://www.epmc.gob.ec/
+/index.php/ser/gt 5 -
+/index.php/ser/matriculacion-vehicular 2 -
+/index.php/quienes-somos/77-deapartamentos 2 -
+/modules/mod_slideshowck/assets/camera.min.js 1 http://www.epmc.gob.ec/index.php/79-departamentos/79-ma
+/index.php/des 9 -
+/index.php/quienes-somos/78-noticias 1 -
+/media/system/js/mootools-core.js 12 http://www.epmc.gob.ec/index.php/quienes-somos
+/components/com_phocadownload/assets/phocadownload-grey.css 1 http://epmc.gob.ec/index.php/transparencia/category/11-formularios
+/assets/js/headroom.min.js 42 http://www.epmc.gob.ec/
+/manager/index.php 2 http://epmc.gob.ec/manager/index.php
+/assets/css/da-slider.css 20 http://www.epmc.gob.ec
+/index.php/galeria/category/2-brigada-pujili 1 -
+/assets/images/logosri.gif 28 http://www.epmc.gob.ec/
+/index.php/80-nove/77-invitacion 1 -
+/media/mod_rssocial/css/rssocial-anim.css 11 http://www.epmc.gob.ec/index.php/quienes-somos
+/modules/mod_tc_team3/assets/css/style.css 4 http://www.epmc.gob.ec/index.php/80-nove/77-invitacion
+/index.php/component/banners/click/3 1 -
+/index.php/transparencia/2015/e2015 4 -
+/assets/js/jQuery.headroom.min.js 43 http://www.epmc.gob.ec/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 573
+181.113.39.190 257429 261191 2975870205 20180731235958
+181.211.103.246 6079 8121 59222937 20180731235953
+66.249.88.59 59 326 13913025 20180731202158
+66.249.88.57 53 319 16021220 20180731201746
+66.249.88.58 46 362 20090401 20180731201907
+186.46.185.248 22 102 4271282 20180731192759
+186.46.236.194 20 100 4473984 20180710102255
+181.211.114.242 14 63 3310376 20180730084436
+52.53.201.78 13 13 39026 20180730034759
+181.39.210.45 12 61 5351563 20180718143931
+45.228.180.7 11 87 3104298 20180722072827
+181.198.42.206 11 63 4805212 20180723130151
+179.49.52.227 10 59 3091015 20180731225713
+190.90.144.17 10 63 3645768 20180725121317
+190.152.130.58 10 48 2417990 20180716133522
+186.42.125.170 10 59 2982770 20180706113918
+179.49.52.111 9 49 2970641 20180716145021
+181.196.52.16 9 44 2258435 20180702160106
+190.11.20.66 8 44 1620376 20180717135004
+186.46.168.44 8 52 1993120 20180726152435
+170.244.209.19 8 47 2192640 20180704135251
+178.57.107.134 8 8 24016 20180731141351
+181.211.100.70 8 49 3079392 20180723130215
+181.199.32.219 8 69 5653989 20180717081256
+131.196.8.231 8 42 1842678 20180712152903
+104.160.9.252 2 2 6004 20180730145626
+186.46.175.236 7 33 1607962 20180731192800
+190.10.231.82 2 16 576206 20180716065259
+157.100.56.130 1 6 31823 20180709152859
+190.63.3.34 0 1 101908 
+217.20.114.176 3 3 9006 20180731154521
+223.19.212.30 1 1 11549 20180727204756
+1.179.189.217 3 13 0 20180731145601
+89.135.186.137 6 16 3002 20180731162545
+45.65.227.6 2 2 5142 20180727085717
+219.91.255.178 1 1 3002 20180728212502
+190.154.89.99 1 6 31823 20180725091827
+203.84.156.125 1 1 3002 20180731113430
+186.42.212.108 0 1 177935 
+45.55.252.28 6 25 334879 20180720063247
+200.32.68.6 3 18 756771 20180706173508
+139.255.75.98 0 5 0 
+178.214.72.214 2 2 6004 20180731150131
+80.188.248.204 5 15 0 20180728215506
+104.222.43.153 1 1 11549 20180717152047
+200.85.80.174 3 17 576206 20180729204601
+179.49.52.113 5 24 1260423 20180710092028
+180.211.243.142 0 1 0 
+66.102.8.23 2 11 211303 20180716084444
+190.130.219.136 4 32 1152412 20180725084545
+200.7.247.192 5 23 1157149 20180704095355
+82.144.169.90 1 1 3002 20180727205113
+103.85.220.58 0 2 0 
+190.214.26.10 2 16 576206 20180710132108
+177.129.203.102 1 1 3002 20180727135611
+181.196.86.72 0 1 280805 
+186.4.252.198 2 17 1003580 20180725090850
+87.249.215.138 1 1 0 20180731143517
+181.49.198.230 1 1 3002 20180727152217
+45.55.232.55 6 22 291746 20180714100539
+181.112.106.205 5 24 1159152 20180704152320
+181.196.81.96 0 1 102207 
+23.245.227.75 1 1 3002 20180728064635
+66.249.84.243 0 2 6935 
+186.101.20.86 0 1 280805 
+186.46.87.244 2 18 1109856 20180715074241
+186.47.86.21 3 18 756770 20180731130913
+45.71.39.3 0 9 470056 
+186.42.105.226 5 22 678806 20180706160326
+181.175.133.45 6 26 1266473 20180702195650
+107.150.88.184 2 2 6004 20180728073232
+195.58.24.221 1 1 3002 20180728173432
+77.244.79.10 1 1 3002 20180731064152
+186.69.168.42 4 22 1154147 20180718111754
+181.196.55.18 2 17 1003580 20180724174419
+222.124.11.139 2 2 5142 20180730101735
+5.160.171.33 3 13 0 20180731135607
+134.255.243.185 1 1 3002 20180731104135
+200.125.244.157 4 31 3392616 20180716224145
+209.97.149.236 1 1 11549 20180703181000
+190.152.131.227 3 21 1151516 20180719111955
+181.112.107.235 0 1 427374 
+191.99.152.9 1 6 31823 20180710165902
+182.253.205.85 1 1 3002 20180727204542
+185.7.19.173 1 1 3002 20180731185842
+190.63.119.238 4 20 1187147 20180725091820
+181.112.82.236 0 1 177935 
+189.204.200.45 2 2 0 20180728204541
+191.100.19.149 3 23 917695 20180702120945
+193.226.177.40 2 2 11549 20180730202550
+190.152.128.56 2 18 1109856 20180725070352
+191.100.155.235 3 18 756771 20180702171627
+186.233.196.239 1 1 3002 20180729065626
+190.63.150.49 2 17 1003580 20180708173906
+186.178.3.230 2 16 638785 20180713112832
+190.152.128.65 3 18 579254 20180705083519
+46.42.170.220 1 15 510753 20180729223813
+201.219.1.89 5 28 1435451 20180717161449
+200.69.209.142 1 1 3002 20180727204734
+186.42.107.47 0 1 177935 
+190.110.205.251 6 38 2184598 20180730210106
+138.197.96.97 1 6 23204 20180717014943
+186.46.203.237 1 6 31823 20180730161314
+186.47.121.214 2 16 576206 20180724152544
+201.234.213.50 6 31 1498684 20180704155446
+200.71.72.18 1 1 3002 20180728215108
+202.21.98.174 1 1 3002 20180727032720
+201.219.41.50 0 2 17649 
+181.112.105.142 2 16 576205 20180730125731
+181.198.78.54 7 32 1868875 20180720070347
+213.168.37.86 2 2 5142 20180728032539
+83.139.14.203 1 1 3002 20180727205049
+121.152.17.96 1 1 3002 20180731205532
+181.112.80.45 7 37 1224088 20180720145219
+190.63.119.72 6 25 1587897 20180702164609
+192.188.58.17 4 23 1171526 20180705182437
+200.124.227.20 2 17 579668 20180718143557
+186.47.214.14 5 37 1077778 20180730115822
+192.3.198.156 2 2 6004 20180727222236
+208.87.238.180 1 6 31823 20180725143349
+190.12.15.254 1 6 31823 20180716212152
+186.47.203.135 3 19 681161 20180709122012
+186.46.226.61 2 16 576205 20180726220712
+179.184.20.244 1 1 3002 20180727144644
+200.63.105.136 2 17 682482 20180731083528
+45.61.185.228 1 1 3002 20180728065558
+190.154.135.91 5 21 762821 20180724143533
+181.143.202.140 1 1 3002 20180727065731
+103.218.102.6 1 1 3002 20180727224315
+5.35.126.162 5 15 0 20180731153225
+182.253.107.82 1 1 3002 20180727193009
+190.130.238.24 2 17 1003580 20180703101059
+181.196.186.122 1 1 3002 20180731080838
+186.4.197.165 3 21 1151517 20180714150017
+181.112.106.169 1 8 37290 20180725202609
+186.47.136.27 0 1 100714 
+223.19.41.6 1 1 3002 20180727204759
+181.113.56.254 0 1 101908 
+190.152.46.67 2 5 0 20180712080646
+113.190.235.188 1 1 0 20180731155047
+181.196.52.5 3 23 1431825 20180705122523
+186.66.99.210 2 18 1109856 20180718224808
+138.122.110.196 0 1 101908 
+181.112.81.50 1 6 31823 20180718120514
+190.152.129.232 4 32 1152412 20180712210417
+192.95.42.42 6 6 18012 20180731193551
+95.0.219.104 1 1 3002 20180731021306
+103.26.55.94 1 1 3002 20180727192904
+181.118.145.2 1 1 3002 20180727082218
+190.152.176.175 3 18 579254 20180720103032
+181.112.9.162 2 17 1003580 20180724151006
+200.105.114.55 4 22 1154147 20180716144244
+201.183.233.61 3 21 1151517 20180727083222
+182.253.179.202 2 2 6004 20180727151424
+128.199.232.228 1 1 3002 20180730142413
+18.191.19.52 4 14 117606 20180730041400
+186.46.173.182 2 16 576206 20180706085605
+104.225.250.92 1 1 3002 20180728064315
+81.162.238.73 1 1 3002 20180727205034
+35.225.208.4 1 1 3002 20180727204810
+181.112.104.12 1 6 31823 20180703171602
+89.163.157.1 3 3 9006 20180728102852
+186.4.240.100 1 6 31823 20180710174419
+190.152.128.107 2 16 576205 20180725145207
+187.33.87.86 1 1 0 20180728204940
+94.130.144.246 1 1 3002 20180729153654
+190.152.128.142 4 28 1843774 20180712194023
+181.39.19.99 5 25 1041077 20180719185457
+186.42.105.35 2 11 387558 20180703201724
+190.63.150.201 2 17 1003580 20180716092316
+200.125.244.134 2 16 576206 20180715110731
+35.198.185.132 1 1 3002 20180727204807
+35.227.174.84 0 1 427374 
+131.221.120.66 1 1 2381 20180731033647
+181.112.106.139 2 19 1537230 20180725213122
+45.236.107.17 2 16 576205 20180724214304
+92.244.158.101 1 1 3002 20180727212732
+181.113.97.145 3 22 1257793 20180719210224
+181.112.106.37 2 17 1003580 20180718191640
+181.112.8.233 2 16 576205 20180711213948
+194.2.226.72 2 2 5142 20180729141145
+200.6.168.86 2 2 5142 20180727102607
+185.155.34.254 1 1 3002 20180731125038
+181.196.54.29 3 21 1151517 20180728144221
+190.152.128.191 2 18 856513 20180717075814
+190.152.128.88 2 17 1003580 20180725091343
+186.42.187.90 3 21 1151517 20180725093201
+200.124.228.7 5 23 1157149 20180711121617
+181.167.91.91 1 1 3002 20180727053737
+181.188.166.82 1 1 3002 20180727121441
+181.199.95.249 7 34 1828085 20180709072148
+181.143.123.114 3 3 8144 20180729044332
+83.219.143.138 1 1 3002 20180727205104
+200.7.214.203 1 6 45578 20180730112234
+186.66.99.40 3 17 576206 20180713223256
+186.46.221.190 3 13 390605 20180725143822
+186.46.226.13 0 1 100714 
+190.154.90.255 0 1 101908 
+123.154.160.71 5 8 15639 20180730231310
+138.197.111.97 3 8 29208 20180724030736
+190.152.130.24 3 17 641659 20180716084631
+191.99.134.141 2 16 576206 20180703084654
+196.245.185.86 1 1 3002 20180728010153
+181.196.53.13 3 22 608029 20180726121756
+181.112.9.235 6 25 1160197 20180710140514
+181.175.218.1 5 29 1435869 20180716090655
+204.48.31.200 1 1 3002 20180730213108
+181.198.92.26 3 18 579254 20180705115123
+64.246.187.42 1 1 3002 20180721002754
+186.4.176.205 3 21 1151517 20180702090133
+91.93.150.234 1 1 3002 20180730060916
+181.120.24.166 1 1 3002 20180731091447
+186.47.86.34 6 31 1544632 20180717145550
+122.228.10.51 1 1 11549 20180721030219
+46.36.104.9 1 1 3002 20180728153011
+54.242.170.158 1 1 3002 20180705054128
+181.176.209.86 2 2 6004 20180731025313
+181.112.82.88 3 21 1151517 20180726222420
+186.42.213.39 2 16 576206 20180720122027
+201.219.55.130 6 29 1729498 20180721141919
+186.47.137.250 3 21 1151517 20180709131230
+181.196.175.107 3 22 1257793 20180713211803
+181.112.9.156 1 6 31823 20180726184235
+195.123.224.112 4 4 12008 20180728185941
+202.138.243.5 1 1 3002 20180730121633
+190.11.20.34 5 21 1140818 20180723123605
+81.163.36.46 1 1 3002 20180727205029
+186.46.227.227 2 16 576206 20180717223809
+190.152.128.174 5 23 1282549 20180722132146
+82.77.62.222 1 1 3002 20180728101756
+181.112.104.73 6 51 2670692 20180727225422
+186.42.106.197 7 41 2497312 20180712154825
+181.112.104.231 2 16 576206 20180706084419
+5.189.159.167 2 2 6004 20180729101834
+186.46.174.125 2 16 576206 20180716104845
+178.128.158.55 2 2 5142 20180728160923
+181.112.9.237 0 2 458740 
+200.85.80.40 3 17 579208 20180703093141
+186.46.224.219 2 16 576206 20180726125912
+139.162.72.63 1 1 3002 20180731115455
+158.69.118.104 1 1 3002 20180731010751
+91.83.212.196 5 15 0 20180731151258
+181.39.129.49 3 21 1151517 20180717103623
+186.42.105.204 1 6 31823 20180725190250
+66.249.81.248 2 4 85815 20180728111716
+181.54.214.124 1 1 3002 20180727171634
+190.131.180.144 1 6 31823 20180706151801
+181.39.155.103 0 1 101908 
+181.112.105.15 5 23 1154004 20180706093530
+216.158.93.175 5 5 14638 20180731142447
+103.23.34.108 1 1 3002 20180727124154
+178.128.209.253 1 1 3002 20180730111216
+186.46.226.74 1 6 31823 20180724145036
+201.236.161.173 1 1 3002 20180731144705
+186.4.161.106 2 17 1003580 20180702192317
+186.46.217.138 2 11 387557 20180719145635
+185.147.116.138 3 3 30455 20180730163545
+125.209.84.78 4 14 0 20180731160630
+186.46.226.136 5 32 2152775 20180731093258
+190.156.228.138 1 1 3002 20180731162632
+181.113.5.130 1 1 3002 20180727220902
+94.15.110.22 1 1 3002 20180727160609
+190.214.10.251 0 1 101908 
+181.211.130.146 0 1 427374 
+80.211.154.220 1 1 3002 20180730154010
+181.112.106.221 2 17 1003580 20180706081948
+138.185.137.178 2 16 576206 20180712120905
+190.63.150.73 2 16 576206 20180703150157
+184.185.2.146 1 1 3002 20180728194532
+201.219.36.82 1 1 3002 20180730093731
+186.46.202.152 1 6 31823 20180711185206
+179.49.52.105 1 6 31823 20180728071859
+180.210.201.54 1 1 3002 20180728105059
+200.85.83.196 2 16 576206 20180727141357
+181.112.82.31 2 17 1003579 20180704105939
+181.211.99.86 4 24 1038074 20180713084426
+159.89.22.167 1 1 3002 20180730230918
+185.93.3.123 1 1 3002 20180730201639
+190.152.128.113 2 16 576206 20180713093622
+190.152.131.194 7 32 1501685 20180713081029
+18.144.47.35 1 1 11549 20180707001514
+66.249.81.250 0 6 139742 
+41.78.88.236 1 1 3002 20180731173159
+103.212.211.20 0 1 0 
+190.57.135.69 1 5 575311 20180702182405
+186.46.227.77 2 20 1322408 20180709172802
+188.35.30.253 1 1 3002 20180727070021
+186.47.137.4 6 27 1693847 20180730151353
+190.152.206.131 0 1 427374 
+190.152.129.67 6 29 1438453 20180705184348
+181.211.13.35 7 31 1441501 20180724154952
+46.101.235.97 1 1 3002 20180727135416
+186.46.226.127 6 48 3080538 20180705180752
+181.196.52.243 3 17 579208 20180726213906
+184.82.236.187 0 2 0 
+80.211.188.52 1 1 3002 20180730134506
+138.197.96.197 1 6 23204 20180703163021
+134.249.50.5 1 1 11549 20180721050930
+200.7.243.62 3 18 579253 20180718171656
+36.5.182.192 1 1 3002 20180730232618
+185.158.65.117 1 1 3002 20180730143950
+129.146.70.253 1 1 3002 20180726194134
+186.47.136.13 3 21 1151517 20180726085142
+180.210.206.55 1 1 3002 20180731025808
+5.53.158.85 1 1 3002 20180729101842
+185.86.201.15 1 1 3002 20180730121706
+181.196.246.182 1 1 11549 20180731063322
+200.85.83.190 2 16 576206 20180715084812
+202.148.12.58 1 1 3002 20180727204749
+186.46.200.24 6 30 1544729 20180730210454
+190.152.131.114 2 16 576205 20180716112247
+45.55.195.141 6 25 334879 20180731135123
+186.42.107.115 2 16 576205 20180731132241
+212.95.180.50 1 1 3002 20180731200303
+77.81.229.113 1 1 3002 20180728192404
+186.33.170.221 2 16 576206 20180730222237
+181.112.80.8 2 16 576206 20180730160708
+186.46.224.53 2 16 576206 20180731135547
+185.98.65.17 1 1 3002 20180730044015
+190.99.76.2 1 6 31823 20180709095338
+209.97.154.146 1 1 11549 20180704011211
+186.42.104.102 5 26 2118173 20180717142520
+192.188.58.8 2 16 576205 20180712091729
+138.197.111.183 6 23 295711 20180726000850
+186.46.225.78 2 16 576206 20180722200925
+181.196.54.179 1 8 97576 20180727224622
+182.23.103.6 1 1 3002 20180728145132
+89.28.53.42 1 1 3002 20180728100342
+190.152.206.224 2 16 576206 20180731213653
+54.165.59.7 5 5 54771 20180702085517
+195.138.93.1 1 1 3002 20180731163357
+36.84.187.148 1 1 11549 20180726171440
+181.112.83.249 2 18 577799 20180723121250
+148.243.37.101 1 1 3002 20180731124022
+212.115.235.115 5 15 0 20180728212604
+200.229.146.195 0 1 2078 
+182.253.122.106 1 1 3002 20180731023449
+181.188.201.17 2 17 1003580 20180731124252
+190.77.109.22 1 1 3002 20180727204639
+92.42.249.58 1 1 3002 20180731182244
+186.46.173.247 5 23 1157149 20180703222638
+190.99.78.9 2 16 576206 20180718172252
+138.197.73.96 6 23 326015 20180708143400
+185.158.65.120 1 1 3002 20180727070033
+190.152.203.43 7 35 2183634 20180705191544
+181.112.105.173 3 21 1151517 20180724142028
+170.79.90.134 2 2 5142 20180727031028
+181.196.72.10 2 17 1003580 20180703175805
+186.42.105.95 3 18 756771 20180719172112
+5.160.63.51 1 1 3002 20180727204827
+181.196.73.128 6 30 1438499 20180725173719
+131.196.8.245 5 30 1024339 20180704072100
+181.196.55.53 5 29 1435869 20180710150045
+186.42.105.172 3 21 1151517 20180712100910
+107.150.88.149 1 1 3002 20180727202408
+110.78.154.238 1 1 3002 20180727065930
+200.7.247.173 2 16 576206 20180731212431
+138.197.111.61 1 6 23204 20180731132700
+167.99.81.107 1 1 3002 20180728155800
+200.125.245.190 2 17 1003580 20180716181821
+181.112.146.50 2 17 682482 20180729083708
+181.39.119.10 1 6 31823 20180720103512
+66.249.84.246 1 7 944754 20180717204125
+61.220.65.151 1 1 3002 20180728053119
+186.69.7.82 1 6 31823 20180710144307
+186.33.171.218 2 20 1643505 20180702231254
+190.152.37.114 0 1 101908 
+190.63.119.54 3 18 579254 20180731103051
+190.130.245.214 6 46 5008584 20180731233102
+186.4.150.77 2 16 576206 20180704151543
+186.46.175.83 2 16 576206 20180709092417
+177.128.224.2 1 1 3002 20180731211140
+66.102.8.25 0 9 369010 
+181.112.224.111 6 39 2434125 20180726124015
+95.67.79.150 1 1 3002 20180727031026
+85.203.22.226 1 1 0 20180731145525
+143.255.248.3 4 19 759772 20180706083640
+186.46.172.16 2 16 576206 20180711094321
+190.152.46.194 5 21 762820 20180725084020
+181.112.9.147 2 16 576206 20180729121323
+78.34.112.143 1 1 3002 20180727051713
+66.249.84.240 1 9 479265 20180717204110
+186.47.84.242 7 40 2437126 20180718101205
+186.46.39.102 2 17 754141 20180702120615
+190.107.71.8 2 16 576206 20180721215410
+46.8.112.123 1 1 3002 20180731032945
+186.46.41.58 1 8 361090 20180730113503
+190.12.40.138 4 23 1154565 20180704100014
+77.234.149.154 1 1 3002 20180728074354
+181.196.54.3 2 16 576206 20180726170736
+181.135.99.116 1 1 3002 20180727065724
+107.170.203.39 2 17 1003580 20180722133959
+181.112.107.67 2 16 576206 20180726074600
+200.105.254.78 0 1 427374 
+186.47.101.134 3 26 1650488 20180731154801
+181.211.98.102 3 18 579253 20180730153715
+190.99.72.8 2 16 576205 20180702185924
+190.152.129.109 2 16 576206 20180723161128
+190.152.130.200 7 35 1625530 20180711094401
+23.245.227.78 1 1 3002 20180727205907
+181.196.53.254 1 6 31823 20180720214432
+89.22.152.54 1 1 3002 20180727121236
+186.47.103.198 1 1 3002 20180727205649
+186.46.216.254 2 17 1003580 20180718110607
+85.207.14.10 1 1 3002 20180731130229
+200.63.105.164 1 1 3002 20180710083235
+5.9.70.215 1 1 3002 20180731042012
+190.131.160.101 4 22 1154146 20180723154733
+181.188.200.239 0 1 174032 
+182.253.176.75 2 2 5142 20180727233653
+82.200.159.226 1 1 3002 20180727205117
+186.28.227.19 1 1 3002 20180727131345
+181.196.53.14 1 6 31823 20180726181518
+190.152.8.170 5 35 2223880 20180716204039
+181.199.32.45 7 26 1162684 20180730201736
+64.246.165.10 1 1 3002 20180703033432
+181.112.144.6 2 16 576206 20180730113630
+186.46.227.176 6 30 1865827 20180709084428
+186.42.106.64 8 43 4303254 20180717185626
+81.198.211.56 2 5 0 20180731143702
+167.250.180.3 2 16 253285 20180730113439
+181.188.201.178 2 16 576206 20180706080812
+190.152.128.172 1 6 31823 20180725071155
+54.237.219.72 1 1 11549 20180731154904
+181.39.76.136 3 21 1151517 20180726091133
+186.42.107.102 3 18 756771 20180709073554
+162.246.61.190 6 6 18012 20180731211218
+176.108.60.95 1 1 3002 20180731095952
+186.43.173.226 4 19 581741 20180703092442
+206.189.145.13 1 1 3002 20180731212629
+136.231.180.54 2 16 576206 20180725040019
+181.39.97.242 0 1 177935 
+110.77.136.88 1 1 3002 20180727204843
+190.152.129.135 2 16 576206 20180717221129
+46.172.193.48 1 1 3002 20180726171201
+217.61.22.118 2 6 0 20180728185407
+195.218.197.194 1 1 3002 20180728211214
+200.125.219.157 0 1 101908 
+190.130.212.21 3 23 859513 20180708230606
+186.46.225.33 4 22 1154147 20180711215344
+190.152.210.49 2 16 576206 20180714202947
+186.101.123.141 0 1 174032 
+178.161.174.158 2 2 5142 20180730004602
+181.169.109.75 1 1 3002 20180728200600
+202.142.159.204 1 1 3002 20180731121941
+190.152.130.47 3 20 1290421 20180705185158
+181.196.54.200 1 4 132430 20180703134310
+24.46.182.164 1 1 3002 20180728164504
+181.199.39.34 2 16 576206 20180713162337
+167.99.156.53 1 1 3002 20180730201034
+95.59.195.73 1 1 3002 20180730185157
+74.83.246.125 2 2 5142 20180731233532
+160.119.153.206 1 1 3002 20180728190113
+193.178.246.213 1 1 11549 20180727204639
+181.112.82.173 6 33 1753258 20180726164652
+190.152.131.107 3 21 1151517 20180711084415
+181.112.82.82 3 23 1284884 20180723221819
+202.151.160.14 1 1 3002 20180727204748
+186.46.218.10 2 16 576205 20180710152505
+80.93.187.145 1 1 3002 20180702163401
+186.4.239.76 2 16 576206 20180725165708
+181.196.53.99 2 18 856513 20180716142151
+181.39.76.134 4 34 1686062 20180712115536
+186.46.227.234 4 32 1152412 20180712185011
+186.46.142.230 2 16 576206 20180717154517
+34.225.249.169 1 1 3002 20180731200333
+138.197.96.249 1 1 3002 20180710093104
+190.63.126.148 3 23 917695 20180718114405
+200.252.58.165 5 15 3002 20180728192820
+109.87.24.103 2 2 5142 20180731055606
+193.15.16.4 1 1 11549 20180712094658
+190.12.51.144 7 27 1587571 20180724181701
+190.152.144.234 2 16 576206 20180724112352
+186.42.106.254 2 16 576206 20180702143900
+186.46.113.22 4 19 582256 20180704154815
+36.65.73.86 1 1 2827 20180719100152
+190.131.164.75 2 21 1454307 20180703114110
+181.112.9.182 8 39 2236960 20180714074307
+186.46.227.167 2 16 576205 20180730141820
+186.46.226.249 7 43 3398151 20180726140817
+118.69.205.201 2 2 18906 20180731095853
+85.238.97.67 2 12 0 20180731155125
+200.24.217.168 2 16 576206 20180717153824
+188.121.223.118 2 2 5142 20180730171150
+187.188.180.235 1 1 3002 20180729120515
+134.255.243.145 1 1 3002 20180731081943
+153.122.42.1 1 1 3002 20180728161517
+181.211.8.86 8 47 2120981 20180726130821
+181.112.81.142 4 20 1009630 20180704082947
+181.112.106.207 2 16 576205 20180712083545
+190.57.184.6 3 18 579254 20180722221615
+190.152.128.171 2 16 576206 20180708190630
+163.172.122.165 2 2 23098 20180729164118
+181.199.38.170 1 8 97576 20180725182905
+181.112.224.234 1 6 31823 20180719143830
+186.4.222.229 2 17 1092848 20180702101606
+180.210.206.52 1 1 3002 20180727131338
+185.158.112.209 1 1 3002 20180727070032
+190.152.129.12 1 4 0 20180724233613
+191.99.68.197 0 1 427374 
+128.199.133.79 2 2 6004 20180728010607
+181.196.52.182 0 1 5045 
+186.46.173.58 2 17 1003580 20180730100105
+80.51.79.26 0 3 0 
+107.150.78.241 1 1 3002 20180728212239
+181.112.83.222 3 21 1151517 20180706085706
+181.112.222.210 2 16 576206 20180711121006
+190.63.255.220 0 2 854748 
+179.49.48.4 4 20 1109856 20180730061713
+66.102.8.27 0 10 441193 
+119.27.177.169 1 1 3002 20180731030253
+200.8.59.114 1 1 3002 20180727204713
+186.42.199.150 3 30 2147143 20180706113657
+159.89.126.152 1 1 3002 20180729022930
+185.148.220.11 1 1 3002 20180728100114
+200.7.247.67 4 22 1151517 20180716144313
+181.188.200.156 3 22 857510 20180719191452
+66.249.81.246 0 6 350649 
+109.248.156.65 4 14 0 20180731141702
+186.216.81.21 1 1 3002 20180727180849
+36.67.145.155 2 2 5142 20180730025121
+107.150.88.148 2 2 6004 20180727214210
+213.6.198.2 2 7 0 20180728185358
+186.46.173.196 2 14 782304 20180717151337
+190.99.76.20 2 16 576206 20180710163836
+186.46.174.160 2 16 576206 20180726230342
+201.33.227.187 1 1 3002 20180730030811
+202.148.12.218 1 1 3002 20180727204739
+181.196.52.208 5 28 1233056 20180723140925
+104.222.43.150 1 1 11549 20180730094835
+181.129.6.34 1 1 3002 20180727065723
+167.250.180.130 1 6 31823 20180710120623
+190.152.233.85 2 15 1087691 20180709224542
+181.196.73.217 3 21 1151516 20180703150314
+190.152.17.58 1 1 3002 20180731122817
+200.85.83.164 2 16 576206 20180725083804
+181.196.55.242 3 21 1151516 20180711103657
+186.47.102.18 1 6 31823 20180726112520
+181.113.26.157 0 1 101908 
+186.46.172.26 5 28 1435451 20180725224851
+118.174.150.146 1 1 3002 20180731213821
+128.199.99.80 1 1 3002 20180731185010
+190.199.96.51 1 6 31823 20180725082014
+188.215.72.54 1 1 3002 20180728192004
+45.55.240.186 6 24 330914 20180702175831
+186.68.254.92 7 32 1616428 20180705224647
+18.222.113.72 6 17 123284 20180729234414
+200.25.220.50 4 27 1432821 20180702123701
+42.115.63.71 7 17 1440607 20180728110915
+190.63.48.50 8 50 2578359 20180726095450
+78.26.207.173 1 1 3002 20180727205021
+46.164.239.135 5 15 0 20180728200931
+45.4.203.194 2 4 86423 20180729150244
+181.39.68.214 3 22 1578891 20180720100506
+181.39.127.251 1 6 31823 20180717162942
+181.48.246.126 1 1 3002 20180731210623
+191.99.165.49 7 31 1441501 20180720160335
+200.55.249.235 2 17 678413 20180707162249
+190.152.128.109 2 16 576206 20180704103722
+66.70.147.196 2 2 6004 20180727135504
+186.47.136.198 0 1 101908 
+182.93.91.242 1 1 3002 20180731063630
+200.63.105.152 1 8 97576 20180727190705
+186.46.175.104 1 6 31823 20180709093216
+212.129.61.154 1 1 11549 20180725093313
+181.112.149.76 0 1 427374 
+181.113.38.237 1 12 566422 20180703151824
+186.4.191.76 0 2 200711 
+190.131.183.60 4 18 576206 20180721085339
+186.42.104.80 2 16 576205 20180717111749
+181.112.9.174 6 28 1543779 20180730211732
+190.63.150.160 3 17 576206 20180717152144
+190.152.129.205 6 25 1160197 20180723063341
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180701 4 19 925466 3
+20180702 115 545 22481761 27
+20180703 80 367 14879294 27
+20180704 121 396 13978543 19
+20180705 147 544 26126018 25
+20180706 131 657 19111453 22
+20180707 10 73 3527541 4
+20180708 13 79 2765314 4
+20180709 79 415 17393346 23
+20180710 103 372 13025955 22
+20180711 86 303 10947227 19
+20180712 70 407 17122264 25
+20180713 51 310 13469390 16
+20180714 22 116 5263011 6
+20180715 6 50 2262268 3
+20180716 87 558 22787318 25
+20180717 131 607 27424241 35
+20180718 66 406 19858636 25
+20180719 39 237 7734237 12
+20180720 86 451 16230204 23
+20180721 17 68 2914014 9
+20180722 22 162 7326346 7
+20180723 468 727 17407865 14
+20180724 94 434 15436242 27
+20180725 90 554 19761184 37
+20180726 29884 30657 349405749 36
+20180727 76992 78139 894757518 90
+20180728 67832 68258 778684004 55
+20180729 37 164 5784807 21
+20180730 12555 13454 153983552 63
+20180731 75667 78022 890746210 97
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 65
+15mn-30mn 26
+5mn-15mn 45
+1h+ 33
+2mn-5mn 47
+30mn-1h 29
+0s-30s 576
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/ 263775 2860398604 705 416
+/assets/fonts/fontawesome-webfont.woff 739 40842350 70 208
+/services.html 147 368334 15 49
+/about.html 123 289368 8 44
+/portafolio.html 110 218014 5 37
+/contact.html 105 223830 9 41
+/assets/fonts/fontawesome-webfont.ttf 65 4262765 2 10
+/noticias.html 35 64411 5 13
+/assets/fonts/fontawesome-webfont.eot 3 167934 0 2
+/cpanel 1 12501 0 0
+/cgi-sys/suspendedpage.cgi 1 1424 1 0
+// 1 3002 1 1
+END_SIDER

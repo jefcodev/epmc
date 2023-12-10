@@ -1,0 +1,284 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201810 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2673                
+POS_VISITOR 6705                
+POS_DAY 7045                
+POS_DOMAIN 3292                
+POS_LOGIN 3545                
+POS_ROBOT 3700                
+POS_WORMS 3955                
+POS_EMAILSENDER 4086                
+POS_EMAILRECEIVER 4229                
+POS_SESSION 7456                
+POS_SIDER 7615                
+POS_FILETYPES 4364                
+POS_DOWNLOADS 4465                
+POS_OS 4858                
+POS_BROWSER 4997                
+POS_SCREENSIZE 5170                
+POS_UNKNOWNREFERER 5244                
+POS_UNKNOWNREFERERBROWSER 5416                
+POS_ORIGIN 5498                
+POS_SEREFERRALS 5630                
+POS_PAGEREFS 5812                
+POS_SEARCHWORDS 5960                
+POS_KEYWORDS 6112                
+POS_MISC 2337                
+POS_ERRORS 6171                
+POS_CLUSTER 3401                
+POS_SIDER_404 6279                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181101004536 7 1192 12223326626833
+FirstTime 0
+LastTime 20181031090620
+LastUpdate 20181101072128 7 0 6 0 0
+TotalVisits 25                  
+TotalUnique 5                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 8                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 0 0 4 106276
+1 0 0 0 2 2 11549
+2 1 1 0 2 3 0
+3 0 0 0 1 6 427374
+4 3 3 6004 5 9 188408
+5 1 1 0 2 3 0
+6 1 1 3002 6 12 112834
+7 0 0 0 6 9 23098
+8 2 2 3002 8 9 38079
+9 2 2 3002 0 1 101908
+10 2 2 3002 4 8 11549
+11 1 2 105412 2 3 106276
+12 1 1 3002 2 3 0
+13 0 0 0 1 1 11549
+14 2 3 105209 2 12 116961
+15 1 4 314759 1 1 0
+16 2 4 212552 1 1 35
+17 1 1 3002 3 4 0
+18 0 4 425104 2 7 213548
+19 0 0 0 1 2 427374
+20 0 0 0 1 5 105412
+21 2 2 23098 4 6 11549
+22 1 1 11549 5 8 36608
+23 2 2 3002 1 1 11684
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 13 23 1122494
+de 13 13 0
+ec 0 1 102207
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+bingbot/ 37 1863177 20181031142303 2
+no_user_agent 9 103941 20181029080030 0
+bot[\s_+:,\.\;\/\\-] 2 23098 20181029184211 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+pdf 11 1160034 0 0
+html 26 64667 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 8
+/document/CambiodeSocioVehiculo.pdf 10 0 1062760
+/document/CambiodeVehiculo.pdf 3 0 316236
+/document/ReformadeEstatutos.pdf 2 0 204414
+/document/Deshabilitacion.pdf 2 0 202570
+/document/REQUISSITOS2017.pdf 2 0 854748
+/document/CambiodeSocio.pdf 1 0 174032
+/document/ConcesiondeContrato.pdf 1 0 100714
+/document/ConcesiondePermiso.pdf 1 0 101908
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win8.1 1 0
+winlong 4 0
+Unknown 3 3
+win7 17 13
+macosx12 10 10
+macosx10 2 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+chrome44.0.2403.155 2 0
+chrome69.0.3497.100 1 0
+chrome61.0.3163.100 10 10
+chrome40.0.2214.85 13 13
+msie9.0 8 0
+mozilla 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20181008224819
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 26 28
+From1 0 0
+From2 0 9
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+bing 0 8
+espanol_search_yahoo_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+401 20 71699
+400 8 156
+404 42 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/facturacion 1 -
+/robots.txt 32 -
+/document/Constituci%C3%83%C2%B3nJuridica.pdf 1 -
+/.well-known/assetlinks.json 8 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 8
+138.246.253.5 13 13 0 20181031090620
+13.57.233.99 10 10 30020 20181029044214
+209.97.147.84 1 1 11549 20181008213845
+167.99.58.72 1 1 11549 20181008215353
+209.97.158.237 1 1 11549 20181008224819
+54.39.50.9 0 2 207619 
+191.100.99.61 0 1 102207 
+23.101.169.3 0 8 850208 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20181003 1 1 3002 1
+20181004 1 1 0 1
+20181005 1 2 105412 1
+20181006 1 1 3002 1
+20181008 3 3 34647 3
+20181009 1 1 3002 1
+20181010 3 3 0 3
+20181011 1 1 3002 1
+20181014 1 2 105209 1
+20181017 2 2 3002 2
+20181018 2 2 0 1
+20181020 1 1 3002 1
+20181023 1 1 3002 1
+20181024 3 3 0 3
+20181025 0 8 850208 0
+20181026 1 1 3002 1
+20181029 1 2 105209 1
+20181031 2 2 0 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 24
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 26 64667 25 25
+END_SIDER

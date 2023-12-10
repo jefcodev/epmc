@@ -1,0 +1,357 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201711 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2686                
+POS_VISITOR 8941                
+POS_DAY 9346                
+POS_DOMAIN 3315                
+POS_LOGIN 3568                
+POS_ROBOT 3723                
+POS_WORMS 3971                
+POS_EMAILSENDER 4102                
+POS_EMAILRECEIVER 4245                
+POS_SESSION 9803                
+POS_SIDER 9970                
+POS_FILETYPES 4380                
+POS_DOWNLOADS 4673                
+POS_OS 4980                
+POS_BROWSER 5093                
+POS_SCREENSIZE 5252                
+POS_UNKNOWNREFERER 5326                
+POS_UNKNOWNREFERERBROWSER 5413                
+POS_ORIGIN 5495                
+POS_SEREFERRALS 5631                
+POS_PAGEREFS 5785                
+POS_SEARCHWORDS 8252                
+POS_KEYWORDS 8404                
+POS_MISC 2349                
+POS_ERRORS 8463                
+POS_CLUSTER 3424                
+POS_SIDER_404 8580                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171201010343 8 1156 9458814985299
+FirstTime 20171101061659
+LastTime 20171130130547
+LastUpdate 20171201071957 8 0 7 0 0
+TotalVisits 24                  
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 9                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 10 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 5 7 10130
+1 1 1 0 10 12 22643
+2 2 2 5078 8 14 20580
+3 0 0 0 4 4 9532
+4 1 1 0 6 13 456354
+5 0 0 0 6 12 12625
+6 2 2 2692 4 6 7753
+7 2 2 0 4 6 10441
+8 1 1 2688 8 8 100052
+9 9 58 5772567 6 11 15532
+10 0 0 0 5 8 14320
+11 0 0 0 2 12 51724
+12 1 1 0 7 10 119111
+13 2 2 2688 4 7 109998
+14 3 3 5061 7 9 10462
+15 0 0 0 6 8 15528
+16 26 133 740882 9 17 141049
+17 59 123 1333736 6 11 73115
+18 0 0 0 10 15 126311
+19 2 8 0 6 6 10126
+20 0 0 0 7 11 8068
+21 0 0 0 4 4 10458
+22 0 0 0 1 5 104029
+23 0 0 0 5 9 13155
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+ec 91 317 7844812
+de 12 12 0
+us 8 8 20580
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+bot[\s_+:,\.\;\/\\-] 117 1267282 20171130232855 0
+netcraft 3 24033 20171114092855 0
+googlebot 2 52 20171130104541 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+woff2 3 170340 0 0
+pdf 3 652984 0 0
+css 43 218402 0 0
+jpg 21 4721136 0 0
+woff 18 435277 0 0
+gif 5 17450 0 0
+svg 9 119317 0 0
+png 74 427461 0 0
+tt 1 833 0 0
+js 71 965043 0 0
+Unknown 46 20185 0 0
+html 40 97616 0 0
+php 3 19348 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 6
+/document/CambiodeSocioVehiculo.pdf 3 0 318828
+/document/REQUISSITOS2017.pdf 2 0 880864
+/document/Deshabilitacion.pdf 1 0 101285
+/document/ConcesiondePermiso.pdf 1 0 101908
+/document/ReformadeEstatutos.pdf 1 0 102207
+/document/CambiodeVehiculo.pdf 1 0 105412
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+winnt 58 9
+macosx 8 8
+win8.1 139 26
+win7 132 68
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+firefox58.0 6 0
+chrome61.0.3163.100 65 17
+chrome62.0.3202.94 1 0
+firefox57.0 253 82
+chrome40.0.2214.85 12 12
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 22 30
+From1 0 0
+From2 0 1
+From3 80 251
+From4 9 55
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yahoo 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 24
+https://cpanel.epmc.gob.ec/cpsess3854225206/frontend/paper_lantern/filemanager/index.html 26 42
+https://webmail.epmc.gob.ec/cpsess0160995254/horde/imp/dynamic.php 13 61
+https://cpanel.epmc.gob.ec/cpsess3854225206/frontend/paper_lantern/filemanager/upload-ajax.html 8 11
+https://cpanel.epmc.gob.ec/cpsess3854225206/frontend/paper_lantern/index.html 7 38
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 4 4
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1509530344/frontend/paper_lantern/_assets/css/master-ltr.cmb.min.css 4 4
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 3 3
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1508234725/webmail/paper_lantern/_assets/css/master-legacy-ltr.cmb.min.css 3 3
+https://webmail.epmc.gob.ec/cpsess0160995254/webmail/paper_lantern/index.html 2 10
+https://webmail.epmc.gob.ec 2 5
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1386192030/frontend/paper_lantern/3rdparty/ui-fonts/open_sans/optimized/open_sans.min.css 2 2
+https://cpanel.epmc.gob.ec 2 5
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1424892677/frontend/paper_lantern/3rdparty/fontawesome/css/font-awesome.min.css 1 1
+https://cpanel.epmc.gob.ec/unprotected/loader.html 1 1
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1392312282/frontend/paper_lantern/3rdparty/bootstrap/optimized/css/bootstrap.min.css 1 1
+https://webmail.epmc.gob.ec/unprotected/loader.html 1 1
+https://webmail.epmc.gob.ec/cpsess0160995254/horde/themes/default/screen.css 0 26
+https://webmail.epmc.gob.ec/cpsess0160995254/horde/imp/themes/default/dynamic/screen.css 0 10
+https://webmail.epmc.gob.ec/cpsess0160995254/horde/imp/themes/default/screen.css 0 5
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1508234704/unprotected/cpanel/style_v2_optimized.css 0 7
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1455824270/frontend/paper_lantern/libraries/chosen/1.5.1/chosen.min.css 0 1
+https://cpanel.epmc.gob.ec/styled/current_style/sprites/icon_spritemap.css 0 2
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1508234704/unprotected/cpanel/style_v2_optimized.css 0 7
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1500976615/frontend/paper_lantern/filemanager/css/tree_styles2_optimized.css 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+400 4 52
+404 70 0
+401 14 153445
+302 2 40
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 3
+/noticias.html 1 -
+/robots.txt 54 -
+/index.php 15 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 9
+181.211.103.246 63 161 5665828 20171124172912
+181.113.39.190 26 133 741138 20171107170959
+138.246.253.19 12 12 0 20171130122642
+54.67.67.222 3 3 7434 20171125143836
+54.219.178.100 3 3 7770 20171117022629
+13.56.159.157 2 2 5376 20171130130547
+186.4.170.179 2 16 1331570 20171108090410
+186.46.226.178 0 6 0 
+181.112.224.90 0 1 106276 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20171101 2 2 2692 2
+20171102 1 1 0 1
+20171103 1 1 0 1
+20171107 26 133 741138 1
+20171108 2 16 1331570 1
+20171109 2 2 0 2
+20171110 1 1 0 1
+20171112 0 6 0 0
+20171113 1 1 2705 1
+20171114 7 41 4334721 1
+20171116 1 1 0 1
+20171117 3 3 2373 3
+20171118 1 1 2373 1
+20171121 1 1 2373 1
+20171122 1 1 0 1
+20171124 56 120 1331107 1
+20171125 1 1 2688 1
+20171127 0 1 106276 0
+20171129 2 2 2688 2
+20171130 2 2 2688 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 21
+30mn-1h 1
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 42
+/ 23 28027 22 21
+/cpsess3854225206/json-api/cpanel 21 12215 0 0
+/cpsess0160995254/horde/services/ajax.php/horde/topbarUpdate 11 1408 0 1
+/cpsess3854225206/execute/Fileman/upload_files 5 1908 0 1
+/cpsess3854225206/frontend/paper_lantern/filemanager/upload-ajax.html 4 9238 0 0
+/cpsess3854225206/execute/Fileman/list_files 3 720 0 0
+/unprotected/loader.html 2 1810 2 0
+/cpsess0160995254/horde/imp/dynamic.php 2 14687 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 2 45320 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 2 45816 0 0
+/login/ 2 290 0 0
+/unprotected/redirect.html 2 906 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 2 44864 0 0
+/assets/fonts/fontawesome-webfont.woff 2 65453 0 1
+/contact.html 1 2486 0 0
+/cPanel_magic_revision_1509530344/frontend/paper_lantern/_assets/fonts/fontawesome-webfont.woff2 1 56780 0 0
+/cpsess0160995254/horde/services/ajax.php/imp/dynamicInit 1 997 0 0
+/cPanel_magic_revision_1509530344/frontend/paper_lantern/_assets/css/OpenSans-Bold-webfont.woff 1 22432 0 0
+/cPanel_magic_revision_1508234725/webmail/paper_lantern/_assets/fonts/fontawesome-webfont.woff2 1 56780 0 0
+/cPanel_magic_revision_1509530344/frontend/paper_lantern/_assets/css/OpenSans-Regular-webfont.woff 1 22660 0 0
+/cpsess3854225206/execute/Resellers/list_accounts 1 122 0 0
+/cpsess3854225206/frontend/paper_lantern/ 1 22641 0 0
+/cpsess3854225206/execute/Notifications/get_notifications_count 1 66 0 0
+/cpsess3854225206/frontend/paper_lantern/filemanager/ 1 18150 0 0
+/cPanel_magic_revision_1509530344/frontend/paper_lantern/_assets/fonts/glyphicons-halflings-regular.woff 1 23320 0 0
+/cPanel_magic_revision_1386192030/frontend/paper_lantern/3rdparty/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 1 22660 0 0
+/cpsess3854225206/execute/Themes/list 1 98 0 0
+/cPanel_magic_revision_1508234725/webmail/paper_lantern/_assets/fonts/glyphicons-halflings-regular.woff 1 23320 0 0
+/cPanel_magic_revision_1424892677/frontend/paper_lantern/3rdparty/fontawesome/fonts/fontawesome-webfont.woff2 1 56780 0 0
+/services.html 1 2815 0 0
+/cPanel_magic_revision_1386192030/frontend/paper_lantern/3rdparty/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 1 22432 0 0
+/cpsess3854225206/frontend/paper_lantern/home/views/statistics.html.tt 1 833 0 0
+/cpsess0160995254/execute/Email/list_pops_with_disk 1 262 0 0
+/cPanel_magic_revision_1392312282/frontend/paper_lantern/3rdparty/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 1 23320 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.woff 1 23764 0 0
+/portfolio.html 1 2413 0 0
+/about.html 1 2776 0 0
+/cpsess0160995254/webmail/paper_lantern/ 1 6064 0 0
+/cpsess3854225206/frontend/paper_lantern/softaculous/index.live.php 1 4661 0 0
+/cpsess3854225206/download 1 2389 0 0
+/cPanel_magic_revision_1386192033/webmail/paper_lantern/_assets/css/OpenSans-Regular-webfont.woff 1 22660 0 0
+/cpsess3854225206/frontend/paper_lantern/softaculous/themes/default/fonts/soft.woff 1 27256 0 0
+END_SIDER

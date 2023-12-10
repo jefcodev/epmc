@@ -1,0 +1,1187 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202104 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2691                
+POS_VISITOR 31419               
+POS_DAY 39572               
+POS_DOMAIN 3565                
+POS_LOGIN 4097                
+POS_ROBOT 4252                
+POS_WORMS 4867                
+POS_EMAILSENDER 4998                
+POS_EMAILRECEIVER 5141                
+POS_SESSION 40392               
+POS_SIDER 40574               
+POS_FILETYPES 5276                
+POS_DOWNLOADS 5673                
+POS_OS 21346               
+POS_BROWSER 21567               
+POS_SCREENSIZE 22503               
+POS_UNKNOWNREFERER 22577               
+POS_UNKNOWNREFERERBROWSER 23419               
+POS_ORIGIN 24187               
+POS_SEREFERRALS 24330               
+POS_PAGEREFS 24596               
+POS_SEARCHWORDS 25988               
+POS_KEYWORDS 26195               
+POS_MISC 2354                
+POS_ERRORS 26316               
+POS_CLUSTER 3953                
+POS_SIDER_404 26523               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210501000315 61 10437 11344359392434
+FirstTime 20210401055301
+LastTime 20210430232343
+LastUpdate 20210501072620 61 0 60 0 0
+TotalVisits 145                 
+TotalUnique 124                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 243                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 20 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 29 37 1741834 32 52 294488
+1 23 26 8425746 35 80 1244535
+2 24 24 127933 26 93 1292879
+3 17 18 404588 38 60 813001
+4 16 17 352541 37 54 508818
+5 35 35 265182 28 53 478810
+6 24 81 16298243 92 366 55307630
+7 15 17 8216925 67 101 2509494
+8 25 72 15856864 39 86 1709836
+9 27 137 33053370 40 79 1713118
+10 17 69 24770374 50 101 2071641
+11 30 71 18320205 42 84 1890344
+12 74 173 16800137 36 67 905589
+13 28 70 26235237 35 71 131769
+14 20 92 19526888 44 107 1644445
+15 18 32 41313204 49 74 1390922
+16 30 158 35850372 44 97 329780
+17 30 43 4937452 40 68 138452
+18 41 46 16803337 32 63 1320650
+19 20 30 8553369 44 72 2159421
+20 44 81 15306118 65 470 72363134
+21 37 81 38048250 31 62 1557624
+22 14 19 5221069 41 131 3027081
+23 45 53 18035312 30 70 1212195
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 22
+us 496 557 14013253
+ec 154 835 315183991
+de 11 11 0
+ru 4 6 890200
+ca 4 7 477149
+ma 3 39 6080104
+do 3 3 19114
+jp 2 3 4075446
+nz 1 6 4961696
+ua 1 1 6245
+cz 1 1 31083
+nl 1 1 30851
+gr 1 1 30849
+gb 1 1 12222
+pa 0 1 4065006
+mx 0 1 122928
+in 0 2 4114228
+hn 0 1 4065006
+br 0 1 4065006
+it 0 1 25155
+co 0 1 4065006
+ar 0 2 8130012
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bingbot/ 477 19663441 20210430233754 98
+YandexBot/ 393 71522227 20210430071954 3
+bot[\s_+:,\.\;\/\\-] 359 54207917 20210430073532 91
+no_user_agent 217 200050 20210430201603 0
+AhrefsBot/ 202 981644 20210430201457 45
+bingpreview 183 6350494 20210429111150 0
+unknown 38 988 20210430115303 38
+discover 5 37204 20210428203221 0
+netEstate[\x20]NE[\x20]Crawler 2 6269 20210414043357 1
+Screaming[\x20]Frog[\x20]SEO[\x20]Spider/ 1 6242 20210404204254 0
+YandexImages/ 1 9357 20210428203541 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 18
+woff 26 1064406 0 0
+svg 11 129614 0 0
+Unknown 459 2089671 0 0
+ttf 17 1869388 0 0
+jpeg 10 1931756 0 0
+css 161 1309473 0 0
+php 2 17000 0 0
+html 169 1526032 0 0
+jpg 208 354918040 0 0
+js 286 4189340 0 0
+tiff 1 165 0 0
+gif 3 61448 0 0
+pdf 6 1470990 0 0
+xml 1 1215 0 0
+env 1 12216 0 0
+png 114 3530955 0 0
+webp 1 97 0 0
+woff2 6 342744 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 360
+/uploads/lotaip_1617227718.pdf 6 0 1047846
+/uploads/lotaip_1617047008.pdf 6 0 2425272
+/uploads/lotaip_1617227860.pdf 6 0 1047846
+/uploads/lotaip_1617227329.pdf 6 0 1098528
+/uploads/lotaip_1617032825.xls 6 0 40128
+/uploads/lotaip_1618316976.pdf 5 0 2104865
+/uploads/lotaip_1602516043.pdf 3 0 553899
+/uploads/lotaip_1587821490.pdf 3 0 551142
+/uploads/f_1616089784.pdf 3 0 1882953
+/uploads/lotaip_1613135113.xls 2 0 18964
+/uploads/lotaip_1593701323.pdf 2 0 389133
+/uploads/lotaip_1596646996.pdf 2 0 399780
+/uploads/lotaip_1610998646.xls 2 0 13368
+/uploads/lotaip_1612888737.pdf 2 0 394306
+/uploads/f_1600212134.pdf 2 0 572352
+/uploads/lotaip_1609963556.pdf 2 0 369266
+/uploads/lotaip_1605097865.xls 2 0 36464
+/uploads/lotaip_1606148221.xls 2 0 33118
+/uploads/lotaip_1609964131.pdf 2 0 554098
+/uploads/lotaip_1606149714.xls 2 0 33116
+/uploads/lotaip_1610998796.xls 2 0 27026
+/uploads/lotaip_1617047035.pdf 2 0 811554
+/uploads/lotaip_1617046906.pdf 2 0 808606
+/uploads/lotaip_1610998784.xls 2 0 20640
+/uploads/lotaip_1591650840.pdf 2 0 979586
+/uploads/lotaip_1611005304.xls 2 0 32692
+/uploads/lotaip_1618317445.pdf 2 0 838302
+/uploads/lotaip_1606149775.xls 2 0 30256
+/uploads/lotaip_1610998720.xls 2 0 27030
+/uploads/lotaip_1610998770.xls 2 0 30184
+/uploads/lotaip_1602533204.pdf 2 0 367526
+/uploads/lotaip_1587821404.pdf 2 0 367836
+/uploads/lotaip_1597342197.pdf 2 0 367368
+/uploads/lotaip_1610998685.xls 2 0 30196
+/uploads/lotaip_1588898489.pdf 2 0 437944
+/uploads/lotaip_1597342524.pdf 2 0 433718
+/uploads/lotaip_1588949687.pdf 2 0 850586
+/uploads/lotaip_1588899281.pdf 2 0 439942
+/uploads/lotaip_1611005325.xls 2 0 32692
+/uploads/lotaip_1606149746.xls 2 0 30252
+/uploads/lotaip_1610372477.pdf 2 0 387270
+/uploads/lotaip_1596646951.pdf 2 0 367542
+/uploads/lotaip_1602516855.pdf 2 0 554314
+/uploads/lotaip_1599747376.pdf 2 0 554314
+/uploads/lotaip_1617030712.pdf 2 0 262270
+/uploads/lotaip_1588898457.pdf 2 0 437978
+/uploads/lotaip_1608389938.xls 2 0 19012
+/uploads/lotaip_1588949236.pdf 2 0 853630
+/uploads/lotaip_1610998704.xls 2 0 20634
+/uploads/lotaip_1617227895.pdf 2 0 349282
+/uploads/lotaip_1610998668.xls 2 0 16080
+/uploads/lotaip_1591819481.pdf 2 0 408146
+/uploads/lotaip_1617227550.pdf 2 0 366176
+/uploads/f_1601413024.pdf 2 0 1017312
+/uploads/lotaip_1597339826.pdf 2 0 387622
+/uploads/lotaip_1603209778.pdf 2 0 387478
+/uploads/lotaip_1599747331.pdf 2 0 554314
+/uploads/lotaip_1602516592.pdf 2 0 553568
+/uploads/lotaip_1606148439.xls 2 0 33114
+/uploads/lotaip_1605104543.xls 2 0 13380
+/uploads/lotaip_1617030864.pdf 2 0 263120
+/uploads/lotaip_1607102469.pdf 2 0 554066
+/uploads/F-007%20Formulario%20para%20Habilitaci%C3%B3n%20de%20Veh%C3%ADculo.pdf 2 0 189828
+/uploads/F-011%20Formulario%20de%20Cambio%20de%20Veh%C3%ADculo.pdf 2 0 195956
+/uploads/lotaip_1586823802.pdf 2 0 446478
+/uploads/lotaip_1610998746.xls 2 0 13368
+/uploads/lotaip_1588898029.pdf 2 0 438142
+/uploads/lotaip_1617227014.pdf 2 0 380144
+/uploads/lotaip_1599747191.pdf 2 0 387284
+/uploads/lotaip_1606149635.xls 2 0 30260
+/uploads/lotaip_1597342766.pdf 2 0 400194
+/uploads/lotaip_1597342586.pdf 2 0 432634
+/uploads/lotaip_1617033030.xls 2 0 16094
+/uploads/lotaip_1605104653.xls 2 0 20646
+/uploads/lotaip_1586823855.pdf 2 0 446232
+/uploads/lotaip_1591647278.pdf 2 0 554314
+/uploads/lotaip_1605104561.xls 2 0 16066
+/uploads/lotaip_1617227172.pdf 2 0 380142
+/uploads/lotaip_1587821523.pdf 1 0 183709
+/uploads/lotaip_1597342702.pdf 1 0 199902
+/uploads/lotaip_1596647023.pdf 1 0 225521
+/uploads/lotaip_1617227232.pdf 1 0 190072
+/uploads/f_1610636196.pdf 1 0 316096
+/uploads/lotaip_1599517643.pdf 1 0 219868
+/uploads/lotaip_1597342353.xls 1 0 8042
+/uploads/lotaip_1618317597.pdf 1 0 419511
+/uploads/lotaip_1618317799.pdf 1 0 426255
+/uploads/lotaip_1617047059.pdf 1 0 405256
+/uploads/lotaip_1597342035.pdf 1 0 173464
+/uploads/lotaip_1617227386.pdf 1 0 183094
+/uploads/lotaip_1617227841.pdf 1 0 174639
+/uploads/lotaip_1588899188.pdf 1 0 218553
+/uploads/lotaip_1614201831.pdf 1 0 277048
+/uploads/lotaip_1617047158.pdf 1 0 404306
+/uploads/lotaip_1597342278.pdf 1 0 183797
+/uploads/lotaip_1618316727.pdf 1 0 420443
+/uploads/lotaip_1617227595.pdf 1 0 183090
+/uploads/F-008%20Formulario%20para%20Deshabilitacion%20de%20Veh%C3%ADculo.pdf 1 0 138831
+/uploads/lotaip_1602530782.pdf 1 0 184633
+/uploads/lotaip_1617047122.pdf 1 0 405960
+/uploads/lotaip_1591652745.pdf 1 0 192088
+/uploads/lotaip_1599517579.pdf 1 0 174884
+/uploads/lotaip_1587822276.pdf 1 0 191063
+/uploads/lotaip_1617227031.pdf 1 0 190072
+/uploads/lotaip_1587821322.pdf 1 0 67602
+/uploads/f_1583937890.pdf 1 0 492391
+/uploads/lotaip_1618317547.pdf 1 0 417889
+/uploads/lotaip_1588902717.pdf 1 0 228940
+/uploads/lotaip_1614201507.pdf 1 0 404072
+/uploads/lotaip_1583439974.pdf 1 0 277157
+/uploads/F-003%20Formulario%20de%20Renovaci%C3%B3n%20Permiso%20de%20Operaci%C3%B3n.pdf 1 0 38656
+/uploads/lotaip_1586823656.pdf 1 0 223142
+/uploads/lotaip_1586823528.pdf 1 0 223132
+/uploads/lotaip_1597340024.pdf 1 0 188105
+/uploads/lotaip_1599063714.pdf 1 0 277191
+/uploads/lotaip_1617049745.pdf 1 0 414731
+/uploads/lotaip_1606148506.xls 1 0 16561
+/uploads/lotaip_1583440015.pdf 1 0 277157
+/uploads/lotaip_1602515720.pdf 1 0 197966
+/uploads/lotaip_1587823376.pdf 1 0 194647
+/uploads/lotaip_1587823266.pdf 1 0 191128
+/uploads/lotaip_1617227105.pdf 1 0 190064
+/uploads/lotaip_1617227141.pdf 1 0 190071
+/uploads/lotaip_1617047079.pdf 1 0 404213
+/uploads/lotaip_1606149663.xls 1 0 16557
+/uploads/lotaip_1617030831.pdf 1 0 153984
+/uploads/lotaip_1599237039.pdf 1 0 188753
+/uploads/lotaip_1602533171.pdf 1 0 173436
+/uploads/lotaip_1597342167.pdf 1 0 183777
+/uploads/lotaip_1587823081.pdf 1 0 193898
+/uploads/lotaip_1586823074.pdf 1 0 194220
+/uploads/lotaip_1597339908.pdf 1 0 188105
+/uploads/lotaip_1617033018.xls 1 0 6685
+/uploads/lotaip_1614202797.pdf 1 0 184755
+/uploads/lotaip_1591652901.pdf 1 0 192879
+/uploads/lotaip_1617049959.pdf 1 0 414619
+/uploads/lotaip_1605015817.pdf 1 0 0
+/uploads/lotaip_1602530492.pdf 1 0 407293
+/uploads/lotaip_1618316636.pdf 1 0 420413
+/uploads/lotaip_1588898428.pdf 1 0 218945
+/uploads/lotaip_1586823175.pdf 1 0 194171
+/uploads/lotaip_1597341838.pdf 1 0 173443
+/uploads/lotaip_1586823038.pdf 1 0 194173
+/uploads/lotaip_1597339728.pdf 1 0 188105
+/uploads/lotaip_1618317648.pdf 1 0 417889
+/uploads/lotaip_1617227074.pdf 1 0 190071
+/uploads/lotaip_1596647835.pdf 1 0 191276
+/uploads/lotaip_1617227491.pdf 1 0 183094
+/uploads/lotaip_1597342995.pdf 1 0 199922
+/uploads/lotaip_1617227804.pdf 1 0 174642
+/uploads/lotaip_1618317268.pdf 1 0 418811
+/uploads/lotaip_1591651048.pdf 1 0 121092
+/uploads/lotaip_1596647410.pdf 1 0 173887
+/uploads/lotaip_1617227046.pdf 1 0 190071
+/uploads/lotaip_1602515974.pdf 1 0 187434
+/uploads/lotaip_1617029834.pdf 1 0 277157
+/uploads/lotaip_1599517698.pdf 1 0 231179
+/uploads/lotaip_1587822428.pdf 1 0 191137
+/uploads/lotaip_1618317779.pdf 1 0 416435
+/uploads/lotaip_1586823312.pdf 1 0 194109
+/uploads/lotaip_1591648691.pdf 1 0 408553
+/uploads/lotaip_1617227425.pdf 1 0 183341
+/uploads/lotaip_1617227527.pdf 1 0 183087
+/uploads/lotaip_1597340200.pdf 1 0 188104
+/uploads/lotaip_1597341999.pdf 1 0 173467
+/uploads/lotaip_1597342733.pdf 1 0 199635
+/uploads/lotaip_1606148261.xls 1 0 16559
+/uploads/lotaip_1617227247.pdf 1 0 190072
+/uploads/lotaip_1605016120.pdf 1 0 184770
+/uploads/lotaip_1605016540.pdf 1 0 277046
+/uploads/lotaip_1618316533.pdf 1 0 422270
+/uploads/lotaip_1596647875.pdf 1 0 198137
+/uploads/lotaip_1617231790.xls 1 0 18036
+/uploads/lotaip_1617723707.pdf 1 0 277048
+/uploads/lotaip_1597342248.pdf 1 0 183770
+/uploads/lotaip_1597343339.pdf 1 0 225542
+/uploads/lotaip_1617227876.pdf 1 0 174642
+/uploads/lotaip_1583270839.pdf 1 0 183682
+/uploads/lotaip_1597342822.pdf 1 0 216317
+/uploads/lotaip_1591819605.pdf 1 0 233833
+/uploads/F-005%20Formulario%20de%20Renovaci%C3%B3n%20de%20Contrato%20de%20Operaci%C3%B3n.pdf 1 0 38236
+/uploads/lotaip_1617031967.pdf 1 0 153020
+/uploads/lotaip_1588906869.pdf 1 0 218173
+/uploads/lotaip_1607090128.pdf 1 0 203146
+/uploads/lotaip_1583270406.pdf 1 0 183697
+/uploads/lotaip_1615296481.pdf 1 0 190307
+/uploads/lotaip_1586823236.pdf 1 0 194175
+/uploads/lotaip_1617227156.pdf 1 0 190072
+/uploads/lotaip_1597343283.pdf 1 0 225848
+/uploads/lotaip_1606148582.xls 1 0 16558
+/uploads/lotaip_1606149959.xls 1 0 7136
+/uploads/lotaip_1605104688.xls 1 0 13535
+/uploads/lotaip_1587822519.pdf 1 0 191763
+/uploads/lotaip_1617227667.pdf 1 0 174641
+/uploads/f_1583937445.pdf 1 0 368995
+/uploads/lotaip_1599061743.pdf 1 0 198630
+/uploads/F-009%20Formulario%20de%20Cambio%20de%20Socio%20%20con%20Habilitacion%20Veh%C3%ADculo.pdf 1 0 128267
+/uploads/lotaip_1588949585.pdf 1 0 418854
+/uploads/lotaip_1617226993.pdf 1 0 190071
+/uploads/lotaip_1588899434.pdf 1 0 219016
+/uploads/lotaip_1618317387.pdf 1 0 419783
+/uploads/lotaip_1599517607.pdf 1 0 185500
+/uploads/f_1603477246.pdf 1 0 509883
+/uploads/lotaip_1603209896.pdf 1 0 238653
+/uploads/lotaip_1586823833.pdf 1 0 223088
+/uploads/lotaip_1617047188.pdf 1 0 405780
+/uploads/lotaip_1617227736.pdf 1 0 174641
+/uploads/lotaip_1618318104.pdf 1 0 417019
+/uploads/lotaip_1617227824.pdf 1 0 174643
+/uploads/lotaip_1617046933.pdf 1 0 404212
+/uploads/lotaip_1606149684.xls 1 0 15125
+/uploads/F-001%20Formulario%20de%20Informe%20Previo%20de%20Constituci%C3%B3n%20Jur%C3%ADdica.xls.pdf 1 0 37239
+/uploads/lotaip_1597339632.pdf 1 0 188105
+/uploads/lotaip_1618317337.pdf 1 0 419511
+/uploads/lotaip_1614202861.pdf 1 0 184774
+/uploads/lotaip_1597341806.pdf 1 0 173461
+/uploads/lotaip_1602533267.pdf 1 0 200107
+/uploads/lotaip_1586823125.pdf 1 0 194114
+/uploads/lotaip_1586824656.pdf 1 0 277157
+/uploads/lotaip_1618316513.pdf 1 0 422345
+/uploads/lotaip_1591648133.pdf 1 0 121092
+/uploads/f_1600211989.pdf 1 0 452938
+/uploads/lotaip_1617227697.pdf 1 0 174644
+/uploads/lotaip_1617722817.xls 1 0 6675
+/uploads/F-006%20Formulario%20de%20Incremento%20de%20Cupo.pdf 1 0 39871
+/uploads/lotaip_1593700477.pdf 1 0 190537
+/uploads/F-012%20Formulario%20Cambio%20de%20Socio.pdf 1 0 127994
+/uploads/lotaip_1591648811.pdf 1 0 407293
+/uploads/lotaip_1617029809.pdf 1 0 277157
+/uploads/lotaip_1617049773.pdf 1 0 414617
+/uploads/lotaip_1606148653.xls 1 0 16539
+/uploads/lotaip_1617118910.xls 1 0 13843
+/cpsess1704859922/3rdparty/roundcube/program/resources/dummy.pdf 1 0 686
+/uploads/lotaip_1618316763.pdf 1 0 424474
+/uploads/lotaip_1587821351.pdf 1 0 183918
+/uploads/lotaip_1617226971.pdf 1 0 190072
+/uploads/lotaip_1617050389.pdf 1 0 426263
+/uploads/lotaip_1606149606.xls 1 0 15130
+/uploads/lotaip_1618316593.pdf 1 0 418278
+/uploads/lotaip_1618317982.pdf 1 0 419783
+/uploads/lotaip_1603209688.pdf 1 0 193613
+/uploads/lotaip_1596634224.pdf 1 0 235818
+/uploads/lotaip_1597340256.pdf 1 0 188104
+/uploads/lotaip_1586823425.pdf 1 0 194182
+/uploads/lotaip_1583269807.pdf 1 0 183919
+/uploads/lotaip_1591650889.pdf 1 0 432642
+/uploads/lotaip_1593700431.pdf 1 0 191244
+/uploads/lotaip_1617031034.pdf 1 0 173258
+/uploads/lotaip_1586823618.pdf 1 0 223139
+/uploads/f_1610636170.pdf 1 0 1438878
+/uploads/lotaip_1617118991.xls 1 0 10026
+/uploads/lotaip_1597343390.pdf 1 0 225485
+/uploads/lotaip_1596653713.pdf 1 0 194640
+/uploads/lotaip_1606148683.xls 1 0 16531
+/uploads/lotaip_1588906769.pdf 1 0 226109
+/uploads/lotaip_1618317757.pdf 1 0 417868
+/uploads/lotaip_1583440097.pdf 1 0 277157
+/uploads/lotaip_1617227474.pdf 1 0 183090
+/uploads/lotaip_1597342220.pdf 1 0 183797
+/uploads/f_1598559023.pdf 1 0 564883
+/uploads/lotaip_1618318157.pdf 1 0 417019
+/uploads/lotaip_1591647245.pdf 1 0 277157
+/uploads/lotaip_1617227126.pdf 1 0 190071
+/uploads/f_1610635218.pdf 1 0 177365
+/uploads/lotaip_1597342311.pdf 1 0 184086
+/uploads/lotaip_1607089386.pdf 1 0 184758
+/uploads/lotaip_1583440075.pdf 1 0 277157
+/uploads/lotaip_1617050135.pdf 1 0 416888
+/uploads/lotaip_1587822853.pdf 1 0 191386
+/uploads/lotaip_1599517662.pdf 1 0 202150
+/uploads/lotaip_1583440041.pdf 1 0 277157
+/uploads/lotaip_1618318126.pdf 1 0 418463
+/uploads/lotaip_1596822684.pdf 1 0 404069
+/uploads/F-010%20Formulario%20de%20Cambio%20de%20Socio%20y%20Veh%C3%ADculo.pdf 1 0 84034
+/uploads/lotaip_1617227404.pdf 1 0 183094
+/uploads/lotaip_1588899499.pdf 1 0 218994
+/uploads/lotaip_1617231669.xls 1 0 9474
+/uploads/lotaip_1617227639.pdf 1 0 174641
+/uploads/lotaip_1617227215.pdf 1 0 190071
+/uploads/f_1605962813.pdf 1 0 544686
+/uploads/lotaip_1617119045.xls 1 0 13848
+/uploads/lotaip_1587822963.pdf 1 0 190582
+/uploads/lotaip_1618317302.pdf 1 0 419070
+/uploads/lotaip_1597342558.pdf 1 0 216748
+/uploads/lotaip_1618317033.pdf 1 0 417889
+/uploads/lotaip_1617046968.pdf 1 0 404213
+/uploads/lotaip_1593699444.pdf 1 0 191266
+/uploads/lotaip_1618316670.pdf 1 0 421101
+/uploads/lotaip_1586823502.pdf 1 0 223117
+/uploads/lotaip_1596646836.pdf 1 0 173465
+/uploads/lotaip_1617047228.pdf 1 0 404213
+/uploads/lotaip_1586823287.pdf 1 0 194102
+/uploads/lotaip_1617031103.pdf 1 0 170169
+/uploads/lotaip_1597342067.pdf 1 0 173954
+/uploads/lotaip_1583440004.pdf 1 0 277157
+/uploads/lotaip_1597342618.pdf 1 0 216329
+/uploads/lotaip_1617227348.pdf 1 0 183088
+/uploads/lotaip_1588949345.pdf 1 0 417431
+/uploads/lotaip_1587821683.pdf 1 0 183901
+/uploads/lotaip_1606149799.xls 1 0 15126
+/uploads/lotaip_1588899531.pdf 1 0 219032
+/uploads/lotaip_1615901401.pdf 1 0 431228
+/uploads/lotaip_1617227510.pdf 1 0 183094
+/uploads/lotaip_1618315970.pdf 1 0 431367
+/uploads/lotaip_1617227274.pdf 1 0 190071
+/uploads/lotaip_1603209818.pdf 1 0 238640
+/uploads/lotaip_1586824624.pdf 1 0 277157
+/uploads/lotaip_1587822362.pdf 1 0 194104
+/uploads/lotaip_1597342469.pdf 1 0 215318
+/uploads/lotaip_1605104629.xls 1 0 14603
+/uploads/lotaip_1586823583.pdf 1 0 223152
+/uploads/lotaip_1588907212.pdf 1 0 227173
+/uploads/lotaip_1588899138.pdf 1 0 219806
+/uploads/lotaip_1588898396.pdf 1 0 218983
+/uploads/lotaip_1618317818.pdf 1 0 417019
+/uploads/lotaip_1617227784.pdf 1 0 174642
+/uploads/F-002%20Formulario%20de%20Concesi%C3%B3n%20de%20Permiso%20de%20Operaci%C3%B3n.pdf 1 0 39706
+/uploads/lotaip_1597343253.pdf 1 0 226828
+/uploads/f_1601413112.pdf 1 0 511694
+/uploads/lotaip_1617048837.pdf 1 0 185151
+/uploads/lotaip_1586824576.pdf 1 0 277157
+/uploads/lotaip_1597343194.pdf 1 0 224308
+/uploads/lotaip_1617231847.xls 1 0 18036
+/uploads/lotaip_1586823203.pdf 1 0 194178
+/uploads/lotaip_1618316494.pdf 1 0 422345
+/uploads/lotaip_1597342498.pdf 1 0 214706
+/uploads/lotaip_1618318033.pdf 1 0 419783
+/uploads/lotaip_1597342793.pdf 1 0 200074
+/uploads/lotaip_1586824597.pdf 1 0 277157
+/uploads/lotaip_1617029767.pdf 1 0 277157
+/uploads/lotaip_1588949133.pdf 1 0 416743
+/uploads/lotaip_1618317577.pdf 1 0 419070
+/uploads/lotaip_1606149537.xls 1 0 15128
+/uploads/lotaip_1617118744.xls 1 0 6682
+/uploads/lotaip_1597341774.pdf 1 0 173462
+/uploads/lotaip_1596653822.xlsx 1 0 67139
+/uploads/lotaip_1602533355.pdf 1 0 225759
+/uploads/lotaip_1611005414.xls 1 0 16351
+/uploads/lotaip_1597343224.pdf 1 0 223386
+/uploads/lotaip_1610998758.xls 1 0 8040
+/uploads/lotaip_1617231596.xls 1 0 9476
+/uploads/lotaip_1583435639.pdf 1 0 184310
+/uploads/lotaip_1602533241.pdf 1 0 216555
+/uploads/lotaip_1608390011.xls 1 0 18333
+/uploads/F-004%20Formulario%20de%20Concesion%20de%20Contrato%20de%20Operaci%C3%B3n.pdf 1 0 38893
+/uploads/lotaip_1618316186.pdf 1 0 414707
+/uploads/lotaip_1597343313.pdf 1 0 225477
+/uploads/lotaip_1599747409.pdf 1 0 277157
+/uploads/lotaip_1617227190.pdf 1 0 190072
+/uploads/lotaip_1617227091.pdf 1 0 190071
+/uploads/lotaip_1588949510.pdf 1 0 405552
+/uploads/lotaip_1597342966.pdf 1 0 199856
+/uploads/lotaip_1586823690.pdf 1 0 223135
+/uploads/lotaip_1615296714.pdf 1 0 277205
+/uploads/lotaip_1610372367.pdf 1 0 238582
+/uploads/lotaip_1605097899.xls 1 0 9490
+/uploads/lotaip_1617050158.pdf 1 0 426265
+/uploads/lotaip_1617227370.pdf 1 0 183087
+/uploads/lotaip_1589399208.pdf 1 0 418367
+/uploads/lotaip_1617032804.xls 1 0 8048
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+Unknown 468 467
+win8.1 8 0
+win10 720 130
+linuxandroid 122 6
+unix 1 0
+ios_iphone 11 0
+linux 11 11
+macosx9 2 2
+macosx10 1 1
+win7 102 60
+macosx 4 2
+win8 32 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 43
+firefox64.0 1 1
+chrome88.0.4324.150 4 0
+chrome90.0.4430.72 3 0
+chrome74.0.3729.169 3 3
+firefox77.0 1 1
+chrome89.0.4389.86 2 0
+chrome90.0.4430.91 3 0
+firefox87.0 8 1
+chrome60.0.3112.113 4 0
+chrome90.0.4430.82 4 0
+firefox62.0 1 1
+edge13 34 4
+firefox47.0 2 2
+chrome89.0.4389.114 315 27
+firefox86.0 1 0
+msie9.0 18 0
+safari13.1 1 1
+chrome88.0.4324.208 1 0
+firefox88.0 149 58
+chrome88.0.4324.146 11 11
+chrome90.0.4430.85 135 14
+firefox56.0 1 0
+chrome42.0.2311.90 1 1
+chrome89.0.4389.128 85 6
+chrome89.0.4389.90 7 4
+opera75.0.3969.243 1 0
+chrome90.0.4430.66 7 0
+opera75.0.3969.218 1 0
+chrome83.0.4103.97 9 9
+chrome34.0.1847.137 2 2
+chrome83.0.4103.106 2 1
+safari 2 0
+safari14.0.3 9 0
+chrome89.0.4389.105 106 5
+safari10.1.2 1 1
+mozilla 6 6
+chrome51.0.2704.103 55 55
+chrome89.0.4389.82 2 2
+Unknown 463 462
+chrome73.0.3683.103 2 2
+firefox72.0 1 1
+chrome88.0.4324.190 2 2
+chrome90.0.4430.93 16 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20210406052225
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210411075504
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210430050422
+fasthttp 20210429135616
+Go-http-client/1.1 20210427030116
+Mozilla/5.0_(compatible;_PR-CY.RU;___https://a.pr-cy.ru) 20210406134706
+scalaj-http/2.4.2 20210430115301
+Buck/2.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20210430120030
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Microsoft_Office/14.0_(Windows_NT_6.2;_Microsoft_Outlook_14.0.7268;_Pro) 20210423083733
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210411075504
+Go-http-client/1.1 20210427030116
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210430050422
+fasthttp 20210429135616
+Buck/2.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20210430120030
+scalaj-http/2.4.2 20210430115301
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 572 591
+From1 0 0
+From2 19 164
+From3 59 144
+From4 33 583
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 7
+yandexru 0 2
+bing 12 13
+www_google_com_hk 1 1
+www_google_es 0 2
+www_google_com_ec 0 5
+google_com 0 1
+www_google_com 6 140
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 16
+https://webmail.epmc.gob.ec/cpsess1704859922/3rdparty/roundcube/ 19 43
+https://cpanel.epmc.gob.ec 13 41
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1612432714/webmail/paper_lantern/_assets/css/master-legacy-ltr.cmb.min.css 6 6
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1612432830/frontend/paper_lantern/_assets/css/master-ltr.cmb.min.css 6 6
+https://webmail.epmc.gob.ec/cpsess1704859922/3rdparty/roundcube/skins/elastic/styles/styles.css 4 4
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 3 3
+http://premierlawgroup.net 2 2
+https://webmail.epmc.gob.ec 2 24
+https://a.pr-cy.ru/www.epmc.gob.ec 1 1
+http://webmail.epmc.gob.ec/wp-login.php 1 1
+https://cpanel.epmc.gob.ec/unprotected/loader.html 1 1
+https://cpanel.epmc.gob.ec/unprotected/redirect.html 1 1
+https://cpanel.epmc.gob.ec/styled/current_style/sprites/icon_spritemap.css 0 2
+https://webmail.epmc.gob.ec/cpsess1704859922/3rdparty/roundcube/plugins/return_to_webmail/skins/elastic/return_to_webmail.css 0 1
+https://webmail.epmc.gob.ec/cpsess1704859922/3rdparty/roundcube/skins/elastic/watermark.html 0 1
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1612432703/unprotected/cpanel/style_v2_optimized.css 0 7
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+calendario+de+placas+de+matriculacion+vehicular+2021 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 6
+de 4
+placas 2
+calendario 2
+matriculacion 2
+vehicular 2
+2021 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 11
+206 90 2770027
+400 10 312
+308 2 198
+405 4 1752
+302 2 0
+301 210 60713
+403 2 12487
+404 220 132913
+401 31 835
+500 76 37635
+307 1 171
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 95
+/ads.txt 2 -
+/services.html 1 -
+/noticias.html 1 -
+/uploads/lotaip_1588902839.pdf 3 -
+/_ignition/execute-solution 1 -
+/index.php/2019/07/19/ruthless-cheap-assignment-help-strategies-exploited 1 -
+/index.php/2019/06/05/the-advantages-of-professional-cover-letter-writer 1 -
+/uploads/lotaip_1583952785.pdf 1 -
+/index.php/2019/06/18/the-fight-against-apa-format-research-paper-example-5 1 -
+/about.html 1 -
+/uploads/lotaip_1583952765.pdf 1 -
+/uploads/f-006%20formulario%20de%20incremento%20de%20cupo.pdf 1 -
+/index.php/2019/05/28/one-of-the-most-overlooked-solutions-for-what-is-literature-review-in-research 1 -
+/sistema-turnos 1 -
+/index.php/2019/07/02/the-essay-papers-to-buy-game 1 -
+/xmlrpc.php 1 -
+/uploads/lotaip_1583952793.pdf 1 -
+/uploads/lotaip_1602516081.pdf 1 -
+/uploads/lotaip_1583952756.pdf 1 -
+/wp-content/db-cache.php 3 -
+/index.php/2019/07/26/wahl-bachelor-arbeit-aussetzen-ist-einfach 1 -
+/uploads/lotaip_1583952726.pdf 1 -
+/index.php/2019/08/17/if-you-read-nothing-else-today-read-this-report-on-which-of-the-following-is-a-good-way-to-approach-answering-an-essay-questio 1 -
+/uploads/lotaip_1593701405.pdf 3 -
+/uploads/f-002%20formulario%20de%20concesi%C3%B3n%20de%20permiso%20de%20operaci%C3%B3n.pdf 1 -
+/index.php/2019/06/15/the-fight-against-apa-format-research-paper-example-4 1 -
+/uploads/lotaip_1583952737.pdf 1 -
+/index.php/2019/07/08/the-death-of-pay-for-term-papers-3 1 -
+/uploads/lotaip_1583952808.pdf 1 -
+/index.php/2019/08/30/what-to-do-about-buy-assignment-au-before-its-too-late 1 -
+/document/CambiodeVehiculo.pdf 1 -
+/owa/auth/logon.aspx 2 -
+/sitemap.xml 1 -
+/index.php/2019/09/24/importance-of-pieces-of-paper-editing-represents-6 1 -
+/uploads/lotaip_1586825624.pdf 1 -
+/uploads/f-004%20formulario%20de%20concesion%20de%20contrato%20de%20operaci%C3%B3n.pdf 1 -
+/uploads/lotaip_1596822715.pdf 3 -
+/vendor/.env 3 -
+/index.php/2019/04/25/50-creative-writing-matters-for-youths 1 -
+/xmlrp.php 3 www.google.com
+/uploads/lotaip_1583254924.pdf 1 -
+/index.php/2019/06/12/the-fight-against-apa-format-research-paper-example-2 1 -
+/index.php/transparencia 1 -
+/index.php/2019/06/13/the-fight-against-apa-format-research-paper-example-3 1 -
+/index.php/2019/06/09/how-to-understand-cancer-symptoms 1 -
+/index.php/2019/07/29/whos-talking-about-dissertation-results-and-why-you-should-be-worried 1 -
+/index.php/2019/07/11/1730 1 -
+/uploads/lotaip_1583952708.pdf 1 -
+/uploads/lotaip_1588897088.pdf 3 -
+/uploads/f-011%20formulario%20de%20cambio%20de%20veh%C3%ADculo.pdf 1 -
+/index.php/2019/06/23/guide-to-creating-a-conversation-in-an-homework-6 1 -
+/index.php/2019/06/15/custom-writings-secrets-that-no-one-else-knows-about-2 1 -
+/index.php/2019/09/04/the-best-reason-you-ought-not-buy-land-based 1 -
+/index.php/2018/09/20/realistic-products-for-best-beauty-brides 1 -
+/uploads/lotaip_1583435264.pdf 1 -
+/.env 5 -
+/img/crane.png 57 -
+/uploads/lotaip_1583435576.pdf 1 -
+/public/.env 3 -
+/index.php/2019/08/05/einfhrung-diplomarbeit-2 1 -
+/uploads/lotaip_1583952775.pdf 1 -
+/index.php/2019/07/24/die-gliederung-einer-hausarbeit-zu-vertuschen 1 -
+/uploads/lotaip_1612888680.xls 3 -
+/index.php/2019/08/14/wynn-hotels-limited-makes-sense-35-certain-million-4 1 -
+/uploads/lotaip_1610637138.pdf 3 -
+/uploads/lotaip_1611005347.xls 3 -
+/index.php/2019/08/12/a-fools-handbook-to-how-to-boost-your-technical-skills 1 -
+/index.php/requisitos 4 -
+/index.php/2018/07 1 -
+/uploads/lotaip_1593701249.pdf 3 -
+/index.php/2019/07/11/1724 1 -
+/index.php/2019/07/11/1728 1 -
+/info@epmc.gob.ec 3 -
+/storage/.env 3 -
+/uploads/lotaip_1583269048.pdf 1 -
+/index.php/2019/09/20/nursing-theories-levine-guide 1 -
+/uploads/lotaip_1607089346.pdf 1 -
+/document/ConcesiondePermiso.pdf 3 -
+/index.php/2019/09/14/the-30-second-trick-for-what-is-y-intercept-in-math-2 1 -
+/uploads/lotaip_1583952800.pdf 1 -
+/index.php/2019/07/29/heres-what-i-know-about-what-is-the-best-paper-writing-service 1 -
+/uploads/lotaip_1583270957.pdf 3 -
+/uploads/f-008%20formulario%20para%20deshabilitacion%20de%20veh%C3%ADculo.pdf 1 -
+/document/Habilitaciondevehiculo.pdf 3 -
+/wp-login.php 1 -
+/index.php/2019/03 1 -
+/index.php/2019/07/21/writing-a-report-outline-secrets 1 -
+/index.php/2019/07/31/120-exploratory-essay-topics-the-ultimate-guide-3 1 -
+/manifest.json 25 https://epmc.gob.ec/turnos
+/uploads/lotaip_1583952746.pdf 1 -
+/index.php/2019/04/24/who-else-wants-to-learn-about-synthetic-biology 1 -
+/uploads/f-010%20formulario%20de%20cambio%20de%20socio%20y%20veh%C3%ADculo.pdf 1 -
+/index.php/2019/07/16/dissertation-editing-rates-a-brief-overview 1 -
+/index.php/contactos 3 -
+/vendor/phpunit/phpunit/phpunit.xml 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 243
+181.211.103.245 61 147 2762502 20210428081121
+52.86.17.10 26 26 104594 20210429153354
+3.83.64.255 26 26 114319 20210418205224
+3.81.32.152 13 13 62888 20210428182119
+44.192.18.188 13 13 62787 20210417214123
+54.166.219.201 13 13 63155 20210426015540
+100.26.236.104 13 13 62221 20210427214438
+52.23.222.236 13 13 62666 20210402235746
+3.84.46.161 13 13 62804 20210407081349
+54.234.156.163 13 13 52312 20210408054620
+100.26.22.11 13 13 62440 20210412132742
+3.235.252.152 13 13 52803 20210409233201
+18.209.11.119 13 13 53046 20210409020337
+34.228.167.113 13 13 52930 20210423061806
+54.91.248.23 13 13 52717 20210416004705
+18.208.187.157 13 13 52086 20210403201421
+54.208.188.12 13 13 52817 20210420161027
+52.72.17.87 13 13 61875 20210402023230
+52.87.254.228 13 13 62142 20210406114125
+52.91.122.20 13 13 52566 20210401060047
+3.237.195.18 13 13 62549 20210422095501
+34.224.94.86 13 13 62703 20210430120030
+174.129.155.17 13 13 52666 20210411171447
+3.85.100.225 13 13 62903 20210424034735
+18.207.141.154 13 13 52015 20210421122408
+34.86.35.11 1 1 31141 20210416180542
+34.77.162.2 1 1 37923 20210427054824
+13.66.139.70 0 2 19141 
+181.199.34.129 0 1 4065006 
+190.63.254.230 0 1 4065006 
+181.188.200.66 0 1 259142 
+207.46.13.12 0 1 306 
+194.50.142.67 0 1 404466 
+34.77.162.24 1 1 30851 20210408133727
+190.12.11.249 8 65 13868480 20210427194903
+186.101.137.5 4 34 4704734 20210409163625
+190.95.181.27 0 1 255087 
+186.71.136.38 0 1 4065006 
+190.130.221.97 4 34 4704734 20210412115425
+181.175.138.245 0 1 4065006 
+186.47.182.48 0 1 234083 
+45.224.150.4 3 36 1581902 20210406160046
+186.47.139.231 0 1 4065006 
+191.100.26.203 0 1 4065006 
+200.7.194.18 0 1 4065006 
+181.188.201.254 0 1 49222 
+181.188.216.154 5 5 17500 20210427183852
+181.199.54.215 0 3 552549 
+190.214.12.26 0 1 4065006 
+92.118.160.37 1 1 30849 20210411075504
+167.99.160.114 1 1 0 20210423234824
+204.199.146.161 3 3 10329 20210408175243
+45.71.254.5 0 3 770294 
+45.169.146.92 0 1 4065006 
+186.3.124.170 0 1 4065006 
+186.46.195.19 0 4 997552 
+181.199.41.163 0 1 4065006 
+187.147.140.248 0 1 122928 
+181.199.59.209 0 1 4065006 
+191.99.129.194 0 1 4065006 
+138.197.69.183 1 1 31141 20210406041014
+138.68.31.209 1 1 0 20210421053129
+190.96.96.139 0 1 4065006 
+34.96.130.25 2 2 61992 20210416133823
+3.90.186.141 11 11 44949 20210427200432
+207.46.13.48 0 2 1056 
+52.12.176.7 1 1 6244 20210413141334
+207.46.13.80 0 2 120068 
+35.153.226.93 4 4 15352 20210405142212
+24.108.199.91 0 1 160966 
+181.199.42.112 2 2 6808 20210405175141
+192.99.18.122 1 1 6242 20210425100721
+186.47.182.224 0 1 4065006 
+181.199.54.135 0 1 4065006 
+200.7.246.75 1 1 905 20210415223715
+190.63.1.106 3 3 10473 20210408181742
+201.183.165.148 0 1 4065006 
+13.57.15.220 1 1 6243 20210427063242
+192.151.156.188 1 1 6245 20210413112345
+200.7.247.186 2 47 3530262 20210413091356
+181.199.34.147 0 1 4065006 
+81.173.112.207 1 1 30851 20210405184409
+190.152.8.164 0 1 4065006 
+35.164.3.84 1 1 6244 20210421143014
+176.49.1.80 0 1 404466 
+165.227.176.181 1 1 30851 20210406050151
+157.90.175.149 1 1 6238 20210404022149
+45.71.201.55 1 1 3468 20210417071438
+34.77.162.9 2 2 61702 20210419180427
+200.31.28.187 0 1 4065006 
+186.101.178.87 0 1 4065006 
+190.63.1.66 0 1 272230 
+8.242.223.83 0 1 4065006 
+181.39.208.49 0 1 4065006 
+179.49.37.49 0 1 4065006 
+45.71.203.68 0 1 4065006 
+200.7.246.127 3 3 10344 20210413163208
+186.4.154.68 0 1 4065006 
+181.199.34.53 0 1 4065006 
+190.123.32.204 0 1 4065006 
+190.110.43.43 3 3 19114 20210409050250
+186.4.209.151 0 2 8130012 
+186.4.212.204 3 33 4700090 20210406163700
+131.196.9.153 0 1 160966 
+181.199.41.90 0 5 1092870 
+186.3.160.235 0 1 4065006 
+186.69.72.216 3 3 15654 20210427085705
+34.77.162.6 2 2 62224 20210423173714
+34.86.35.4 1 1 31141 20210420134632
+200.105.247.107 0 1 4065006 
+186.3.210.150 0 1 4065006 
+186.46.225.227 2 2 6976 20210406230606
+200.125.231.205 4 34 4704734 20210403133348
+167.250.180.108 0 2 98444 
+190.155.30.154 0 1 259142 
+34.77.162.10 1 1 31141 20210413152700
+190.214.123.45 0 1 4065006 
+138.128.118.130 1 1 6243 20210407185839
+186.46.173.123 3 3 10554 20210412210121
+181.196.72.144 0 1 272230 
+181.199.42.236 0 1 138484 
+52.40.204.163 1 1 6245 20210419141933
+44.234.49.88 1 1 6242 20210414140400
+186.43.191.37 0 1 4065006 
+131.196.9.165 0 1 138484 
+45.55.62.30 1 1 37923 20210406052225
+181.199.54.118 0 1 4065006 
+134.122.89.123 0 4 1234486 
+181.196.72.214 0 1 4065006 
+186.70.129.200 0 2 659553 
+190.217.7.82 0 1 4065006 
+190.109.120.14 0 1 4065006 
+200.7.247.42 0 1 4065006 
+181.113.100.244 0 1 238922 
+186.178.107.157 0 1 4065006 
+181.188.200.159 0 1 4065006 
+200.24.136.52 0 1 4065006 
+190.152.233.32 0 1 4065006 
+104.248.33.132 2 2 12492 20210428151819
+186.42.106.109 0 1 112823 
+34.208.186.11 1 1 6242 20210427141230
+35.81.76.146 1 1 6244 20210421142135
+34.77.162.21 1 1 31083 20210420205419
+157.100.91.123 3 33 4700090 20210405141927
+200.25.142.46 0 1 4065006 
+34.77.162.14 1 1 31083 20210416111019
+200.124.251.121 0 1 4065006 
+181.188.201.36 2 45 3476165 20210407080113
+34.96.130.13 1 1 30849 20210402031531
+52.40.154.141 1 1 6244 20210423142839
+45.189.56.2 0 1 49222 
+190.63.1.136 0 1 238922 
+13.66.139.10 0 1 2022 
+45.224.150.209 0 1 4065006 
+191.100.157.146 0 1 272230 
+204.199.146.167 0 4 261951 
+200.105.247.206 3 46 3535194 20210409105657
+34.77.162.26 1 1 31141 20210427233211
+186.46.33.107 0 1 4065006 
+34.204.196.23 1 1 12216 20210420234935
+146.148.65.39 0 1 235818 
+190.152.206.184 0 3 765035 
+200.7.247.109 3 3 10518 20210428144306
+146.120.204.209 1 1 31083 20210406134706
+190.152.237.6 3 33 4700090 20210420212221
+190.63.150.12 1 1 3509 20210426174702
+181.198.119.28 6 60 11784697 20210427092920
+186.47.136.99 3 33 4700090 20210404160024
+200.125.237.114 0 1 25155 
+186.71.157.72 0 1 4065006 
+179.49.54.244 0 2 51463 
+13.66.139.22 0 3 6968 
+186.46.172.166 1 2 7456 20210404175540
+186.4.222.39 0 1 4065006 
+157.100.54.93 0 1 4065006 
+45.224.150.230 0 1 160966 
+13.66.139.100 0 1 2615 
+13.66.139.95 0 5 47622 
+170.244.208.118 3 4 269141 20210427055724
+200.124.251.96 0 1 4065006 
+190.57.151.62 0 1 4065006 
+79.37.173.226 0 1 25155 
+52.48.189.218 1 1 0 20210412064730
+181.199.44.53 0 2 4187934 
+190.111.93.64 0 1 95318 
+34.77.162.3 1 1 31083 20210423180320
+190.152.200.12 1 5 55549 20210402192749
+34.219.252.62 1 1 6241 20210417141651
+51.68.40.21 1 1 12222 20210418004922
+190.11.3.118 3 33 4700090 20210407142411
+186.101.181.121 0 1 4065006 
+18.133.184.150 2 2 62225 20210429135616
+201.218.46.182 0 1 4065006 
+157.100.91.232 0 1 4065006 
+200.125.251.200 0 1 259142 
+207.46.13.75 0 1 30679 
+190.152.83.153 0 1 267420 
+34.86.35.22 1 1 30851 20210409082332
+181.199.120.6 0 1 4065006 
+54.165.118.79 13 13 52889 20210415043057
+94.130.104.19 1 1 6245 20210408015834
+190.152.129.149 2 3 12681 20210405192104
+80.92.206.251 2 2 12494 20210426080131
+54.190.98.245 1 1 6241 20210418142117
+186.66.61.116 0 1 259142 
+184.73.50.154 7 7 28586 20210404174641
+192.241.71.170 1 1 6244 20210429031017
+3.238.217.78 13 13 52510 20210419183803
+34.86.35.6 1 1 31140 20210430050422
+186.47.136.97 6 6 20826 20210422200043
+181.112.85.9 0 1 4065006 
+34.229.72.20 13 13 62518 20210410195843
+191.103.86.63 0 1 4065006 
+34.86.35.27 1 1 30851 20210423012923
+186.70.160.30 0 1 238922 
+160.20.167.51 0 1 4065006 
+181.198.253.14 0 1 4065006 
+200.7.246.239 0 1 4065006 
+138.197.70.198 1 1 37911 20210406041935
+45.225.88.170 0 1 272230 
+34.229.24.188 13 13 62408 20210425001619
+3.80.37.88 13 13 63164 20210426222958
+34.86.35.32 1 1 30851 20210427021543
+190.152.200.78 0 4 471871 
+190.154.90.125 0 1 4065006 
+186.178.168.95 0 1 259142 
+190.63.127.234 3 3 10449 20210414120253
+186.178.170.94 0 1 4065006 
+190.57.151.4 0 6 1700902 
+45.71.184.11 0 1 122928 
+131.196.9.215 3 3 10491 20210422212514
+138.246.253.24 11 11 0 20210430232343
+185.222.57.84 2 2 68774 20210427030323
+186.47.137.24 0 2 329230 
+164.163.160.159 2 2 10440 20210428013056
+69.197.185.132 1 1 6248 20210419150118
+47.20.160.38 3 33 4700090 20210423201646
+138.185.136.228 0 1 4065006 
+18.207.1.225 13 13 52594 20210413105837
+165.227.27.131 1 1 0 20210418022029
+190.63.241.126 6 6 20790 20210426091259
+165.227.124.1 1 1 31083 20210406040636
+186.4.172.182 0 1 4065006 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20210401 13 17 961344 1
+20210402 29 34 483169 5
+20210403 18 51 9175866 3
+20210404 12 46 9106826 4
+20210405 13 46 12896699 6
+20210406 28 89 13787762 11
+20210407 19 95 9212697 4
+20210408 23 27 8514693 7
+20210409 39 116 24686907 8
+20210410 13 15 8192530 1
+20210411 14 15 487981 2
+20210412 22 57 17327385 5
+20210413 22 79 21506026 7
+20210414 17 22 12474493 3
+20210415 15 19 12516232 3
+20210416 30 35 4477603 6
+20210417 15 23 2355229 3
+20210418 16 16 80802 4
+20210419 17 23 24517031 5
+20210420 19 65 21522952 5
+20210421 17 22 4978327 5
+20210422 78 170 11944526 4
+20210423 23 70 23284992 9
+20210424 13 20 8684769 1
+20210425 14 15 307572 2
+20210426 35 44 21606354 5
+20210427 56 176 46901128 14
+20210428 22 35 25698993 5
+20210429 15 17 8219338 3
+20210430 16 23 8554324 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 4
+5mn-15mn 34
+0s-30s 105
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 76
+/ 142 1400449 100 66
+/turnos 48 250502 8 7
+/consultas 35 149002 1 0
+/noticias 35 136112 0 0
+/requsitos 34 151823 0 0
+/formularios 34 153722 0 1
+/quienes-somos 33 151675 0 0
+/administrativos 33 135597 0 0
+/documentos/autorizacion-para-renovacion-anual-de-matricula 20 69080 0 6
+/documentos/rendicion-de-cuentas-2019 18 65016 0 5
+/documentos/publicaciones 18 75528 0 3
+/front/fonts/ionicons.ttf 17 1869388 0 10
+/lotaip 16 224431 0 4
+/documentos/pac 16 61296 0 1
+/documentos/resoluciones 16 62904 0 5
+/cpsess1704859922/3rdparty/roundcube/ 15 36885 0 1
+/directorio 14 56462 0 3
+/front/fonts/Simple-Line-Icons.woff 13 767390 0 0
+/noticia/calendario-de-matriculacion-vehicular-2021 12 55728 9 3
+/documentos/solicitud-de-cotizacion 12 41436 0 6
+/sistema-turnos/56301 6 20826 1 1
+/sistema-turnos/56768 6 20790 1 1
+/sistema-turnos/57436 5 17500 1 1
+/turnero/salcedo 4 26699 3 1
+/sistema-turnos/56412 3 10491 1 1
+/cpsess1704859922/webmail/paper_lantern/ 1 11369 0 0
+/cPanel_magic_revision_1612812581/3rdparty/roundcube/skins/elastic/fonts/fa-solid-900.woff2 1 75440 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 1 22660 0 0
+/sistema-turnos/57048 1 3509 1 1
+/cPanel_magic_revision_1386192033/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 1 22660 0 0
+/unprotected/loader.html 3 2715 3 2
+/.env 1 12216 1 1
+/cPanel_magic_revision_1386192032/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Italic-webfont.woff 1 23188 0 0
+/sistema-turnos/52506 2 6808 1 1
+/sistema-turnos/57083 3 10419 1 1
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 1 22432 0 0
+/sistema-turnos/53959 3 10554 1 1
+/cPanel_magic_revision_1571849661/webmail/paper_lantern/libraries/fontawesome/webfonts/fa-solid-900.woff2 1 75760 0 0
+/sistema-turnos/52866 2 6976 1 1
+/unprotected/redirect.html 1 513 0 0
+/cpsess1660951940/execute/Personalization/get 2 334 0 0
+/cPanel_magic_revision_1612812581/3rdparty/roundcube/skins/elastic/fonts/roboto-v19-regular-700.woff2 1 51088 0 0
+/cPanel_magic_revision_1612432830/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Semibold-webfont.woff 1 22908 0 0
+/cPanel_magic_revision_1612432830/frontend/paper_lantern/libraries/fontawesome/webfonts/fa-solid-900.woff2 1 75760 0 0
+/cpsess1660951940/execute/Email/list_pops_with_disk 2 1609 0 0
+/cPanel_magic_revision_1612432830/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 1 22660 0 0
+/cpsess1660951940/frontend/paper_lantern/softaculous/index.live.php 1 4778 0 0
+/cPanel_magic_revision_1612812581/3rdparty/roundcube/skins/elastic/fonts/roboto-v19-regular.woff2 1 51116 0 0
+/cpsess1660951940/frontend/paper_lantern/email_accounts/ 1 29029 0 0
+/cPanel_magic_revision_1612432830/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 1 22432 0 0
+/cPanel_magic_revision_1410366077/webmail/paper_lantern/libraries/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 1 23320 0 0
+/cpsess1704859922/execute/Email/list_pops_with_disk 1 287 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 1 22908 0 0
+/cPanel_magic_revision_1386192033/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Semibold-webfont.woff 1 22908 0 0
+/sistema-turnos/53440 3 10329 1 1
+/sistema-turnos/53442 3 10473 1 1
+/sistema-turnos/54225 3 10344 1 1
+/sistema-turnos/54424 3 10449 1 1
+/webmail 3 37508 2 2
+/cPanel_magic_revision_1612432830/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Italic-webfont.woff 1 23188 0 0
+/autodiscover/autodiscover.xml 1 1215 1 1
+/cPanel_magic_revision_1612432830/frontend/paper_lantern/libraries/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 1 23320 0 0
+/cpsess1660951940/execute/ResourceUsage/get_usages 1 189 0 0
+/sistema-turnos/55017 1 3468 1 1
+/cpsess1704859922/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+/cpsess1660951940/frontend/paper_lantern/ 1 31426 0 0
+/cPanel_magic_revision_1612812581/3rdparty/roundcube/skins/elastic/fonts/fa-regular-400.woff2 1 13580 0 0
+/cpsess1660951940/frontend/paper_lantern/mail/webmailform.html 1 12585 0 0
+/wp-login.php 1 12222 1 1
+/cPanel_magic_revision_1386192031/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 1 22432 0 0
+/cpsess1704859922/3rdparty/roundcube/program/resources/blank.webp 1 97 0 0
+/cpsess1704859922/3rdparty/roundcube/skins/elastic/watermark.html 3 909 0 0
+/cpsess1660951940/execute/Notifications/get_notifications_count 2 163 0 0
+/sistema-turnos/57758 3 10518 1 1
+/login/ 1 152 0 0
+/turnos/reimpresion 3 19114 1 1
+END_SIDER

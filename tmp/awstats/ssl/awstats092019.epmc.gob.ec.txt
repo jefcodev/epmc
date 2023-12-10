@@ -1,0 +1,588 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201909 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2689                
+POS_VISITOR 13061               
+POS_DAY 14623               
+POS_DOMAIN 3442                
+POS_LOGIN 3843                
+POS_ROBOT 3998                
+POS_WORMS 4547                
+POS_EMAILSENDER 4678                
+POS_EMAILRECEIVER 4821                
+POS_SESSION 15309               
+POS_SIDER 15517               
+POS_FILETYPES 4956                
+POS_DOWNLOADS 5211                
+POS_OS 5563                
+POS_BROWSER 5713                
+POS_SCREENSIZE 6130                
+POS_UNKNOWNREFERER 6204                
+POS_UNKNOWNREFERERBROWSER 6735                
+POS_ORIGIN 7441                
+POS_SEREFERRALS 7581                
+POS_PAGEREFS 7736                
+POS_SEARCHWORDS 7884                
+POS_KEYWORDS 8068                
+POS_MISC 2353                
+POS_ERRORS 8159                
+POS_CLUSTER 3699                
+POS_SIDER_404 8318                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191001001710 28 5554 10142698343300
+FirstTime 20190901020841
+LastTime 20190930152250
+LastUpdate 20191001074212 28 0 27 0 0
+TotalVisits 198                 
+TotalUnique 40                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 40                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 0 41 47 926
+1 5 5 0 64 69 465576
+2 12 12 11702 66 69 38052
+3 8 8 73034 53 58 144897
+4 11 11 15887 120 129 158825
+5 4 4 0 64 71 163274
+6 7 7 0 52 57 79830
+7 206 206 72664 116 118 462954
+8 374 374 217226 60 74 64000
+9 11 11 86533 55 60 281811
+10 17 17 76229 66 76 309907
+11 6 6 25007 64 73 120538
+12 16 16 65334 116 118 61830
+13 10 10 12502 56 65 22421
+14 8 8 13716 55 60 17225
+15 15 34 407626 74 80 220735
+16 12 12 99027 82 86 192576
+17 12 12 49195 65 73 168176
+18 10 10 36521 84 91 129208
+19 8 8 36523 68 77 66207
+20 4 4 36511 55 56 123622
+21 10 10 0 65 71 195526
+22 30 30 0 124 131 120358
+23 190 190 69745 88 92 129681
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+cn 561 561 352113
+ca 147 147 33224
+zz 122 122 0
+nl 52 52 0
+ec 49 68 801980
+us 29 29 146068
+de 9 9 0
+ua 6 6 0
+gb 4 4 0
+fr 4 4 36523
+it 3 3 35074
+ru 2 2 0
+dk 1 1 0
+br 1 1 0
+mx 1 1 0
+am 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bingbot/ 694 2874070 20190930225820 0
+AhrefsBot/ 469 374073 20190930234103 0
+no_user_agent 27 1017 20190930091533 0
+bot[\s_+:,\.\;\/\\-] 20 438228 20190928095744 0
+facebookexternalhit/ 16 0 20190926104200 0
+Python\-urllib/ 3 0 20190926205942 0
+2345Explorer/ 3 0 20190907161745 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 0 20190928185515 0
+curl 2 0 20190923114841 0
+crawl 1 0 20190929135720 0
+Googlebot/ 1 0 20190916052532 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+Unknown 37 462615 0 0
+gif 1 10460 0 0
+jpg 1 125538 0 0
+png 4 9240 0 0
+shtml 2 73054 0 0
+html 87 380205 0 0
+js 9 65868 0 0
+xml 4 4866 0 0
+css 4 46171 0 0
+php 861 155069 0 0
+woff2 1 71896 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 7
+/document/REQUISSITOS2017.pdf 2 0 854748
+/document/Habilitaciondevehiculo.pdf 2 0 209978
+/document/CambiodeSocioVehiculo.pdf 2 0 212552
+/document/ConcesiondePermiso.pdf 2 0 203816
+/document/Deshabilitacion.pdf 2 0 202570
+/document/ReformadeEstatutos.pdf 1 0 102207
+/document/CambiodeSocio.pdf 1 0 174032
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+Unknown 821 821
+win7 172 153
+winlong 6 6
+macosx11 6 6
+linux 3 3
+win10 2 2
+win8.1 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 20
+firefox69.0 1 1
+firefox45.0 2 2
+msie8.0 9 9
+firefox47.0 5 5
+chrome36.0.1985.143 47 47
+chrome63.0.3239.132 3 3
+mozilla 6 6
+chrome77.0.3865.90 6 6
+msie9.0 16 16
+chrome40.0.2214.85 9 9
+firefox68.0 25 6
+Unknown 819 819
+firefox58.0 2 2
+safari9.1.2 1 1
+chrome76.0.3809.132 30 30
+opera53.0.2907.99 3 3
+firefox50.0 2 2
+msie11.0 6 6
+chrome76.0.3809.100 1 1
+firefox64.0 18 18
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+python-requests/2.22.0 20190924232037
+WordPress/4.9.11;_https://epmc.gob.ec 20190929183736
+python-requests/2.20.1 20190916083701
+WordPress/4.9.10;_https://epmc.gob.ec 20190904095336
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190905033448
+WordPress/4.9.11;_http://epmc.gob.ec 20190927225516
+WordPress/4.9.8;_https://essaypea.com;_verifying_pingback_from_190.11.252.26 20190919021801
+Dispatch/1.0.0-M1 20190928141131
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+python-requests/2.20.1 20190916083701
+Microsoft_Office/14.0_(Windows_NT_6.1;_Microsoft_Outlook_14.0.4760;_Pro) 20190910144136
+python-requests/2.22.0 20190924232037
+WordPress/4.9.11;_https://epmc.gob.ec 20190929183736
+Microsoft_Office/14.0_(Windows_NT_6.1;_Microsoft_Outlook_14.0.7237;_Pro) 20190927123819
+WordPress/4.9.8;_https://essaypea.com;_verifying_pingback_from_190.11.252.26 20190919021801
+WordPress/4.9.11;_http://epmc.gob.ec 20190927225516
+Dispatch/1.0.0-M1 20190928141131
+Microsoft_Office/14.0_(Windows_NT_6.1;_Microsoft_Outlook_14.0.7232;_Pro) 20190909085327
+WordPress/4.9.10;_https://epmc.gob.ec 20190904095336
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 158 158
+From1 0 0
+From2 16 16
+From3 0 0
+From4 818 837
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+bing 16 16
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+-youtube 8
+-.-%7b%c3%91%7d%7b 8
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+-.-%7b%c3%91%7d%7b 8
+-youtube 8
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+400 54 561
+401 23 37455
+404 522 0
+301 42 0
+421 8 2576
+403 1 10091
+302 2 0
+405 2 84
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 163
+//schema.sql 1 -
+/aboutus.htm 3 -
+//gob1.sql 2 -
+//backups.sql 1 -
+//bak.sql 1 -
+/index.php/2019/09/20/just-what-is-the-simplest-way-to-write-your-press-free-up/ 1 -
+/about-us.htm 3 -
+/about.aspx 3 -
+//export.sql 2 -
+/about-us 3 -
+/contact-us.asp 3 -
+/aboutus.php 3 -
+/index.php/2019/09/01/buy-a-cheap-essay-online-exposed-3/ 1 -
+/contact-us.htm 3 -
+//r.sql 1 -
+/index.php/2019/08/18/the-dos-and-donts-of-how-to-structure-an-essay/ 1 -
+/about_us.jsp 3 -
+/about-us.aspx 3 -
+/contact_us.aspx 3 -
+/index.php/2019/08/30/un-answered-problems-with-best-plagiarism-free-essay-writer-disclosed/ 2 -
+//user.sql 1 -
+/about-us.asp 3 -
+/index.php/2019/09/14/what-is-so-fascinating-about-best-resume-editing-services/ 1 -
+//db.sql 2 -
+//posts.sql 1 -
+/index.php/2019/09/22/new-questions-about-osu-physics-answered-and-why-you-must-read-every-word-of-this-report-3/ 1 -
+/index.php/2019/09/06/the-best-method-you-should-be-using-for-best-cheapest-essay-writing-service-usa-2/ 1 -
+/vb/ 1 -
+/contacts.jsp 3 -
+/contactus.html 3 -
+/index.php/2019/09/01/structure-of-dissertation-uk-explained/ 1 -
+/index.php/2019/08/30/what-to-do-about-buy-assignment-au-before-its-too-late/ 3 -
+//w.sql 1 -
+/contact-us.php 3 -
+/about-us.html 3 -
+/vb5/ 1 -
+/contact.asp 3 -
+//123.sql 2 -
+/index.php/2019/08/15/economisez-temps-et-couts-alesse-0-75-mg-generique-pas-cher-acheter-livraison-gratuite-dans-le-monde/ 1 -
+/index.php/2019/08/19/vital-pieces-of-what-is-chemical-energy-in-physics/ 1 -
+//website.sql 1 -
+/_wpeprivate/config.json 1 -
+/contactus.aspx 3 -
+//gob123.sql 2 -
+/ 4 -
+//post.sql 1 -
+//config.sql 1 -
+/contact_us.php 3 -
+/index.php/2019/09/22/best-your-essay-writers-secrets-3/ 1 -
+//xdb.sql 1 -
+//dev.sql 1 -
+/wp-config.old 1 -
+/aboutus.html 3 -
+/about 3 -
+/aboutus.jsp 3 -
+//1.sql 5 -
+//my.sql 3 -
+//test.sql 1 -
+/contactus.jsp 3 -
+//backend.sql 1 -
+/contact_us.asp 3 -
+/contact_us.htm 3 -
+//dba.sql 1 -
+/forum/ 1 -
+//cgi-bin/gob.sql 1 -
+//sql.sql 5 -
+/contact-us.aspx 3 -
+/about-us.php 3 -
+/aboutus.aspx 3 -
+/contact 3 -
+//back.sql 5 -
+/index.php/2019/08/30/the-foolproof-personal-statement-for-phd-application-strategy/ 3 -
+//site.sql 1 -
+//epmc.gob.ec.sql 3 -
+//wordp.sql 1 -
+/contactus.asp 3 -
+/index.php/2019/09/01/the-birth-of-mba-dissertation-writers-3/ 1 -
+/index.php/2019/08/13/what-is-truly-happening-with-what-is-shop-math/ 1 -
+/.well-known/assetlinks.json 6 -
+/contactus 3 -
+//backup.sql 2 -
+//x.sql 1 -
+/index.php/2019/09/22/a-review-of-best-french-essay-writer-4/ 1 -
+/index.php/2019/09/14/the-30-second-trick-for-what-is-y-intercept-in-math-2/ 2 -
+/contact.php 3 -
+/about_us 3 -
+/about.php 3 -
+/index.php/2019/09/01/what-to-do-about-buy-assignment-au-before-its-too-late-2/ 3 -
+/about_us.asp 3 -
+/index.php/2019/09/14/reported-buzz-on-doppler-effect-definition-physics-exposed-4/ 2 -
+/about-us.jsp 3 -
+/contact_us.jsp 3 -
+/vbulletin/ 1 -
+/about_us.aspx 3 -
+/wp-admin/admin-ajax.php 13 -
+/contacts.html 3 -
+/contact.htm 3 -
+//xxx.sql 1 -
+/contact-us 3 -
+/about_us.htm 3 -
+//audit.sql 1 -
+//administrator/sql 1 -
+//epmc.gob.ec1.sql 3 -
+/index.php/2019/08/30/structure-of-dissertation-uk-explained/ 3 -
+/contactus.htm 3 -
+/about.htm 3 -
+/about_us.html 3 -
+/index.php/2019/09/11/the-recently-leaked-secrets-to-computer-science-cover-letter-uncovered/ 4 -
+//blogs.sql 1 -
+/contacts.htm 3 -
+/wp-content/uploads 2 -
+//cms.sql 1 -
+//2.sql 1 -
+/contact_us.html 3 -
+/aboutus.asp 3 -
+//weblog.sql 1 -
+//base.sql 1 -
+//webdata.sql 1 -
+/contactus.php 3 -
+//111.sql 2 -
+/contacts 3 -
+/wp-config.php~ 4 -
+/contacts.asp 3 -
+/wp-json/wp/v2/posts 2 -
+/DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx 1 -
+/contacts.aspx 3 -
+//dump.sql 3 -
+//xsql.sql 1 -
+/contact.jsp 3 -
+//bdata.sql 1 -
+/index.php/2019/09/01/buying-buy-cheap-dissertation-3/ 3 -
+//wp.sql 1 -
+//script.sql 1 -
+/forums/ 1 -
+/contacts.php 3 -
+//mysql.sql 1 -
+/index.php/2019/09/22/nursing-theories-levine-guide-4/ 1 -
+/index.php/2019/08/26/the-secret-to-pay-for-term-papers-4/ 2 -
+//http.sql 1 -
+//admin.sql 2 -
+//~www.sql 1 -
+//gob.sql 24 -
+//s.sql 1 -
+/about.jsp 3 -
+//tables.sql 1 -
+/contact-us.html 3 -
+/aboutus 3 -
+//cgi-bin/epmc.gob.ec.sql 1 -
+/robots.txt 122 -
+/contact.aspx 3 -
+//database.sql 1 -
+/contact_us 3 -
+//back-up.sql 1 -
+/3 5 -
+//table.sql 2 -
+/2 5 -
+//conf.sql 1 -
+/about.asp 3 -
+/index.php/2019/09/14/ruthless-what-math-is-needed-for-physics-strategies-exploited/ 2 -
+/about_us.php 3 -
+//cgi-bin/backup.sql 1 -
+/wp-admin/admin-post.php 14 -
+/contact-us.jsp 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 40
+45.64.113.206 547 547 121845 20190916083701
+47.240.51.20 146 146 33224 20190924232037
+10.252.221.1 121 121 0 20190929183736
+188.166.176.184 52 52 0 20190927233108
+181.211.103.246 44 44 468386 20190930143702
+23.100.232.233 16 16 0 20190921211701
+138.246.253.5 9 9 0 20190930152250
+77.120.176.171 6 6 0 20190924042722
+60.191.38.77 5 5 182607 20190924235920
+128.199.200.225 4 4 0 20190923221303
+181.113.39.190 3 22 333594 20190902150516
+122.190.94.80 3 3 15887 20190909123553
+193.70.34.209 3 3 35074 20190926024024
+120.11.215.231 3 3 15887 20190925072811
+1.80.32.31 3 3 15887 20190909045536
+46.105.17.29 2 2 0 20190925025536
+144.217.100.98 2 2 0 20190919021801
+109.75.46.23 1 1 0 20190909111708
+62.4.14.198 1 1 0 20190905142516
+181.112.62.26 1 1 0 20190928081026
+157.245.0.9 1 1 36511 20190904161206
+186.202.161.18 1 1 0 20190909221105
+206.223.237.27 1 1 0 20190928141131
+181.112.56.94 1 1 0 20190928081020
+162.247.74.216 1 1 0 20190925033941
+159.203.175.216 1 1 0 20190906170309
+158.69.194.57 1 1 0 20190909221137
+167.71.247.74 1 1 36523 20190904190756
+167.71.85.63 1 1 0 20190905022254
+167.71.89.27 1 1 36523 20190905033448
+167.71.89.188 1 1 36511 20190905030325
+162.243.37.188 1 1 0 20190906191937
+35.180.136.242 1 1 0 20190925004222
+80.211.164.226 1 1 0 20190910043742
+213.159.213.236 1 1 0 20190930015746
+189.216.26.204 1 1 0 20190915212945
+78.142.211.111 1 1 0 20190906170300
+165.227.48.147 1 1 0 20190923220140
+167.71.87.55 1 1 0 20190904155847
+195.154.61.206 1 1 36523 20190905150451
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20190901 2 2 0 2
+20190902 13 32 371103 7
+20190903 10 10 62515 7
+20190904 10 10 98040 9
+20190905 9 9 109557 9
+20190906 11 11 49024 11
+20190907 5 5 0 4
+20190908 2 2 0 2
+20190909 18 18 83215 12
+20190910 6 6 38723 6
+20190911 6 6 49941 5
+20190912 1 1 0 1
+20190913 4 4 12503 4
+20190914 1 1 0 1
+20190915 5 5 0 5
+20190916 555 555 183373 7
+20190917 6 6 37508 6
+20190918 18 18 37509 8
+20190919 10 10 25006 8
+20190920 5 5 0 4
+20190921 20 20 11685 14
+20190922 8 8 0 6
+20190923 19 19 36693 12
+20190924 155 155 94752 9
+20190925 16 16 40893 13
+20190926 5 5 24205 5
+20190927 61 61 13730 10
+20190928 6 6 0 6
+20190929 1 1 0 1
+20190930 4 4 25007 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 11
+1h+ 3
+0s-30s 169
+5mn-15mn 4
+15mn-30mn 3
+30s-2mn 6
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 28
+/xmlrpc.php 691 152711 0 2
+/wp-cron.php 121 0 105 105
+/ 48 327218 33 30
+/wp-admin/admin-post.php 43 0 2 1
+/webmail 37 462615 28 29
+/index.php/2019/09/13/what-experts-are-not-saying-about-best-nursing-theories-and-how-this-affects-you-5/ 8 0 2 2
+/index.php/2019/09/16/what-you-should-do-to-find-out-about-work-physics-equation-before-youre-left-behind-3/ 8 0 4 4
+/wp-config.php 4 0 3 4
+/autodiscover/autodiscover.xml 4 4866 4 3
+/about.html 3 23874 0 3
+/contact.html 3 23787 0 0
+/403.shtml 2 73054 2 2
+/index.php/2019/09/20/why-you-need-to-be-cautious-buying-that-a-game-of/ 2 0 2 2
+/index.php/2019/09/19/best-your-essay-writers-secrets/ 2 0 1 1
+/wp-login.php 2 2358 2 0
+/index.php/2019/09/19/compresse-di-inderal-20-mg-a-buon-mercato-accettiamo-bitcoin-epmc-gob-ec/ 2 0 1 1
+/prueba/wp-content/themes/zerif-lite/fonts/fontawesome-webfont.woff2 1 71896 0 0
+/index.php/2019/08/02/legitimate-ukrainian-dating-sites-78/ 1 0 1 1
+/index.php/2019/09/19/pillole-di-xalatan-a-buon-mercato-online-marchio-e-dei-prodotti-generici-per-la-vendita/ 1 0 1 0
+/prueba/ 1 4421 1 0
+/index.php/2019/09/20/buy-brand-glucotrol-worldwide-delivery-online-pill-shop/ 1 0 1 1
+/unprotected/loader.html 1 905 0 1
+/index.php/2019/09/14/ruthless-what-math-is-needed-for-physics-strategies-exploited/ 1 0 1 1
+/index.php/2019/09/04/zanaflex-4-mg-a-buon-mercato-palermo/ 1 0 0 1
+/index.php/2019/09/18/rabatt-kanadensiska-apotek-valtrex-onlinepris-expressleverans/ 1 0 1 1
+/index.php/2019/09/04/ceftin-migliore-per-ordine-trasporto-di-posta-aerea-tutti-i-farmaci-sono-certificati/ 1 0 1 1
+/index.php/2019/09/16/metoprolol-mail-order-pharmacy-best-approved-online-pharmacy-epmc-gob-ec/ 1 0 1 1
+/index.php/2019/09/06/the-best-method-you-should-be-using-for-best-cheapest-essay-writing-service-usa/ 1 0 1 1
+END_SIDER

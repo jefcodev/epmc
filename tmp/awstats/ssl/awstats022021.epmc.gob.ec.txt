@@ -1,0 +1,644 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202102 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2678                
+POS_VISITOR 14548               
+POS_DAY 19203               
+POS_DOMAIN 3517                
+POS_LOGIN 3912                
+POS_ROBOT 4067                
+POS_WORMS 4684                
+POS_EMAILSENDER 4815                
+POS_EMAILRECEIVER 4958                
+POS_SESSION 19944               
+POS_SIDER 20125               
+POS_FILETYPES 5093                
+POS_DOWNLOADS 5369                
+POS_OS 8385                
+POS_BROWSER 8567                
+POS_SCREENSIZE 9437                
+POS_UNKNOWNREFERER 9511                
+POS_UNKNOWNREFERERBROWSER 10268               
+POS_ORIGIN 10826               
+POS_SEREFERRALS 10966               
+POS_PAGEREFS 11218               
+POS_SEARCHWORDS 11533               
+POS_KEYWORDS 11796               
+POS_MISC 2341                
+POS_ERRORS 11945               
+POS_CLUSTER 3768                
+POS_SIDER_404 12109               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210301001219 87 15009 13917869281150
+FirstTime 0
+LastTime 20210228205024
+LastUpdate 20210301073046 87 0 86 0 0
+TotalVisits 112                 
+TotalUnique 90                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 128                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 16 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 2 221831 24 38 1252012
+1 6 43 7886831 26 31 39896
+2 30 31 407945 29 76 1639104
+3 13 13 52401 32 62 952984
+4 16 16 64454 15 29 375393
+5 13 13 48749 24 62 1372750
+6 20 22 488931 27 73 5574685
+7 6 7 464554 36 67 1623189
+8 44 47 864981 33 57 1022747
+9 20 20 204567 29 71 482876
+10 31 92 9834733 29 112 1777199
+11 10 75 9936619 42 130 2430755
+12 48 114 11701371 19 88 797047
+13 34 38 843302 22 116 3668844
+14 48 114 13512968 14 43 887241
+15 31 106 10135221 35 86 726027
+16 18 47 723787 74 342 51265081
+17 18 51 4967449 17 53 1710097
+18 28 61 5568172 25 47 427775
+19 45 46 439086 25 72 1213438
+20 6 11 1273745 28 54 675437
+21 14 23 2072732 19 43 1693226
+22 31 62 4923802 25 81 1033430
+23 27 30 835456 22 36 441110
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 439 608 35757903
+ec 83 421 50345462
+de 8 8 0
+gr 7 7 237702
+ma 5 5 22416
+ca 5 18 201634
+in 4 8 202143
+gb 2 2 62228
+fr 2 2 68776
+ru 1 1 12226
+cz 1 1 29574
+nz 1 2 438305
+mx 0 1 95318
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bingbot/ 662 28007519 20210228234256 92
+bot[\s_+:,\.\;\/\\-] 371 49972080 20210228161342 102
+no_user_agent 167 168915 20210228211543 0
+bingpreview 99 3597638 20210228132935 0
+AhrefsBot/ 47 216813 20210228064941 22
+unknown 33 858 20210228144536 33
+Googlebot/ 14 364 20210217211012 14
+curl 4 151720 20210221211101 0
+Googlebot\-Image/ 1 255087 20210218195120 0
+link 1 6149 20210202233811 0
+discover 1 6157 20210205163446 0
+proximic 1 26 20210207115601 1
+Dalvik/ 1 25155 20210215002532 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+gif 3 69477 0 0
+jpg 88 73998771 0 0
+woff 13 767684 0 0
+Unknown 416 2027201 0 0
+css 127 947988 0 0
+js 218 2294692 0 0
+ttf 17 1869388 0 0
+jpeg 1 64646 0 0
+pdf 6 1893154 0 0
+html 112 1037847 0 0
+png 83 2502839 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 58
+/uploads/f_1605962813.pdf 3 0 1660444
+/uploads/f_1603477246.pdf 3 0 1554789
+/uploads/lotaip_1596646951.pdf 3 0 551313
+/uploads/lotaip_1597342197.pdf 2 0 367368
+/uploads/f_1601413112.pdf 2 0 1023388
+/uploads/F-012%20Formulario%20Cambio%20de%20Socio.pdf 1 0 127994
+/uploads/lotaip_1606148439.xls 1 0 16557
+/uploads/F-003%20Formulario%20de%20Renovaci%C3%B3n%20Permiso%20de%20Operaci%C3%B3n.pdf 1 0 38656
+/uploads/lotaip_1606148221.xls 1 0 16559
+/uploads/lotaip_1605015817.pdf 1 0 0
+/uploads/lotaip_1610998720.xls 1 0 13515
+/uploads/lotaip_1605104561.xls 1 0 8033
+/uploads/lotaip_1605097865.xls 1 0 18232
+/uploads/f_1610634275.pdf 1 0 141493
+/uploads/f_1600212134.pdf 1 0 286176
+/uploads/lotaip_1587821490.pdf 1 0 183714
+/uploads/F-006%20Formulario%20de%20Incremento%20de%20Cupo.pdf 1 0 39871
+/uploads/lotaip_1588899281.pdf 1 0 219971
+/uploads/F-004%20Formulario%20de%20Concesion%20de%20Contrato%20de%20Operaci%C3%B3n.pdf 1 0 38893
+/uploads/lotaip_1610998784.xls 1 0 10320
+/uploads/lotaip_1599747331.pdf 1 0 277157
+/uploads/lotaip_1609964131.pdf 1 0 277049
+/uploads/F-011%20Formulario%20de%20Cambio%20de%20Veh%C3%ADculo.pdf 1 0 97978
+/uploads/lotaip_1610372477.pdf 1 0 193635
+/uploads/f_1600211989.pdf 1 0 452938
+/uploads/lotaip_1593701217.pdf 1 0 193996
+/uploads/lotaip_1588949687.pdf 1 0 425293
+/uploads/lotaip_1591819481.pdf 1 0 204073
+/uploads/lotaip_1587821404.pdf 1 0 183918
+/uploads/f_1598559023.pdf 1 0 564883
+/uploads/F-007%20Formulario%20para%20Habilitaci%C3%B3n%20de%20Veh%C3%ADculo.pdf 1 0 94914
+/uploads/F-001%20Formulario%20de%20Informe%20Previo%20de%20Constituci%C3%B3n%20Jur%C3%ADdica.xls.pdf 1 0 37239
+/uploads/lotaip_1597340200.pdf 1 0 188104
+/uploads/lotaip_1593702560.pdf 1 0 194001
+/uploads/lotaip_1596822684.pdf 1 0 404069
+/uploads/lotaip_1602533241.pdf 1 0 216555
+/uploads/F-005%20Formulario%20de%20Renovaci%C3%B3n%20de%20Contrato%20de%20Operaci%C3%B3n.pdf 1 0 38236
+/uploads/lotaip_1596646836.pdf 1 0 173465
+/uploads/f_1583937861.pdf 1 0 356894
+/uploads/lotaip_1588898489.pdf 1 0 218972
+/uploads/lotaip_1591650840.pdf 1 0 489793
+/uploads/F-002%20Formulario%20de%20Concesi%C3%B3n%20de%20Permiso%20de%20Operaci%C3%B3n.pdf 1 0 39706
+/uploads/lotaip_1602516043.pdf 1 0 184633
+/uploads/f_1610634995.pdf 1 0 270703
+/uploads/f_1610635010.pdf 1 0 267230
+/uploads/F-009%20Formulario%20de%20Cambio%20de%20Socio%20%20con%20Habilitacion%20Veh%C3%ADculo.pdf 1 0 128267
+/uploads/lotaip_1597343313.pdf 1 0 225477
+/uploads/F-010%20Formulario%20de%20Cambio%20de%20Socio%20y%20Veh%C3%ADculo.pdf 1 0 84034
+/uploads/lotaip_1606149663.xls 1 0 16557
+/uploads/F-008%20Formulario%20para%20Deshabilitacion%20de%20Veh%C3%ADculo.pdf 1 0 138831
+/uploads/lotaip_1596647653.pdf 1 0 225521
+/uploads/lotaip_1605016371.pdf 1 0 182827
+/uploads/lotaip_1596646996.pdf 1 0 199890
+/uploads/lotaip_1599747191.pdf 1 0 193642
+/uploads/lotaip_1606148261.xls 1 0 16559
+/uploads/lotaip_1597342035.pdf 1 0 173464
+/uploads/lotaip_1588898457.pdf 1 0 218989
+/uploads/f_1601413024.pdf 1 0 508656
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+linuxandroid 103 11
+win10 291 32
+win7 231 78
+win8 1 0
+win8.1 4 0
+macosx 3 1
+linux 26 13
+Unknown 423 423
+macosx10 2 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 39
+chrome51.0.2704.103 57 49
+chrome62.0.3202.62 1 0
+chrome87.0.4280.141 2 0
+chrome88.0.4324.182 49 5
+firefox72.0 16 5
+chrome83.0.4103.97 1 1
+chrome68.0.3440.106 1 0
+edge18 33 3
+mozilla 2 2
+chrome86.0.4240.75 1 0
+chrome84.0.4143.7 84 10
+firefox58.0 4 4
+netscape5.0 2 2
+chrome85.0.4183.102 3 2
+chrome84.0.4147.89 1 0
+chrome88.0.4324.96 100 10
+edge14 33 3
+firefox21.0 1 1
+chrome88.0.4324.150 104 10
+chrome88.0.4324.93 1 0
+chrome88.0.4324.152 1 0
+safari13.0.4 1 1
+chrome88.0.4324.146 9 6
+chrome88.0.4324.190 1 0
+chrome60.0.3112.113 2 0
+chrome58.0.3029.110 1 1
+chrome88.0.4324.181 4 0
+msie9.0 15 0
+chrome24.0.1312.27 1 0
+chrome40.0.2214.85 2 2
+msie7.0 1 0
+chrome83.0.4103.106 1 1
+chrome88.0.4324.141 10 0
+chrome87.0.4280.88 33 3
+Unknown 419 419
+chrome88.0.4324.104 6 0
+chrome44.0.2403.155 2 0
+firefox85.0 78 17
+firefox67.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Go_http_package 20210214144151
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20210227140923
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210227085848
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20210228003205
+Mozilla/5.0_zgrab/0.x 20210213074707
+Go-http-client/1.1 20210223155634
+Mozilla/5.0_(compatible;_PR-CY.RU;___https://a.pr-cy.ru) 20210215095316
+scalaj-http/2.4.2 20210228144535
+Buck/2.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20210228145259
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Go-http-client/1.1 20210223155634
+scalaj-http/2.4.2 20210228144535
+Buck/2.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20210228145259
+Go_http_package 20210214144151
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210227085848
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20210228003205
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 503 532
+From1 0 0
+From2 17 62
+From3 5 15
+From4 33 475
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+www_google_com_ec 1 2
+bing 10 11
+www_google_com 5 47
+es_search_yahoo_com 1 1
+mx_images_search_yahoo_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://190.11.252.26:80 2 2
+http://cpanel.epmc.gob.ec 1 1
+http://webmail.epmc.gob.ec 1 1
+https://a.pr-cy.ru/www.epmc.gob.ec 1 1
+https://roomforjames.onrender.com 0 10
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+calendario+de+matriculacion+vehicular+2021 1
+matriculaci%c3%b3n+vehicular2021 1
+matriculacion+vehicular+2021 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+matriculacion 2
+vehicular 2
+2021 2
+de 1
+vehicular2021 1
+matriculaci%c3%b3n 1
+calendario 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+206 92 524036
+405 1 374
+400 27 1196
+301 52 15001
+404 161 92253
+401 56 1812
+500 53 28950
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 40
+/index.php/2019/06/18/if-you-read-nothing-else-today-read-this-report-on-nurse-practitioner-admission-essay-3 1 -
+/index.php/2019/06/13/the-fight-against-apa-format-research-paper-example-3 1 -
+/index.php/2018/09 1 -
+/index.php/2019/01 2 -
+/index.php/2019/07/31/120-exploratory-essay-topics-the-ultimate-guide-3 1 -
+/index.php/2019/06/17/vital-pieces-of-accounting-case-study-help-2 1 -
+/img/crane.png 65 https://outlook.live.com/
+/composer.json 2 -
+/turnos/info@epmc.gob.ec 1 -
+/index.php/author/aortega 1 -
+/index.php/2019/04/25/the-new-angle-on-book-report-ideas-just-released 1 https://epmc.gob.ec/index.php/2019/04/25/the-new-angle-on-book-report-ideas-just-released/
+/index.php/2019/01/21/there-is-in-this-manner-a-likely-to-make-the 1 -
+/uploads/lotaip_1583434641.pdf 1 -
+/index.php/2019/04/24/who-else-wants-to-learn-about-synthetic-biology 1 -
+/sistema-turno/37405 2 -
+/index.php/2019/06/25/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-4 1 -
+/manifest.json 15 https://epmc.gob.ec/documentos/autorizacion-para-renovacion-anual-de-matricula
+/services.html 1 -
+/index.php/2019/08/17/vital-pieces-of-what-is-chemical-energy-in-physics 1 -
+/index.php/2019/07/02/the-essay-papers-to-buy-game 1 -
+/index.php/2019/08/14/wynn-hotels-limited-makes-sense-35-certain-million-4 1 -
+/uploads/lotaip_1586825624.pdf 1 -
+/index.php/2019/07/11/1728 1 -
+/js/mage/cookies.js 1 -
+/index.php/2019/06/30/was-sie-tun-sollten-ber-die-dissertation-englisch-beginn-in-den-nchsten-neun-minuten 1 -
+/index.php/2019/07/29/top-choices-of-the-importance-of-literature-review 1 -
+/asset-manifest.json 1 https://epmc.gob.ec/
+/index.php/2019/06/26/the-essay-papers-to-buy-game 1 -
+/sitemap.xml 1 -
+/.env 1 -
+/uploads/lotaip_1586824384.pdf 1 -
+/js/admin.js 1 -
+/apple-app-site-association 23 -
+/.well-known/apple-app-site-association 18 -
+/index.php/2019/06/10/die-durchgesickerten-geheimnisse-bachelorarbeit-thema-entdeckt 1 -
+/info@epmc.gob.ec 2 -
+/uploads/lotaip_1583435135.pdf 1 -
+/index.php/2019/07/19/ruthless-cheap-assignment-help-strategies-exploited 1 -
+/contact.html 1 -
+/document/CambiodeVehiculo.pdf 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 128
+3.86.143.177 26 26 123284 20210210183432
+3.84.161.61 26 26 114495 20210225223839
+35.171.167.164 26 26 124625 20210225022110
+3.83.235.17 25 25 110236 20210227161521
+54.163.54.157 14 14 57079 20210202133109
+54.152.218.219 13 13 52443 20210204104235
+3.88.224.190 13 13 52628 20210203140637
+3.91.183.220 13 13 51872 20210216211518
+54.242.158.94 13 13 62187 20210215021647
+54.160.198.217 13 13 61762 20210208230023
+44.192.74.83 13 13 52397 20210228145259
+54.173.209.92 13 13 62555 20210222094720
+44.192.38.120 13 13 52048 20210207235530
+3.236.115.219 13 13 62065 20210212121348
+54.242.19.8 13 13 61209 20210217190338
+3.82.190.157 13 13 60689 20210201170749
+100.25.165.141 13 13 62033 20210221131823
+54.165.106.172 13 13 61296 20210223085140
+100.26.173.50 13 13 62051 20210214060015
+54.90.208.98 13 13 61651 20210205081821
+3.238.76.10 13 13 52623 20210215232811
+52.91.118.199 13 13 62421 20210220123003
+3.210.181.125 13 13 52401 20210207034139
+54.237.93.63 13 13 61764 20210219124515
+35.172.179.250 13 13 52400 20210213084746
+92.118.160.61 1 1 31145 20210227085848
+201.183.162.222 0 2 172150 
+181.188.200.23 3 3 10533 20210228195056
+186.47.86.21 0 1 160966 
+200.7.247.163 1 1 3449 20210208214205
+190.63.235.234 3 3 18468 20210208063647
+186.47.136.240 7 15 2016542 20210216193426
+186.101.152.36 3 33 4700084 20210222104908
+34.96.130.224 1 1 31083 20210220060206
+186.47.137.129 1 1 905 20210226061349
+40.125.98.88 0 1 193996 
+190.96.96.123 3 32 633887 20210202165855
+45.224.150.4 3 3 10515 20210225071858
+45.184.226.85 0 1 64646 
+201.183.191.84 0 1 49222 
+190.57.151.108 4 34 4704720 20210208223006
+54.39.106.173 0 2 367542 
+186.33.169.194 0 1 160966 
+167.250.180.149 0 1 49222 
+3.15.142.248 2 2 12302 20210216021936
+13.66.139.33 0 5 78111 
+13.66.139.61 0 2 12970 
+181.196.247.26 0 1 259142 
+186.46.204.195 3 33 4700084 20210223155214
+212.83.146.233 1 1 37923 20210219100026
+201.183.163.197 2 2 7066 20210226083004
+45.4.203.172 5 44 10480939 20210222140837
+165.225.222.85 3 33 4700082 20210203170007
+92.118.160.45 3 3 106700 20210226185312
+186.46.200.209 4 34 4704722 20210218115551
+34.86.35.7 1 1 30853 20210219080833
+35.172.224.31 5 42 7855977 20210209125755
+186.101.179.203 0 1 234083 
+200.7.247.57 6 6 24359 20210228104233
+189.249.44.100 0 1 95318 
+192.99.18.136 5 16 127257 20210216150038
+190.99.76.9 3 31 3368915 20210218124212
+200.24.136.61 3 3 10305 20210223195618
+131.196.112.69 0 1 49222 
+179.49.52.17 0 2 395158 
+186.178.171.181 0 1 190746 
+13.66.139.83 0 7 33922 
+52.156.97.39 0 1 95318 
+190.152.128.233 0 1 138484 
+45.224.150.254 2 2 11901 20210206044335
+34.77.162.33 1 1 31085 20210228003205
+3.82.14.227 1 1 31087 20210227124818
+168.119.161.81 1 1 6151 20210206163556
+138.246.253.24 8 8 0 20210226062234
+45.189.56.10 3 3 10392 20210202193455
+181.199.58.205 3 3 10272 20210203100947
+181.198.34.186 0 1 49222 
+146.120.204.186 1 1 29574 20210215095316
+181.211.103.246 12 12 150036 20210205113936
+54.209.19.172 5 42 7855977 20210204013424
+34.86.35.255 1 1 31144 20210225165320
+200.63.105.153 0 10 2355376 
+186.65.16.116 0 1 234083 
+200.7.247.215 1 1 3444 20210209113646
+92.118.160.17 1 1 31083 20210219204831
+190.152.130.4 2 2 6984 20210226134957
+216.151.27.66 2 2 24441 20210213074707
+45.189.56.6 0 3 123599 
+62.4.14.198 1 1 30853 20210219090809
+104.227.90.76 1 1 6235 20210220021107
+201.183.222.88 3 33 4700084 20210217105329
+64.225.4.129 1 1 37911 20210227140923
+45.70.201.163 0 1 434770 
+52.250.76.44 0 1 225521 
+185.220.100.254 1 1 12226 20210223155634
+181.112.218.186 3 3 10383 20210222194911
+186.33.167.159 0 1 255087 
+92.118.160.1 1 1 37923 20210214144151
+186.101.188.184 0 1 160966 
+191.99.192.133 0 1 258722 
+181.199.52.146 0 1 259142 
+34.96.130.21 1 1 31085 20210223170338
+167.250.180.66 0 2 284297 
+190.11.3.86 2 32 4641052 20210203113751
+186.46.159.226 2 2 6854 20210204090433
+34.215.115.127 1 1 6241 20210225140301
+186.46.201.255 3 33 4700083 20210208154501
+190.11.0.82 0 2 468617 
+186.42.104.134 2 2 7048 20210224071223
+45.189.56.9 1 1 3506 20210207220631
+190.152.179.201 0 2 527317 
+54.151.100.120 1 1 0 20210202191922
+13.66.139.60 0 1 33375 
+92.118.160.57 1 1 30851 20210221143702
+45.4.203.179 0 1 190746 
+186.46.175.161 1 1 3502 20210228205024
+34.77.162.16 1 1 30854 20210227011106
+51.15.191.81 2 2 62228 20210219095714
+34.86.35.92 1 1 30853 20210223021241
+131.196.9.184 0 1 25155 
+190.111.82.6 3 33 4700082 20210203180920
+186.71.129.156 0 1 49222 
+45.70.12.93 1 1 3535 20210227110140
+34.96.130.74 1 1 37923 20210225142335
+134.122.89.123 0 2 1106095 
+100.26.253.247 13 13 62359 20210211144958
+18.233.10.172 13 13 61992 20210226200224
+181.199.50.243 0 1 122928 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20210201 15 18 209293 3
+20210202 22 53 924049 5
+20210203 30 122 14799429 8
+20210204 23 72 10801437 6
+20210205 15 16 320740 3
+20210206 15 17 865793 3
+20210207 27 27 107955 3
+20210208 24 84 9488482 5
+20210209 19 59 8254617 3
+20210210 13 15 429149 1
+20210211 15 17 423028 3
+20210212 15 16 290734 3
+20210213 14 14 64621 2
+20210214 15 15 137897 3
+20210215 27 27 144384 3
+20210216 27 47 2233128 4
+20210217 16 48 5113005 2
+20210218 20 81 8357349 3
+20210219 21 22 488787 8
+20210220 15 15 99739 3
+20210221 14 15 351606 2
+20210222 24 96 15830500 4
+20210223 22 53 5006815 6
+20210224 15 16 154919 2
+20210225 32 50 1031041 6
+20210226 21 26 801407 7
+20210227 18 19 621907 6
+20210228 24 24 121876 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 33
+15mn-30mn 3
+30s-2mn 1
+0s-30s 75
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 42
+/ 111 1036942 72 40
+/turnos 35 182556 1 1
+/requsitos 32 142851 0 1
+/administrativos 31 126217 0 0
+/consultas 31 131785 0 0
+/noticias 31 120201 0 0
+/quienes-somos 31 142754 0 0
+/formularios 31 140085 0 0
+/lotaip 20 266079 0 2
+/documentos/rendicion-de-cuentas-2019 18 70263 0 5
+/documentos/resoluciones 17 66247 0 6
+/front/fonts/ionicons.ttf 17 1869388 0 7
+/documentos/pac 16 61227 0 2
+/documentos/solicitud-de-cotizacion 16 55096 0 5
+/documentos/autorizacion-para-renovacion-anual-de-matricula 14 48227 1 3
+/front/fonts/Simple-Line-Icons.woff 13 767684 0 3
+/directorio 12 48360 0 4
+/documentos/publicaciones 12 49455 0 3
+/webmail 12 150036 9 9
+/noticia/calendario-de-matriculacion-vehicular-2021 12 55647 9 2
+/sistema-turnos/40485 4 13900 1 0
+/sistema-turnos/43047 3 10305 1 1
+/sistema-turnos/37704 3 10392 1 1
+/sistema-turnos/44823 3 10533 1 1
+/sistema-turnos/40489 3 10386 0 1
+/sistema-turnos/44478 1 3535 1 1
+/sistema-turnos/39104 1 3444 1 1
+/sistema-turnos/38679 1 3506 1 1
+/sistema-turnos/44734 2 6900 0 0
+/sistema-turnos/44732 2 7014 1 0
+/sistema-turnos/43195 2 7048 1 1
+/unprotected/loader.html 1 905 1 1
+/sistema-turnos/44603 2 6984 1 1
+/sistema-turnos/44438 2 7066 1 1
+/sistema-turnos/38239 2 6854 1 1
+/sistema-turnos/37918 3 10272 1 1
+/.git/config 1 12226 1 1
+/sistema-turnos/39117 1 3449 1 1
+/sistema-turnos/42429 3 10383 1 1
+/sistema-turnos/43852 3 10515 1 1
+/sistema-turnos/44842 1 3502 1 1
+/turnero/salcedo 2 11901 1 1
+END_SIDER

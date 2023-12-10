@@ -1,0 +1,155 @@
+Return-Path: <>
+Delivered-To: scondor@epmc.gob.ec
+Received: from gye.ecuahosting.net
+	by gye.ecuahosting.net with LMTP id mIgaOMEWYlqmeAAAopOgJA
+	for <scondor@epmc.gob.ec>; Fri, 19 Jan 2018 11:03:13 -0500
+Return-path: <>
+Envelope-to: scondor@epmc.gob.ec
+Delivery-date: Fri, 19 Jan 2018 11:03:13 -0500
+Received: from mailnull by gye.ecuahosting.net with local (Exim 4.89_1)
+	id 1ecZ8L-0000jS-RA
+	for scondor@epmc.gob.ec; Fri, 19 Jan 2018 11:03:13 -0500
+X-Failed-Recipients: edisonpunchaz@otmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@gye.ecuahosting.net>
+To: scondor@epmc.gob.ec
+Content-Type: multipart/report; report-type=delivery-status; boundary=1516377793-eximdsn-49853093
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ecZ8L-0000jS-RA@gye.ecuahosting.net>
+Date: Fri, 19 Jan 2018 11:03:13 -0500
+
+--1516377793-eximdsn-49853093
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  edisonpunchaz@otmail.com
+    all hosts for 'otmail.com' have been failing for a long time (and retry time not reached)
+
+--1516377793-eximdsn-49853093
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; gye.ecuahosting.net
+
+Action: failed
+Final-Recipient: rfc822;edisonpunchaz@otmail.com
+Status: 5.0.0
+
+--1516377793-eximdsn-49853093
+Content-type: message/rfc822
+
+Return-path: <scondor@epmc.gob.ec>
+Received: from [::1] (port=51048 helo=gye.ecuahosting.net)
+	by gye.ecuahosting.net with esmtpsa (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <scondor@epmc.gob.ec>)
+	id 1ecZ8I-0000ia-3U
+	for edisonpunchaz@otmail.com; Fri, 19 Jan 2018 11:03:13 -0500
+Received: from 181.211.103.246 ([181.211.103.246]) by epmc.gob.ec (Horde
+ Framework) with HTTPS; Fri, 19 Jan 2018 11:03:09 -0500
+Date: Fri, 19 Jan 2018 11:03:09 -0500
+Message-ID: <20180119110309.Horde.M6QxJZ0aHIi9dDXNgMXFfJv@epmc.gob.ec>
+From: scondor@epmc.gob.ec
+To: edisonpunchaz@otmail.com
+Subject: Fwd: FORMATOS PARA REPORTES - CRONOGRAMA BRIGADAS
+User-Agent: Horde Application Framework 5
+Content-Type: multipart/mixed; boundary="=_hsRZMebcOFBTaafWOx0nvYh"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+X-OutGoing-Spam-Status: No, score=0.6
+
+This message is in MIME format.
+
+--=_hsRZMebcOFBTaafWOx0nvYh
+Content-Type: text/plain; charset=utf-8; format=flowed; DelSp=Yes
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+
+Estimado
+Ing. Sarzosa
+
+
+Reciba un cordial y atento saludo, por medio del presente le hago  
+llegar el cronograma para las brigadas de matriculación del presente  
+año, mismos que se darán cumplimiento estricto previo a su aprobación.
+Deigual manera remito a su persona los nuevos formatos para los  
+cuadres diarios de caja, asi como tambièn para el descarogo de placas  
+nuevas y usadas.
+
+
+Saludos Cordiales
+
+Tlga. Sandy Còndor
+ANALISTA DE ACTUALIZACION DE DATOS Y ESTADISTICA
+EPMC
+
+--=_hsRZMebcOFBTaafWOx0nvYh
+Content-Type: message/rfc822; name="Mensaje reenviado"
+
+Date: Fri, 19 Jan 2018 09:21:57 -0500
+Message-ID: <20180119092157.Horde.qFhqQ9vIt343Hc8UPc_odT9@epmc.gob.ec>
+From: scondor@epmc.gob.ec
+To: esarzosa <esarzosa@epmc.gob.ec>
+Cc: caldaz <caldaz@epmc.gob.ec>
+Subject: FORMATOS PARA REPORTES - CRONOGRAMA BRIGADAS
+Received: from 181.211.103.246 ([181.211.103.246]) by epmc.gob.ec (Horde
+ Framework) with HTTPS; Fri, 19 Jan 2018 09:21:57 -0500
+User-Agent: Horde Application Framework 5
+Content-Type: multipart/mixed; boundary="=_0Ztj7s2N9VJMqtCLwkMeuAZ"
+MIME-Version: 1.0
+
+This message is in MIME format.
+
+--=_0Ztj7s2N9VJMqtCLwkMeuAZ
+Content-Type: text/plain; charset=utf-8; format=flowed; DelSp=Yes
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+
+Estimado
+Ing. Sarzosa
+
+
+Reciba un cordial y atento saludo, por medio del presente le hago=20=20
+llegar=20el cronograma para las brigadas de matriculaci=C3=B3n del presente=
+=20=20
+a=C3=B1o, mismos que se dar=C3=A1n cumplimiento estricto previo a su aproba=
+ci=C3=B3n.
+Deigual manera remito a su persona los nuevos formatos para los=20=20
+cuadres=20diarios de caja, asi como tambi=C3=A8n para el descarogo de placa=
+s=20=20
+nuevas=20y usadas.
+
+
+Saludos Cordiales
+
+Tlga. Sandy C=C3=B2ndor
+ANALISTA DE ACTUALIZACION DE DATOS Y ESTADISTICA
+EPMC
+
+
+--=_0Ztj7s2N9VJMqtCLwkMeuAZ
+Content-Type: text/plain; charset=utf-8
+Content-Language: es_es
+Content-Transfer-Encoding: quoted-printable
+
+[Adjunto extra=C3=ADdo: Tipo de adjunto original: "application/pdf", nombre=
+: "BRIGADAS20180119_1055.pdf"]
+--=_0Ztj7s2N9VJMqtCLwkMeuAZ
+Content-Type: text/plain; charset=utf-8
+Content-Language: es_es
+Content-Transfer-Encoding: quoted-printable
+
+[Adjunto extra=C3=ADdo: Tipo de adjunto original: "application/pdf", nombre=
+: "DIGITADORES 20180119_0134.pdf"]
+--=_0Ztj7s2N9VJMqtCLwkMeuAZ--
+
+--=_hsRZMebcOFBTaafWOx0nvYh--
+
+
+--1516377793-eximdsn-49853093--

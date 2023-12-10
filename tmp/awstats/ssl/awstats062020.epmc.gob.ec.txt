@@ -1,0 +1,648 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202006 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2690                
+POS_VISITOR 13583               
+POS_DAY 16934               
+POS_DOMAIN 3520                
+POS_LOGIN 3979                
+POS_ROBOT 4134                
+POS_WORMS 4596                
+POS_EMAILSENDER 4727                
+POS_EMAILRECEIVER 4870                
+POS_SESSION 17633               
+POS_SIDER 17834               
+POS_FILETYPES 5005                
+POS_DOWNLOADS 5428                
+POS_OS 6353                
+POS_BROWSER 6582                
+POS_SCREENSIZE 7394                
+POS_UNKNOWNREFERER 7468                
+POS_UNKNOWNREFERERBROWSER 7746                
+POS_ORIGIN 7913                
+POS_SEREFERRALS 8057                
+POS_PAGEREFS 8265                
+POS_SEARCHWORDS 11739               
+POS_KEYWORDS 11891               
+POS_MISC 2353                
+POS_ERRORS 11950               
+POS_CLUSTER 3835                
+POS_SIDER_404 12140               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200701013852 28 4502 11770522048730
+FirstTime 20200601064421
+LastTime 20200630063528
+LastUpdate 20200701193634 28 0 27 0 0
+TotalVisits 96                  
+TotalUnique 64                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 88                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 18 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 25141 19 23 118687
+1 13 13 171824 18 26 135149
+2 1 4 485612 20 42 223470
+3 2 3 66062 15 22 786459
+4 1 1 25139 23 36 1802829
+5 8 76 4561757 24 62 446335
+6 21 238 5066365 33 47 418397
+7 21 154 4976886 27 37 552661
+8 77 318 8166248 31 43 212295
+9 26 131 1329420 38 44 254669
+10 21 143 7459362 25 34 612552
+11 17 95 1807017 38 47 173399
+12 19 152 7306971 19 31 63458
+13 6 11 323041 26 38 819505
+14 4 40 1448535 36 42 538884
+15 14 86 1918559474 38 48 152622
+16 29 189 6121332 49 67 448766
+17 68 433 8849503 52 59 125563
+18 8 47 1344716 18 28 181701
+19 25 81 2343848 27 36 124434
+20 82 176 2533348 40 53 196560
+21 14 90 2662007 20 34 359478
+22 71 269 5648767 35 42 298045
+23 138 235 2042539 12 22 27831
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+ec 526 2343 1974500404
+us 92 462 14334235
+cr 17 48 639775
+de 12 12 0
+ma 9 48 1396368
+gb 7 7 42048
+cz 5 5 125327
+ch 4 4 14140
+cn 4 4 145321
+ca 3 41 1746031
+fr 2 2 11030
+ru 2 2 12008
+at 2 2 12018
+eu 1 1 12224
+nl 1 1 12221
+in 0 3 250801
+mx 0 1 70963
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+AhrefsBot/ 155 752800 20200630153136 27
+bingbot/ 127 4443108 20200630232305 46
+bot[\s_+:,\.\;\/\\-] 65 687126 20200630050833 39
+Python\-urllib/ 24 910528 20200626103521 0
+no_user_agent 21 176076 20200629115314 0
+bingpreview 9 651006 20200621031616 0
+Googlebot/ 6 156 20200625134849 6
+[\s_+:,\.\;\/\\-]bot 3 17607 20200630205329 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 19
+gif 56 1007136 0 0
+cgi 2 24798 0 0
+html 268 1822132 0 0
+woff 75 3266378 0 0
+jpg 196 38544561 0 0
+js 828 8114381 0 0
+Unknown 224 1916490436 0 0
+woff2 10 521330 0 0
+ttf 47 5079284 0 0
+shtml 1 37919 0 0
+php 28 368660 0 0
+css 509 3464871 0 0
+png 682 10945055 0 0
+xml 6 2052 0 0
+env 22 268850 0 0
+webp 2 194 0 0
+tiff 2 330 0 0
+svg 23 253868 0 0
+pdf 5 3112679 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 21
+/uploads/lotaip_1586823690.pdf 1 0 240626
+/uploads/lotaip_1586823074.pdf 1 0 194220
+/uploads/f_1583937797.pdf 1 0 2216833
+/uploads/lotaip_1586823312.pdf 1 0 207269
+/uploads/lotaip_1586823203.pdf 1 0 194178
+/uploads/lotaip_1588949133.pdf 1 0 416743
+/uploads/lotaip_1583952726.pdf 1 0 60
+/uploads/lotaip_1591648691.pdf 1 0 408553
+/uploads/lotaip_1591651048.pdf 1 0 121092
+/uploads/lotaip_1588949687.pdf 1 0 425293
+/uploads/lotaip_1586823833.pdf 1 0 240571
+/uploads/lotaip_1587822853.pdf 1 0 191386
+/uploads/lotaip_1588902779.pdf 1 0 230236
+/uploads/lotaip_1583440015.pdf 1 0 277157
+/uploads/lotaip_1583270406.pdf 1 0 183697
+/uploads/lotaip_1586824656.pdf 1 0 277157
+/uploads/lotaip_1586823175.pdf 1 0 207380
+/uploads/lotaip_1583439974.pdf 1 0 277157
+/uploads/lotaip_1591652901.pdf 1 0 192879
+/uploads/lotaip_1587822362.pdf 1 0 194104
+/document/Habilitaciondevehiculo.pdf 1 0 60
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+winunknown 6 6
+win10 1118 254
+win8.1 83 12
+linux 19 16
+linuxubuntu 4 4
+win8 2 0
+win7 1433 304
+ios_ipad 1 0
+linuxandroid 289 60
+Unknown 24 24
+unix 2 2
+macosx11 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 35
+chrome65.0.3325.181 2 2
+msie7.0 4 0
+chrome65.0.3325.209 2 2
+chrome83.0.4103.97 369 96
+Unknown 20 20
+chrome74.0.3729.108 1 0
+chrome40.0.2214.85 12 12
+chrome75.0.3770.143 1 0
+chrome58.0.3029.110 2 1
+chrome83.0.4103.61 51 12
+mozilla 10 10
+chrome80.0.3987.149 40 4
+chrome66.0.3359.139 2 2
+chrome51.0.2704.103 4 4
+chrome64.0.3282.186 2 2
+firefox62.0 3 3
+safari12.1.2 1 0
+chrome79.0.3945.136 2 2
+firefox76.0 275 15
+chrome79.0.3945.130 1 1
+chrome83.0.4103.106 678 95
+opera68.0.3618.173 176 85
+chrome60.0.3112.107 24 24
+firefox47.0 4 4
+firefox64.0 1 0
+chrome81.0.4044.138 47 7
+firefox72.0 7 7
+chrome60.0.3112.113 5 0
+chrome63.0.3239.84 1 1
+chrome83.0.4103.101 170 21
+firefox77.0 552 41
+netscape5.0 1 1
+firefox51.0 2 2
+chrome67.0.3396.79 1 0
+chrome83.0.4103.116 513 211
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Go-http-client/1.1 20200629195116
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200605163034
+Mozilla/5.0_(compatible;_PR-CY.RU;___https://a.pr-cy.ru) 20200628012908
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20200629195116
+microsoft.windowscommunicationsapps 20200603170908
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 213 250
+From1 0 0
+From2 7 32
+From3 363 804
+From4 104 1900
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com_ec 0 1
+www_google_com_mx 0 1
+www_google_com 7 30
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 38
+https://webmail.epmc.gob.ec/cpsess9910799125/horde/imp/dynamic.php 109 160
+https://webmail.epmc.gob.ec/cpsess7774642693/horde/imp/dynamic.php 65 114
+https://webmail.epmc.gob.ec/cpsess9182298716/3rdparty/roundcube/ 51 72
+https://cpanel.epmc.gob.ec 35 89
+https://cpanel.epmc.gob.ec/cpsess7118497272/frontend/paper_lantern/filemanager/index.html 23 39
+https://webmail.epmc.gob.ec 12 43
+https://webmail.epmc.gob.ec/cpsess2867744095/3rdparty/roundcube/ 12 32
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 9 9
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1580810226/webmail/paper_lantern/_assets/css/master-legacy-ltr.cmb.min.css 7 7
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 6 6
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1582019851/frontend/paper_lantern/_assets/css/master-ltr.cmb.min.css 5 5
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1582019851/frontend/paper_lantern/_assets/css/master-legacy-ltr.cmb.min.css 5 5
+https://webmail.epmc.gob.ec/cpsess2867744095/3rdparty/roundcube/skins/elastic/styles/styles.css 4 4
+https://cpanel.epmc.gob.ec/cpsess7118497272/frontend/paper_lantern/backup/fullbackup.html 3 6
+https://a.pr-cy.ru/www.epmc.gob.ec 3 3
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1386192030/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/open_sans.min.css 2 2
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1571849660/frontend/paper_lantern/libraries/fontawesome/css/all.min.css 2 2
+https://a.pr-cy.ru/epmc.gob.ec 2 2
+http://webmail.epmc.gob.ec/wp-login.php 2 2
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1410366077/frontend/paper_lantern/libraries/bootstrap/optimized/css/bootstrap.min.css 1 1
+https://cpanel.epmc.gob.ec/unprotected/redirect.html 1 1
+https://webmail.epmc.gob.ec/unprotected/loader.html 1 1
+http://cpanel.epmc.gob.ec/wp-login.php 1 1
+https://cpanel.epmc.gob.ec/unprotected/loader.html 1 1
+https://webmail.epmc.gob.ec/unprotected/redirect.html 1 1
+https://webmail.epmc.gob.ec/cpsess7774642693/horde/themes/default/screen.css 0 30
+https://webmail.epmc.gob.ec/cpsess7774642693/horde/imp/themes/default/dynamic/screen.css 0 24
+https://webmail.epmc.gob.ec/cpsess9182298716/3rdparty/roundcube/skins/elastic/watermark.html 0 1
+https://webmail.epmc.gob.ec/cpsess2867744095/3rdparty/roundcube/skins/elastic/watermark.html 0 1
+https://webmail.epmc.gob.ec/cPanel_magic_revision_1589296194/unprotected/cpanel/style_v2_optimized.css 0 18
+https://webmail.epmc.gob.ec/cpsess9910799125/horde/imp/themes/default/dynamic/screen.css 0 41
+https://webmail.epmc.gob.ec/cpsess9910799125/horde/themes/default/screen.css 0 33
+https://webmail.epmc.gob.ec/cpsess7774642693/horde/imp/themes/default/screen.css 0 12
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1455824270/frontend/paper_lantern/libraries/chosen/1.5.1/chosen.min.css 0 1
+https://cpanel.epmc.gob.ec/styled/current_style/sprites/icon_spritemap.css 0 3
+https://cpanel.epmc.gob.ec/cPanel_magic_revision_1589296194/unprotected/cpanel/style_v2_optimized.css 0 14
+https://webmail.epmc.gob.ec/cpsess2867744095/3rdparty/roundcube/plugins/return_to_webmail/skins/elastic/return_to_webmail.css 0 1
+https://webmail.epmc.gob.ec/cpsess9910799125/horde/imp/themes/default/screen.css 0 17
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+308 7 755
+403 2 20181
+400 60 3016
+401 41 122782
+503 2 37810
+404 177 102233
+206 169 1125094
+302 8 120
+301 40 11978
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 29
+/cpsess9182298716/3rdparty/roundcube/ 2 https://webmail.epmc.gob.ec/cpsess9182298716/3rdparty/roundcube/
+/AutoDiscover/AutoDiscover.xml 3 -
+/document/CambiodeVehiculo.pdf 1 -
+/administrator 1 -
+/.well-known/assetlinks.json 5 -
+/document/ReformadeEstatutos.pdf 1 -
+/turno 2 -
+/sitemap.xml 1 -
+/document/Deshabilitacion.pdf 1 -
+/index.php/2019/09/20/buy-brand-glucotrol-worldwide-delivery-online-pill-shop 1 -
+/document/CambiodeSocio.pdf 3 -
+/atom.xml 2 -
+/contact.html 1 -
+/assets/images/about.jpg 14 https://www.google.com/blank.html
+/sitemap.xml.gz 1 -
+/assets/images/44.png 11 https://www.google.com/
+/Microsoft-Server-ActiveSync 1 -
+/noticias.html 1 -
+/license.php 1 -
+/manifest.json 98 https://www.epmc.gob.ec/
+/img/crane.png 5 https://outlook.live.com/
+/front/theme_panel/theme_panel.css 7 https://www.epmc.gob.ec/
+/info@epmc.gob.ec 1 -
+/sitemaps.xml 2 -
+/sitemap_index.xml 1 -
+/uploads/lotaip_1583270957.pdf 1 -
+/index.php/2019/04/25/the-new-angle-on-book-report-ideas-just-released 5 https://epmc.gob.ec/index.php/2019/04/25/the-new-angle-on-book-report-ideas-just-released/
+/xmlrpc.php 3 -
+/uploads/lotaip_1583271059.pdf 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 88
+186.47.137.17 128 301 1133406 20200626231114
+181.211.103.246 106 536 18425411 20200619122025
+186.46.227.211 74 155 1362652487 20200627152331
+186.46.227.210 56 78 403749 20200625204349
+186.101.136.111 31 289 4926347 20200616174646
+167.250.180.82 25 318 8158174 20200628214758
+104.41.151.254 24 24 293364 20200604011432
+200.229.146.66 17 48 639775 20200625200614
+66.70.178.119 15 15 92780 20200629195116
+138.246.253.15 12 12 0 20200617222601
+186.46.173.137 12 48 1228742 20200620085752
+186.46.174.150 12 118 3536662 20200617054500
+186.46.172.93 11 21 555999092 20200628175400
+190.152.130.156 10 58 1706918 20200618162025
+190.152.234.234 9 48 1653808 20200616164031
+45.224.150.10 9 48 1396368 20200626063810
+200.7.246.254 7 46 1334405 20200617074429
+51.91.129.4 7 7 42048 20200611095038
+190.152.208.95 7 111 1226641 20200625095246
+186.47.137.7 7 42 1199739 20200616193835
+190.152.128.83 6 6 2052 20200603170908
+190.111.82.136 6 44 1301001 20200618184028
+186.46.174.93 6 41 1194006 20200626213734
+190.152.233.179 5 56 4243829 20200623224951
+181.199.59.33 5 42 1192624 20200624073331
+162.248.247.153 2 2 11035 20200626233621
+35.164.235.49 1 1 5811 20200628234011
+177.228.34.147 0 1 70963 
+190.11.1.52 0 1 272230 
+190.152.205.233 4 40 1184585 20200624114350
+157.245.12.180 1 1 37921 20200601131333
+146.120.204.197 1 1 25139 20200621041013
+183.136.225.46 4 4 145321 20200616131832
+181.112.49.206 4 39 1182344 20200618105415
+181.211.112.138 0 1 49222 
+186.46.227.236 3 37 1174312 20200626162924
+181.113.57.178 0 1 234083 
+45.55.52.153 1 1 31550 20200605163034
+146.120.204.188 1 1 24949 20200622085834
+159.203.85.253 1 1 31754 20200605161953
+134.122.89.123 0 5 3112679 
+52.209.240.244 1 1 12219 20200623160803
+186.47.136.92 0 1 49222 
+185.220.100.253 2 2 12008 20200607114202
+186.42.105.132 0 1 49222 
+45.169.144.2 0 1 25155 
+45.183.139.19 0 2 225646 
+139.99.8.43 3 3 16301 20200611220823
+170.244.209.26 4 40 1184581 20200623163626
+190.152.160.1 0 1 234083 
+200.63.105.108 0 1 49222 
+179.49.54.246 4 39 1182340 20200617174847
+107.174.37.150 2 2 11150 20200602053636
+179.49.54.244 0 3 197305 
+178.62.247.64 1 1 12224 20200605215926
+209.58.152.93 2 2 11152 20200609200613
+184.66.236.3 0 1 160966 
+170.244.209.100 4 39 1182343 20200617150100
+170.244.209.99 1 1 60 20200630063528
+188.166.60.138 1 1 12221 20200607234938
+54.209.250.68 0 1 9357 
+190.99.77.4 3 39 1228398 20200617154341
+186.46.158.2 3 39 1203435 20200616212202
+190.214.10.253 0 1 404466 
+186.46.227.134 3 39 1228397 20200617084607
+195.154.52.108 2 2 11030 20200628131852
+186.46.175.99 0 2 276968 
+170.239.206.75 4 4 14140 20200629085358
+146.120.204.114 1 1 25141 20200626000102
+159.203.100.195 1 1 37909 20200605142219
+159.203.66.188 1 1 37921 20200605125058
+190.152.176.169 0 2 148083 
+131.196.9.130 0 1 381630 
+192.188.46.215 0 1 234083 
+131.196.10.3 3 39 1203435 20200618172026
+190.152.130.86 1 2 5796 20200625182918
+109.70.100.26 2 2 12018 20200607114606
+200.125.237.114 0 2 225646 
+146.120.204.211 1 1 24949 20200625033356
+146.120.204.17 1 1 25149 20200628012908
+162.247.74.74 2 2 24418 20200607115029
+190.152.128.66 0 1 49222 
+3.89.43.112 1 1 31756 20200614034109
+186.42.107.249 2 5 13833 20200623202513
+186.42.107.64 0 1 25155 
+186.46.225.254 0 1 138484 
+186.46.224.166 0 2 98444 
+190.152.128.141 1 1 905 20200630061521
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20200601 4 5 87143 3
+20200602 16 91 5948514 5
+20200603 18 18 148741 2
+20200604 13 14 209749 2
+20200605 5 5 151358 5
+20200607 7 7 60665 4
+20200609 2 3 172118 1
+20200611 15 90 5947671 3
+20200612 4 5 2248385 4
+20200613 0 2 98444 0
+20200614 5 6 79044 5
+20200615 1 1 0 1
+20200616 133 701 12610379 8
+20200617 29 280 8538415 8
+20200618 42 455 11013061 7
+20200619 14 137 6537214 2
+20200620 3 6 432049 1
+20200621 1 3 250785 1
+20200622 1 3 250595 1
+20200623 23 191 8949105 6
+20200624 9 84 2667057 2
+20200625 82 242 2566636 5
+20200626 215 566 6789789 7
+20200627 8 20 1361031049 2
+20200628 16 29 556194980 7
+20200629 19 19 106920 2
+20200630 2 3 235048 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+0s-30s 60
+30mn-1h 3
+2mn-5mn 5
+30s-2mn 19
+5mn-15mn 8
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 114
+/ 182 1403275 78 60
+/cpsess9182298716/3rdparty/roundcube/ 47 53971 0 1
+/front/fonts/ionicons.ttf 46 5058344 0 8
+/front/fonts/Simple-Line-Icons.woff 42 2482788 0 2
+/cpsess9910799125/horde/services/ajax.php/imp/showMessage 39 86958 0 0
+/cpsess9910799125/horde/services/ajax.php/imp/viewPort 28 35787 0 0
+/cpsess7118497272/json-api/cpanel 23 36971 0 1
+/cpsess9910799125/horde/services/ajax.php/imp/deleteMessages 19 3029 0 0
+/cpsess7774642693/horde/services/ajax.php/imp/moveMessages 13 5704 0 0
+/cpsess7774642693/horde/services/ajax.php/horde/imple 13 746 0 0
+/cpsess7774642693/horde/services/ajax.php/imp/flagMessages 8 32052 0 0
+/cpsess9910799125/horde/imp/dynamic.php 8 64669 0 0
+/cpsess2867744095/3rdparty/roundcube/ 8 52901 1 1
+/cpsess7774642693/horde/imp/dynamic.php 8 58014 0 0
+/cpsess7118497272/execute/Notifications/get_notifications_count 7 566 0 1
+/cpsess7774642693/horde/services/ajax.php/imp/sendMessage 7 2165 0 0
+/login/ 6 888 0 0
+/noticia/salcedo-ahora-cuenta-con-servicio-de-transporte-diferenciado 6 31038 0 5
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 5 112790 0 0
+/cpsess7774642693/horde/imp/view.php 5 175079 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 5 114085 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 5 111630 0 0
+/cpsess9910799125/horde/services/ajax.php/imp/poll 4 324 0 0
+/turnos 4 20465 1 1
+/sistema-turnos/3189 4 14140 1 1
+/cpsess9910799125/execute/Email/list_pops_with_disk 2 574 0 0
+/cpsess9910799125/horde/services/ajax.php/imp/sendMessage 2 319 0 0
+/.env 2 24429 0 0
+/cPanel_magic_revision_1571849660/frontend/paper_lantern/libraries/fontawesome/webfonts/fa-solid-900.woff2 1 75712 0 0
+/cPanel_magic_revision_1386192032/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Italic-webfont.woff 1 23090 0 0
+/cpsess3782470539/download 2 555844728 1 1
+/consultas 1 4239 0 0
+/cpsess9910799125/horde/services/ajax.php/horde/topbarUpdate 1 128 0 0
+/cpsess7118497272/download 1 1360277951 1 1
+/cpsess7774642693/horde/services/ajax.php/imp/viewPort 1 2920 0 0
+/laravel/.env 2 24451 0 0
+/cpsess9910799125/horde/services/ajax.php/imp/dynamicInit 3 21976 0 0
+/cpsess7118497272/execute/ResourceUsage/get_usages 2 1697 0 0
+/cpsess9910799125/horde/services/ajax.php/imp/flagMessages 1 195 0 0
+/cpsess7118497272/execute/Resellers/list_accounts 2 258 0 0
+/cpsess9182298716/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+/noticias 1 3957 0 1
+/cPanel_magic_revision_1386192033/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Semibold-webfont.woff 1 22817 0 0
+/wp-admin/admin-ajax.php 2 24514 2 0
+/cPanel_magic_revision_1582019851/frontend/paper_lantern/libraries/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 2 46264 0 0
+/cPanel_magic_revision_1587930608/3rdparty/roundcube/skins/elastic/fonts/roboto-v19-regular.woff2 1 51144 0 0
+/sites/.env 2 24438 0 0
+/blog/.env 2 24447 0 0
+/cpsess3782470539/execute/Notifications/get_notifications_count 2 162 0 2
+/cpsess7118497272/execute/SSL/installed_host 2 1606 0 0
+/cpsess7118497272/frontend/paper_lantern/softaculous/themes/default/fonts/soft.woff 1 14408 0 0
+/cpsess7774642693/horde/services/ajax.php/imp/showMessage 3 10927 0 0
+/cPanel_magic_revision_1587930608/3rdparty/roundcube/skins/elastic/fonts/fa-regular-400.woff2 1 13603 0 0
+/cPanel_magic_revision_1571849660/frontend/paper_lantern/libraries/fontawesome/webfonts/fa-regular-400.woff2 1 13587 0 0
+/cPanel_magic_revision_1386192030/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 1 22558 0 0
+/vendor/.env 2 24445 0 0
+/directorio 1 4013 0 0
+/cPanel_magic_revision_1410366077/frontend/paper_lantern/libraries/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 1 23132 0 0
+/public/.env 2 24440 0 0
+/cpsess7774642693/horde/services/ajax.php/imp/dynamicInit 1 4711 0 0
+/AutoDiscover/AutoDiscover.xml 3 1026 1 0
+/front/fonts/Simple-Line-Icons.ttf 1 20940 0 0
+/cpsess7118497272/frontend/paper_lantern/backup/dofullbackup.html 1 14128 0 0
+/cpsess9182298716/3rdparty/roundcube/program/resources/blank.webp 1 97 0 0
+/wp-login.php 3 36664 3 3
+/cPanel_magic_revision_1587930608/3rdparty/roundcube/skins/elastic/fonts/fa-solid-900.woff2 1 75401 0 0
+/cpsess7118497272/frontend/paper_lantern/ 2 100922 0 0
+/cpsess9910799125/webmail/paper_lantern/ 2 22976 0 0
+/webmaillogout.cgi 2 24798 0 2
+/lotaip 1 9974 0 0
+/cpsess7774642693/horde/services/download/ 3 38654 0 0
+/test/.env 2 24441 0 0
+/cpsess2867744095/3rdparty/roundcube/program/resources/blank.tiff 1 165 0 0
+/shop/.env 2 24439 0 2
+/cpsess9182298716/3rdparty/roundcube/skins/elastic/watermark.html 3 909 0 0
+/requsitos 1 4438 0 0
+/cpsess7118497272/frontend/paper_lantern/backup/fullbackup.html 4 61162 2 0
+/cPanel_magic_revision_1582019851/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 2 45116 0 0
+/quienes-somos 1 4786 0 0
+/cpsess7774642693/horde/services/ajax.php/horde/topbarUpdate 3 381 0 0
+/cpsess7118497272/execute/Themes/list 2 213 0 0
+/cpsess7118497272/frontend/paper_lantern/filemanager/ 1 18991 0 0
+/autodiscover/autodiscover.xml 3 1026 0 1
+/cPanel_magic_revision_1571849661/webmail/paper_lantern/libraries/fontawesome/webfonts/fa-regular-400.woff2 1 13587 0 0
+/front/fonts/ionicons.woff 1 67072 0 0
+/documentos/resoluciones 1 3885 0 0
+/cPanel_magic_revision_1587930608/3rdparty/roundcube/skins/elastic/fonts/roboto-v19-regular-700.woff2 1 51116 0 0
+/403.shtml 1 37919 1 1
+/cPanel_magic_revision_1582019851/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Semibold-webfont.woff 2 45634 0 0
+/cpsess2867744095/3rdparty/roundcube/skins/elastic/watermark.html 1 303 0 0
+/cpsess7118497272/frontend/paper_lantern/backup/ 1 16797 0 0
+/administrativos 1 4079 0 0
+/admin/.env 2 24442 0 0
+/documentos/publicaciones 1 3425 0 0
+/cPanel_magic_revision_1410366077/webmail/paper_lantern/libraries/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 1 23132 0 0
+/cpsess7118497272/execute/Personalization/get 2 268 0 0
+/system/.env 2 24440 0 0
+/cPanel_magic_revision_1571849661/webmail/paper_lantern/libraries/fontawesome/webfonts/fa-solid-900.woff2 1 75712 0 0
+/api/.env 2 24438 0 0
+/formularios 1 4490 0 0
+/cpsess7118497272/frontend/paper_lantern/softaculous/index.live.php 2 9720 0 0
+/cpsess9910799125/horde/services/ajax.php/imp/getContactsImage 2 94 0 0
+/cPanel_magic_revision_1386192030/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 1 22326 0 0
+/cpsess9910799125/horde/services/ajax.php/imp/listMailboxes 1 328 0 0
+/cPanel_magic_revision_1582019851/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 2 44652 0 0
+/cPanel_magic_revision_1386192033/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 1 22558 0 0
+/cPanel_magic_revision_1386192031/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 1 22326 0 0
+/unprotected/redirect.html 2 1026 0 0
+/cpsess9910799125/horde/services/ajax.php/horde/imple 3 176 0 0
+/cPanel_magic_revision_1582019851/frontend/paper_lantern/libraries/fontawesome/webfonts/fa-solid-900.woff2 2 151468 0 0
+/unprotected/loader.html 3 2715 3 1
+/cpsess2867744095/3rdparty/roundcube/program/resources/blank.webp 1 97 0 0
+/cpsess3782470539/frontend/paper_lantern/backup/fullbackup.html 2 32514 1 0
+/documentos/rendicion-de-cuentas-2019 1 3593 0 0
+END_SIDER

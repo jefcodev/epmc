@@ -1,0 +1,606 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201908 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2680                
+POS_VISITOR 20455               
+POS_DAY 21391               
+POS_DOMAIN 3385                
+POS_LOGIN 3736                
+POS_ROBOT 3891                
+POS_WORMS 4252                
+POS_EMAILSENDER 4383                
+POS_EMAILRECEIVER 4526                
+POS_SESSION 22027               
+POS_SIDER 22228               
+POS_FILETYPES 4661                
+POS_DOWNLOADS 4797                
+POS_OS 5267                
+POS_BROWSER 5405                
+POS_SCREENSIZE 5692                
+POS_UNKNOWNREFERER 5766                
+POS_UNKNOWNREFERERBROWSER 6091                
+POS_ORIGIN 6326                
+POS_SEREFERRALS 6462                
+POS_PAGEREFS 6627                
+POS_SEARCHWORDS 6775                
+POS_KEYWORDS 6927                
+POS_MISC 2344                
+POS_ERRORS 6986                
+POS_CLUSTER 3592                
+POS_SIDER_404 7134                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190901010539 237 32686 16248688775554
+FirstTime 0
+LastTime 20190831230724
+LastUpdate 20190901073150 237 0 236 0 0
+TotalVisits 147                 
+TotalUnique 23                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 24                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 48215 36 43 23386
+1 10 10 73034 36 53 48163
+2 6 6 0 35 41 208252
+3 10 10 109567 26 33 22818
+4 5 5 36511 43 53 205741
+5 4 4 0 51 70 271577
+6 4 4 0 42 53 175279
+7 8 8 73022 44 47 267251
+8 5 5 36523 41 47 527243
+9 13 13 0 40 45 174228
+10 5 5 0 35 38 48152
+11 12 13 138718 51 57 254658
+12 3 3 0 31 34 84493
+13 10 10 73046 52 59 82152
+14 7 7 0 45 49 101171
+15 9 9 48208 39 48 129354
+16 11 11 73046 68 72 110108
+17 6 6 0 209 214 477349
+18 7 7 36511 45 49 548144
+19 3 3 0 43 61 408866
+20 7 7 0 36 53 1452500
+21 7 7 0 64 76 272935
+22 3 3 0 44 47 496559
+23 11 11 73022 56 79 42083
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+zz 115 115 0
+cn 20 20 547759
+ca 10 10 36524
+fr 8 8 0
+us 5 5 109545
+de 5 5 0
+br 3 3 0
+gb 2 2 0
+it 2 2 23388
+es 1 1 0
+jp 1 1 0
+ec 0 1 102207
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bingbot/ 414 5809905 20190831235957 0
+AhrefsBot/ 305 269669 20190831222307 0
+bot[\s_+:,\.\;\/\\-] 16 328671 20190830233138 0
+no_user_agent 10 0 20190827145231 0
+curl 2 0 20190830112936 0
+facebookexternalhit/ 1 0 20190807084929 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+shtml 1 36533 0 0
+pdf 1 102207 0 0
+html 49 620771 0 0
+php 122 59912 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 10
+/document/REQUISSITOS2017.pdf 7 0 2991618
+/document/CambiodeVehiculo.pdf 2 0 210824
+/document/ConcesiondePermiso.pdf 2 0 203816
+/document/ConcesiondeContrato.pdf 2 0 201428
+/document/ReformadeEstatutos.pdf 2 0 204414
+/document/CambiodeSocio.pdf 2 0 348064
+/document/pac.pdf 2 0 120370
+/document/Habilitaciondevehiculo.pdf 1 0 104989
+/document/Deshabilitacion.pdf 1 0 101285
+/document/CambiodeSocioVehiculo.pdf 1 0 106276
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+linux 1 1
+macosx11 20 20
+win7 23 22
+Unknown 124 124
+win10 2 2
+macosx 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 12
+chrome40.0.2214.85 3 3
+chrome63.0.3239.132 2 2
+chrome36.0.1985.143 4 4
+chrome69.0.3451.0 3 3
+mozilla 4 4
+firefox58.0 1 1
+chrome46.0.2490.80 1 1
+firefox56.0 1 0
+chrome74.0.3729.131 1 1
+Unknown 120 120
+firefox64.0 13 13
+firefox47.0 20 20
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+python-requests/2.19.1 20190831172024
+PleskBot 20190827140153
+WordPress/4.9.10;_https://epmc.gob.ec 20190831230724
+python-requests/2.22.0 20190815161537
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190806013859
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+python-requests/2.19.1 20190831172024
+PleskBot 20190827140153
+WordPress/4.9.10;_https://epmc.gob.ec 20190831230724
+python-requests/2.22.0 20190815161537
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 54 54
+From1 0 0
+From2 0 1
+From3 0 0
+From4 118 118
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+search_yahoo_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+301 40 0
+400 30 692
+206 8 21712
+302 4 0
+401 16 525
+421 4 1288
+404 570 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 254
+/index.php/2019/07/24/die-gliederung-einer-hausarbeit-zu-vertuschen/ 1 -
+/templates/beez3/index.php 1 -
+/wp-content/plugins/wp-live-chat-software-for-wordpress/plugin_files/css/livechat.css 2 -
+/rxr.php 1 -
+/index.php/2019/08/12/important-solutions-for-nursing-theories-list-in-easy-to-follow-step-by-step-detail/ 1 -
+/wp-content/uploads/2019/09/content-post.php 1 -
+/index.php/2019/07/27/whos-talking-about-dissertation-results-and-why-you-should-be-worried/ 2 -
+/V3.php 1 -
+/templates/protostar/error.php 1 -
+/wp-content/vuln.php 1 -
+/templates/ja_purity/index.php 1 -
+/license.php 1 -
+/pdf/ 1 -
+/x.php 3 -
+/assets/ckeditor/kcfinder/upload.php 1 -
+/wp-content/plugins/three-column-screen-layout/db.php 1 -
+/index.php/2019/08/02/einfhrung-diplomarbeit-2/ 2 -
+/wp-content/plugins/yuzo-related-post/assets/js/admin.js 5 -
+/administrator/templates/isis/index.php 1 -
+/wp-admin/admin-post.phpnd_options_value_import_settings=home[nd_options_option_value]https://jackielovedogs.com/pret 1 -
+/wp-content/plugins/css-ready/file.php 1 -
+/index.php/2019/07/27/top-choices-of-the-importance-of-literature-review/ 2 -
+/wp-admin/admin-ajax.php 9 -
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 -
+/wp.php 3 -
+/e.php 3 -
+/wp-cron.php 1 https://epmc.gob.ec/wp-cron.php
+/index.php/2019/08/18/a-review-of-chemistry-joke/ 2 -
+/templates/atomic/error.php 1 -
+/.well-known/assetlinks.json 7 -
+/files/ 1 -
+/index.php/2019/08/13/the-nuiances-of-college-essay-topics-common-app/ 2 -
+/wp-content/uploads/test.php 1 -
+/wp-includes/css/modules.php 1 -
+/images/ 1 -
+/1337w0rm.php 3 -
+/wp-content/think.php 1 -
+/wp-content/plugins/wp-private-content-plus/css/wppcp-front.css 1 -
+/index.php/2019/07/27/a-startling-fact-about-professional-essay-editing-service-uncovered/ 2 -
+/1.php 3 -
+/index.php/2019/08/04/life-death-and-best-paper-writer-helper-2/ 1 -
+/wp-content/plugins/nd-shortcodes/css/style.css 5 -
+/olux.php 3 -
+/index.php/2019/07/29/things-you-wont-like-about-how-to-enhance-your-writing-skills-and-things-you-will-3/ 3 -
+/assets/admin/ckeditor/kcfinder/upload.php 1 -
+/t.php 3 -
+/cpanel.php 3 -
+/index.php/2019/08/13/the-lost-secret-of-apa-introduction-example-3/ 2 -
+/templates/beez5/index.php 1 -
+/index.php/2019/07/29/whos-talking-about-dissertation-results-and-why-you-should-be-worried/ 2 -
+/templates/rhuk_milkyway/index.php 1 -
+/admin/ckeditor/kcfinder/upload/files/up.php.jd 1 -
+/templates/beez5/error.php 1 -
+/wp-content/plugins/wp-piwik/js/wp-piwik.js 1 -
+/index.php/2019/07/25/whos-talking-about-dissertation-results-and-why-you-should-be-worried/ 1 -
+/docs/ 1 -
+/wp-content/uploads/ 1 -
+/error.php 1 -
+/language/en-GB/en-GB.xml 1 -
+/index.php/2019/07/29/top-choices-of-the-importance-of-literature-review/ 3 -
+/administrator/templates/hathor/index.php 1 -
+/index.php/2019/08/03/life-death-and-best-paper-writer-helper-2/ 2 -
+/2018.php 3 -
+/index.php/2019/07/24/wahl-bachelor-arbeit-aussetzen-ist-einfach/ 1 -
+/templates/beez_20/error.php 1 -
+/index.php/2019/07/25/the-nuiances-of-theoretical-dissertation-methodology-2/ 1 -
+/index.php/2019/07/22/the-importance-of-how-to-modify-a-report/ 1 -
+/modules/mod_ariimageslidersa/mod_ariimageslidersa.php 1 -
+/2 2 -
+/wp-json/siteground-optimizer/v1/enable-option 2 -
+/index.php/2019/08/13/utah-chemistry-what-is-it/ 2 -
+/index.php/2019/08/19/vital-pieces-of-what-is-chemical-energy-in-physics/ 1 -
+/wp-content/plugins/theme-configurator/mini.php 1 -
+/wp-info.php 1 -
+/wp-content/plugins/widget-logic/mini.php 1 -
+/index.php/2019/07/28/the-nuiances-of-theoretical-dissertation-methodology-2/ 2 -
+/wp-content/plugins/wp-admin-manager/up.php 1 -
+/index.php/2019/08/27/what-to-do-about-buy-assignment-au-before-its-too-late/ 1 -
+/k.php 3 -
+/wp-admin/shapes.php 1 -
+/wp-content/uploads/content-post.php 1 -
+/upel.php 1 -
+/index.php/2019/07/18/dissertation-editing-rates-a-brief-overview/ 1 -
+/wp-content/plugins/blog-designer/js/designer.js 10 -
+/index.php/2019/08/19/lab-report-help/ 2 -
+/index.php/2019/08/12/new-questions-about-500-word-essay-example-for-the-beginners-answered-and-why-you-must-read-every-word-of-this-report-2/ 2 -
+/index.php/2019/07/24/top-choices-of-the-importance-of-literature-review/ 4 -
+/index.php/2019/08/13/what-is-truly-happening-with-what-is-shop-math/ 4 -
+/wp-content/uploads/2019/09/new_license.php 1 -
+/templates/beez3/error.php 1 -
+/wp-content/plugins/vwcleanerplugin/bump.php 1 -
+/index.php/2019/07/22/why-everyone-is-wrong-regarding-theoretical-physics-definition-and-why-you-must-view-this-report/ 1 -
+/wp-content/plugins/gravityforms/gravityforms.php 1 -
+/modules/mod_simplefileuploadv1.3/elements/Clean.php 1 -
+/index.php/2019/07/24/whos-talking-about-dissertation-results-and-why-you-should-be-worried/ 4 -
+/uploads/ 1 -
+/wp-content/plugins/css-ready-sele/file.php 1 -
+/XxX.php 2 -
+/index.php/2019/04/25/the-new-angle-on-book-report-ideas-just-released/ 1 -
+/index.php/2019/07/22/dissertation-editing-rates-a-brief-overview/ 1 -
+/components/com_b2jcontact/izoc.php 1 -
+/wp-content/plugins/responsive-coming-soon/templates/template1/assets/css/style.css 5 -
+/index.php/2019/07/26/possible-danger-signs-on-best-admission-essay-writing-service-you-need-to-be-aware-of/ 2 -
+/profile/register 2 -
+/index.php/2019/08/19/whatever-they-told-you-about-best-college-essay-writer-is-dead-wrong-and-heres-why-2/ 2 -
+/y.php 3 -
+/assets/plugins/ckeditor/kcfinder/upload.php 1 -
+/index.php/2019/07/28/whos-talking-about-dissertation-results-and-why-you-should-be-worried/ 2 -
+/cp.php 3 -
+/index.php/2019/08/24/the-secret-to-pay-for-term-papers-3/ 1 -
+/index.php/2019/08/13/get-the-scoop-on-customer-essay-before-youre-too-late/ 2 -
+/d.php 3 -
+/index.php/2019/07/16/introducing-affordable-assignment-help/ 1 -
+/assets/ckeditor/kcfinder/upload/files/up.php.jd 1 -
+/wp-content/plugins/wpshopify/dist/public.min.css 3 -
+/index.php/2019/07/24/the-nuiances-of-theoretical-dissertation-methodology-2/ 2 -
+/root.php 3 -
+/index.php/2019/07/21/the-theoretical-science-diaries/ 1 -
+/index.php/2019/07/22/the-theoretical-science-diaries/ 1 -
+/index.php/2019/08/26/shortcuts-to-write-your-resume-online-free-that-only-a-few-people-know-about-3/ 1 -
+/index.php/2019/08/07/the-birth-of-immigration-biology/ 1 -
+/index.php/2019/08/24/shortcuts-to-write-your-resume-online-free-that-only-a-few-people-know-about-2/ 1 -
+/index.php/2019/07/20/the-secret-to-discreetly-definition/ 3 -
+/wso.php 3 -
+/1 4 -
+/index.php/2019/04/26/50-creative-writing-matters-for-youths/ 1 -
+/3 2 -
+/new_license.php 1 -
+/index.php/2019/07/29/theory-multiple-choice-questions-options/ 1 -
+/index.php/2019/07/29/a-startling-fact-about-professional-essay-editing-service-uncovered/ 3 -
+/index.php/2019/07/24/a-startling-fact-about-professional-essay-editing-service-uncovered/ 3 -
+/wp-content/plugins/fb-messenger/js/index.js 2 -
+/wp-content/plugins/simple-301-redirects-addon-bulk-uploader/assets/css/notices.css 4 -
+/wp-content/plugins/upspy/index.php 1 -
+/templates/beez_20/index.php 1 -
+/404.php 3 -
+/index.php/2019/08/21/the-dos-and-donts-of-how-to-structure-an-essay/ 1 -
+/index.php/2019/08/23/the-secret-to-pay-for-term-papers-3/ 1 -
+/index.php/2019/07/22/die-gliederung-einer-hausarbeit-zu-vertuschen/ 1 -
+/administrator/templates/bluestork/index.php 1 -
+/index.php/2019/07/26/wahl-bachelor-arbeit-aussetzen-ist-einfach/ 3 -
+/index.php/2019/07/22/introducing-affordable-assignment-help/ 1 -
+/wp-content/uploads/new_license.php 1 -
+/libraries/joomla/jmail.php 1 -
+/index.php/2019/08/13/the-never-before-told-story-on-vertebrate-definition-biology-you-need-to-read/ 2 -
+/templates/beez_3/index.php 1 -
+/wp-content/plugins/smart-google-code-inserter/screenshot1.jpg 1 -
+/index.php/2019/07/28/things-you-wont-like-about-how-to-enhance-your-writing-skills-and-things-you-will-3/ 2 -
+/index.php/2019/07/22/wahl-bachelor-arbeit-aussetzen-ist-einfach/ 1 -
+/index.php/2019/07/27/things-you-wont-like-about-how-to-enhance-your-writing-skills-and-things-you-will-3/ 2 -
+/index.php/2019/08/03/life-after-best-essay-writer-help/ 2 -
+/index.php/2019/08/27/buy-a-cheap-essay-online-exposed/ 1 -
+/up.php 3 -
+/index.php/2019/08/23/physics-websites-the-story-2/ 1 -
+/index.php/2019/07/12/1757/ 1 -
+/templates/protostar/index.php 1 -
+/index.php/2019/08/26/top-define-mixture-in-chemistry-reviews-2/ 1 -
+/templates/atomic/index.php 1 -
+/wp-content/uploads/up.php 1 -
+/index.php/2019/07/22/the-how-to-measure-the-student-s-accomplishment-cover-up/ 1 -
+/wp-content/plugins/yellow-pencil-visual-theme-customizer/js/yellow-pencil.js 5 -
+/upload.php 3 -
+/index.php/2019/08/01/how-to-choose-admission-essay-topics-2/ 2 -
+/index.php/2019/08/23/magical-solutions-to-biome-definition-biology-identified-3/ 1 -
+/index.php/2019/08/13/new-questions-about-lit-review-answered-and-why-you-must-read-every-word-of-this-report/ 2 -
+/wp-content/plugins/hybrid-composer/style.css 5 -
+/c.php 3 -
+/config.php 3 -
+/z.php 3 -
+/index.php/2019/07/29/heres-what-i-know-about-what-is-the-best-paper-writing-service/ 2 -
+/administrator/templates/bluestork/error.php 1 -
+/wp-content/themes/gaukingo/db.php 1 -
+/indoxploit.php 4 -
+/templates/system/index.php 1 -
+/wp-content/plugins/simple-membership/css/swpm.common.css 3 -
+/assets/admin/ckeditor/kcfinder/upload/files/up.php.jd 1 -
+/modules/modules/modules.php 1 -
+/index.php/2019/08/18/if-you-read-nothing-else-today-read-this-report-on-which-of-the-following-is-a-good-way-to-approach-answering-an-essay-questio/ 2 -
+/wp-content/plugins/ubh/index.php 1 -
+/wp-content/plugins/css-ready-sel/file.php 1 -
+/2019.php 3 -
+/index.php/2019/08/02/life-death-and-best-paper-writer-helper-2/ 2 -
+/images/vuln.php 1 -
+/administrator/templates/isis/error.php 1 -
+/templates/beez/index.php 1 -
+/ 5 -
+/index.php/2019/07/19/ruthless-cheap-assignment-help-strategies-exploited/ 1 -
+/wp-content/uploads/class_akismet.php 1 -
+/RxR.php 1 -
+/index.php/2019/07/28/theory-multiple-choice-questions-options/ 2 -
+/libraries/joomla/jmails.php 1 -
+/wp-admin/admin-post.php 9 -
+/index.php/2019/08/13/startling-facts-about-social-psychology-theories-in-nursing-unveiled/ 2 -
+/index.php/2019/07/24/things-you-wont-like-about-how-to-enhance-your-writing-skills-and-things-you-will-2/ 1 -
+/Marvins.php 2 -
+/assets/plugins/ckeditor/kcfinder/upload/files/up.php.jd 1 -
+/wp-content/plugins/wp-shopify/dist/public.min.css 3 -
+/a.php 3 -
+/modules/mod_simplefileuploadv1.3/elements/udd.php 1 -
+/index.php/2019/07/22/the-secret-to-discreetly-definition/ 2 -
+/index.php/2019/07/21/writing-a-report-outline-secrets-2/ 1 -
+/images/stories/cmd.php 1 -
+/libraries/joomla/css.php 1 -
+/images/jsspwneed.php 1 -
+/wp-content/plugins/convertplug/modules/info_bar/assets/css/info_bar.min.css 2 -
+/wp-content/plugins/html404/index.html 1 -
+/robots.txt 113 -
+/index.php/2019/08/01/einfhrung-diplomarbeit-2/ 2 -
+/index.php/2019/07/27/theory-multiple-choice-questions-options/ 2 -
+/index.php/2019/08/30/un-answered-problems-with-best-plagiarism-free-essay-writer-disclosed/ 1 -
+/o.php 3 -
+/gallery/ 1 -
+/wp-content/uploads/2019/09/ 1 -
+/wp-content/plugins/xichang/x.php 1 -
+/admin/ckeditor/kcfinder/upload.php 1 -
+/index.php/2019/07/31/how-to-choose-admission-essay-topics/ 2 -
+/administrator/templates/hathor/error.php 1 -
+/wp-admin/network/wp-footer.php 1 -
+/w.php 3 -
+/index.php/2019/07/27/heres-what-i-know-about-what-is-the-best-paper-writing-service/ 2 -
+/libraries/jscripts/kcfinder/upload.php 1 -
+/index.php/2019/07/22/the-fundamentals-of-best-essay-writer-near-me-revealed/ 2 -
+/wp-admin/admin-post.phpnd_donations_value_import_settings=home[nd_donations_option_value]https://jackielovedogs.com/pret 1 -
+/tmp/vuln.php 1 -
+/wp-content/plugins/bold-page-builder/css/front_end/content_elements.crush.css 3 -
+/img/ 1 -
+/index.php/2019/08/15/vital-pieces-of-what-is-chemical-energy-in-physics/ 1 -
+/index.php/2019/08/11/get-the-scoop-on-customer-essay-before-youre-too-late/ 1 -
+/index.php/2019/08/26/the-secret-to-pay-for-term-papers-4/ 1 -
+/join 2 -
+/index.php/2019/08/18/the-dos-and-donts-of-how-to-structure-an-essay/ 1 -
+/templates/system/error.php 1 -
+/s.php 3 -
+/uploader.php 1 -
+/shell.php 3 -
+/V5.php 1 -
+/index.php/2019/08/13/the-characteristics-of-personal-essay-format/ 2 -
+/wp-content/plugins/ppus/up.php 1 -
+/m.php 3 -
+/upload/ 1 -
+/wp-content/plugins/insert-php/admin/assets/js/tag-it.js 3 -
+/index.php/2019/07/31/einfhrung-diplomarbeit-2/ 2 -
+/index.php/2019/08/02/how-to-choose-admission-essay-topics-2/ 2 -
+/payload.php 1 -
+/index.php/2019/08/18/the-lost-secret-of-best-online-free-essay-writer/ 2 -
+/index.php/2019/08/22/what-pros-are-not-saying-about-essay-writing-toronto-and-how-this-affects-you/ 1 -
+/wp-content/plugins/wp-live-chat-support/css/wplcstyle.css 5 -
+/administrator/manifests/files/joomla.xml 1 -
+/index.php/2019/08/27/the-top-secret-truth-on-specialization-biology-exposed-2/ 1 -
+/wp-content/uploads/new_up.php 1 -
+/index.php/2019/07/25/heres-what-i-know-about-what-is-the-best-paper-writing-service/ 1 -
+/index.php/2019/08/21/vital-pieces-of-what-is-chemical-energy-in-physics/ 1 -
+/098.php 1 -
+/index.php/2019/08/23/the-number-one-article-on-best-online-college-paper-writing-service-2/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 24
+10.252.221.1 115 115 0 20190831230724
+60.191.38.77 20 20 547759 20190826111403
+149.202.75.164 6 6 0 20190805233639
+138.246.253.5 3 3 0 20190822230940
+192.99.38.186 3 3 0 20190827112318
+198.50.218.65 3 3 0 20190831172024
+142.44.151.107 3 3 0 20190825211908
+177.124.225.106 3 3 0 20190804144406
+193.70.34.209 2 2 23388 20190824152527
+188.165.192.220 1 1 0 20190826155558
+46.32.249.72 1 1 0 20190829035913
+188.40.131.167 1 1 0 20190823204129
+167.71.97.11 1 1 36523 20190806011253
+153.126.194.159 1 1 0 20190822232507
+176.9.56.104 1 1 0 20190802193616
+167.71.81.81 1 1 36511 20190806013859
+34.243.114.25 1 1 0 20190827140153
+82.223.18.58 1 1 0 20190804015607
+51.255.109.169 1 1 0 20190824201144
+51.77.109.20 1 1 0 20190815161537
+167.99.55.65 1 1 0 20190806013822
+198.27.70.61 1 1 36524 20190824003234
+167.71.99.196 1 1 36511 20190803111420
+181.112.149.99 0 1 102207 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190801 2 2 0 2
+20190802 9 9 0 8
+20190803 10 10 109557 7
+20190804 6 6 0 4
+20190805 10 10 0 5
+20190806 11 11 146056 11
+20190807 2 2 0 2
+20190808 1 1 0 1
+20190809 6 6 0 6
+20190810 5 5 73056 4
+20190811 5 5 0 4
+20190812 4 4 73022 4
+20190813 5 5 0 5
+20190814 5 5 0 4
+20190815 2 2 0 2
+20190816 6 6 73046 5
+20190817 3 3 0 3
+20190818 5 5 0 5
+20190819 12 12 73022 9
+20190820 7 7 0 7
+20190821 3 3 0 3
+20190822 7 7 0 7
+20190823 3 3 36523 3
+20190824 6 6 59912 6
+20190825 5 5 73022 2
+20190826 6 7 102207 6
+20190827 5 5 0 3
+20190828 4 4 0 4
+20190829 1 1 0 1
+20190830 7 7 0 7
+20190831 9 9 0 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 2
+2mn-5mn 1
+30mn-1h 2
+30s-2mn 1
+0s-30s 135
+15mn-30mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/wp-cron.php 115 0 109 109
+/ 46 620771 32 34
+/wp-admin/admin-post.php 4 0 1 0
+/index.php/2019/06/16/if-you-read-nothing-else-today-read-this-report-on-nurse-practitioner-admission-essay/ 3 0 1 1
+/update.php 2 23388 2 2
+/wp-login.php 1 36524 1 1
+/403.shtml 1 36533 1 0
+END_SIDER

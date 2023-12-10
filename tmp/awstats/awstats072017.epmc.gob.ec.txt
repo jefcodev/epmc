@@ -1,0 +1,1996 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201707 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2007                
+POS_TIME 2681                
+POS_VISITOR 60048               
+POS_DAY 80633               
+POS_DOMAIN 3638                
+POS_LOGIN 4631                
+POS_ROBOT 4786                
+POS_WORMS 5332                
+POS_EMAILSENDER 5463                
+POS_EMAILRECEIVER 5606                
+POS_SESSION 81584               
+POS_SIDER 81798               
+POS_FILETYPES 5741                
+POS_DOWNLOADS 6164                
+POS_OS 7265                
+POS_BROWSER 7727                
+POS_SCREENSIZE 12618               
+POS_UNKNOWNREFERER 12692               
+POS_UNKNOWNREFERERBROWSER 13371               
+POS_ORIGIN 13921               
+POS_SEREFERRALS 14077               
+POS_PAGEREFS 14329               
+POS_SEARCHWORDS 49838               
+POS_KEYWORDS 51750               
+POS_MISC 2343                
+POS_ERRORS 53262               
+POS_CLUSTER 4487                
+POS_SIDER_404 53445               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170801014530 1156 248380 5288977095690
+FirstTime 0
+LastTime 20170731235850
+LastUpdate 20170801071336 1156 0 1155 0 0
+TotalVisits 886                 
+TotalUnique 484                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 529                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 215 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 288 368 7073549 69 112 547073
+1 435 516 10058588 67 139 1446011
+2 594 816 15583453 142 177 689444
+3 393 449 7210893 81 141 366954
+4 255 326 6689496 65 127 945443
+5 139 541 7706266 47 123 743366
+6 210 453 7216870 47 109 544221
+7 326 1186 15170117 59 88 465914
+8 861 3614 27945763 75 120 300128
+9 1056 4546 30840860 67 118 535724
+10 1252 4776 40816711 125 222 559759
+11 1269 4080 32352708 118 272 1908143
+12 1365 5330 46691678 69 143 446566
+13 1364 3048 40593573 144 241 995619
+14 1244 4050 33786536 142 218 1391121
+15 1506 6829 41678871 103 175 1051314
+16 1162 2811 28327951 92 141 895484
+17 947 2040 30218466 75 217 980466
+18 595 1098 18474951 90 151 630440
+19 523 1005 16746845 89 146 312817
+20 420 1016 16137486 86 175 951561
+21 316 807 11534066 65 123 355922
+22 310 339 7377454 55 105 584818
+23 425 719 11888858 67 93 123876
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 55
+ec 14982 46254 429750062
+cn 1432 1748 42537961
+us 215 1891 27426333
+ru 78 161 3327031
+kh 69 69 1887228
+am 69 69 438429
+es 69 69 289344
+it 65 65 276405
+cz 62 62 259111
+gb 32 35 573008
+in 23 23 212440
+fr 17 17 599275
+pl 15 69 808931
+br 15 15 677672
+ua 11 11 610685
+ro 9 9 102826
+nl 8 8 176014
+sc 7 7 46048
+cl 7 7 56228
+id 5 5 152513
+my 4 4 16790
+ve 4 4 250683
+me 4 4 73616
+tw 4 4 16790
+bg 4 4 75164
+pk 2 2 8395
+pa 1 1 10863
+np 1 1 10851
+bd 1 1 4103
+se 1 1 4103
+vg 1 1 10855
+ph 1 1 4103
+ir 1 1 62673
+ar 2 2 8206
+eg 1 1 10864
+jp 1 1 23599
+de 2 2 67499
+kg 1 1 62666
+lb 1 1 5607
+la 2 2 8395
+zz 0 39 2912
+kz 1 1 10854
+ge 2 2 8395
+co 2 2 12582
+vn 2 2 19570
+py 1 1 62664
+th 1 1 10862
+sg 1 1 10859
+al 1 1 10865
+ch 3 68 838701
+kr 2 2 21715
+ag 3 3 12309
+ca 2 2 17692
+pt 2 2 8395
+au 3 3 130265
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+googlebot 697 3439828 20170731230259 0
+bot[\s_+:,\.\;\/\\-] 348 3391942 20170730155129 0
+bingpreview 188 5016890 20170728044528 0
+no_user_agent 68 3639429 20170730143929 0
+googlebot\-image 60 22096 20170731201407 0
+spider 53 488290 20170731134358 0
+slurp 9 564011 20170727111921 0
+robot 3 32612 20170717132742 0
+ia_archiver 2 124344 20170731200615 0
+php 2 21714 20170730022003 0
+netcraft 1 60931 20170706174417 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 18
+gif 501 256114 0 0
+woff 434 13778986 0 0
+css 9180 9060950 0 0
+ttf 17 780934 0 0
+php 7321 76203074 0 0
+cgi 114 196194 0 0
+eot 4 160214 0 0
+txt 42 3161 0 0
+png 7088 16538168 0 0
+pdf 2 3134524 0 0
+Unknown 1996 61730509 0 0
+htm 2 2589 0 0
+swf 330 292110 0 0
+svg 10 5198 0 0
+html 7012 123109130 0 0
+jpg 6787 112106654 0 0
+js 9898 94312768 0 0
+woff2 25 450732 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 15
+/.well-known/pki-validation/724E7CFC4A4B6D4753C73A6F780F6416.txt 14 0 1096
+/.well-known/pki-validation/0287D6EB04E2738CCDFD83930C212D03.txt 6 0 462
+/.well-known/pki-validation/DBB8BD86FFDAB875F51ECE652507A9FF.txt 5 0 385
+/.well-known/pki-validation/56CBE8CD25A23F17F3FBDDA25D80B55F.txt 4 0 308
+/.well-known/pki-validation/DFE5CD3624C2D038BB858543CDE7B7D4.txt 3 0 231
+/.well-known/pki-validation/5BA4DEA865C79F03C92B99EE59B96CE0.txt 2 0 154
+/facturacion/manual.pdf 2 0 3134524
+/.well-known/pki-validation/4A969A7B3E9DCEA23A3F6F602A8AF09B.txt 1 0 64
+/.well-known/pki-validation/E6B0D3424BD14A0D1018FACEED8071D6.txt 1 0 64
+/.well-known/pki-validation/27C88041260C468079FCF68B53DB411A.txt 1 0 64
+/.well-known/pki-validation/1A2E4039B9186DFA2C13632F702057B3.txt 1 0 64
+/.well-known/pki-validation/180D3562E6DDC21AA7824586D7173867.txt 1 0 64
+/.well-known/pki-validation/9390DD5952639C4A599145AD25F1E818.txt 1 0 64
+/.well-known/pki-validation/6E917DD1359CCD95EAFB0BFA0F1DAE48.txt 1 0 77
+/.well-known/pki-validation/859846257E74C58D3BAB1FA10718E2BF.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 27
+winunknown 84 84
+macosx 803 296
+win2003 22 22
+winxp 1433 1092
+win7 36340 12804
+macosx5 1 1
+winlong 78 53
+j2me 68 1
+linuxandroid 3355 336
+unix 92 32
+macosx9 18 15
+macosx7 12 12
+blackberry 11 11
+linuxubuntu 13 11
+win8.1 3020 819
+win8 391 82
+winphone 135 16
+macosx6 47 47
+macosx8 126 16
+linux 405 174
+win2000 18 18
+winnt 2999 641
+java 1 1
+Unknown 752 522
+ios_ipad 22 12
+ios_iphone 516 136
+win98 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 230
+chrome55.0.2883.87 131 9
+firefox47.0 148 71
+opera8.50 3 3
+chrome27.0.1453.116 121 11
+firefox21.0 2 2
+chrome57.0.2987.133 4 4
+safari10.0.1 80 7
+chrome59.0.3071.104 9 9
+chrome36.0.1985.97 3 3
+chrome1659.0.1659.138 1 1
+chrome37.0.0.0 2 0
+msie6.0 134 134
+firefox46.0 8 6
+chrome26.0.1410.64 1 1
+firefox3.6.3 1 1
+chrome59.0.3071.109 5 5
+Unknown 544 502
+chrome47.0.2526.73 105 35
+chrome21.0.1180.89 2 2
+safari7.0 1 1
+chrome17.0.963.66 1 1
+chrome38.0.2125.111 5 1
+chrome1524.0.1524.130 1 1
+chrome53.0.2785.49 163 21
+chrome51.0.2704.84 113 101
+firefox9.0 3 3
+safari5.0 22 22
+opera12.17 3 3
+firefox22.0 16 16
+safari9.1 10 10
+safari10.1 1 1
+chrome18.0.1025.45 2 2
+chrome35.0.1916.153 12 1
+chrome58.1.3029.81 77 12
+chrome46.0.2490.76 129 11
+chrome29.0.1547.2 64 6
+firefox41.0 19 19
+msie8.0 66 36
+chrome56.0.2924.87 51 9
+chrome1787.0.1787.145 1 1
+chrome1772.0.1772.144 1 1
+chrome49.0.2623.75 5 5
+firefox24.0 2 2
+safari5.1 10 4
+chrome18.0.1003.1 23 10
+chrome55.0.2883.95 3 0
+safari3.0 1 1
+chrome1791.0.1791.145 1 1
+chrome27.0.1453.93 1 1
+opera46.0.2597.39 1 1
+chrome1739.0.1739.142 1 1
+safari9.1.1 6 4
+chrome53.0.2785.116 8 8
+android 14 8
+chrome58.0.3029.83 248 26
+chrome18.0.1025.142 1 1
+chrome18.0.1025.162 1 1
+opera26.0.1656.60 17 17
+chrome17.0.963.33 2 2
+safari7.1.3 6 6
+chrome1609.0.1609.135 1 1
+iphone 71 5
+chrome49.0.2623.110 7 7
+chrome1826.0.1826.147 1 1
+chrome36.0.1985.67 73 22
+firefox5.0 18 18
+chrome18.0.997.0 1 1
+chrome38.0.2125.122 3 1
+chrome17.0.963.46 2 2
+chrome19.0.1084.1 1 1
+firefox40.1 58 4
+chrome47.0.2526.111 37 37
+chrome47.0.2526.108 22 12
+chrome45.0.2454.101 59 25
+opera34.0.2036.50 28 28
+chrome43.0.2357.93 246 24
+safari9.0.3 1 1
+safari4.0.4 1 1
+msie9.0 1516 1452
+firefox50.0 246 119
+firefox26.1 3 1
+firefox20.0 4 4
+firefox13.0 1 1
+safari8.0.2 2 2
+opera11.2.3.102637 41 3
+firefox51.0 99 14
+chrome1815.0.1815.147 1 1
+chrome59.0.3071.115 4842 521
+firefox9.0.1 1 1
+chrome40.0.2214.94 5 5
+chrome45.0.2454.95 8 6
+chrome41.0.2226.0 1 1
+chrome55.0.2883.91 88 9
+chrome59.0.2623 1 1
+blackberry 11 11
+chrome1794.0.1794.145 1 1
+chrome51.0.2704.103 186 137
+firefox3.8 1 1
+chrome30.0.1599.101 89 89
+firefox37.0 78 7
+chrome16.0.912.77 6 5
+firefox29.0 273 273
+firefox10.0 8 8
+chrome1577.0.1577.133 1 1
+safari8.0.4 144 58
+firefox3.6.17 1 1
+firefox7.0.1 1 1
+chrome1701.0.1701.140 1 1
+firefox53.0 2221 1556
+chrome51.0.2704.106 383 35
+firefox28.0 2 2
+chrome40.0.2214.85 1 1
+chrome29.0.1547.62 58 5
+chrome19.0.1068.1 4 4
+chrome46.0.2486.0 1 1
+safari6.0 27 7
+chrome49.0.2623.87 9 6
+firefox34.0 45 43
+k\-ninja 1 1
+firefox38.0 58 9
+chrome53.0.2785.143 2 2
+safari10.1.1 113 13
+mozilla 23 14
+chrome42.0.2311.135 212 68
+chrome17.0.942.0 1 1
+chrome59.0.3071.86 50 50
+chrome1805.0.1805.146 1 1
+msie10.0 92 92
+opera18.00 20 1
+chrome40.0.2214.93 2 2
+firefox31.0 3 3
+chrome1663.0.1663.138 1 1
+firefox54.0 27381 7041
+opera37.0.2192.110129 1 1
+chrome17.0.963.56 4 4
+chrome39.0.2171.71 3 3
+opera42.7.2246.114996 12 12
+chrome6.0.472.33 1 1
+firefox14.0 2 2
+chrome33.0.0.0 3 0
+chrome1725.0.1725.141 1 1
+chrome31.0.1650.57 1 1
+chrome50.0.2661.102 140 56
+chrome29.0.1600.1 1 1
+firefox1.5.0.7 3 3
+chrome31.0.1650.63 3 2
+chrome34.0.1847.116 4 4
+chrome43.0.2357.130 124 6
+firefox3.5.0 3 3
+firefox35.0 32 30
+firefox43.0 1783 1725
+chrome50.0.2661.94 3 3
+opera11.11 1 1
+firefox25.0 15 11
+firefox26.0 1 1
+opera12.16 69 2
+firefox32.0 1 1
+firefox6.0 1 1
+chrome36.0.1944.0 4 1
+chrome1495.0.1495.128 1 1
+safari10.0 232 14
+chrome39.0.2171.95 14 11
+chrome1503.0.1503.129 1 1
+chrome37.0.2049.0 140 23
+chrome59.0.3071.125 1966 195
+safari8.0 4 4
+chrome35.0.1916.114 9 9
+safari8.0.5 2 2
+opera10.00 1 1
+chrome40.0.2214.111 11 9
+firefox40.0 181 15
+chrome23.0.1271.97 3 3
+opera45.0.2552.898 1 1
+chrome41.0.2228.0 4 3
+firefox33.0 2 2
+chrome49.0.2623.105 3 2
+chrome58.0.3029.96 6 6
+chrome30.0.1599.17 55 3
+chrome45.0.2454.93 19 19
+chrome52.0.2743.116 148 66
+firefox52.0 121 49
+firefox15.0 1 1
+opera36.0.2130.32 6 6
+safari 257 108
+chrome1508.0.1508.129 1 1
+firefox55.0 1454 549
+chrome40.0.2214.115 12 8
+chrome46.0.2490.86 1 1
+chrome36.0.1985.125 42 4
+chrome39.0.2171.96 26 26
+chrome18.0.1025.152 1 1
+chrome49.0.2623.112 254 29
+chrome29.0.1547.57 66 6
+chrome33.0.1750.154 1 1
+chrome54.0.2840.87 6 6
+chrome51.0.2704.79 123 37
+chrome19.0.1036.7 2 2
+firefox39.0 12 8
+chrome28.0.1500.94 1 1
+firefox11.0 3 3
+chrome22.0.1216.0 1 1
+chrome14.0.835.163 1 1
+firefox10.0.1 2 2
+firefox18.0 6 6
+netscape5.0 3 3
+chrome18.0.1025.1 1 1
+safari9.0 88 10
+firefox12.0 5 5
+samsung 3 3
+chrome37.0.2062.103 2 1
+firefox3.0.2.1 1 1
+chrome10.0.648.133 1 1
+firefox17.0 3 3
+safari5.1.7 21 21
+msie7.0 43 37
+firefox45.0 12 10
+chrome38.0.2125.102 70 5
+firefox16.0 1 1
+firefox36.0 3 3
+chrome32.0.1667.0 2 2
+firefox3.5.5 3 3
+chrome41.0.2220.0 1 1
+chrome58.0.3029.81 1 1
+chrome58.0.3029.110 336 99
+chrome39.0.2171.99 14 14
+firefox19.0 469 469
+firefox42.0 526 280
+msie11.0 259 84
+chrome17.0.955.0 1 1
+chrome53.0.2785.104 58 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+HTC20 20170717134103
+Samsung_Galaxy_S6_on_Android_6.0.1 20170717180900
+Mozilla/5.0_(compatible;_Yahoo_Link_Preview;_https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html) 20170721162610
+python-requests/2.13.0 20170726004033
+Mozilla/5.0_(Android_4.4.4;_Mobile;_rv:54.0)_Gecko/54.0_Firefox/54.0 20170721110234
+Python-urllib/2.7 20170727153834
+Mozilla/5.0_(Android;_Mobile;_rv:30.0)_Gecko/30.0_Firefox/50.0 20170730195538
+Samsung_Galaxy_S4_on_Android_5.0.1 20170717133209
+Scrapy/1.4.0_(_http://scrapy.org) 20170720012340
+COMODO_DCV 20170718054629
+python-requests/2.9.1 20170731231740
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+Scrapy/1.4.0_(_http://scrapy.org) 20170720012340
+python-requests/2.13.0 20170726004033
+Python-urllib/2.7 20170727153834
+python-requests/1.2.3_CPython/2.7.1_Windows/7 20170731194955
+python-requests/1.2.3_CPython/2.7.10_Windows/post2008Server 20170731171624
+COMODO_DCV 20170718054629
+python-requests/2.9.1 20170731231740
+python-requests/1.2.3_CPython/2.7.10_Windows/7 20170728075304
+HTC20 20170717134103
+Apache-HttpClient/4.5.3-SNAPSHOT_(Java/1.8.0_141) 20170720140437
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1994 2043
+From1 47 47
+From2 443 744
+From3 3243 3262
+From4 11528 44667
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 9
+yandex 2 2
+live 8 8
+msn 167 167
+centrum 1 1
+sogou 3 3
+yahoo 9 9
+ecosiasearch 1 1
+google 223 409
+bing 29 144
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 487
+http://www.omegle.com 1648 1648
+http://www.gob.ec 48 48
+http://promodj.com/download/6351192/YaneeK%20-%20Jrite%20Suki%20%28promodj.com%29.mp3 46 46
+http://graph.facebook.com 46 46
+http://promodj.com/download/6379097/YaneeK%20-%203Kill0%20%28promodj.com%29.mp3 43 43
+http://promodj.com/download/3829588/Guest%20Mix%20%E2%84%963%20for%20ReduxSessions%20by%20Nikita%20Rise%20%26%20Roman%20Akrill%20%28promodj.com%29.mp3 28 28
+http://promodj.com/download/6385905/A.R.%20-%20Tech%20House%2060%20%28promodj.com%29.mp3 24 24
+http://watchmygirlfriend.gfvideohub.com/t/ 24 24
+http://watchmygirlfriend.bestgfvideos.com/t/ 23 23
+http://promodj.com/download/6373076/%D0%AD%D0%BB%D1%8C%D0%B2%D0%B8%D1%80%D0%B0%20%D0%A2%20-%20%D0%BD%D0%B5%20%D0%B1%D1%83%D0%B4%D1%8C%20%D0%B4%D1%83%D1%80%D0%BE%D0%B9%20%28%20smirnoffonrims%20remix%20%29%20%28promodj.com%29.mp3 23 23
+http://www.sri.gob.ec/web/guest/home 23 23
+http://promodj.com/download/6313376/%D0%A2%D0%B8%D0%BC%D0%B0%D1%82%D0%B8%20feat.%20%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%20%D0%9A%D0%B8%D1%80%D0%BA%D0%BE%D1%80%D0%BE%D0%B2%20-%20%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F%20%D0%B2%D0%B5%D1%81%D0%BD%D0%B0%20%28%20smirnoffonrims%20remix%20%29%20%28promodj.com%29.mp3 21 21
+http://frenchculture.org/index.php 20 20
+http://v.youku.com/v_show/id_XMjg4MTU0MjY4OA==.html 19 19
+http://v.youku.com/v_show/id_XMjg4MTU0MjY3Ng==.html 19 19
+http://promodj.com/download/6377887/No%20Doubt%20-%20Don%27t%20Speak%20%28Doreen%20%26%20Enzo%20Remix%29Extended%20%28promodj.com%29.mp3 18 18
+http://arabpayment.3adlatmasr.com 16 16
+http://v.youku.com/v_show/id_XMjg4MTU0MjcwNA==.html 16 16
+http://promodj.com/download/4429902/Artik%20feat%20Asti%20-%20%D0%BE%D1%87%D0%B5%D0%BD%D1%8C%20%D0%BE%D1%87%D0%B5%D0%BD%D1%8C%20%28smirnoff%20remix%29%20%28promodj.com%29.mp3 15 15
+http://www.drmarcelomedranofreire.com/casos-de-exito/antes-despues 15 15
+http://amigohan.pixnet.net/blog/post/342959230-%e3%80%90%e6%97%85%e9%81%8a%e3%80%91%e6%ad%90%e6%b4%b2%e8%aa%aa%e8%b5%b0%e5%b0%b1%e8%b5%b0%e5%90%a7%ef%bc%81%e8%8f%af%e8%88%aav.s%e5%be%b7%e5%9c%8b-rail%26fly 15 15
+http://www.mundodeportivo.com 14 14
+http://promodj.com/download/3437259/Helvetic%27s%20-%20Helden%20%28Nikita%20Rise%20%26%20Roman%20Akrill%20Remix%29%20%28promodj.com%29.mp3 14 14
+http://hannn246.pixnet.net/blog/post/399901864-%e3%80%903c%e5%ae%b6%e9%9b%bb%e3%80%91samsung-powerbot-%e6%a5%b5%e5%8b%81%e6%b0%a3%e6%97%8b%e6%a9%9f%e5%99%a8%e4%ba%ba-20%e5%80%8d 14 14
+http://promodj.com/download/6373287/ANDRON32%20-%20ZORRO%20%28promodj.com%29.mp3 14 14
+http://s7.addthis.com/static/sh.886bb8b2fb82aeab6a228151.html 1 1
+http://www.revistahogar.com/moda.php 5 5
+http://www.china.com.cn/cppcc/2016-01/02/content_37439168_9.htm 1 1
+http://www.spanishwedding.com/__media__/js/netsoltrademark.php 1 1
+http://promodj.com/download/5562727/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%BB%D0%B5%D0%BD%D0%B8%D1%86%D0%BA%D0%B8%D0%B9%20-%20%D0%B1%D1%83%D0%B4%D1%83%20%D1%82%D0%B2%D0%BE%D0%B8%D0%BC%20%28smirnoffonrims%20edit%29%20%28promodj.com%29.mp3 3 3
+http://saltland.org/chat/profile.php 1 1
+http://s0.2mdn.net/dfp/475883/89484803/1500059464853/WEB%206/index.html 1 1
+http://promodj.com/Modi-glu/remixes/5028387/Modi_Glyu_D_V_M_Ti_son 1 1
+http://www.itqtesting.com/redirect 1 1
+http://amigohan.pixnet.net/blog/post/278825002-%e8%aa%8d%e8%ad%98%e5%bd%a9%e5%a6%9d%e7%9a%84%e7%ac%ac%e4%b8%80%e7%ab%a0-%e5%ba%95%e5%a6%9d%e3%80%82 5 5
+http://hinchaamarillo.com/2017/06/25/noticias/barcelona-vs-delfin-vivo-3/ 3 3
+http://zamanzadxs.blog313.com 1 1
+http://ediblenetwork.com/wp-signup.php 7 7
+http://www.svyaznoy.ru/catalog/audiovideo/1567 2 2
+http://www.runners.es/nutricion-salud/articulo/que-carne-tiene-mas-proteinas 2 2
+http://www.xvideos.com 3 3
+http://ftreporter.com 1 1
+http://www.ichild.co.uk/rd.php 1 1
+http://www.svyaznoy.ru/catalog/audiovideo/1732 1 1
+http://www.ultimasnoticias.ec/las-ultimas/camara-oculta-momento-despido-embarazada.html 1 1
+http://www.trimonline.org/reference/music/ 1 1
+http://promodj.com/download/6245132/K-Maro%20%E2%80%93%20Sous%20L%27oeil%20De%20L%27ange%20%28smirnoffonrims%20remix%29%20%28promodj.com%29.mp3 2 2
+http://www.ekosnegocios.com/empresas/rankingecuador.aspx 1 1
+http://ent.china.com.cn/2016-01/20/content_37623212_7.htm 1 1
+http://s0.2mdn.net/dfp/475883/89483243/1500317772131/WEB%20CE/index.html 1 1
+http://kobbeleia.net/joomla/plugins/content/plugin_googlemap2_proxy.php 1 1
+http://kingofcarts.blogspot.com/2014/03/golf-cart-stereo-radio-and-speaker.html 1 1
+http://mend-hamidxp.blog313.com 1 1
+http://laresmadrid.org/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php 1 1
+http://news.china.com.cn/rollnews/ent/live/2017-05/23/content_38278934_3.htm 1 1
+http://kizudarakenofuuzoku.blog.jp/archives/505915.html 1 1
+http://promodj.com/download/6376312/DJ%20Egorsky-Breath%20of%20Magadan%2378th%282017%29%20%28promodj.com%29.mp3 1 1
+http://sunnymedia.org 3 3
+http://amigohan.pixnet.net/blog/post/342959230-%E3%80%90%E6%97%85%E9%81%8A%E3%80%91%E6%AD%90%E6%B4%B2%E8%AA%AA%E8%B5%B0%E5%B0%B1%E8%B5%B0%E5%90%A7%EF%BC%81%E8%8F%AF%E8%88%AAv.s%E5%BE%B7%E5%9C%8B-rail&fly 4 4
+http://bh.contextweb.com/bh/visitormatch 6 6
+http://promodj.com/download/6152383/Rihanna%20-%20Bitch%20Better%20Have%20My%20Money%20%28remix%20by%20Limecrisp%29%20%28promodj.com%29.mp3 10 10
+http://gregstargell.com/video-games/index.php 1 1
+http://frenchculture.org 2 2
+http://promodj.com/download/6248791/NoisyMaN%20%26%20Atey%20-%20%D0%92%D1%8B%D1%88%D0%B5%20%D0%BD%D0%B5%D0%B1%D0%B0%20%28promodj.com%29.mp3 5 5
+http://waramiki.com 8 8
+http://bankrot-inform.ru/go.php 1 1
+http://www.china.com.cn/ent/2017-02/13/content_40274359_2.htm 1 1
+http://www.etradesupply.com/apple-ipad-air-2-audio-flex-cable-ribbon-white.html 1 1
+http://www.ekosnegocios.com/empresas/empresas.aspx 1 1
+http://tongxuemeng2015.com/forum.php 6 6
+http://promodj.com/download/5838586/Ellen%20-%20%D1%82%D0%B2%D0%BE%D0%B8-%D0%BC%D0%BE%D0%B8%20%D1%81%D0%BD%D1%8B%20%28smirnoffonrims%20remix%29%20%28promodj.com%29.mp3 1 1
+http://promodj.com/Modi-glu/tracks/3423305/Modi_Glyu_Soldat_Rino_Bumerardi 1 1
+http://certifiedmail.co.uk/__media__/js/netsoltrademark.php 1 1
+http://www.derechoecuador.com/articulos/detalle/archive/doctrinas/derechosocietario/2005/11/24/compantildeiacuteas-de-responsabilidad-limitada 1 1
+http://www.tctelevision.com/programas/debocaenboca 6 6
+http://waramiki.de 2 2
+http://www.revistahogar.com/decoracion.php 2 2
+http://homemadepornsex.com/2017/07/17/homemade-amateur-teen-masturbating/ 2 2
+http://www.commissionmachine.net/secret-discount/ 1 1
+http://promodj.com/Modi-glu/tracks/6271336/Modi_Glyu_Muzika_lyubvi 1 1
+http://www.china.com.cn/ent/2017-07/27/content_41296139.htm 1 1
+http://m8ting.com 1 1
+http://v.youku.com/v_show/id_XMjg3MjcwNzkwMA==.html 2 2
+http://promodj.com/download/5471258/%D0%AE%D1%80%D0%B8%D0%B9%20%D0%9E%D1%85%D0%BE%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%BC%D0%BE%D0%B5%D0%B9%20%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8%20%28%20smirnoffonrims%20remix%20%29%20%28promodj.com%29.mp3 3 3
+http://www.idealstampshop.com 1 1
+http://takamovie.ir 12 12
+http://promodj.com/djhelgi/radioshows/6376403/Helgi_Sound_on_the_Deep_41 1 1
+http://cirquedusirois.squarespace.com/homepage/2014/12/18/840-bit-audio-mikesirois-interviews-the-kid-in-the-hospital.html 1 1
+http://daghdaghehyezandt.blog313.com 1 1
+http://promodj.com/Modi-glu/tracks/5866746/Modi_Glyu_Mami 1 1
+http://lzt.zoossoft.net/LR/Chatpre.aspx 5 5
+http://parking.zunmi.cn 1 1
+http://comotenercintura.com 2 2
+http://baharan96qp.blog313.com 1 1
+http://promodj.com/download/6036728/Ellen%20-%20%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%20%28smirnoffonrrims%20remix%29%20%28promodj.com%29.mp3 3 3
+http://pixel.mathtag.com/sync/iframe 3 3
+http://link.tl/12yp6 2 2
+http://gebss.com/__media__/js/netsoltrademark.php 1 1
+http://patiodeautos.com/mecanicos/ 1 1
+http://cinemamoviestime.com 1 1
+http://fymy888.cn 1 1
+http://buhamster.com/25-fotos-impactantes-sin-ayuda-de-photoshop.html 4 4
+http://ratu-teman-tapi-mesra-akustik.stafaband2018.info/video/CAoQAA/.html 1 1
+http://westcoastrydaz.com/2013/01/25/mistah-f-a-b-ft-styles-p-blast-holiday-back-to-tha-front-audio/ 1 1
+http://top.forumcommunity.net 7 7
+http://elsoldemargarita.com.ve/posts/seccion/4/Locales 2 2
+http://www.efrenpanchanayager.com.ec/casos-clinicos 1 1
+http://promodj.com/Modi-glu/tracks/5462935/Modi_Glyu_Slow_Music 1 1
+http://promodj.com/Modi-glu/tracks/5828564/Modi_Glyu_Uy_nane 1 1
+http://promodj.com/download/6254260/ANDRON32%20feat%20EZZEN%20SPIELL%20-%20CLUB%20CUP%20%28promodj.com%29.mp3 4 4
+http://www.piano-sheet-music.com/index.php/classical-piano-music/110-carl-czerny/775-art-of-the-fingering-dexterity-book-2-1 1 1
+http://promodj.com/download/6384806/%D0%9C%D0%B0%D0%BA%D1%81%20%D0%91%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D1%85%20-%20%D0%9C%D0%BE%D1%8F%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20%28Limecrisp%20remix%29%20%28promodj.com%29.mp3 8 8
+http://promodj.com/download/5919236/ddt%20-%20%D0%BC%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%20%28smirnoffonrims%20remix%29%20%28promodj.com%29.mp3 1 1
+http://promodj.com/Modi-glu/realtones/3957182/Modi_Glyu_Elegiya 1 1
+http://vistazo.com/seccion/vida-moderna 1 1
+http://ian.umces.edu/link/index.php 1 1
+http://www.estadio.ec/seccion/mas-deportes 8 8
+http://www.fortwaynemri.com/__media__/js/netsoltrademark.php 1 1
+http://www.boat-flag.net/__media__/js/netsoltrademark.php 1 1
+http://vesal40tv.blog313.com 1 1
+http://www.ecuavisa.com/tags/transmision-en-vivo 1 1
+http://www.teleamazonas.com/deportes/ 6 6
+http://promodj.com/Modi-glu/tracks/4976437/Modi_Glyu_Au_au 1 1
+http://hacksnapchat26.shotblogs.com/snapchat-hack-not-a-joke-4-6m-usernames-as-well-as-numbers-posted-on-line-2796615 1 1
+http://www.heraldscotland.com/news/15413651.Craig_Whyte_in_line_for___5m_liquidation_payout_as_HMRC_is_set_to_lose_out_on_Rangers_tax_case_payback/ 1 1
+http://asgarety.blog313.com 1 1
+http://www.expreso.ec/deportes 1 1
+http://www.youtube.com/results 2 2
+http://www.efrenpanchanayager.com.ec/instalaciones 1 1
+http://guiafitness.com/deportes/patinaje 1 1
+http://promodj.com/Modi-glu/remixes/5441149/Beloved_Modi_Glyu_SWEET_HARMONY 1 1
+http://link.tl/13bdE 1 1
+http://g-s.us/agameofthronesaudiobookreview372097 1 1
+http://promodj.com/Modi-glu/tracks/6081339/Modi_Glyu_Anabel 1 1
+http://www.filmifullizle.org/kaset-isi-sex-tape-2014-turkce-dublaj-izle.html 1 1
+http://kizudarakenofuuzoku.blog.jp/archives/cat_22070.html 2 2
+http://promodj.com/Modi-glu/remixes/6059331/Modi_Glyu_BASILEUS_ANGELIC_SMILE 1 1
+http://www.expreso.ec/guayaquil 2 2
+http://guoqing.china.com.cn/2017-07/28/content_41303142.htm 1 1
+http://kizudarakenofuuzoku.blog.jp/archives/506364.html 1 1
+http://www.eldiario.ec/manabi-ecuador/farandula 1 1
+http://www.ehowenespanol.com 1 1
+http://promodj.com/download/6313778/Smash%20%26%20Vengerov%20%E2%80%94%20Love%20%26%20Pride%20%28Limecrisp%20Remix%29%20%28promodj.com%29.mp3 5 5
+http://patiodeautos.com/vehiculos/automovil 2 2
+http://promodj.com/isneuros/tracks/6211162/J_NeuroS_Inspiration_My_God_my_Father 1 1
+http://frenchculture.org/archive/speeches/france-honors-avital-ronell 2 2
+http://promodj.com/Modi-glu/tracks/4990787/Modi_Glyu_Sergey_Sirotin_Golden_Light_Orchestra_Kipr 1 1
+http://www.radiocity.com.ec/contacto/ 10 10
+http://runwaymagazines.com/best-of-paris-and-new-york-in-runway-magazine-issue-2016/ 2 2
+http://www.paisdelosjuegos.com.ec/juego/happy-wheels.html 4 4
+http://promodj.com/Modi-glu/tracks/6383091/Modi_Glyu_Diabolo 1 1
+http://phxfan.com 1 1
+http://www.starsai.com/words-are-all/1 1 1
+http://promodj.com/Modi-glu/tracks/2536989/Modi_Glyu_Infrazvukovaya_kolibelnaya 1 1
+http://km2314.keymachine.de/php.php 1 1
+http://www.radiocity.com.ec/programas/animales-sonicos/ 4 4
+http://easysplashbuilder.net/112721/ 1 1
+http://m.ivanovo.holodilnik.ru 1 1
+http://my.37.com/api/register.php 1 1
+http://podcast.wfbschools.com/groups/videouploadsforwfb/wiki/9254b/ExpertsMT4.html 1 1
+http://cpxdeliv.com/p.php 1 1
+http://vistazo.com/seccion/ciencia-tecnologia/ciencia 1 1
+http://ia.media-imdb.com/images/G/01/imdb/css/collections/name-1463383014._CB504834042_.css 1 1
+http://blog.naver.com/seoyoun2013/221057511400 1 1
+http://dkt.zoosnet.net/LR/Chatpre.aspx 7 7
+http://www.ehowenespanol.com/trucos-del-marketing-sensorial-galeria_460967 1 1
+http://hinchaamarillo.com/2017/07/09/noticias/barcelona-vs-deportivo-cuenca-vivo-2/ 2 2
+http://s0.2mdn.net/ads/richmedia/studio/pv2/60267999/20170706114950422/index.html 1 1
+http://promodj.com/download/6216048/%D1%81%D0%BF%D0%BB%D0%B8%D0%BD%20-%20%D0%B1%D0%BE%D0%BD%D0%B8%20%D0%B8%20%D0%BA%D0%BB%D0%B0%D0%B9%D0%B4%20%28%20smirnoffonrims%20remix%20%29%20%28promodj.com%29.mp3 3 3
+http://www.ecuadorlegalonline.com/consultas/agencia-nacional-de-transito/consulta-de-citaciones/ 3 3
+http://www.imdb.com/name/nm0276062/ 3 3
+http://promodj.com/Modi-glu/tracks/3099510/Modi_Glyu_Stariy_cirk 1 1
+http://narafigh73og.blog313.com 1 1
+http://promodj.com/Modi-glu/remixes/5935844/Modi_Glyu_Martin_Decay_Eroticheskaya_bessonnica 1 1
+http://bbs.awiex.com/member.php 9 9
+http://www.elcomercio.com/css/a4e1b9a.css 3 3
+http://theauditionhouse.co.uk 2 2
+http://www.elnoticiero.com.ec 3 3
+http://indi.com/britanniabreads/britanniabreadtimestories 1 1
+http://www.eltelegrafo.com.ec/politica 1 1
+http://acu.libsyn.com/show-american-colossus-the-triumph-of-capitalism-1865-1900-medved-talks-to-author-audio-mp3-/comments 1 1
+http://iframedogecoin.xyz/alexa.php 1 1
+http://promodj.com/download/6357905/Marshmello%20-%20Moving%20On%20%28REMIX%20by%20ANDRON32%29%20%28promodj.com%29.mp3 5 5
+http://www.teleamazonas.com/noticias/ 3 3
+http://tommy-gunn-sex-pill-king.com/sex-pill-ratings/rexavar-review.php 1 1
+http://datingcomplaints.com 8 8
+http://promodj.com/download/3177779/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B4%D0%B8%D1%81%D0%BA%D0%B0%20%2A%D0%97%D0%B8%D0%BC%D0%B0%2A-%20mixed%20by%20dj%20Nikita%20Rise%20%28promodj.com%29.mp3 1 1
+http://www.ecuagol.com/ecuagol/eliminatorias2018.php 1 1
+http://hitswaps.com/Video/ji0Qn2NHeCY/top-air--purifiers.html 1 1
+http://www.ant.gob.ec/templates/ant/css/template.css 6 6
+http://promodj.com/Modi-glu/realtones/3957099/Modi_Glyu_Doroga_v_vechnost 1 1
+http://phxfan.com/2012/12/no-9-nebraska-escapes-major-wrestling-upset-by-asu/ 1 1
+http://www.webconsultas.com/ejercicio-y-deporte/vida-activa/squash-14381 7 7
+http://promodj.com/djratek/mixes/6140566/DJ_RATEK_In_Waiting_2016_Winter_Mix 2 2
+http://promodj.com/Modi-glu/remixes/6291051/Modi_Glyu_EFIX_Detsekret 1 1
+http://frozenworldks.blog313.com 1 1
+http://parvizsadeghirp.blog313.com 1 1
+http://amin54df.blog313.com 1 1
+http://www.derecho90.pucp.edu.pe/video/redecorating-dos-and-donts-helpful-tips-make-best-use-any-project 1 1
+http://promodj.com/Modi-glu/tracks/5002933/Modi_Glyu_Ribaliya_Ray_ribakov 1 1
+http://www.ecuavisa.com/seccion/entretenimiento 1 1
+http://www.ecuagol.com/ecuagol/champions2016.php 1 1
+http://www.ultimasnoticias.ec/css/a4e1b9a.css 1 1
+http://www.estadio.ec/seccion/futbol 8 8
+http://molinergd.com/2012/11/14/google-play-artist-hub-ve-la-luz-en-espana-con-la-llegada-de-google-play-music/ 1 1
+http://u.kpro.g.ol.fshop@www.mayanrocks.com/hoobaholics/feedback/index.php 1 1
+http://www.bovec.net/redirect.php 1 1
+http://www.paisdelosjuegos.com.ec/juego/color-switch.html 1 1
+http://www.moviestorm.co.uk/community/ 1 1
+http://promodj.com/download/6315786/PIANO%20TOP%202016-2017%20-%20%28PIANO%20COVER%20by%20ANDRON32%29%20%28promodj.com%29.mp3 1 1
+http://hinchaamarillo.com/en-vivo/ 3 3
+http://181.198.3.74:10039/wps/portal/Inicio/Inicio/SectorSocietario/Normativa/LeyCompanias 2 2
+http://www.eluniverso.com/tecnologia 3 3
+http://promodj.com/download/5531515/Bright%20Lights%20-%20How%20You%20Love%20Me%20%28%20smirnoffonrims%20remix%20%29%20%28promodj.com%29.mp3 3 3
+http://clkmein.com/qC9NMb 1 1
+http://elsiglo.com.ve/historial-de-notas/ 1 1
+http://www.themix.org.uk/drink-and-drugs/legal-highs/poppers-9999.html 7 7
+http://promodj.com/download/6364309/DJ%20SNEZHANNA%20%20HERMAN%20CONTINUOUS%20MIX%204%20%28promodj.com%29.mp3 2 2
+http://www.revistahogar.com/turismo.php 1 1
+http://promodj.com/Modi-glu/remixes/6339182/Modi_Glyu_Mr_Walkie_Talkie_BUGI_v_Orenburge 1 1
+http://www.expreso.ec/vivir 1 1
+http://bsb.consolehockey.com/_video 1 1
+http://legaldoc-solution.com 1 1
+http://hinchaamarillo.com/seleccion-ecuatoriana/ 2 2
+http://kizudarakenofuuzoku.blog.jp 6 6
+http://promodj.com/download/5503700/7%D0%B1%20-%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%20%D0%BD%D0%B0%20%D0%9D%D0%B5%D0%B2%D0%B5%20%28smirnoffonrims%20remix%29%20%28promodj.com%29.mp3 4 4
+http://www.ehowenespanol.com/virus-del-ebola-debes-galeria_591155/ 1 1
+http://promodj.com/download/6358998/A.R.%20-%20Tech%20House%2059%20%28promodj.com%29.mp3 5 5
+http://przydomowe-oczyszczalnie-sciekow.pl 1 1
+http://www.eldiario.ec/manabi-ecuador/internacional 2 2
+http://kizudarakenofuuzoku.blog.jp/archives/cat_21833.html 2 2
+http://www.ecuadorlegalonline.com/consultas/agencia-nacional-de-transito/consulta-de-multas-vehiculos-licencias/ 1 1
+http://promodj.com/Modi-glu/remixes/5034434/Modi_Glyu_A_HA_Abigal_Take_on_me 1 1
+http://www.ehowenespanol.com/tipos-molduras-corona-cocina-lista_359912 1 1
+http://promodj.com/download/5695145/%D1%81%D0%B2%D0%B5%D1%82%D0%B0%20-%20%D0%BD%D0%B5%20%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%20%28smirnoffonrims%20remix%29%20%28promodj.com%29.mp3 1 1
+http://promodj.com/download/3437241/Nikita%20Rise%20%26%20Roman%20Akrill%20-%20After%20the%20fall%20%28Original%20Mix%29%20%28promodj.com%29.mp3 1 1
+http://i.youku.com 1 1
+http://amigohan.pixnet.net/blog/post/342106845-%E3%80%903c%E3%80%91asus-pink%E7%B2%89%E8%89%B2%E7%B3%BB%E5%88%97%E6%89%8B%E6%A9%9F-zenfone-live%E7%91%B0%E9%BA%97%E7%B2%89-ze 3 3
+http://www.livingsoles.com/__media__/js/netsoltrademark.php 1 1
+http://promodj.com/Modi-glu/tracks/5906293/Modi_Glyu_TANCUI_BABAI 1 1
+http://www.tilmouthwell.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php 1 1
+http://krd-medway.co.uk/site/plugins/content/plugin_googlemap2_proxy.php 1 1
+http://www.larepublica.ec/blog/seccion/internacional/ 3 3
+http://promodj.com/download/6002952/Rise%26Surik%20pres.Banana%20ppl%20-%20Monkey%20buzz%20%28promodj.com%29.mp3 3 3
+http://olx.co.id 4 4
+http://promodj.com/download/6379166/%D0%A1%D0%B0%D0%B1%D1%80%D0%B8%D0%BD%D0%B0%20%D0%9C%D0%B0%D0%B9%D0%BE%D1%80%D0%BE%D0%B2%D0%B0%20%E2%80%93%20H20%20%28promodj.com%29.mp3 7 7
+http://promodj.com/download/6380736/Limecrisp%20-%20Go%20Back%20%28promodj.com%29.mp3 5 5
+http://sso.baofeng.net/api/check/email 1 1
+http://hinchaamarillo.com/2017/05/30/noticias/alfaro-ubica-al-dt-emelec/ 1 1
+http://www.eltelegrafo.com.ec/sociedad 1 1
+http://www.starsai.com/care-people-nothing/1 1 1
+http://whazupnaija.com/category/healthy-living/fitness/ 5 5
+http://www.entiiselingerie.com/adult/now-you-can-watch-highly-beautiful-sex-clips-for-free-of-cost/ 1 1
+http://promodj.com/download/5950851/NoisyMaN%20%E2%80%93%20Keep%20On%20Moving%20%28promodj.com%29.mp3 1 1
+http://www.elcomercio.com 5 5
+http://khalvateneyestanzp.blog313.com 1 1
+http://wnep.com/2015/02/10/horror-behind-the-walls/ 5 5
+http://link.tl/14GsF 1 1
+http://nigeriaconfidential.com 7 7
+http://promodj.com/download/6247238/NoisyMaN%20-%20Smile%20%28promodj.com%29.mp3 1 1
+http://euroset.ru/rostov-na-donu/ 1 1
+http://promodj.com/download/6378041/DJ%20Egorsky-Terminal%20Mixes%235%28Open%20Air%202017%29%20%28promodj.com%29.mp3 2 2
+http://www.china.com.cn/guoqing/2017-07/26/content_41289578.htm 1 1
+http://www.ecuavisa.com/noticias 1 1
+http://www.ekosnegocios.com/negocios/verArticulos.aspx 5 5
+http://promodj.com 8 8
+http://amigohan.pixnet.net/blog/post/342106845-%e3%80%903c%e3%80%91asus-pink%e7%b2%89%e8%89%b2%e7%b3%bb%e5%88%97%e6%89%8b%e6%a9%9f-zenfone-live%e7%91%b0%e9%ba%97%e7%b2%89-ze 3 3
+http://www.restaurantelabarca.com/descargar-carta.html 1 1
+http://www.ehowenespanol.com/15-tips-decoracion-darle-personalidad-cocina-galeria_439048 1 1
+http://www.larepublica.ec/blog/seccion/opinion/ 3 3
+http://192.168.1.72/otrs/index.pl 1 1
+http://www.efrenpanchanayager.com.ec/galeria-famosos 2 2
+http://chatmilitary.net 5 5
+http://basij-law-umzun.blog313.com 1 1
+http://www.criticalfailurepodcast.com/index.php 1 1
+http://www.eltelegrafo.com.ec 5 5
+http://promodj.com/download/6379899/Moonlight%20%28promodj.com%29.mp3 1 1
+http://manso.co.kr/php_test.php 1 1
+http://www.check24.de 6 6
+http://www.elfutbolero.com.ec/tournament/27.html 2 2
+http://www.revistafamilia.ec/vidadiariafa 10 10
+http://farandulaecuatoriana.com/wp-content/plugins/clicks/include/functions/rel3.php 1 1
+http://www.rexona.com.co/innovaciones/detalle/1017332/motionsense 2 2
+http://promodj.com/Modi-glu/tracks/5411459/Modi_Glyu_Ya_Vam_serdce_ya_Vam_dushu 1 1
+http://promodj.com/download/5336830/Tatiana%20De%20Vito%20%20-%20%20Voglio%20ballare%20%20%28%20smirnoff%20remix%20%29%20%28promodj.com%29.mp3 2 2
+http://tubepatrol.tv/videos/best-from-hotaru-popular-upcoming-latest/ 1 1
+http://elrio.ec/el-empalme/ 2 2
+http://chomiki.feen.pl/profile.php 1 1
+http://www.laprensa.com.ec/secciones.asp 7 7
+http://studiofutbol.com.ec/category/premiere-league/ 1 1
+http://news.china.com.cn/rollnews/ent/live/2017-07/28/content_38573571.htm 1 1
+http://globalnews.ca/video/1945240/sens-coach-chris-neil-address-possible-retaliation-for-stone-slash 1 1
+http://snowcalmth.com/9948 2 2
+http://www.exhibitionpark.ca/whoop-up-days/ 5 5
+http://msodglmtm.blog313.com 1 1
+http://ia.media-imdb.com/images/G/01/imdb/css/collections/name-2441739532._CB505040505_.css 5 5
+http://km21035-03.keymachine.de/php.php 1 1
+http://link.tl/14GuH 2 2
+http://promodj.com/download/6358933/Marshmello%20-%20ALL%20%28PIANO%20by%20ANDRON32%29%20%28promodj.com%29.mp3 3 3
+http://www.lavideopourleweb.com/video-script-formation/ 1 1
+http://www.ebay.com 1 20
+http://www.unique-surfcamps.com/life/standart-video-post 1 1
+http://promodj.com/Modi-glu/remixes/5453012/Modi_Glyu_Camuendo_Wuambrakuna_NIShTYaK 1 1
+http://www.piano-sheet-music.com/index.php/classical-piano-music/100-claude-debussy/693-arabesque-no-1 1 1
+http://www.revistafamilia.ec/padreshijosfa 3 3
+http://m.kostroma.holodilnik.ru 1 1
+http://www.china.com.cn/cppcc/2016-03/19/content_38064831_6.htm 1 1
+http://technologneww.blogspot.com 1 1
+http://www.china.com.cn/guoqing/2016-04/28/content_38342014.htm 1 1
+http://promodj.com/download/3516529/Guest%20Mix%20%E2%84%962%20for%20ReduxSessions%20by%20Nikita%20Rise%20%26%20Roman%20Akrill%20%28promodj.com%29.mp3 2 2
+http://www.nowloss.com/como-hacer-sentadillas-para-un-trasero-mas-grande.htm 8 8
+http://www.elfutbolero.com.ec/tournament/24.html 1 1
+http://www.ecuavisa.com/articulo/noticias/internacionales/206141-eln-debe-liberar-esta-semana-excongresista-secuestrado-dice 2 2
+http://promodj.com/download/5382455/Artik%20%26%20Asti%20-%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0%20%28%20smirnoff%20edit%20%29%20%28promodj.com%29.mp3 1 1
+http://link.tl/XpFt 1 1
+http://promodj.com/Modi-glu/remixes/5924099/Modi_Glyu_Gelvetta_Kosi_rasplela 1 1
+http://www.china.com.cn/education/2017-04/07/content_40576944.htm 1 1
+http://link.tl/13H1U 1 1
+http://promodj.com/download/5886589/%D0%B0%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%BE%D1%80%D0%BB%D0%BE%D0%B2%D0%B0%20-%20%D1%81%D0%BF%D0%B8%20%28smirnoffonrims%20remix%29%20%28promodj.com%29.mp3 1 1
+http://www.ecuavisa.com/taxonomy/term/16083 1 1
+http://www.teleamazonas.com/deportes/deportes-internacional/ 6 6
+http://promodj.com/download/6352657/NoisyMaN%20%26%20Atey%20-%20%D0%9C%D0%BE%D0%B9%20%D0%A0%D0%B0%D0%B9%20%28promodj.com%29.mp3 3 3
+http://6talangorfj.blog313.com 1 1
+http://www.drmarcelomedranofreire.com/galerias 1 1
+http://promodj.com/Modi-glu/realtones/3936061/Modi_Glyu_Smeshnaya_muzika_Parovoz 1 1
+http://torrentom.com/music/Pop-muzika/ 1 1
+http://lzscuw.changba.com/928602131.mp3 1 1
+http://ghani-shegeemik.blog313.com 1 1
+http://promodj.com/Modi-glu/tracks/5622589/Modi_Glyu_Swing_baby 1 1
+http://donyamohamadify.blog313.com 1 1
+http://www.travelgolf.com/blogs/katharine.dyson/2010/02/21/caddie-chat-ochoa-s-former-looper-david-brooker-gets-off-to-strong-start-on-the-bag-of-suzann-pettersen 1 1
+http://www.eluniverso.com/noticias 1 1
+http://www.nzequine.co.nz/gallery/dressage-level-6-7-musical-fstyle/hoysmfrmimg-1073/ 1 1
+http://whazupnaija.com/forum/ 4 4
+http://www.larepublica.ec/blog/seccion/gente/ 4 4
+http://how-to-create-a-video-blog.stafaband2018.info/video/view/m6nhco_on7s/how_to_start_a_youtube_channel_%20_blog__%7C_beauty_blogger_%7C_teni_panosian.html 1 1
+http://www.elfutbolero.com.ec/tournament/23.html 1 1
+http://www.revistahogar.com/salud.php 2 2
+http://asweb-4559-006.dvs.demon.net/php.php 1 1
+http://www.panda.tv/1046612 14 14
+http://www.leaftalk.co.uk/register.php 9 9
+http://frenchculture.org/user/22794/activity 6 6
+http://www.elfutbolero.com.ec/game.html 1 1
+http://waramiki.fr 2 2
+http://promodj.com/Modi-glu/tracks/5776840/Modi_Glyu_Lezginka 1 1
+http://www.british-cars.co.uk/cgi-bin/gen5 1 1
+http://waramiki.es 1 1
+http://Kazza.J18@netidc.kr 1 1
+http://vivi10813s.pixnet.net/blog/post/318914278-%e7%be%8e%e5%a6%9d%e2%94%82%e6%88%91%e7%9a%84%e7%94%b7%e5%8f%8b%e5%94%87%e8%86%8f%ef%bc%81%e6%84%9b%e6%84%8f%e6%bb%bf%e6%bb%bf%e7%9a%84ch%c3%96uch%c3%96u%e9%87%91 6 6
+http://dns2.rail.com.tw 1 1
+http://www.wapa.pe/salud/2015-11-09-conoce-los-beneficios-del-batido-de-platano-con-leche 2 2
+http://www.salud180.com/nutricion-y-ejercicio/8-beneficios-de-patinar 7 7
+http://promodj.com/Modi-glu/tracks/5598461/Modi_Glyu_Operetto 1 1
+http://statistics.meipai.com/statistics/play_video.json 14 14
+http://m.minijuegos.com/mmorpg 4 4
+http://www.ecuavisa.com/tags/eliminatorias-rusia-2018 1 1
+http://www.china.com.cn/education/2017-05/21/content_40858309.htm 1 1
+http://my.37.com/api/login.php 1 1
+http://centrobrico.net/plugins/content/plugin_googlemap2_proxy.php 1 1
+http://promodj.com/Modi-glu/realtones/3935982/Modi_Glyu_Optimistichnoe_Kra_Kra 1 1
+http://www.webconsultas.com/ejercicio-y-deporte/vida-activa/patinaje-7465 11 11
+http://promodj.com/download/6380748/Limecrisp%20Remix%20BrunoMars%2024KMagic%20%28promodj.com%29.mp3 5 5
+http://bachata.stafaband2018.info/video/CAoQAA/.html 1 1
+http://www.weddingandpartynetwork.com/blog/wedding-tips/plan-your-wedding-using-social-media-facebook/ 1 1
+http://elheraldo.com.ec/index.php 3 3
+http://watchmygirlfriend.gfpornbox.com/t/ 10 10
+http://t.sharethis.com/1/d/t.dhj 1 1
+http://v2.daramad-telegram.ga/pop.htm 1 1
+http://promodj.com/Modi-glu/remixes/4412383/Zh_Aguzarova_DJ_VINI_Modi_Glyu_Veryu_ya 1 1
+http://farandulaecuatoriana.com/la-bomba-adriana-sanchez-dano-sus-labios 5 5
+http://www.amazon.com/TV-Videos-Trailers/b 1 1
+http://www.china.com.cn/guoqing/2016-01/08/content_37491875_2.htm 1 1
+http://www.blogarama.com/finance-blogs/153925-negocio-internacional-blog/ 1 1
+http://promodj.com/download/3437276/Tom%20Wright%20feat.%20Alina%20-%20Away%20%28Nikita%20Rise%20%26%20Roman%20Akrill%20Dub%20Mix%29%20%28promodj.com%29.mp3 1 1
+http://promodj.com/Modi-glu/tracks/5733792/Modi_Glyu_NATO_Kavkazskaya_plyasovaya 1 1
+http://promodj.com/download/6147280/Maroon%205%20-%20Moves%20like%20Jagger%20%28remix%20by%20Limecrisp%29%20%28promodj.com%29.mp3 5 5
+http://s0.2mdn.net/dfp/475883/4408748336/1499889791286/MAZDA%20WEB/WEB%20CE/index.html 2 2
+http://julian6.com/chateau-de-pellehaut/ 1 1
+http://casayfitness.com/ab-coaster-y-abdominales-en-casa/ 5 5
+http://www.lareinaroja.com/info.php 1 1
+http://www.yp.ru/sitemap31.xml 1 1
+http://www.keenecinemas.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php 1 1
+http://www.runners.es/material/zapatillas/articulo/analisis-saucony-ride-10 1 1
+http://www.elcomercio.com/actualidad 1 1
+http://serpadres.com/familia-todo/edad-dormir-nino-padres/31508/ 1 1
+http://modernquantity76.webgarden.com/section-1/blog/succeed-at-video-gaming-with 1 1
+http://www.expreso.ec/mundo 2 2
+http://www.larepublica.ec/blog/politica/2017/07/05/correa-acusa-al-gobierno-de-entregar-el-cnel-a-los-bucaram/ 2 2
+http://telefm.com/__media__/js/netsoltrademark.php 1 1
+http://thenewhomecompany-nazis.com/the-new-home-company-videos-ii/ 1 1
+http://promodj.com/download/5146094/colbie%20caillat%20-%20try%20%28smirnoff%20sub%20bass%20%20mix%20%29%20%28promodj.com%29.mp3 1 1
+http://v.youku.com/v_show/id_XMjg3MjcwNzkwNA==.html 1 1
+http://v.youku.com/v_show/id_XMjkwNTQ0ODE0MA==.html 1 1
+http://www.revistahogar.com/dieta.php 5 5
+http://www.orangetrash.com/__media__/js/netsoltrademark.php 1 1
+http://www.tctelevision.com/calle7/ 1 1
+http://zlatnictvi.net/video-luxusni-znacky-jak-si-drzi-svoji-pozici-faberge-van-cleef-arpels-gucci/ 1 1
+http://hubeing.com 1 1
+http://promodj.com/download/5950848/NoisyMaN%20%E2%80%93%20A%20million%20sounds%20%28promodj.com%29.mp3 6 6
+http://promodj.com/download/6353828/VINAI%20%26%20SCNDL%20-%20Frontier%20%28REMIX%20by%20ANDRON32%29%20%28promodj.com%29.mp3 1 1
+http://www.ehowenespanol.com/tarta-queso-caramelo-manzana-como_527483/ 1 1
+http://promodj.com/download/6134163/Limecrisp%20-%20Jingle%20Bells%20%28promodj.com%29.mp3 10 10
+http://www.efrenpanchanayager.com.ec/reservar-cita 1 1
+http://www.paisdelosjuegos.com.ec/juego/restaurantes/papa%27s+cupcakeria.html 2 2
+http://safarname-ghashghaiki.blog313.com 1 1
+http://hinchaamarillo.com/2017/07/05/noticias/barcelona-vs-palmeiras-vivo/ 2 2
+http://www.radiocity.com.ec 3 3
+http://reprogramatumente.com/audiolecciones/superacion-personal/magia-sexual-de-atraccion-parte-1/ 1 1
+http://pornstarclassics.com/classics/refinements-in-love/ 5 5
+http://hinchaamarillo.com/noticias-destacadas-barcelona-sportin-club/ 2 2
+http://www.affaritaliani.it/milano/milan-show-biz/saldi-estivi-al-via-ecco-gli-indirizzi-top-a-milano-487626.html 5 5
+http://www.elcomercio.com/tendencias 5 5
+http://hjs-del-metal.blogspot.com 6 6
+http://www.tctelevision.com/novelas/diomedes 6 6
+http://www.tctelevision.com/decasaencasa 9 9
+http://www.savelagu.asia/save/video/ji0Qn2NHeCY/best-air-purifier.html 1 1
+http://elrio.ec/vida/ 1 1
+http://farandulaecuatoriana.com/tag/adriana-sanchez-antes-y-despues 2 2
+http://ant.gob.ec/templates/ant/css/template.css 4 4
+http://www.larepublica.ec/blog/politica/2017/07/07/piden-helicoptero-de-la-fae-para-llevar-a-correa-al-aeropuerto/ 4 4
+http://promodj.com/download/6361342/Jasmine%20Thompson%20-%20Old%20Friends%20%28%20Chapa%27s%20drinking%20red%20Remix%20%29%20%28promodj.com%29.mp3 3 3
+http://www.ekosnegocios.com/empresas/ 2 2
+http://www.china.com.cn/guoqing/2015-12/31/content_38451745.htm 1 1
+http://www.china.com.cn/guoqing/2014-01/28/content_31333765.htm 1 1
+http://whazupnaija.com 13 13
+http://www.procopy.com.au/audio-video-cd-dvd-news-perth/2010/4/26/floppy-discs-another-media-format-killed-off-by-sony.html 1 1
+http://validator.w3.org/nu/ 1 1
+http://promodj.com/download/6372603/Alan%20Walker%20-%20Faded%20%28REMIX%20by%20ANDRON32%29%20%28promodj.com%29.mp3 4 4
+http://promodj.com/download/5446424/smirnoffonrims%20-%20malay%20vishera%20mix%20%28promodj.com%29.mp3 2 2
+http://promodj.com/Modi-glu/tracks/5598467/Modi_Glyu_Dianidiya 1 1
+http://patiodeautos.com/revista/ 1 1
+http://tusregalosoriginales.com/productos/zapatillas-de-deporte-unisex-con-luz-led-7-colores-carga-por-usb/ 1 1
+http://33jbb.com 1 1
+http://promodj.com/download/5801304/Ellen%20-%20%D0%BD%D0%B5%20%D0%B7%D0%B0%D0%B1%D1%8B%D0%B2%D0%B0%D0%B9%20%28smirnoffonrims%20edit%29%20%28promodj.com%29.mp3 1 1
+http://muslim-prayer-time.com 1 1
+http://www.ektoplazm.com/free-music/turlitava-2 1 1
+http://promodj.com/Modi-glu/tracks/5869588/Modi_Glyu_Uletayu 1 1
+http://s0.2mdn.net/dfp/475883/89484803/1500058688128/WEB%202/index.html 1 1
+http://promodj.com/download/6063854/%D0%91%D0%B0%D1%81%D1%82%D0%B0%20-%20%D0%91%D0%BE%D0%BD%D0%B8%20%D0%B8%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%B4%20%28smirnoffonrims%20remix%29%20%28promodj.com%29.mp3 1 1
+http://www.revistahogar.com/belleza.php 2 2
+http://www.forosecuador.ec/forum/ecuador/econom%C3%ADa-y-finanzas/2283-ley-de-compa%C3%B1%C3%ADas-del-ecuador-actualizada-y-vigente-2017 2 2
+http://promodj.com/download/3534652/INTERNOS%20feat.%20Tiff%20Lacey%20%E2%80%93%20Hidden%20Sorcery%20%28Nikita%20Rise%20%26%20Roman%20Akrill%20Private%20remix%29%20%28promodj.com%29.mp3 2 2
+http://promodj.com/download/6380738/Limecrisp%20-%20DreamLand%20%28promodj.com%29.mp3 13 13
+http://promodj.com/Modi-glu/tracks/5564346/Modi_Glyu_Dva_akkorda_o_lyubvi 1 1
+http://www.larepublica.ec/blog/politica/2017/06/02/confirman-que-el-contralor-carlos-polit-salio-del-pais/ 2 2
+http://www.open-buzoneo.com/servicios-produccion-distribucion-publicitaria/buzoneo/buzoneo-en-madrid/ 1 1
+http://www.whatchristianswanttoknow.com/10-awesome-songs-about-heaven/ 3 3
+http://ibpsblogs.blogspot.com 3 3
+http://video.allindonews.com/search/urges-party-to-acttrackbackduvideoallindonewscomsearchurges-party-to-acttrackback8468c74c0989285b2bdb904d201d56d0/ 1 1
+http://traffdaq.com/delivery/dl/25311 1 1
+http://www.masternursery.com/author/admin/page/3/ 2 2
+http://m.gay-tgp.biz/videos/40927 1 1
+http://promodj.com/download/6323705/Fedde%20Le%20Grand%20%20feat.%20Mr.V%20-%20Back%20%26%20Forth%20%28Max%20Pavlov%20Remix%29%20%28promodj.com%29.mp3 2 2
+http://ent.china.com.cn/live/2017-07/28/content_38574214_2.htm 1 1
+http://promodj.com/Modi-glu/tracks/5875931/Modi_Glyu_Buriy_staratino 1 1
+http://www.wellsdental.cc/__media__/js/netsoltrademark.php 1 1
+http://win2888.tv/sex-sex-girl-dcm 1 1
+http://www.ekosnegocios.com/negocios/verArticuloContenido.aspx 1 1
+http://kkadak.com/index.php 1 1
+http://your-hoster.de/info.php 1 1
+http://promodj.com/Modi-glu/tracks/3233142/Modi_Glyu_Marisol 1 1
+http://viid.me/qrHISZ 3 3
+http://promodj.com/download/5760778/%D0%B7%D0%B5%D0%BC%D1%84%D0%B8%D1%80%D0%B0%20-%20%D0%BF%D0%BC%D0%BC%D0%BB%20%28smirnoffonrims%20remix%29%20%28promodj.com%29.mp3 4 4
+http://lacuerda.net 2 2
+http://www.linux-france.org/~glamiral/prj/upload/phpinfo.php 1 1
+https://www.washmat.de 1 1
+http://datingcomplaints.com/tag/micah-auerbach/ 1 1
+http://promodj.com/download/4141851/Around%20the%20star%20%28promodj.com%29.mp3 3 3
+http://bathtest21.alltdesign.com/smurfs-village-hack-v22b-free-download-for-iphone-ipad-android-ipod-ios-free-video-games-cheats-guides-tips-and-tricks-bots-keygen-and-much-more-3489894 1 1
+http://promodj.com/download/5786017/RiJes%20-%20%D0%A0%D0%BE%D1%81%D0%BF%D0%B8%D1%81%D1%8C%20%28smirnoffonrims%20remix%29%20%28promodj.com%29.mp3 2 2
+http://vietq.vn/doanh-nghiep-co-thuan-loi-gi-khi-luat-chuyen-giao-cong-nghe-sua-doi-co-hieu-luc-d125310.html 1 1
+http://cheapcarvideoplayers.blogspot.com/2016/11/iokone-car-video-player-for-toyota_23.html 1 1
+http://vistazo.com/seccion/vida-moderna/ambiente 1 1
+http://www.nairamania.com/pets/birds-for-sale/ 1 1
+http://v.youku.com/v_show/id_XMjkwNDA3NzY2OA==.html 1 1
+http://mayarlamine.yoo7.com 1 1
+http://promodj.com/Modi-glu/remixes/2536779/Modi_Glyu_Michael_Learn_to_Rock_Prosti_menya_molyu 1 1
+http://www.ecuagol.com/ecuagol/index.php 2 2
+http://userapi.plu.cn/online/ticket 1 1
+http://www.cbseguess.com/profiles/197013.html 1 1
+http://www.bolsatrabajo.ec/buscar-empleo/ 7 7
+http://promodj.com/Modi-glu/realtones/3935923/Modi_Glyu_Revolyushn 1 1
+http://promodj.com/Modi-glu/tracks/6081480/Modi_Glyu_Anabel 1 1
+http://s0.2mdn.net/dfp/475883/89492123/1497998847881/PLAYA/index.html 1 1
+http://s0.2mdn.net/dfp/475883/89483243/1499725397645/WEB%20CE/index.html 1 1
+http://www.soku.com/search_video/q_asfaleia%20autokinitou 1 1
+http://promodj.com/download/6373849/Pirates%20of%20the%20Caribbean%20%28PIANO%20by%20ANDRON32%29%20%28promodj.com%29.mp3 6 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 25
+epmc+mancomunidad+de+cotopaxi+canton+salcedo 6
+leave+a+comment+sexy+toys+allow+users+to+contact+you+through+a+message+form 4
+epmc+mancomunidad+de+cotopaxi 3
+this+free+flowing+dialogue+lets+you+send+messages+pictures+and+video+to+anyone+users+can+communicate+using+quick+status+updates+of+160+characters+or+less.+angry+birds+friends+hack+tool+free+download 2
+join+our+fast-growing+community.+find+new+friends+date+up+share+photo+and+video. 2
+url+internetov%e9+str%e1nky+xxx+zanechat+koment%c3%a1%c5%99+loc+bo 2
+\xe9\x87\x8d\xe5\xba\x86\xe9\xa6\x96\xe8\xae\xaf\xe7\xa7\x91\xe6\x8a\x80\xe8\x82\xa1\xe4\xbb\xbd\xe6\x9c\x89\xe9\x99\x90\xe5\x85\xac\xe5\x8f\xb8 1
+zanechat+koment%c3%a1%c5%99+url+internetov%e9+str%e1nky+%7eone 1
+site+.biz+%7e+social+kickstart+facebook+post+unlimited+incoming+search+terms+keywordluv 1
+posted+%40+allowed+tags+%3ca%3e+link+%3cb%3e+bold+%3ci%3e+italics+comments+music+management+los+angeles 1
+url+internetov%e9+str%e1nky+zanechat+koment%c3%a1%c5%99+%7ething 1
+boneka+hafiz+youtube+non-public+write+post+with+name%2fpassword+homepage 1
+audio+this+site+uses+keywordluv.+loc+nl 1
+%e9%99%b3%e8%90%ac%e6%b7%bb 1
+egs1cse-gi6_s8sfihka8aeds2w4lp2o1wsexfbzqixd-pdwbeh0mgnyy24 1
+choumicha+video+incoming+search+terms+for+the+article+keywordluv 1
+write+post+with+name%2fpassword+homepage+secret+promote+music+free 1
+url+internetov%e9+str%e1nky+xxx+zanechat+koment%c3%a1%c5%99 1
+egsxfqeigpow6msfihka8aeds9nk-8bwyto-s8yesucu98e10xmsmgnyy24 1
+zanechat+koment%c3%a1%c5%99+%7ewhere+url+internetov%e9+str%e1nky 1
+incoming+search+terms+keywordluv+international+music+promotion 1
+%e8%b2%bc%e6%a8%99%e6%a9%9f 1
+dokuwiki.txt+distribution+deal+music 1
+site+.edu+incoming+search+terms+for+the+article+keywordluv+youtube+loc+nl 1
+powered+by+michatronic.de 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 128
+cotopaxi 9
+mancomunidad 9
+de 9
+epmc 9
+a 8
+to 6
+salcedo 6
+zanechat 6
+you 6
+url 6
+str%e1nky 6
+canton 6
+internetov%e9 6
+users 6
+koment%c3%a1%c5%99 6
+free 5
+through 4
+search 4
+leave 4
+sexy 4
+keywordluv 4
+allow 4
+loc 4
+form 4
+message 4
+anyone 2
+pictures 2
+nl 2
+keywordluv. 1
+up 2
+new 2
+send 2
+%7ething 1
+angeles 1
+posted 1
+%e9%99%b3%e8%90%ac%e6%b7%bb 1
+updates 2
+youtube 2
+for 2
+%3cb%3e 1
+by 1
+%e8%b2%bc%e6%a8%99%e6%a9%9f 1
+link 1
+uses 1
+tags 1
+video 3
+video. 2
+allowed 1
+share 2
+deal 1
+%3ca%3e 1
+international 1
+bold 1
+choumicha 1
+bo 2
+post 3
+or 2
+can 2
+160 2
+italics 1
+audio 1
+this 3
+unlimited 1
+less. 2
+%7eone 1
+kickstart 1
+status 2
+name%2fpassword 2
+xxx 3
+%7e 1
+tool 2
+comments 1
+dialogue 2
+birds 2
+communicate 2
+photo 2
+angry 2
+date 2
+egs1cse-gi6_s8sfihka8aeds2w4lp2o1wsexfbzqixd-pdwbeh0mgnyy24 1
+%7ewhere 1
+flowing 2
+download 2
+%40 1
+%3ci%3e 1
+article 2
+and 4
+with 2
+management 1
+characters 2
+promotion 1
+write 2
+lets 2
+the 2
+hack 2
+hafiz 1
+.edu 1
+homepage 2
+community. 2
+michatronic.de 1
+of 2
+incoming 4
+los 1
+distribution 1
+\xe9\x87\x8d\xe5\xba\x86\xe9\xa6\x96\xe8\xae\xaf\xe7\xa7\x91\xe6\x8a\x80\xe8\x82\xa1\xe4\xbb\xbd\xe6\x9c\x89\xe9\x99\x90\xe5\x85\xac\xe5\x8f\xb8 1
+comment 4
+egsxfqeigpow6msfihka8aeds9nk-8bwyto-s8yesucu98e10xmsmgnyy24 1
+join 2
+facebook 1
+powered 1
+find 2
+boneka 1
+secret 1
+dokuwiki.txt 1
+site 3
+terms 4
+music 4
+promote 1
+non-public 1
+friends 4
+our 2
+toys 4
+messages 2
+fast-growing 2
+social 1
+.biz 1
+using 2
+quick 2
+contact 4
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+500 10 12366
+403 8 1712
+416 1 314
+302 34 0
+303 1190 0
+301 35 8503
+508 18 4014
+404 632 168943
+206 30 619513
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 130
+/templates/epmc/css/bootstrap.css 4 http://www.epmc.gob.ec/index.php/component/mailto/
+/index.php/public 1 -
+/index.php/tmp/logs 1 -
+/index.php/contacto 1 http://epmc.gob.ec/index.php/contacto
+/index.php/transparencia/category/3-estructura 4 -
+/index.php/component/content/article/78-noticias/76-facturacion//images/stories/explore.gif 2 -
+/index.php/css/ 1 -
+/blog_edit.php 1 http://www.epmc.gob.ec/index.php
+/wp-content/plugins/wp-crm/third-party/uploadify/uploadify.css 1 http://www.epmc.gob.ec/wp-content/plugins/wp-crm/third-party/uploadify/uploadify.css
+/index.php/quienes-somos/9-sin-clasificar 1 -
+/wp-content/plugins/wp-symposium/server/php/index.php 2 -
+/index.php/logout.php 3 -
+/xmlrpc.php 14 -
+/protal/wp-admin/setup-config.php 1 -
+/index.php/uploads/ 1 -
+/index.php/transparencia/category/7-directorio 3 -
+/templates/epmc/css/template.css 5 http://www.epmc.gob.ec/index.php/component/mailto/
+/index.php/css/content.css 1 -
+/index.php/style_dark.css 1 -
+/index.php/images/icn_edit.png 3 -
+/index.php/js/hideshow.js 2 -
+/ 8 -
+/index.php/statss.php 1 -
+/index.php/sri 1 -
+/index.php 138 http://www.epmc.gob.ec/
+/static/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/conf.php 1 http://epmc.gob.ec/wp-content/plugins/revslider/temp/update_extract/conf.php
+/index.php/tmp 1 -
+/index.php/index.html 1 -
+/index.php/tasks.php 1 -
+/index.php/noticia2 2 -
+/templates/epmc/css/template.min.css 12 http://epmc.gob.ec/index.php/noticia1/77-deapartamentos
+/index.php/vendor/ 1 -
+/index.php/lending/img/fbi.png 1 -
+/wp-json/wp/v2/users/ 4 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/db.php 2 -
+/my_blogs&action=add 1 http://www.epmc.gob.ec/blogs.php
+/index.php/galeria/1-brigadas/detail/4-bsigchos1 3 -
+/registration 1 http://epmc.gob.ec/registration
+/templates/epmc/images/designer/f145b185e786506ac93e82c3b9275cbb_logo.png 1 -
+/press/wp-admin/setup-config.php 1 -
+/index.php/stats.php 1 -
+/index.php/lending/index.php 6 -
+/wp-includes/wlwmanifest.xml 8 -
+/index.php/biling.php 1 -
+/index.php/project.php 1 -
+/index.php/images/btn_submit.png 3 -
+/index.php/login.js 1 -
+/wp-content/plugins/wp-mobile-detector/cache/db.php 2 -
+/blogs.php 3 http://www.epmc.gob.ec/blogs/my_page/add/
+/index.php/app 1 -
+/uploadify/uploadify.php 3 http://epmc.gob.ec/wp-admin/
+/index.php/public/css/app.css 1 -
+/wp-content/themes/purevision/style.css 1 http://epmc.gob.ec/wp-content/themes/purevision/style.css
+/templates/epmc/script.js 12 http://epmc.gob.ec/index.php/noticia1/77-deapartamentos
+/registration.html 1 http://epmc.gob.ec/registration.html
+/wp-content/plugins/wp-mobile-detector/cache/cache.php 2 -
+/index.php/login.php 3 -
+/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/index.php/tmp/ 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 2 -
+/wp-content/upgrade/theme-compat/popup-pomo.php 1 http://epmc.gob.ec/wp-content/upgrade/theme-compat/popup-pomo.php
+/index.php/resources/images/b.png 1 -
+/wp-content/plugins/simple-ads-manager/js/slider/tmpl.js 2 -
+/index.php/lend.php 3 -
+/index.php/lending/img/arab.png 3 -
+/templates/epmc/css/bootstrap.min.css 13 http://epmc.gob.ec/index.php/noticia1/77-deapartamentos
+/index.php/support.php 2 -
+/index.php/transparencia/category/10-servicios 1 -
+/account/submit/add-blog/ 2 http://www.epmc.gob.ec/profile_blog_new.php
+/index.php/uploads 1 -
+/index.php/view/img/favicon.png 1 -
+/login.php 1 -
+/index.php/change.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/cache.php 2 -
+/index.php/anal.php 1 -
+/index.php/home.php 1 -
+/index.php/transparencia/category/1-requisitos 1 -
+/index.php/public/ 1 -
+/wp-content/uploads/8d4c1375799a616.php 1 -
+/wp-content/plugins/estatik/readme.txt 1 http://epmc.gob.ec/wp-content/plugins/estatik/readme.txt
+/index.php/galeria 2 -
+/index.php/config.php 1 -
+/templates/epmc/bootstrap.min.js 12 http://epmc.gob.ec/index.php/noticia1/77-deapartamentos
+/index.php/theme/style.css 1 -
+/index.php/vendor 1 -
+/index.php/option=com_user&view=register 2 http://epmc.gob.ec/index.php/option=com_user&view=register
+/index.php/noticia1 1 -
+/robots.txt 181 -
+//images/stories/explore.gif 2 -
+/index.php/component/content/article/78-noticias//images/stories/explore.gif 2 -
+/profile_blog_new.php 2 http://www.epmc.gob.ec/member/manage_blog.php
+/index.php/asdfdsfasfdasfsd.php 2 -
+/index.php/transparencia/category/11-formularios 2 -
+/wp-content/plugins/wp-symposium/server/php/vYEVmEDgpnmRgA.php 1 -
+/wp-admin/admin-ajax.php 9 http://epmc.gob.ec/wp-admin/
+/index.php/lib/ 1 -
+/index.php/app/ 1 -
+/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php 2 http://epmc.gob.ec/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php
+/wp-admin/setup-config.php 1 -
+/index.php/admin.php 3 -
+/wp-content/uploads/51217766.php 2 -
+/wp-content/plugins/wp-symposium/server/php/BzCcIRJGnvIdVB.php 1 -
+/index.php/cron.php 2 -
+/register 1 http://epmc.gob.ec/register
+/member/manage_blog.php 2 http://www.epmc.gob.ec/wp-admin/post-new.php
+/index.php/lib 1 -
+/templates/epmc/CloudZoom.js 11 http://epmc.gob.ec/index.php/noticia1/77-deapartamentos
+/component/users 1 http://epmc.gob.ec/component/users
+/wp-content/plugins/wp-mobile-detector/resize.php 4 -
+/index.php/option=com_user&view=registration 2 http://epmc.gob.ec/index.php/option=com_user&view=registration
+/index.php/images/icn_search.png 1 -
+/index.php/tmp/logs/ 1 -
+/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/index.php/graphics/banner.png 1 -
+/main/wp-admin/setup-config.php 1 -
+/users/registration.html 1 http://epmc.gob.ec/users/registration.html
+/cms/wp-admin/setup-config.php 1 -
+/license.php 3 http://epmc.gob.ec/wp-admin/
+/admin/lib/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/manager/add_entry.php 2 http://www.epmc.gob.ec/blog_edit.php
+/blogs/my_page/add/ 1 http://www.epmc.gob.ec/blogs.php
+/index.php/include/config.php 2 -
+/index.php/component/content/category/77-deapartamentos 2 -
+/wp-admin/post-new.php 1 http://www.gob.ec
+/index.php/images/breadcrumb_divider.png 1 -
+/index.php/noticia3 4 -
+/templates/epmc/jquery.js 17 http://epmc.gob.ec/index.php/noticia1/77-deapartamentos
+/index.php/component/user/ 5 http://epmc.gob.ec/index.php/component/user/
+/create-an-account.html 1 http://epmc.gob.ec/create-an-account.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 529
+181.113.39.190 9536 27008 200109701 20170731235850
+181.211.103.246 3745 7699 65138783 20170731181917
+116.206.92.155 1364 1364 37316293 20170726122659
+186.47.122.134 458 496 5307644 20170731231740
+163.53.199.69 69 69 1887228 20170723033635
+186.46.92.162 64 230 3238161 20170731115101
+186.101.90.151 51 147 2171928 20170718131050
+37.157.216.214 46 46 292755 20170727134610
+181.112.137.66 40 196 3692381 20170713122953
+181.196.55.212 36 101 1187756 20170730182428
+186.46.224.50 35 134 4376144 20170707181828
+66.249.88.8 31 330 4402156 20170730223217
+66.249.88.5 29 307 4593778 20170730215836
+186.46.173.200 26 103 1893788 20170725192507
+181.112.81.67 25 108 1439212 20170725174539
+37.157.216.221 23 23 145674 20170717153212
+181.199.80.172 22 99 1217180 20170725090040
+66.249.88.2 22 255 3728002 20170730211448
+51.15.54.85 21 21 103218 20170702194147
+190.152.128.69 19 90 1059143 20170726135011
+186.42.121.152 19 111 2749056 20170718095805
+186.47.136.44 19 176 1187611 20170706150342
+181.112.137.67 18 109 1709756 20170724081603
+66.249.88.90 18 114 1390715 20170725104805
+190.152.203.101 18 94 956603 20170726090816
+190.63.119.211 5 70 930796 20170721084815
+181.113.98.98 0 1 58666 
+109.99.29.126 2 2 8395 20170703013829
+186.46.226.107 14 142 1736449 20170716203610
+190.152.209.67 4 69 849558 20170719193400
+151.95.48.190 2 2 8395 20170702025346
+80.19.22.138 1 1 4103 20170702111933
+204.79.180.11 0 3 12025 
+188.166.220.104 1 1 62668 20170726210254
+82.130.208.210 2 2 8395 20170701193248
+1.9.26.62 4 4 16790 20170702171236
+191.99.124.117 3 68 838715 20170717154328
+123.125.67.222 1 1 10864 20170725090735
+80.24.126.218 4 4 16790 20170703013829
+119.6.239.49 1 1 62606 20170720144709
+188.213.170.46 1 1 10872 20170717033657
+10.252.221.55 0 39 2912 
+180.210.204.53 1 1 10859 20170726084053
+185.19.2.227 2 2 8395 20170702032048
+220.181.51.93 1 1 10859 20170720100510
+186.66.228.214 4 69 849615 20170711234722
+198.100.148.99 1 1 10869 20170716143102
+218.58.52.158 1 1 10853 20170730191244
+204.79.180.2 1 4 80541 20170720014134
+31.146.180.82 2 2 8395 20170701162634
+123.125.67.220 2 2 21735 20170725090738
+204.79.180.17 0 3 100063 
+123.125.67.166 2 2 21412 20170731084441
+201.33.206.246 2 2 125334 20170730095248
+204.79.180.14 0 4 36689 
+62.24.252.133 3 3 188007 20170725201244
+88.100.19.11 1 1 4103 20170702015805
+69.57.251.106 1 1 4103 20170702060816
+91.218.209.3 4 4 16790 20170701181215
+201.219.30.254 4 69 869086 20170728082445
+77.229.115.72 2 2 8395 20170702044434
+180.169.8.51 1 1 62664 20170730102739
+201.52.254.231 1 1 10860 20170726190916
+163.172.160.182 2 2 125337 20170726170528
+181.113.117.10 5 76 906609 20170710092230
+190.95.194.26 8 73 881802 20170731161627
+27.202.234.23 1 1 62666 20170730073553
+162.246.61.190 3 3 25064 20170724180143
+113.205.172.160 1 1 10865 20170711005811
+59.127.220.235 4 4 16790 20170701155929
+119.5.75.92 1 1 10866 20170711010335
+90.176.160.115 3 3 12309 20170702022536
+186.42.104.193 1 2 908708 20170706235420
+119.5.76.37 0 6 89632 
+78.5.192.198 2 2 8395 20170701212142
+104.140.183.156 1 1 10853 20170728010528
+201.18.18.173 4 4 250684 20170726143746
+119.5.72.92 0 4 19508 
+186.46.73.106 4 75 905278 20170731114140
+107.178.194.123 1 1 4922 20170701085054
+83.31.65.88 2 2 23596 20170702013600
+200.7.247.209 5 76 987171 20170726123038
+113.193.5.42 4 4 16790 20170703023022
+185.95.252.66 1 1 5607 20170730015600
+109.171.97.88 1 1 62667 20170723184619
+66.249.88.94 9 106 1120879 20170724165443
+88.101.93.100 2 2 8395 20170701073401
+201.218.6.106 4 72 844538 20170717113633
+186.46.25.38 17 109 1821377 20170728131830
+62.86.97.201 2 2 8395 20170703074850
+186.42.187.43 12 77 936441 20170725124359
+89.169.1.29 1 1 10856 20170720012340
+119.5.72.130 0 8 130235 
+123.125.67.218 2 2 21311 20170721095349
+97.90.251.98 1 1 62664 20170730094056
+198.245.64.183 3 3 20704 20170727232302
+83.213.60.79 2 2 8395 20170703034731
+117.232.127.140 2 2 8395 20170701094235
+47.90.9.82 1 1 10856 20170720104533
+186.71.160.202 11 82 953349 20170703180310
+181.112.80.152 3 68 838086 20170731174657
+181.211.13.35 8 84 879616 20170703122221
+52.58.118.222 1 1 10858 20170717174316
+190.152.209.115 7 7 76106 20170711191614
+119.5.75.158 0 5 36688 
+54.167.77.17 1 1 62665 20170720070001
+185.49.169.121 2 2 8395 20170702145857
+186.89.34.161 1 1 62675 20170717175614
+109.80.101.234 3 3 12498 20170702202124
+88.33.209.46 2 2 8395 20170703004536
+193.227.49.83 1 1 10864 20170716142710
+201.148.127.58 1 1 62666 20170730100046
+66.249.88.14 4 29 342500 20170719120506
+23.232.254.164 4 4 13975 20170727232331
+90.178.53.176 2 2 8395 20170703072205
+109.99.29.50 5 5 20893 20170702220910
+204.79.180.19 0 4 38315 
+186.204.215.138 1 1 62668 20170718231244
+181.112.105.157 12 77 923979 20170731223637
+113.206.123.121 1 1 10863 20170711005640
+119.5.79.241 0 3 35125 
+162.243.18.46 1 1 62666 20170730143046
+202.136.245.7 2 2 8395 20170701174602
+134.132.52.221 3 68 837932 20170701135940
+151.50.84.191 1 1 4103 20170701231140
+170.239.204.12 3 68 838701 20170718132748
+190.152.16.214 0 1 58666 
+46.39.221.170 2 2 8395 20170702114746
+119.5.77.17 2 3 43908 20170711010329
+62.28.9.250 2 2 8395 20170702105205
+186.47.240.189 8 89 1852304 20170718052009
+181.196.52.234 0 1 58666 
+91.199.212.132 0 3 249 
+179.49.48.20 4 69 849558 20170721083457
+66.249.83.86 3 27 522752 20170724071636
+122.156.13.226 2 2 54731 20170715043004
+181.112.106.107 2 2 16028 20170718230118
+190.63.17.35 4 69 840245 20170726153430
+113.206.140.252 1 1 10869 20170711010343
+181.198.98.29 5 78 1065379 20170721143431
+31.148.243.35 4 4 16790 20170703053510
+45.33.129.229 5 76 987151 20170729133030
+186.42.107.117 3 68 838718 20170724134910
+91.200.235.40 1 1 5558 20170716162925
+186.42.213.39 11 91 1309973 20170724111140
+112.194.77.111 1 6 11815 20170711005820
+200.125.237.50 4 69 839442 20170707084120
+185.195.24.52 1 1 0 20170704151207
+177.194.142.213 1 1 62669 20170726171359
+186.3.123.34 4 69 840240 20170729204513
+62.97.40.5 1 1 4103 20170702131005
+201.209.67.232 1 1 62667 20170730162046
+190.152.131.70 2 39 229427 20170718204753
+198.245.64.188 1 1 8466 20170727232255
+176.193.116.149 3 32 311376 20170703083418
+204.79.180.10 0 4 37426 
+181.112.104.238 8 81 1156717 20170718085425
+186.71.160.65 3 68 838697 20170724212656
+186.46.224.92 5 76 912729 20170725152023
+186.42.174.195 1 1 62676 20170716123733
+128.199.75.57 1 1 62666 20170726203915
+200.125.218.212 8 85 1053707 20170713170253
+117.253.166.182 1 1 4103 20170702015807
+200.85.83.162 6 77 992342 20170717185324
+181.199.76.222 7 80 1091958 20170728180654
+91.218.208.60 2 2 8395 20170701150439
+175.155.254.10 0 2 9856 
+191.101.116.175 3 3 20624 20170727232319
+193.254.37.110 2 2 8395 20170701224417
+200.119.239.252 1 1 10857 20170716031427
+186.46.164.114 2 2 19547 20170710152020
+96.44.148.86 1 1 10859 20170730225744
+46.118.156.191 9 9 558792 20170720040240
+119.5.76.15 0 6 21488 
+60.18.12.163 4 69 919950 20170716024332
+186.47.84.242 9 79 870486 20170717064412
+91.218.202.18 2 2 8395 20170702003549
+186.42.213.114 3 53 179746 20170731084249
+203.134.211.120 2 2 8395 20170701190553
+181.113.38.218 12 92 1101063 20170727081258
+185.158.116.173 1 1 5165 20170727232304
+185.49.168.119 2 2 8395 20170703041433
+109.80.109.141 4 4 16790 20170701143628
+190.152.242.59 11 87 1654786 20170703094258
+174.138.63.153 1 1 62667 20170730135149
+24.154.3.115 2 2 8395 20170702192710
+109.73.179.68 2 2 8395 20170702073301
+106.120.162.107 3 68 838708 20170726200158
+113.206.122.105 1 1 10864 20170711005811
+185.7.154.130 1 1 62675 20170716043524
+167.250.180.130 1 37 350589 20170712193314
+84.124.185.206 2 2 8395 20170702173912
+176.31.60.52 1 1 4820 20170722020722
+85.70.69.195 1 1 4103 20170702111940
+202.79.37.14 1 1 10851 20170724032744
+190.152.130.169 8 86 1791246 20170712190026
+186.46.174.197 10 91 1796972 20170730201242
+158.181.16.88 1 1 62666 20170727020328
+191.101.116.149 2 2 16267 20170727232318
+109.80.65.196 4 4 16790 20170703023040
+186.46.24.250 3 14 114300 20170710144257
+194.243.145.178 1 1 4103 20170703034740
+185.161.113.91 1 1 62676 20170717164815
+83.38.150.216 2 2 8395 20170702080150
+181.211.127.161 4 76 970459 20170705115203
+212.142.159.192 2 2 8395 20170702070455
+117.253.213.89 1 1 4103 20170701073359
+62.83.16.139 2 2 8395 20170702185956
+172.110.8.76 0 1 3975 
+208.115.100.162 1 1 62668 20170730161852
+223.241.214.44 1 1 10865 20170725023548
+119.5.79.201 1 1 10866 20170711010340
+195.120.228.121 4 4 16790 20170703041433
+200.85.80.128 9 74 971453 20170707124850
+117.211.151.37 1 1 4103 20170702010413
+202.152.135.6 1 1 10859 20170716034526
+66.249.83.85 1 24 381067 20170724071606
+88.100.19.13 2 2 8395 20170702143125
+190.152.211.139 4 4 43500 20170711142215
+90.178.9.68 2 2 8395 20170702131001
+194.140.142.87 2 2 8395 20170703050814
+190.152.131.116 3 3 32604 20170710205744
+46.161.9.29 11 11 340345 20170701155211
+90.177.191.184 2 2 8395 20170702204817
+190.110.205.249 5 87 993155 20170723111433
+106.120.160.109 1 1 62607 20170726200125
+83.211.189.39 2 2 8395 20170701131301
+200.85.83.99 5 76 986359 20170705152227
+204.79.180.4 0 1 84816 
+89.118.10.210 2 2 8395 20170701121527
+109.81.180.228 2 2 8395 20170701202747
+210.38.1.138 1 1 10859 20170724113253
+190.152.129.200 1 13 29975 20170704092650
+181.211.6.10 3 68 838726 20170726201439
+112.194.77.35 0 3 19982 
+186.103.169.166 1 1 8480 20170716163601
+190.152.128.9 7 88 1766836 20170707084955
+190.152.208.199 3 68 837926 20170706100530
+121.30.197.38 1 1 5156 20170720185042
+186.4.180.240 11 87 1660982 20170728133141
+95.211.230.94 1 1 62665 20170729201910
+119.5.77.121 0 1 10067 
+84.232.76.59 2 2 8395 20170702054032
+58.65.160.251 2 2 8395 20170701231142
+193.150.17.81 2 2 8395 20170703081449
+190.108.67.98 0 1 58666 
+109.80.109.140 2 2 8395 20170702232801
+80.54.118.139 1 1 4103 20170701171952
+181.196.104.50 7 91 1138620 20170704213312
+113.206.139.132 2 3 37705 20170711005812
+51.15.77.123 2 2 21724 20170716040958
+204.79.180.23 1 5 104389 20170728011021
+220.181.51.88 1 1 10868 20170716102141
+186.46.172.255 5 70 860423 20170718091055
+78.4.142.182 5 5 20893 20170702183315
+125.62.213.30 1 1 62666 20170728204717
+193.165.96.33 2 2 8395 20170701083857
+220.181.51.113 1 1 10869 20170716102137
+193.254.38.38 4 4 16790 20170703060245
+159.203.64.85 3 3 188008 20170729183137
+120.77.152.36 1 1 10858 20170727234815
+191.180.38.125 1 1 10866 20170717152940
+101.226.125.16 1 21 320503 20170726124245
+46.175.232.122 1 1 5165 20170716164409
+88.210.48.167 1 1 5340 20170716164420
+199.59.170.112 1 1 10855 20170731010151
+109.80.101.207 2 2 8395 20170702092819
+201.219.30.245 3 68 838716 20170724175302
+117.253.202.133 1 1 4103 20170701101516
+103.62.30.155 1 1 4103 20170702080149
+186.42.107.217 17 116 4093014 20170701204625
+186.42.104.235 6 71 851396 20170702155353
+181.113.100.197 0 1 18391 
+175.155.248.23 0 1 6430 
+82.55.108.1 1 1 4103 20170701205434
+150.70.173.40 1 1 23599 20170701092903
+82.186.133.110 4 4 16790 20170703004535
+94.90.7.125 2 2 8395 20170702041552
+46.39.221.69 2 2 8395 20170702095635
+190.152.205.73 4 4 43509 20170711162815
+190.152.129.89 9 88 1291034 20170717172535
+66.249.83.84 3 30 308018 20170724071623
+89.17.214.91 2 2 8395 20170702085934
+190.3.68.61 1 1 4103 20170701131259
+113.206.2.213 1 1 81238 20170711005819
+117.143.109.16 1 1 62616 20170711172826
+213.149.105.12 4 4 73616 20170727023804
+109.81.180.232 2 2 8395 20170703011156
+139.59.149.99 1 1 4923 20170701085721
+186.42.107.50 17 96 1871426 20170724133546
+190.152.211.125 5 5 54379 20170711173815
+101.226.66.174 1 20 320463 20170721232304
+186.46.143.29 3 68 838710 20170728112026
+117.253.221.121 1 1 4103 20170702202130
+200.128.10.63 1 1 7539 20170727181918
+186.89.96.22 1 1 62674 20170717192854
+89.96.118.5 1 1 4103 20170702195350
+204.79.180.12 0 3 3174 
+220.181.132.192 3 41 465209 20170726200127
+185.49.169.2 2 2 8395 20170701111628
+188.247.141.129 4 4 16790 20170701091032
+181.112.145.50 12 96 1930041 20170710184234
+123.125.67.225 1 1 10858 20170724103427
+186.46.216.189 9 50 834521 20170710144300
+60.174.72.241 1 1 1334 20170716162651
+93.62.6.31 2 2 8395 20170701193247
+110.139.73.200 1 1 10871 20170717114202
+91.109.196.114 2 2 8395 20170702000730
+113.206.2.1 0 1 31097 
+95.79.57.46 1 1 8718 20170716162821
+190.14.252.107 1 1 8479 20170716163602
+113.206.20.121 0 1 32837 
+190.152.128.5 3 68 838722 20170724234751
+139.59.125.53 1 1 62666 20170730180455
+109.201.142.113 6 6 50681 20170725145652
+201.183.238.133 7 89 1748467 20170726173327
+167.250.180.2 5 81 1755219 20170725140312
+77.246.158.150 1 1 10869 20170719171745
+193.254.37.98 4 4 16790 20170702232746
+204.79.180.7 0 2 2023 
+119.5.77.189 0 5 13807 
+181.199.198.44 1 1 4103 20170702235345
+177.142.81.200 1 1 10863 20170727122611
+109.1.180.186 2 2 8395 20170703032210
+80.104.195.235 2 2 8395 20170701214916
+185.128.38.100 1 1 10866 20170719024231
+66.176.249.139 7 80 1086892 20170711080122
+190.214.73.57 5 76 916797 20170717181519
+120.25.249.202 1 1 7635 20170721014824
+112.74.189.103 1 1 10854 20170731030041
+186.47.240.197 2 56 740991 20170703085005
+186.70.243.35 9 131 1525581 20170726092808
+52.237.24.110 1 1 62665 20170730095124
+186.69.78.226 1 1 6824 20170724111321
+35.158.235.18 1 1 10864 20170716043045
+190.63.150.181 5 70 930820 20170718183121
+204.79.180.6 1 4 14516 20170728011006
+204.79.180.15 1 1 1498 20170720014131
+186.46.185.248 14 180 1720793 20170727105227
+186.42.160.42 3 68 838718 20170727053024
+186.46.175.73 7 79 1001870 20170707102130
+119.5.76.35 0 2 21987 
+190.152.214.178 7 30 262243 20170710143639
+200.84.255.44 1 1 62667 20170728114537
+181.40.78.174 1 1 62664 20170729192119
+202.78.227.33 1 1 8715 20170716164404
+62.63.100.150 1 1 62667 20170726155139
+183.88.43.33 1 1 10862 20170716035343
+148.251.132.176 1 1 62668 20170730163334
+117.253.221.101 1 1 4103 20170701080639
+204.79.180.18 0 2 1284 
+163.172.134.215 1 1 1498 20170724231123
+193.254.37.87 2 2 8395 20170701124433
+200.7.211.27 4 69 849559 20170728153421
+119.5.74.208 4 11 314769 20170711010336
+117.253.223.70 1 1 4103 20170701104641
+204.79.180.0 0 2 654 
+93.100.149.93 7 7 247278 20170728161421
+205.185.115.215 1 1 10856 20170727124158
+120.77.153.201 1 1 62666 20170730075640
+175.155.254.97 0 4 23631 
+78.5.42.2 2 2 8395 20170701094234
+190.152.129.225 5 70 930842 20170719100317
+90.178.53.191 2 2 8395 20170702000730
+204.79.180.5 0 2 2070 
+181.198.78.150 2 2 21108 20170731164427
+181.112.8.53 3 68 838723 20170726072952
+181.112.224.111 10 152 1832785 20170729104714
+212.3.183.83 2 2 8395 20170701101515
+192.95.42.42 1 1 6823 20170720115923
+91.214.60.79 2 2 8395 20170703011156
+188.34.254.58 1 1 62673 20170716191122
+183.232.2.51 2 2 73539 20170717045312
+181.112.57.2 15 174 3668698 20170722102159
+157.100.97.2 3 68 838724 20170720115531
+52.35.243.30 1 1 10868 20170716162452
+85.84.205.13 1 1 4103 20170702083036
+5.188.211.39 12 12 414333 20170701173942
+103.10.169.95 1 1 62675 20170716140843
+190.152.144.117 10 101 2550189 20170712122251
+200.46.94.194 1 1 10863 20170726165051
+186.46.227.106 4 69 839444 20170701175859
+177.141.129.233 1 1 10856 20170727134934
+86.246.16.206 2 2 8395 20170702083038
+125.141.200.24 1 1 10862 20170723120125
+151.25.121.170 2 2 8395 20170701134116
+46.39.221.244 1 1 4103 20170701174600
+79.124.29.3 2 2 8395 20170702164601
+195.32.86.134 2 2 8395 20170701205433
+186.46.224.243 11 129 1153980 20170711160131
+84.238.141.127 1 1 4103 20170702063715
+173.208.221.194 1 1 60870 20170702034447
+193.150.16.30 2 2 8395 20170702032048
+190.152.205.59 5 5 54379 20170711153215
+90.177.191.91 1 1 4103 20170701114535
+190.152.128.35 15 90 1632939 20170724151916
+52.77.193.180 1 1 10851 20170724121012
+186.46.218.22 3 68 838699 20170718145452
+91.134.123.96 1 1 62666 20170720073740
+90.177.201.43 1 1 4103 20170701111630
+93.115.95.205 1 1 62666 20170730125542
+80.13.84.146 1 1 4103 20170701200016
+90.178.53.180 1 1 4103 20170703044146
+123.125.67.162 1 1 10458 20170702101210
+80.23.167.202 2 2 8395 20170703062913
+90.178.9.62 1 1 4103 20170701214915
+77.241.61.143 2 2 8395 20170702155222
+186.47.188.147 3 68 838721 20170728165500
+181.196.54.72 8 73 65137 20170726234231
+181.196.106.27 9 106 1366253 20170728151010
+190.130.231.226 9 90 967257 20170720122859
+217.24.246.165 1 1 10865 20170727040030
+190.110.205.142 6 77 926059 20170708084119
+186.33.164.27 12 77 927044 20170728212831
+220.181.132.200 3 41 465204 20170726200146
+123.125.67.221 3 3 32559 20170728095121
+204.79.180.16 0 5 13934 
+112.216.16.250 1 1 10853 20170724100616
+78.79.192.204 1 1 4103 20170702013128
+186.46.226.31 3 63 818296 20170713211644
+117.253.217.228 1 1 4103 20170701183844
+181.113.99.198 17 89 1046632 20170711132616
+186.46.226.30 3 43 524845 20170719114709
+139.59.243.186 1 1 62676 20170717165005
+188.168.27.77 3 3 62729 20170727023638
+204.79.180.20 0 3 9366 
+123.125.67.226 1 1 10861 20170729103447
+46.39.221.254 2 2 8395 20170701162635
+109.63.156.134 2 56 710731 20170711055504
+123.125.67.160 3 3 32271 20170731084441
+104.192.170.42 1 1 62666 20170723230416
+117.255.209.47 1 1 4103 20170701134115
+149.56.89.166 1 1 5616 20170716162656
+200.7.247.11 11 95 2192003 20170719165010
+186.47.136.16 11 95 1264130 20170727213520
+88.101.93.124 6 6 25185 20170703020501
+37.151.43.202 1 1 10854 20170727232240
+46.39.212.135 2 2 8395 20170702164602
+42.117.1.78 1 1 10855 20170723172043
+190.214.11.254 5 77 971953 20170704123933
+190.152.52.66 4 69 840234 20170726155107
+185.49.168.51 2 2 8395 20170703062907
+2.116.231.89 1 1 4103 20170703065550
+186.46.227.158 11 86 1590841 20170706194341
+181.211.153.66 5 70 930820 20170729074934
+200.43.234.212 1 1 4103 20170701221654
+186.46.225.165 6 71 923009 20170721110234
+194.140.183.61 2 2 8395 20170702095635
+98.228.67.167 1 1 62666 20170730152958
+83.208.68.12 4 4 16790 20170702180647
+82.235.254.76 1 1 4103 20170703084032
+109.80.101.242 1 1 4103 20170702054051
+202.164.209.184 1 1 4103 20170702121448
+94.91.185.9 2 2 8395 20170703074850
+210.57.214.46 1 1 5432 20170716162146
+66.249.83.204 1 1 10464 20170705121802
+34.211.172.105 1 1 10854 20170720162923
+204.79.180.3 0 3 43496 
+128.199.184.107 1 1 7641 20170725014423
+186.101.175.30 7 88 1823823 20170728160102
+181.112.62.98 9 81 1086256 20170712120909
+159.20.215.254 1 1 4103 20170702124233
+200.7.247.157 1 1 4915 20170721202421
+196.196.31.93 6 6 41145 20170727232340
+200.85.83.215 5 81 941993 20170713151503
+192.187.109.42 8 8 501102 20170719202104
+51.255.138.90 9 9 558606 20170727171427
+93.61.20.137 1 1 4103 20170701080642
+117.232.122.94 2 2 8395 20170702060815
+117.253.173.184 1 1 4103 20170702121451
+204.79.180.22 0 6 7184 
+186.42.186.150 6 82 1756126 20170731164533
+94.23.81.70 1 1 10853 20170727183028
+185.9.195.35 1 1 4103 20170702051237
+200.85.83.212 5 70 930818 20170725041241
+107.167.109.23 1 68 655233 20170703142441
+200.12.196.2 4 69 849569 20170727105932
+31.148.241.218 2 2 8395 20170702211448
+196.196.31.120 1 1 4903 20170727232336
+119.5.74.229 0 1 5044 
+195.239.21.168 1 1 7552 20170716164345
+119.5.74.254 0 1 839 
+216.252.126.72 2 2 21725 20170721162610
+104.168.149.88 2 2 17414 20170731030050
+144.217.48.75 1 1 5421 20170724152556
+181.112.80.198 4 69 849571 20170728081308
+84.232.76.184 2 2 8395 20170702155222
+195.123.209.104 1 1 46335 20170727020248
+117.253.210.156 1 1 4103 20170701121526
+5.188.211.21 14 14 501599 20170702012942
+190.12.9.30 1 1 62664 20170725230041
+119.5.78.251 0 2 18176 
+187.75.206.102 1 1 62667 20170725181258
+213.136.171.208 4 4 16790 20170702034752
+107.167.109.85 1 1 3621 20170703182550
+200.125.220.197 4 75 905928 20170726120056
+186.46.113.41 4 69 840248 20170717141614
+181.211.101.10 2 7 710121 20170719142331
+204.79.180.13 0 2 789 
+186.42.105.224 9 139 1681986 20170716212601
+14.139.229.45 1 1 62666 20170730125049
+5.189.181.228 1 1 4831 20170716164411
+181.196.52.218 1 1 894494 20170703203024
+204.79.180.21 0 2 2502 
+5.188.211.24 12 12 414333 20170701011441
+216.158.93.175 2 2 19569 20170724183302
+151.80.13.192 1 1 8710 20170720135845
+203.173.92.218 1 1 62676 20170717192716
+186.101.187.142 16 135 1913207 20170713155606
+206.214.8.121 2 2 8206 20170701233830
+186.4.133.169 3 68 838724 20170710153702
+128.199.74.233 1 1 62668 20170719071322
+66.249.88.92 12 113 2340973 20170726083314
+213.136.172.206 2 2 8395 20170702092805
+201.183.126.36 15 88 1149320 20170717150826
+204.79.180.9 1 1 10854 20170720014104
+66.249.88.11 2 22 457647 20170719114753
+46.186.6.248 3 57 742487 20170716061651
+185.158.116.153 1 1 7441 20170727232246
+109.80.65.180 1 1 4103 20170702211508
+186.46.113.27 18 181 2713027 20170724095443
+181.112.81.23 3 68 838092 20170731101910
+186.42.107.193 12 80 867515 20170720132424
+181.188.201.32 7 85 958518 20170718070821
+181.112.81.181 13 201 2636787 20170729133206
+89.35.106.164 1 1 10855 20170727235033
+204.79.180.8 0 3 28010 
+46.242.109.223 1 1 6815 20170727184326
+113.205.172.122 0 1 33140 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20170701 176 450 7978755 73
+20170702 179 244 2211354 82
+20170703 653 2673 16146303 44
+20170704 498 979 9711673 15
+20170705 477 766 8478300 10
+20170706 843 1819 20470456 15
+20170707 814 1914 19609620 13
+20170708 7 78 936522 2
+20170709 9 9 396947 3
+20170710 1422 2942 28961680 20
+20170711 547 1136 15931666 35
+20170712 282 764 8868195 13
+20170713 464 3499 12612027 14
+20170714 641 5490 10084992 4
+20170715 164 164 3498049 9
+20170716 556 1093 22073564 42
+20170717 1506 2537 36980562 31
+20170718 442 1775 21178025 28
+20170719 723 4482 19124191 26
+20170720 809 1410 23010665 37
+20170721 313 738 9426635 31
+20170722 324 420 9051747 21
+20170723 233 389 8073350 19
+20170724 771 2819 40005426 47
+20170725 846 2298 32660133 32
+20170726 707 2352 31125120 46
+20170727 1557 3310 37136226 49
+20170728 560 1906 22481256 32
+20170729 75 412 6662086 20
+20170730 263 700 14530695 43
+20170731 394 1195 12705789 30
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 43
+5mn-15mn 46
+0s-30s 546
+1h+ 139
+2mn-5mn 32
+15mn-30mn 30
+30mn-1h 50
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 47
+/ 6963 122685698 567 445
+/index.php 6831 73176427 22 60
+/index.php/contacto 787 19864683 36 15
+/index.php/contacto/1-kontakty 709 19801819 0 31
+/templates/epmc2017ver03/images/flash.swf 330 292110 4 12
+/media/mod_rssocial/font/rssocial-font.woff 316 6872146 13 15
+/administrator/index.php 295 1294025 148 148
+/index.php/index.php 145 1572801 6 12
+/modules/mod_tc_team3/assets/font-awesome/fontawesome-webfont.woff 118 6906840 8 13
+/cgi-sys/defaultwebpage.cgi 114 196194 4 3
+/index.php/requisitos 100 13034125 14 18
+/index.php/ser/matriculacion-vehicular 75 615355 5 23
+/index.php/login 72 745069 4 8
+/index.php/ser 45 288554 4 9
+/facturacion/login.php 35 46690 6 4
+/index.php/transparencia/2017 34 404299 4 4
+/index.php/quienes-somos 34 246965 2 7
+/index.php/component/search/ 30 151591 1 7
+/facturacion/fonts/glyphicons-halflings-regular.woff2 25 450732 0 8
+/index.php/quienes-somos/mision-vision 20 146981 3 4
+/index.php/transparencia/2016 18 307294 11 10
+/index.php/transparencia/2015 13 226047 2 3
+/index.php/requisitos/category/3-remat 13 5403481 1 6
+/index.php/80-nove/index.php 13 112129 0 0
+/index.php/transparencia/2015/e2015 13 129845 1 1
+/index.php/requisitos/ 1 4919 0 0
+/index.php/80-nove/77-invitacion 6 50829 3 3
+/index.php/80-nove/75-nuevodier 4 29498 0 0
+/index.php/component/users/ 8 190856 4 3
+/administrator/ 4 6915 0 0
+/media/editors/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/cite.htm 1 1292 0 0
+/index.php/transparencia/2017/78-empresa/71-empresa 7 33901 1 2
+/modules/mod_tc_team3/assets/font-awesome/fontawesome-webfont.ttf 7 568302 0 0
+/index.php/78-empresa/71-empresa 4 29741 1 1
+/modules/mod_tc_team3/assets/font-awesome/fontawesome-webfont.eot 1 68846 0 0
+// 1 62666 1 1
+/media/mod_rssocial/font/rssocial-font.ttf 10 212632 0 2
+/index.php/component/content/article/78-noticias/76-facturacion 4 27442 2 1
+/cpanel 7 87507 0 0
+/index.php/transparencia 12 118288 1 1
+/index.php/80-nove/79-infor 9 68751 4 3
+/index.php/requisitos/category/2-inf 2 9754 0 0
+/index.php/component/mailto/ 5 6485 0 0
+/index.php/80-nove/24-briga 8 60281 3 2
+/facturacion/help.php 2 1002 0 1
+/media/mod_rssocial/font/rssocial-font.eot 3 91368 0 0
+/media/editors/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/abbr.htm 1 1297 0 0
+END_SIDER

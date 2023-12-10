@@ -1,0 +1,617 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202011 will be lost/reset.
+# Last config file used to build this data file was /home/epmcgob/tmp/awstats/ssl/awstats.epmc.gob.ec.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2688                
+POS_VISITOR 17706               
+POS_DAY 20416               
+POS_DOMAIN 3487                
+POS_LOGIN 3913                
+POS_ROBOT 4068                
+POS_WORMS 4515                
+POS_EMAILSENDER 4646                
+POS_EMAILRECEIVER 4789                
+POS_SESSION 21083               
+POS_SIDER 21261               
+POS_FILETYPES 4924                
+POS_DOWNLOADS 5212                
+POS_OS 7629                
+POS_BROWSER 7836                
+POS_SCREENSIZE 8513                
+POS_UNKNOWNREFERER 8587                
+POS_UNKNOWNREFERERBROWSER 8831                
+POS_ORIGIN 8913                
+POS_SEREFERRALS 9050                
+POS_PAGEREFS 9254                
+POS_SEARCHWORDS 9441                
+POS_KEYWORDS 9593                
+POS_MISC 2352                
+POS_ERRORS 9652                
+POS_CLUSTER 3769                
+POS_SIDER_404 9814                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201201005306 27 5025 8463918577565
+FirstTime 20201101012803
+LastTime 20201130193434
+LastUpdate 20201201073559 27 0 26 0 0
+TotalVisits 56                  
+TotalUnique 40                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 80                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 4 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 3 70439 26 47 548669
+1 1 3 479192 38 53 504347
+2 0 0 0 23 70 1666951
+3 14 14 146632 17 64 725202
+4 3 3 49437 18 56 511301
+5 1 1 5885 25 92 2223409
+6 5 39 1181463 25 63 1824129
+7 7 41 1197465 32 57 1147921
+8 5 45 1566849 28 67 500105
+9 7 47 1774818 32 49 290359
+10 6 10 833755 24 49 131532
+11 4 43 1693240 27 43 528972
+12 5 43 2000923 27 59 480649
+13 9 57 3514883 34 60 257164
+14 5 8 692006 39 69 560461
+15 6 41 1329582 99 334 29924696
+16 2 5 804107 26 100 2818036
+17 9 53 3555268 47 86 2292998
+18 4 48 2061863 34 83 1856811
+19 6 8 360637 19 46 444762
+20 6 23 3376002 26 58 1877660
+21 3 10 1572997 20 37 526205
+22 12 24 174408 32 64 66221
+23 7 45 1465239 27 59 1993772
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+ec 69 488 25226084
+de 15 15 5879
+ru 12 12 146632
+us 12 16 464747
+gb 5 16 128187
+in 4 6 543880
+ma 3 42 800706
+cz 3 3 76069
+kz 2 2 11150
+fr 2 2 2696
+ua 1 1 5793
+cn 1 1 5885
+es 0 1 434770
+nz 0 2 308364
+ca 0 7 1746248
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bingbot/ 556 16762591 20201130231357 112
+bot[\s_+:,\.\;\/\\-] 329 29855875 20201130072214 88
+bingpreview 159 5899277 20201127071525 0
+no_user_agent 151 252526 20201130225941 0
+AhrefsBot/ 58 164592 20201130142539 30
+discover 5 42075 20201104132409 0
+Googlebot/ 5 130 20201129181102 5
+Dalvik/ 1 5885 20201101052411 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+jpg 91 19925122 0 0
+Unknown 48 256948 0 0
+css 99 675610 0 0
+php 4 48894 0 0
+ttf 11 1099640 0 0
+jpeg 4 1080040 0 0
+js 167 1614510 0 0
+woff 11 590594 0 0
+png 113 3942300 0 0
+gif 11 231590 0 0
+html 53 441156 0 0
+xml 2 686 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 44
+/uploads/lotaip_1597340200.pdf 2 0 376208
+/uploads/lotaip_1593701194.pdf 2 0 372990
+/uploads/lotaip_1593700477.pdf 2 0 381074
+/uploads/lotaip_1593701217.pdf 2 0 387992
+/uploads/f_1593186788.pdf 2 0 2776948
+/uploads/lotaip_1593700506.pdf 2 0 363610
+/uploads/lotaip_1593702580.pdf 2 0 361514
+/uploads/lotaip_1596647498.pdf 2 0 399696
+/uploads/lotaip_1593699342.pdf 2 0 399214
+/uploads/lotaip_1593702607.pdf 2 0 381084
+/uploads/lotaip_1593701323.pdf 2 0 381120
+/uploads/lotaip_1593702560.pdf 2 0 388002
+/uploads/lotaip_1593700454.pdf 2 0 378062
+/uploads/lotaip_1597342311.pdf 2 0 368172
+/uploads/lotaip_1593702656.pdf 2 0 378036
+/uploads/lotaip_1587821683.pdf 1 0 183901
+/uploads/f_1601413112.pdf 1 0 511694
+/uploads/F-005%20Formulario%20de%20Renovaci%C3%B3n%20de%20Contrato%20de%20Operaci%C3%B3n.pdf 1 0 38236
+/uploads/f_1583937890.pdf 1 0 492391
+/uploads/F-003%20Formulario%20de%20Renovaci%C3%B3n%20Permiso%20de%20Operaci%C3%B3n.pdf 1 0 38656
+/uploads/F-004%20Formulario%20de%20Concesion%20de%20Contrato%20de%20Operaci%C3%B3n.pdf 1 0 38893
+/uploads/F-002%20Formulario%20de%20Concesi%C3%B3n%20de%20Permiso%20de%20Operaci%C3%B3n.pdf 1 0 39706
+/uploads/f_1583937870.pdf 1 0 357983
+/uploads/f_1600212134.pdf 1 0 286176
+/uploads/f_1583937879.pdf 1 0 508314
+/uploads/f_1583937797.pdf 1 0 1384426
+/uploads/f_1583937910.pdf 1 0 1384426
+/uploads/f_1583937899.pdf 1 0 504770
+/uploads/f_1598559023.pdf 1 0 564883
+/uploads/F-011%20Formulario%20de%20Cambio%20de%20Veh%C3%ADculo.pdf 1 0 97978
+/uploads/F-012%20Formulario%20Cambio%20de%20Socio.pdf 1 0 127994
+/uploads/F-006%20Formulario%20de%20Incremento%20de%20Cupo.pdf 1 0 39871
+/uploads/lotaip_1597342966.pdf 1 0 199856
+/uploads/f_1600211989.pdf 1 0 452938
+/uploads/f_1583937399.pdf 1 0 462939
+/uploads/F-009%20Formulario%20de%20Cambio%20de%20Socio%20%20con%20Habilitacion%20Veh%C3%ADculo.pdf 1 0 128267
+/uploads/f_1583937861.pdf 1 0 356894
+/uploads/F-007%20Formulario%20para%20Habilitaci%C3%B3n%20de%20Veh%C3%ADculo.pdf 1 0 94914
+/uploads/F-010%20Formulario%20de%20Cambio%20de%20Socio%20y%20Veh%C3%ADculo.pdf 1 0 84034
+/uploads/f_1603477246.pdf 1 0 509883
+/uploads/f_1601413024.pdf 1 0 508656
+/uploads/f_1583937445.pdf 1 0 368995
+/uploads/F-008%20Formulario%20para%20Deshabilitacion%20de%20Veh%C3%ADculo.pdf 1 0 138831
+/uploads/F-001%20Formulario%20de%20Informe%20Previo%20de%20Constituci%C3%B3n%20Jur%C3%ADdica.xls.pdf 1 0 37239
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+ios_iphone 10 0
+macosx 10 6
+win10 89 6
+Unknown 7 7
+win7 59 51
+win8 2 0
+linux 31 17
+macosx11 46 8
+macosx12 5 5
+win8.1 4 0
+linuxandroid 351 29
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 31
+firefox71.0 1 0
+chrome67.0.3396.87 1 1
+chrome66.0.3359.181 4 4
+msie9.0 2 0
+chrome66.0.3359.117 2 2
+chrome47.0.2526.106 1 1
+firefox69.0 2 2
+chrome51.0.2704.103 39 37
+android 2 2
+msie7.0 2 0
+chrome86.0.4240.111 1 0
+mozilla 7 7
+chrome86.0.4240.185 7 0
+safari14.0 1 0
+chrome85.0.4183.127 336 27
+firefox64.0 3 0
+chrome40.0.2214.85 14 14
+chrome86.0.4240.198 13 0
+chrome66.0.3359.139 2 2
+chrome67.0.3396.62 2 2
+chrome86.0.4240.183 5 0
+chrome87.0.4280.66 6 0
+safari14.0.1 9 0
+chrome87.0.4280.67 39 3
+chrome86.0.4240.110 3 0
+firefox72.0 16 5
+firefox63.0 12 12
+chrome86.0.4240.193 26 0
+firefox76.0 1 1
+firefox78.0 45 7
+firefox82.0 10 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_PR-CY.RU;___https://a.pr-cy.ru) 20201125041609
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20201106212334
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 88 99
+From1 0 0
+From2 5 101
+From3 3 3
+From4 33 411
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_es 0 9
+www_google_com 5 91
+www_google_com_ec 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://a.pr-cy.ru/www.epmc.gob.ec 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+405 2 748
+500 23 9264
+400 5 156
+206 89 519360
+401 27 1095
+404 281 165908
+301 69 20290
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 122
+/index.php/2019/06/10/custom-writings-secrets-that-no-one-else-knows-about 1 -
+/manifest.json 14 https://www.epmc.gob.ec/
+/assets/images/44.png 3 https://www.google.com/
+/index.php/2019/06/23/guide-to-creating-a-conversation-in-an-homework-6 2 -
+/index.php/2019/06/23/meet-your-current-man-2013-challenge-morning-1-8 1 -
+/index.php/2019/07/29/heres-what-i-know-about-what-is-the-best-paper-writing-service 3 -
+/index.php/2019/07/08/narrative-coursework-about-summer-season-vacation-22 2 -
+/sitemap_index.xml.gz 2 -
+/atom.xml 2 -
+/index.php/blog 1 -
+/index.php/2019/08/09/productive-listenings-extreme-personal-computer-47 2 -
+/sitemap-official.xml 2 -
+/.env 2 -
+/uploads/lotaip_1593702637.pdf 1 -
+/index.php/2019/07/30/waterfront-online-casino-deal-abandoned-in-31 2 -
+/index.php/2019/06/23/the-importance-of-paper-help-discount-4 2 -
+/index.php/2019/07/08/the-death-of-pay-for-term-papers-3 1 -
+/document/Deshabilitacion.pdf 1 -
+/index.php/2019/07/29/top-choices-of-the-importance-of-literature-review 2 -
+/index.php/2019/01/21/there-is-in-this-manner-a-likely-to-make-the 1 -
+/uploads/lotaip_1583268735.pdf 1 -
+/index.php/2019/06/13/the-fight-against-apa-format-research-paper-example-3 1 -
+/index.php/2019/06/18/the-key-to-successful-admissions-essay-help 1 -
+/sitemap.html 2 -
+/index.php/2019/08/29/top-manufacturers-of-us-fulbright-students-in-2015-9 2 -
+/index.php/2019/06/09/how-to-understand-cancer-symptoms 2 -
+/index.php/2019/06/06/new-step-by-step-roadmap-for-how-to-create-a-correspondence-3 3 -
+/index.php/2018/09/15/essential-details-of-rusbrides-in-the-uk 3 -
+/Microsoft-Server-ActiveSync 2 -
+/assets/images/about.jpg 13 https://www.google.com/
+/index.php/2019/07/26/wahl-bachelor-arbeit-aussetzen-ist-einfach 2 -
+/index.php/2019/06/12/the-fight-against-apa-format-research-paper-example-2 3 -
+/noticias.html 1 -
+/sitemap_index.html 2 -
+/index.php/2019/06/18/vital-pieces-of-accounting-case-study-help-3 2 -
+/index.php/2019/07/16/exploring-motif-an-essential-element-to-successful 1 -
+/index.php/2019/06/22/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-2 1 -
+/index.php/2019/07/29/whos-talking-about-dissertation-results-and-why-you-should-be-worried 2 -
+/index.php/2019/06/21/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-2 2 -
+/index.php/2019/07/02/fundamentally-synonym-features 2 -
+/index.php/2019/06/10/die-durchgesickerten-geheimnisse-bachelorarbeit-thema-entdeckt 2 -
+/index.php/2019/06/16/the-fight-against-apa-format-research-paper-example-4 1 -
+/index.php/2019/06/20/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-2 1 -
+/cpnale 1 -
+/index.php/2019/08/29/just-how-to-buy-underwear-for-a-female-without-5 1 -
+/index.php/2019/04/25/the-new-angle-on-book-report-ideas-just-released 6 https://epmc.gob.ec/index.php/2019/04/25/the-new-angle-on-book-report-ideas-just-released/
+/img/crane.png 39 -
+/index.php/2019/04/25/50-creative-writing-matters-for-youths 2 -
+/uploads/lotaip_1583253083.pdf 1 -
+/apple-app-site-association 8 -
+/index.php/2019/07/16/uncommon-article-gives-you-the-facts-on-writing-a-research-essay-that-only-a-few-people-know-exist 2 -
+/index.php/2019/06/07/essay-copy-writer-critical-reviews-never-a-mystery 1 -
+/index.php/2019/07/19/ruthless-cheap-assignment-help-strategies-exploited 2 -
+/index.php/2019/07/29/things-you-wont-like-about-how-to-enhance-your-writing-skills-and-things-you-will-3 2 -
+/index.php/2019/04/28/very-best-essay-freelance-writers-on-line-tips-that-nobody-is-mindful-of 1 -
+/.well-known/apple-app-site-association 6 -
+/index.php/transparencia 1 -
+/index.php/2019/06/05/the-advantages-of-professional-cover-letter-writer 1 -
+/index.php/2019/04/24/heres-what-i-understand-about-university-document-creating-service-critiques 1 -
+/index.php/contactos 5 -
+/sitemap-index.xml 2 -
+/index.php/2019/04 1 -
+/uploads/lotaip_1583435135.pdf 1 -
+/index.php/2019/07/16/dissertation-editing-rates-a-brief-overview 2 -
+/sitemap.rss 2 -
+/index.php/2019/07/12/1755 1 -
+/index.php/2019/08/07/acheter-sildenafil-citrate-parapharmacie-en-ligne-pilules-generiques-en-ligne-pharmacie-web 1 -
+/index.php/2019/06/04/new-step-by-step-roadmap-for-how-to-create-a-correspondence-2 1 -
+/sitemap.xml 3 -
+/index.php/2019/06/15/the-fight-against-apa-format-research-paper-example-4 1 -
+/uploads/lotaip_1586824384.pdf 1 -
+/info@epmc.gob.ec 2 -
+/uploads/lotaip_1593702543.pdf 1 -
+/xmlrpc.php 2 -
+/index.php/2019/06/20/if-you-read-nothing-else-today-read-this-report-on-nurse-practitioner-admission-essay-3 2 -
+/index.php/2019/07/10/how-to-sense-of-balance-action-story-and-talk-in-4 1 -
+/index.php/2019/06/23/3-purposes-why-you-maest-still-sole-reason-1-you-4 3 -
+/index.php/2019/05/29/valuable-techniques-for-term-papers-help-you-can-begin-to-use-immediately-2 2 -
+/contact.html 1 -
+/index.php/2018/09/20/realistic-products-for-best-beauty-brides 2 -
+/index.php/2019/04/24/what-to-expect-from-custom-essay-help 3 -
+/index.php/2019/06/18/if-you-read-nothing-else-today-read-this-report-on-nurse-practitioner-admission-essay-3 1 -
+/rss.xml 2 -
+/index.php/2019/06/16/if-you-read-nothing-else-today-read-this-report-on-nurse-practitioner-admission-essay 1 -
+/index.php/2019/05/30/the-how-to-write-a-literature-evaluation-diaries 2 -
+/index.php/2019/08/30/what-to-do-about-buy-assignment-au-before-its-too-late 2 -
+/sitemap.txt 2 -
+/index.php/2019/08/17/the-confidential-secrets-for-tracker-physics-2 1 -
+/index.php/2019/07/28/how-easy-is-it-to-get-a-filipina-woman-review 1 -
+/ads.txt 2 -
+/index.php/2019/06/18/the-secret-of-writing-an-effective-research-paper-no-one-is-discussing-2 2 -
+/index.php/2019/07/23/the-nuiances-of-theoretical-dissertation-methodology 4 -
+/index.php/2019/04/25/the-real-tale-about-write-our-essay-university-6 3 -
+/document/ReformadeEstatutos.pdf 1 -
+/post-sitemap.xml 2 -
+/index.php/2019/07/21/writing-a-report-outline-secrets 1 -
+/index.php/2019/06/16/custom-writings-secrets-that-no-one-else-knows-about-2 2 -
+/sistema-turnos 1 -
+/wp-admin/admin-ajax.php 1 -
+/sitemap_index.xml 2 -
+/index.php/2019/04/25/the-demise-of-paperhelp-org-review 2 -
+/index.php/2019/08/17/vital-pieces-of-what-is-chemical-energy-in-physics 1 -
+/index.php/2019/06/17/vital-pieces-of-accounting-case-study-help-2 3 -
+/sitemapindex.xml 2 -
+/index.php/2019/06/20/top-5-wta-in-acest-moment-1 1 -
+/index.php/2019/05/28/what-you-dont-know-about-buy-university-essays 2 -
+/index.php/2019/08/17/if-you-read-nothing-else-today-read-this-report-on-which-of-the-following-is-a-good-way-to-approach-answering-an-essay-questio 2 -
+/index.php/requisitos 1 -
+/document/ConcesiondePermiso.pdf 1 -
+/index.php/2019/07/31/adventures-of-any-first-time-prologue-officer-17 1 -
+/index.php/2019/08/17/whatever-they-told-you-about-best-college-essay-writer-is-dead-wrong-and-heres-why-2 1 -
+/index.php/2019/04/24/the-pitfall-of-perfect-school-assignment-authors 1 -
+/sitemap.xml.gz 2 -
+/index.php/2019/06/18/the-fight-against-apa-format-research-paper-example-5 1 -
+/index.php/2019/08/02/life-death-and-best-paper-writer-helper 2 -
+/document/CambiodeSocioVehiculo.pdf 1 -
+/index.php/2019/07/28/how-easy-is-it-to-get-a-filipina-woman-review-2 2 -
+/index.php/2019/06/15/die-durchgesickerten-geheimnisse-bachelorarbeit-thema-entdeckt 2 -
+/index.php/2019/07/14/the-most-online-dating-profile-photos-that-is-3 1 -
+/index.php/2019/07/28/possible-danger-signs-on-best-admission-essay-writing-service-you-need-to-be-aware-of 2 -
+/index.php/2018/07 1 -
+/index.php/2019/06/23/the-forbidden-facts-regarding-what-is-an-element-in-chemistry-uncovered-by-an-expert-3 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 80
+46.150.255.126 12 12 146632 20201110030748
+138.246.253.15 9 9 0 20201114171944
+186.46.175.19 9 111 3523449 20201103232706
+200.24.136.61 8 8 28106 20201125230213
+181.211.103.246 7 49 1613520 20201123075314
+186.46.227.183 6 77 2616385 20201102110609
+190.152.131.211 6 6 21036 20201128200640
+51.77.142.166 5 16 128187 20201106225145
+138.246.253.24 5 5 0 20201124135945
+190.152.237.5 4 4 20985 20201110104034
+190.152.131.202 3 37 1174483 20201102174440
+190.63.239.66 3 3 19888 20201118145805
+181.188.200.186 3 37 1174483 20201103154123
+186.46.173.75 3 37 1174485 20201104124300
+186.69.72.216 3 3 15498 20201124092552
+45.224.150.247 3 38 5798 20201129185702
+186.46.173.2 3 37 1174485 20201104061653
+186.46.226.9 3 3 10482 20201123071113
+209.99.129.94 2 2 24154 20201122201856
+186.46.172.33 2 2 6976 20201126162020
+45.57.254.217 2 2 11148 20201115231849
+193.56.28.111 2 2 2696 20201107083601
+186.47.136.63 2 2 6922 20201115121347
+45.189.56.8 2 2 6978 20201123064833
+104.168.56.132 2 2 24153 20201130193434
+45.4.90.250 0 1 122928 
+181.199.58.32 0 7 1746248 
+181.211.32.253 0 3 770294 
+181.113.146.223 0 1 64646 
+200.125.244.53 0 12 2313018 
+13.66.139.44 0 1 580 
+181.199.51.236 0 1 290367 
+131.196.9.178 0 7 1746248 
+167.71.165.193 1 1 37909 20201106190914
+186.46.227.91 0 1 272230 
+186.46.216.186 0 1 25155 
+167.71.186.37 1 1 25504 20201106212334
+181.198.88.130 0 3 197305 
+181.211.128.75 0 1 160966 
+45.228.180.3 0 1 49222 
+45.224.152.75 0 1 234534 
+45.189.56.136 0 1 267420 
+190.111.82.237 0 1 272230 
+201.183.162.85 0 1 272230 
+190.57.173.14 0 3 123599 
+157.100.56.50 0 1 148968 
+181.188.215.77 0 2 492805 
+181.188.201.130 0 2 477844 
+186.178.114.152 0 1 25155 
+178.159.37.157 1 1 5793 20201122004808
+200.125.231.61 0 9 1823394 
+179.49.54.241 0 3 752398 
+13.66.139.149 0 1 7875 
+186.46.174.249 0 1 148968 
+217.20.113.232 1 1 5879 20201104095859
+167.250.180.5 0 1 123116 
+190.152.200.87 0 1 49222 
+146.120.204.129 1 1 25283 20201125041609
+181.198.42.171 0 2 506342 
+45.189.56.70 2 2 10340 20201118214410
+200.7.246.18 2 2 6890 20201124151037
+45.186.6.28 0 1 259142 
+45.224.150.3 0 2 511152 
+113.31.115.156 1 1 5885 20201101052406
+181.199.43.99 0 1 290367 
+85.50.101.76 0 1 434770 
+181.198.42.195 0 1 434770 
+190.63.150.244 0 2 98444 
+190.152.236.215 0 3 707539 
+146.120.204.82 1 1 25281 20201122152749
+190.152.128.132 0 3 123599 
+5.253.19.9 2 2 11150 20201106100533
+45.70.197.146 0 1 49222 
+172.245.129.124 2 2 24154 20201122044429
+186.101.158.56 0 1 49222 
+104.131.107.212 1 1 25305 20201106173916
+190.63.119.197 2 2 686 20201104171246
+45.70.57.35 0 1 259142 
+104.131.187.239 1 1 37921 20201106184817
+146.120.204.26 1 1 25505 20201112171732
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20201101 2 9 1753481 2
+20201102 9 114 3790868 3
+20201103 12 152 5669452 4
+20201104 9 81 3375353 4
+20201105 3 6 927575 3
+20201106 12 26 502960 7
+20201107 2 3 50570 2
+20201109 0 1 122928 0
+20201110 22 66 2902169 3
+20201111 0 20 4084421 0
+20201112 2 5 149104 2
+20201113 2 4 186121 2
+20201114 1 2 272230 1
+20201115 4 6 529222 2
+20201117 0 2 442645 0
+20201118 5 5 30228 2
+20201119 0 9 542276 0
+20201121 0 2 439335 0
+20201122 6 15 1902776 4
+20201123 8 12 436769 5
+20201124 8 8 22388 4
+20201125 9 10 102611 2
+20201126 2 2 6976 1
+20201127 0 2 149548 0
+20201128 6 6 21036 1
+20201129 3 41 784370 1
+20201130 2 5 709678 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+2mn-5mn 1
+0s-30s 52
+30mn-1h 1
+5mn-15mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 33
+/ 46 355628 40 24
+/front/fonts/Simple-Line-Icons.woff 11 590594 0 9
+/front/fonts/ionicons.ttf 11 1099640 0 1
+/turnos 10 52066 3 3
+/noticia/epmc-aplica-la-normativa-legal-en-taxis-de-la-provincia 3 55083 0 3
+/sistema-turnos/30156 3 10605 0 1
+/sistema-turnos/28817 3 10482 1 1
+/sistema-turnos/30155 3 10431 1 0
+/turnero/pujili 3 19888 1 1
+/login 2 2696 2 2
+/sistema-turnos/29758 2 7026 1 0
+/cpanel 2 25003 2 1
+/sistema-turnos/29941 2 6976 1 1
+/autodiscover/autodiscover.xml 2 686 1 1
+/noticia/salcedo-ahora-cuenta-con-servicio-de-transporte-diferenciado 2 10540 0 2
+/sistema-turnos/29761 2 7040 0 1
+/sistema-turnos/29760 2 6958 0 0
+/sistema-turnos/29759 2 7082 0 0
+/sistema-turnos/27231 2 6922 1 1
+/sistema-turnos/28805 2 6978 1 1
+/sistema-turnos/29459 2 6890 1 1
+/admin/index.php 1 12227 0 0
+/admin.php 1 12221 0 0
+/wp-login.php 1 12224 0 0
+/blog/ 1 12221 0 0
+/user/ 1 12214 0 0
+/admin/ 1 12216 0 0
+/manager/ 1 12218 0 1
+/administrator/ 1 12215 0 0
+/user/login/ 1 12220 0 0
+/blog/wp-login.php 1 12222 0 0
+/consultas 1 4282 0 1
+/admin/users/login_do/ 1 12224 0 0
+END_SIDER

@@ -1,0 +1,4712 @@
+# Webalizer V2.23-08 Incremental Data - 12/07/2023 06:44:26
+2023 12 7 6 44 26
+28126 21607 786 654 220 194 4255198288 8543 1008 0
+34 96 1625 1 7
+5523 4428 938465866 208 1746 171
+1671 1440 287277651 126 323 87
+1479 1072 219683664 107 367 100
+8008 6031 1167825030 216 2407 231
+4935 3802 707784550 196 1540 192
+6305 4653 905271196 212 2110 201
+205 181 28890331 34 50 26
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+448 334 91759756 113
+212 165 20973121 93
+93 77 4860411 33
+347 289 48523410 97
+346 283 50016006 110
+117 93 5883852 56
+574 403 100789949 222
+2146 1551 318129925 655
+2643 1856 338458580 897
+2757 2168 445014040 801
+4120 3098 646105792 1319
+3689 3008 701840296 950
+2343 1809 346245402 714
+1426 1122 197898112 481
+1317 1053 197701447 339
+1162 924 153057022 328
+471 313 46182623 218
+804 685 125211094 197
+315 250 26267693 125
+423 321 49313932 146
+826 639 107591767 264
+415 318 45928764 132
+756 560 125009658 183
+376 288 62435636 70
+20
+0
+0
+21607
+0
+0
+0
+0
+0
+356
+0
+136
+1293
+0
+915
+0
+0
+0
+0
+0
+71
+1072
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2652
+0
+0
+0
+0
+0
+# -urls- 
+/validar_cedula/0940806102
+0 1 7290823357923932211 24 0 0
+/uploads/lotaip_1602516592.pdf
+0 1 8391173023188647936 276784 0 0
+/validar_cedula/1715220677
+0 1 26168800 24 0 0
+/turno/2260000122620901
+0 1 26178432 7013 0 0
+/turno/2260000122620896
+0 1 26104160 7004 0 0
+/turno/2260000122620863
+0 1 3472329382972174637 7031 0 0
+/uploads/lotaip_1670334739.pdf
+0 1 0 88404 0 0
+/sistema-turnos/0502128515-2-La Maná
+0 1 26203856 5583 0 0
+/validar_cedula/0503347452
+0 1 0 24 0 0
+/back/assets/plugins/jquery-scrollbar/jquery.scrollbar.css
+0 187 0 543905 0 0
+/front/fonts/Simple-Line-Icons.woff
+0 199 0 11654488 0 0
+/turno/2260000122620866
+0 1 0 7011 0 0
+/back/assets/plugins/bootstrap-select2/select2.min.js
+0 187 0 2938106 0 0
+/uploads/lotaip_1680185041.pdf
+0 1 26230848 201231 0 0
+/uploads/lotaip_1655827777.pdf
+0 1 26214480 207045 0 0
+/uploads/lotaip_1625667226.pdf
+0 1 0 117674 0 0
+/turno/2260000122620900
+0 1 26173376 7076 0 0
+/favicon-16x16.png
+0 32 0 39520 0 0
+/validar_placa/HT875H
+0 1 0 22 0 0
+/turno/2260000122620848
+0 1 0 7063 0 0
+/back/assets/plugins/jquery-block-ui/jqueryblockui.min.js
+0 190 0 593137 0 0
+/uploads/lotaip_1630945341.pdf
+0 1 0 406950 0 0
+/validar_cedula/0550114656
+0 1 0 24 0 0
+/turno/2260000122620895
+0 1 26103584 7050 0 0
+/documentos/estados-financieros
+0 6 0 24370 3 0
+/uploads/lotaip_1597342995.pdf
+0 1 0 199922 0 0
+/back/assets/plugins/font-awesome/css/font-awesome.css
+0 23 0 148626 0 0
+/validar_placa/HBE2451
+0 1 0 22 0 0
+/uploads/lotaip_1648677768.pdf
+0 1 0 95153 0 0
+/turno/2260000122620872
+0 1 0 7044 0 0
+/validar_placa/PNW0941
+0 1 26103936 22 0 0
+/uploads/lotaip_1588899499.pdf
+0 1 0 228302 0 0
+/uploads/lotaip_1597342469.pdf
+0 1 0 215318 0 0
+/front/js/plugins/revslider.min.js
+0 268 0 15128568 0 0
+/requisitos/f_1621605230.jpg
+0 281 0 334975909 0 0
+/uploads/lotaip_1593699342.pdf
+0 3 0 610732 0 0
+/validar_placa/IC662H
+0 1 0 22 1 0
+/front/css/cubeportfolio.min.css
+0 265 0 3142331 0 0
+/front/js/plugins/counterup.min.js
+0 263 3543824074200200752 142680 0 0
+/uploads/lotaip_1680185028.pdf
+0 1 111137205846328 201231 0 0
+/sistema-turnos/0550286918-11-La Maná
+0 1 3977855181280837888 5658 0 0
+/uploads/F-011 Formulario de Cambio de Vehículo.pdf
+0 8 109286222163314 783824 0 0
+/uploads/lotaip_1587822428.pdf
+0 1 3472329382972174637 207543 0 0
+/back/webarch/img/icon/noti-cross.png
+0 1 3688780384410086960 3385 0 0
+/validar_placa/mcr0007
+0 1 3472607602329846016 22 0 0
+/turno/2260000122620865
+0 1 8241996831113899888 7013 0 0
+/front/css/owl.carousel.css
+0 269 0 333620 0 0
+/uploads/lotaip_1686148933.pdf
+0 1 0 0 0 0
+/sistema-turnos/1204843286-14-La Maná
+0 1 0 5579 0 0
+/uploads/lotaip_1648648932.pdf
+0 2 0 183340 0 0
+/uploads/lotaip_1593702656.pdf
+0 2 0 394376 0 0
+/turno/2260000122620915
+0 1 26218416 7071 0 0
+/turno/2260000122620898
+0 1 26167728 7084 0 0
+/turno/2260000122620914
+0 1 26217824 7037 0 0
+/perfil
+0 114 0 874344 9 0
+/validar_placa/JP404S
+0 1 0 22 0 0
+/back/webarch/img/icon/status2x.png
+0 1 0 5397 0 0
+/validar_placa/HC074B
+0 1 26218304 22 0 0
+/sistema-turnos/1305676973-23-La Maná
+0 1 26208144 5520 0 0
+/uploads/lotaip_1597341806.pdf
+0 2 0 346922 0 0
+/uploads/lotaip_1645115585.pdf
+0 1 26214608 187148 0 0
+/back/webarch/img/icon/top-trayx2.png
+0 1 0 15527 0 0
+/uploads/lotaip_1646401710.pdf
+0 1 26232304 173134 0 0
+/uploads/lotaip_1593699377.pdf
+0 1 0 186477 0 0
+/sistema-turnos/1201979133-5-La Maná
+0 1 26039584 5531 0 0
+/sistema-turnos/0940806102-6-La Maná
+0 1 0 5561 0 0
+/lotaip
+0 16 0 1109404 10 6
+/validar_cedula/0504840877
+0 1 26215312 24 0 0
+/register
+0 85 0 156373 29 17
+/requisitos/f_1584023379.jpg
+0 1 0 258722 0 0
+/validar_cedula/1802742468
+0 1 0 24 0 0
+/uploads/lotaip_1618316513.pdf
+0 1 26226816 422345 0 0
+/validar_placa/HJ136D
+0 1 26139760 22 0 0
+/sistema-turnos/1201979133-11-La Maná
+0 1 26167840 5757 0 0
+/uploads/lotaip_1587822362.pdf
+0 1 0 211064 0 0
+/uploads/lotaip_1593700350.pdf
+0 1 0 199605 0 0
+/turno/2260000122620871
+0 1 0 7067 0 0
+/turno/2260000122620864
+0 1 0 7038 0 0
+/uploads/lotaip_1617119045.xls
+0 1 0 0 0 0
+/turno/2260000122620897
+0 1 26139840 7072 0 0
+/turno/2260000122620847
+0 1 0 7076 0 0
+/uploads/lotaip_1642449795.pdf
+0 1 0 201975 0 0
+/android-icon-192x192.png
+0 45 0 1242270 0 0
+/validar_cedula/0501902001
+0 1 0 24 0 0
+/uploads/lotaip_1639496224.pdf
+0 1 0 0 0 0
+/uploads/F-005 Formulario de Renovación de Contrato de Operación.pdf
+0 8 3618411636038118961 305888 0 0
+/uploads/lotaip_1636142016.pdf
+0 1 7146777697587525998 276651 0 0
+/front/css/colors/red.css
+0 301 7953689421418881396 286426 0 0
+/validar_cedula/FREDDY QUISHPE
+0 1 28410059809698096 25 0 0
+/front/fonts/ionicons.woff
+0 6 28360448424359737 404408 0 0
+/validar_cedula/0502229586
+0 1 28364811440044085 24 0 0
+/uploads/lotaip_1667830405.xls
+0 1 7881631836155506797 0 0 0
+/turno/2260000122620892
+0 1 26044432 7097 0 0
+/uploads/lotaip_1636143187.pdf
+0 1 25782656 202914 0 0
+/back/assets/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css
+0 271 0 546304 0 0
+/team/WILLIAN_NARANJO.jpg
+0 1 0 112422 0 0
+/uploads/lotaip_1588949345.pdf
+0 1 0 443212 0 0
+/turno/2260000122620885
+0 1 0 7067 0 0
+/turno/2260000122620877
+0 1 0 7032 0 0
+/uploads/lotaip_1697202689.pdf
+0 2 0 248724 0 0
+/uploads/lotaip_1649105455.pdf
+0 1 0 118603 0 0
+/placas
+0 4 0 456 0 0
+/front/js/plugins/smoothscroll.min.js
+0 269 0 512520 0 0
+/uploads/lotaip_1673899608.pdf
+0 1 0 183608 0 0
+/validar_placa/GLJ0819
+0 1 0 22 1 0
+/uploads/lotaip_1593700431.pdf
+0 1 0 191244 0 0
+/uploads/lotaip_1642449860.pdf
+0 1 0 82659 0 0
+/sistema-turnos/1803411923-15-La Maná
+0 1 0 5528 0 0
+/uploads/lotaip_1606149746.xls
+0 1 26224480 15126 0 0
+/uploads/lotaip_1633961742.pdf
+0 1 0 173136 0 0
+/turno/2260000122620870
+0 1 0 7026 0 0
+/turno/2260000122620879
+0 1 0 7046 0 0
+/requisitos/f_1621612706.jpg
+0 260 0 293604844 0 0
+/uploads/lotaip_1673899630.pdf
+0 1 26219984 173153 0 0
+/uploads/lotaip_1686235650.pdf
+0 1 0 203354 0 0
+/uploads/lotaip_1620160957.pdf
+0 2 0 367196 0 0
+/uploads/lotaip_1648586519.pdf
+0 1 26230976 101670 0 0
+/validar_placa/JD702R
+0 1 26217712 22 0 0
+/validar_placa/PBQ9163
+0 1 0 22 0 0
+/validar_placa/IG486I
+0 1 0 22 0 0
+/uploads/lotaip_1617227718.pdf
+0 1 0 174641 0 0
+/uploads/lotaip_1652368495.xls
+0 1 26217072 7844 0 0
+/turno/2260000122620873
+0 1 0 7044 0 0
+/uploads/lotaip_1591819605.pdf
+0 1 0 259231 0 0
+/uploads/lotaip_1652191623.pdf
+0 3 3329061934614970368 528904 0 0
+/back/assets/plugins/sweetalert/sweetalert.css
+0 192 3543824044152206384 695640 0 0
+/uploads/lotaip_1696600438.xls
+0 1 3616726050219241729 0 0 0
+/front/img/backgrounds/bg-shortcodes.jpg
+0 244 25956 34262640 0 0
+/front/img/news/f_1584028909.jpeg
+0 1 25756 64646 0 0
+/uploads/f_1583937861.pdf
+0 2 25757 745834 0 0
+/uploads/lotaip_1609963556.pdf
+0 1 1873833015851365169 184633 0 0
+/back/webarch/js/webarch.js
+0 187 0 758102 0 0
+/uploads/lotaip_1583270406.pdf
+0 1 0 194208 0 0
+/uploads/lotaip_1605104543.xls
+0 1 25816896 6690 0 0
+/uploads/F-010 Formulario de Cambio de Socio y Vehículo.pdf
+0 8 0 672272 0 0
+/front/img/backgrounds/bg-2.jpg
+0 234 0 38546812 0 0
+/uploads/lotaip_1665757328.pdf
+0 1 26209184 183629 0 0
+/turno/2260000122620854
+0 1 0 7010 0 0
+/back/assets/plugins/sweetalert/sweetalert.min.js
+0 185 0 952512 0 0
+/uploads/lotaip_1649105106.pdf
+0 1 0 428029 0 0
+/validar_cedula/0503210908
+0 1 0 24 0 0
+/uploads/lotaip_1617227491.pdf
+0 1 0 183094 0 0
+/validar_placa/hv010a
+0 1 0 22 0 0
+/validar_cedula/0603018086
+0 3 0 72 0 0
+/sistema-turnos/1715220677-16-La Maná
+0 1 26196768 5511 0 0
+/uploads/F-006 Formulario de Incremento de Cupo.pdf
+0 9 0 358839 0 0
+/front/img/backgrounds/bg-4.jpg
+0 85 0 13923840 0 0
+/validar_placa/PDE8654
+0 1 0 22 0 0
+/turno/2260000122620905
+0 1 26198320 7108 0 0
+/validar_placa/PQA0158
+0 1 26167616 22 1 0
+/turno/2260000122620851
+0 1 0 7017 0 0
+/noticia/calendario-de-matriculacion-vehicular-2021
+0 15 0 72486 9 4
+/validar_placa/PCM0619
+0 1 26200064 22 0 0
+/uploads/lotaip_1617049959.pdf
+0 2 0 829238 0 0
+/front/js/plugins/waypoints.min.js
+0 264 0 645905 0 0
+/uploads/lotaip_1588949133.pdf
+0 1 0 443128 0 0
+/front/js/plugins/owlcarousel.min.js
+0 264 0 1642550 0 0
+/favicon-32x32.png
+0 41 0 91881 0 0
+/documentos/pac
+0 7 0 28853 4 2
+/back/assets/img/logo2x.png
+0 12 0 74088 0 0
+/uploads/lotaip_1657814482.pdf
+0 1 26167104 183980 0 0
+/formularios
+0 20 0 120510 13 9
+/uploads/lotaip_1586823425.pdf
+0 1 0 207387 0 0
+/uploads/lotaip_1603209778.pdf
+0 1 0 193739 0 0
+/sistema-turnos/0503416703-19-La Maná
+0 2 0 11056 1 0
+/front/img/assets/gridtile.png
+0 87 0 80238 0 0
+/sistema-turnos/0503058208-6-La Maná
+0 1 0 5581 0 0
+/back/assets/img/profiles/avatar_small2x.jpg
+0 13 0 501163 0 0
+/front/img/slider/user_1612282772.jpg
+0 2 0 3341724 0 0
+/validar_placa/TBC1509
+0 1 0 22 0 0
+/sistema-turnos/0550286918-16-La Maná
+0 1 0 6269 0 0
+/uploads/f_1627310654.pdf
+0 2 0 620478 0 0
+/uploads/lotaip_1586824624.pdf
+0 1 26231232 291191 0 0
+/webmail
+0 2 0 25006 1 1
+/uploads/lotaip_1617032804.xls
+0 1 0 48128 0 0
+/requisitos/f_1584023588.jpg
+0 1 26196192 258722 0 0
+/uploads/F-007 Formulario para Habilitación de Vehículo.pdf
+0 11 0 1107790 0 0
+/uploads/lotaip_1617049745.pdf
+0 2 0 829462 0 0
+/uploads/lotaip_1586823287.pdf
+0 1 0 207265 0 0
+/validar_placa/GNW0977
+0 2 0 44 0 0
+/validar_cedula/0504391103
+0 1 0 24 0 0
+/uploads/lotaip_1588899188.pdf
+0 2 0 455650 0 0
+/password/reset
+0 5 0 6705 0 0
+/uploads/lotaip_1596646951.pdf
+0 1 0 183771 0 0
+/validar_cedula/0504259128
+0 1 0 24 0 0
+/uploads/lotaip_1646401690.pdf
+0 1 0 223643 0 0
+/validar_placa/PNU0340
+0 1 26103472 22 0 0
+/requisitos/f_1621606817.jpg
+0 295 0 408894605 0 0
+/uploads/lotaip_1648646180.pdf
+0 1 0 405679 0 0
+/uploads/lotaip_1597342311.pdf
+0 2 0 368172 0 0
+/uploads/lotaip_1610998746.xls
+0 1 26225920 6684 0 0
+/uploads/lotaip_1683045295.pdf
+0 1 0 173151 0 0
+/uploads/lotaip_1617227697.pdf
+0 1 0 174644 0 0
+/turno/2260000122620862
+0 1 0 7028 0 0
+/turnero/lamana
+0 376 0 3055268 13 1
+/uploads/lotaip_1597342035.pdf
+0 2 0 346928 0 0
+/uploads/lotaip_1636142616.pdf
+0 1 0 183672 0 0
+/uploads/lotaip_1597339908.pdf
+0 2 0 376210 0 0
+/uploads/f_1583937797.pdf
+0 1 0 1908991 0 0
+/back/assets/plugins/bootstrapv3/css/bootstrap.min.css
+0 192 0 3679095 0 0
+/back/webarch/img/pullup.png
+0 1 0 3215 0 0
+/uploads/lotaip_1618316976.pdf
+0 1 25955 420973 0 0
+/back/assets/plugins/jquery/jquery-1.11.3.min.js
+0 193 3530822107858468864 6191754 0 0
+/uploads/lotaip_1648676009.pdf
+0 1 3760000141980742454 421244 0 0
+/uploads/lotaip_1648585422.pdf
+0 1 26214736 182166 0 0
+/sistema-turnos/1201979133-12-La Maná
+0 1 26168432 5630 0 0
+/validar_cedula/0502065832
+0 1 99 24 0 0
+/validar_placa/TBV0658
+0 1 26216208 22 0 0
+/sistema-turnos/0504047077-7-La Maná
+0 1 26089792 5613 0 0
+/front/img/backgrounds/bg-7.jpg
+0 1 3544669357298679808 53913 0 0
+/back/assets/img/profiles/avatar2x.jpg
+0 13 7434726577317770355 883350 0 0
+/uploads/lotaip_1597342248.pdf
+0 2 0 367540 0 0
+/uploads/lotaip_1597342353.xls
+0 1 7521981565278317665 48128 0 0
+/front/js/plugins/parallax.min.js
+0 279 0 140348 0 0
+/uploads/lotaip_1586823502.pdf
+0 1 0 240603 0 0
+/validar_placa/POJ0623
+0 1 0 22 0 0
+/uploads/lotaip_1667232671.pdf
+0 1 26223696 183629 0 0
+/uploads/lotaip_1593702580.pdf
+0 1 0 180757 0 0
+/validar_placa/jbd010
+0 1 26044112 22 0 0
+/turno/2260000122620908
+0 1 26204448 7057 0 0
+/requisitos/f_1621612947.jpg
+0 251 0 256450268 0 0
+/uploads/lotaip_1625862972.pdf
+0 4 0 238059 0 0
+/sistema-turnos/0503058208-7-La Maná
+0 1 0 5568 0 0
+/uploads/lotaip_1586823802.pdf
+0 1 0 240736 0 0
+/sistema-turnos/0550286918-9-La Maná
+0 2 0 11092 0 0
+/uploads/f_1654036500.pdf
+0 1 0 0 0 0
+/validar_placa/PVR0260
+0 1 0 22 0 0
+/validar_placa/gtf7592
+0 1 0 22 0 0
+/back/webarch/img/icon/portlet-tray.png
+0 1 0 4771 0 0
+/validar_placa/OBW0319
+0 1 0 22 0 0
+/sistema-turnos/1305676973-20-La Maná
+0 1 26204560 5515 0 0
+/sistema-turnos/0504092065-24-La Maná
+0 1 0 5725 0 0
+/validar_placa/GPL0026
+0 1 0 22 0 0
+/validar_placa/JA692Y
+0 1 0 22 0 0
+/team/f_1622149331.jpeg
+0 1 0 122619 0 0
+/uploads/lotaip_1618317757.pdf
+0 1 26225024 417868 0 0
+/uploads/lotaip_1593699410.pdf
+0 1 26232064 194024 0 0
+/stats_calendario/2023-12-08
+0 3 26044304 678 0 0
+/email/verify
+0 82 0 97731 0 4
+/turno/2260000122620860
+0 1 0 7074 0 0
+/team/JAVIER_VELASQUEZ.jpg
+0 2 0 381492 0 0
+/uploads/lotaip_1593701323.pdf
+0 1 0 198573 0 0
+/sistema-turnos/0504092065-23-La Maná
+0 1 0 5454 0 0
+/turno/2260000122620849
+0 1 0 7026 0 0
+/uploads/F-003 Formulario de Renovación Permiso de Operación.pdf
+0 10 0 309248 0 0
+/requisitos/f_1622472781.jpg
+0 255 0 328336168 0 0
+/favicon.ico
+0 198 0 123390 0 0
+/uploads/lotaip_1617047188.pdf
+0 2 0 835841 0 0
+/uploads/F-001 Formulario de Informe Previo de Constitución Jurídica.xls.pdf
+0 10 0 372390 0 0
+/uploads/lotaip_1597342278.pdf
+0 1 0 183797 0 0
+/uploads/lotaip_1652191760.pdf
+0 1 26210496 158893 0 0
+/uploads/lotaip_1617227876.pdf
+0 1 0 174642 0 0
+/front/js/plugins/moderniz.min.js
+0 274 0 1593400 0 0
+/sistema-turnos/0940806102-3-La Maná
+0 1 0 5577 0 0
+/uploads/lotaip_1617227550.pdf
+0 1 26211056 183088 0 0
+/back/assets/plugins/inputmask/jquery.inputmask.min.js
+0 236 0 6810738 0 0
+/uploads/f_1627672820.pdf
+0 1 0 542756 0 0
+/uploads/lotaip_1642449759.pdf
+0 1 0 183591 0 0
+/front/img/backgrounds/bg-1.jpg
+0 85 0 14177184 0 0
+/validar_placa/pia0759
+0 1 25769152 22 0 0
+/sistema-turnos/0504092065-22-La Maná
+0 1 0 5050 0 0
+/requisitos/f_1621612821.jpg
+0 273 0 328270799 0 0
+/validar_cedula/0503416703
+0 1 0 24 0 0
+/sistema-turnos/1715220677-19-La Maná
+0 1 26200288 5602 0 0
+/front/img/assets/cbp-loading-popup.gif
+0 1 0 4178 0 0
+/js/app.js
+0 148 0 17977654 0 0
+/sistema-turnos/0504092065-20-La Maná
+0 1 0 5509 0 0
+/uploads/f_1634737428.pdf
+0 2 0 0 0 0
+/validar_placa/EBF0630
+0 1 0 22 0 0
+/sistema-turnos/0502065832-3-La Maná
+0 1 0 5609 0 0
+/turno/2260000122620882
+0 1 0 7054 0 0
+/sistema-turnos/0503748287-26-La Maná
+0 1 26218528 5565 0 0
+/sistema-turnos/1305676973-22-La Maná
+0 1 26206512 5641 0 0
+/front/img/portfolio/buttons/popup-next-dark.png
+0 1 0 1475 0 0
+/uploads/lotaip_1618316494.pdf
+0 1 0 422345 0 0
+/validar_cedula/0504738485
+0 1 26103344 24 0 0
+/uploads/lotaip_1642449898.pdf
+0 1 26200656 52145 0 0
+/uploads/lotaip_1597342498.pdf
+0 1 0 214706 0 0
+/validar_cedula/0503109258
+0 2 26202160 48 0 0
+/front/css/simple-line-icons.css
+0 270 0 588432 0 0
+/uploads/lotaip_1617227510.pdf
+0 2 0 366188 0 0
+/turno/2260000122620883
+0 1 0 7056 0 0
+/validar_placa/GLE0868
+0 1 26206064 22 0 0
+/sistema-turnos/0502065832-8-La Maná
+0 1 0 5124 0 0
+/front/img/portfolio/buttons/popup-close-light.png
+0 1 0 1283 0 0
+/uploads/lotaip_1587821351.pdf
+0 1 26195616 194394 0 0
+/validar_placa/hj568g
+0 1 0 22 0 0
+/turno/2260000122620891
+0 1 25769264 7044 0 0
+/uploads/lotaip_1649105146.pdf
+0 1 0 223797 0 0
+/uploads/lotaip_1618317818.pdf
+0 1 0 442753 0 0
+/documentos/alianza-estrategica
+0 4 3531103582835179520 16440 1 1
+/validar_cedula/1803488707
+0 1 0 24 0 0
+/validar_cedula/0550286918
+0 1 3275364201265394529 24 0 0
+/uploads/lotaip_1637593042.pdf
+0 1 4049068333141472304 138868 0 0
+/uploads/lotaip_1586823038.pdf
+0 1 25816768 207378 0 0
+/front/img/assets/cbp-loading.gif
+0 1 6648241 4275 0 0
+/uploads/lotaip_1649105516.pdf
+0 1 26230208 103548 0 0
+/sistema-turnos/0501497200-1-La Maná
+0 6 3328777161878353969 33354 0 0
+/back/assets/js/chat.js
+0 186 3832894736045139968 146733 0 0
+/turno/2260000122620902
+0 1 26187936 7043 0 0
+/uploads/lotaip_1655827573.pdf
+0 1 6917872303727325492 238047 0 0
+/team/f_1612807606.jpeg
+0 1 7308830241385047342 126732 0 0
+/turno/2260000122620909
+0 1 26205040 7037 0 0
+/uploads/lotaip_1597342167.pdf
+0 1 0 183777 0 0
+/turno/2260000122620886
+0 1 0 7052 0 0
+/sistema-turnos/0550286918-18-La Maná
+0 1 0 5495 0 0
+/uploads/lotaip_1593702560.pdf
+0 1 0 203808 0 0
+/front/img/assets/cbp-sprite.png
+0 1 0 3931 0 0
+/uploads/lotaip_1597341774.pdf
+0 1 0 173462 0 0
+/requsitos
+0 27 0 154841 11 7
+/uploads/F-004 Formulario de Concesion de Contrato de Operación.pdf
+0 9 0 350037 0 0
+/uploads/lotaip_1606149635.xls
+0 1 0 15130 0 0
+/uploads/lotaip_1617227329.pdf
+0 1 26195744 183088 0 0
+/back/assets/plugins/jquery-validation/js/jquery.validate.min.js
+0 184 0 1182650 0 0
+/sistema-turnos/1204009391-1-La Maná
+0 1 26044544 5567 0 0
+/back/webarch/img/icon/status.png
+0 1 0 3985 0 0
+/uploads/lotaip_1596646836.pdf
+0 2 0 346930 0 0
+/requisitos/f_1621612622.jpg
+0 268 0 303593311 0 0
+/uploads/lotaip_1649104829.pdf
+0 1 26214352 160600 0 0
+/requisitos/f_1621606748.jpg
+0 255 0 308777782 0 0
+/validar_cedula/0503954190
+0 1 0 24 0 0
+/requisitos/f_1584023401.jpg
+0 2 0 510174 0 0
+/uploads/lotaip_1617227370.pdf
+0 2 0 366174 0 0
+/turno/2260000122620912
+0 1 26209424 7076 0 0
+/turno/2260000122620907
+0 1 26203744 7046 0 0
+/validar_placa/GRY8160
+0 1 26168208 22 0 0
+/validar_placa/POU0778
+0 1 0 22 0 0
+/uploads/lotaip_1597342197.pdf
+0 2 0 367368 0 0
+/apple-icon-76x76.png
+0 1 0 6881 0 0
+/requisitos/f_1621606792.jpg
+0 268 0 398801506 0 0
+/uploads/lotaip_1597342966.pdf
+0 1 0 199856 0 0
+/uploads/lotaip_1583439974.pdf
+0 1 0 291191 0 0
+/validar_cedula/0503058208
+0 1 0 24 0 0
+/sistema-turnos/0940806102-4-La Maná
+0 1 0 5457 0 0
+/front/img/mascotas/3.png
+0 87 0 10448880 0 0
+/turno/2260000122620899
+0 1 26168320 7039 0 0
+/uploads/f_1657635850.pdf
+0 1 0 0 0 0
+/validar_placa/PDS6072
+0 1 26088992 22 0 0
+/sistema-turnos/0504840877-3-La Maná
+0 1 26216432 5588 0 0
+/front/img/backgrounds/bg-8.jpg
+0 1 0 57305 0 0
+/uploads/lotaip_1625234087.pdf
+0 1 0 150376 0 0
+/back/webarch/img/icon/top-tray.png
+0 1 0 5115 0 0
+/uploads/f_1593186788.pdf
+0 2 0 13484867 0 0
+/turno/2260000122620880
+0 1 0 7038 0 0
+/validar_placa/RCB0469
+0 1 26173264 22 0 0
+/front/js/plugins/masonry.js
+0 9 0 70875 0 0
+/uploads/lotaip_1588899434.pdf
+0 1 0 228308 0 0
+/turno/2260000122620884
+0 1 0 7050 0 0
+/validar_cedula/0503537284
+0 1 0 24 0 0
+/back/assets/plugins/animate.min.css
+0 188 0 699565 0 0
+/validar_cedula/0502364052
+0 1 26202720 24 0 0
+/back/webarch/img/icon/noti-cross-2x.png
+0 1 0 4251 0 0
+/uploads/lotaip_1593700454.pdf
+0 1 0 197195 0 0
+/front/js/plugins/wow.min.js
+0 261 0 295484 0 0
+/front/img/portfolio/buttons/popup-next-light.png
+0 1 0 1181 0 0
+/turno/2260000122620913
+0 1 26216320 7088 0 0
+/uploads/lotaip_1587821683.pdf
+0 1 0 194493 0 0
+/validar_cedula/1201979133
+0 1 25769024 24 0 0
+/uploads/lotaip_1653424276.pdf
+0 1 26221264 157997 0 0
+/turno/2260000122620888
+0 1 0 7063 0 0
+/uploads/lotaip_1648586701.pdf
+0 1 0 112151 0 0
+/uploads/lotaip_1649881579.pdf
+0 2 0 262107 0 0
+/front/img/assets/logo-blanco.png
+0 301 0 14175936 0 0
+/uploads/lotaip_1627330305.xls
+0 1 0 0 0 0
+/validar_cedula/0501887061
+0 2 0 48 0 0
+/uploads/F-012 Formulario Cambio de Socio.pdf
+0 9 0 1151946 0 0
+/requisitos/f_1584023297.jpg
+0 1 0 259142 0 0
+/favicon-96x96.png
+0 11 0 105380 0 0
+/uploads/lotaip_1648501193.pdf
+0 1 0 232013 0 0
+/uploads/lotaip_1636141857.pdf
+0 2 0 346270 0 0
+/sistema-turnos/1204843286-2-La Maná
+0 1 0 5591 0 0
+/turno/2260000122620910
+0 1 26206400 7011 0 0
+/sistema-turnos/0503416703-5-La Maná
+0 1 0 5500 0 0
+/team/GEOVANNY_PACHECO-min.jpg
+0 5 0 1908150 0 0
+/uploads/lotaip_1646938648.pdf
+0 1 0 125248 0 0
+/validar_placa/IJ218U
+0 1 8386110624415446318 22 0 0
+/uploads/lotaip_1632750368.pdf
+0 1 0 124517 0 0
+/documentos/rendicion-de-cuentas
+0 15 3328776062366921472 59258 11 5
+/uploads/lotaip_1627330189.xls
+0 1 3906926557108633600 67584 0 0
+/back/assets/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js
+0 235 86751665859276342 3300193 0 0
+/uploads/lotaip_1596647498.pdf
+0 1 7886479342403740462 199848 0 0
+/validar_placa/ho291c
+0 1 3329622690615146289 22 0 0
+/login
+0 191 8387231026530050917 272279 38 43
+/uploads/lotaip_1627330261.xls
+0 1 26210240 67584 0 0
+/back/assets/plugins/jquery-scrollbar/jquery.scrollbar.min.js
+0 189 0 705600 0 0
+/uploads/lotaip_1654523433.pdf
+0 1 0 178683 0 0
+/sistema-turnos/0940806102-7-La Maná
+0 1 0 5624 0 0
+/uploads/lotaip_1602533204.pdf
+0 1 0 183763 0 0
+/uploads/lotaip_1618316727.pdf
+0 1 0 420443 0 0
+/uploads/lotaip_1670334174.pdf
+0 1 26221520 0 0 0
+/uploads/f_1622126830.pdf
+0 1 0 0 0 0
+/uploads/F-008 Formulario para Deshabilitacion de Vehículo.pdf
+0 8 0 1110648 0 0
+/uploads/lotaip_1583440004.pdf
+0 1 0 291191 0 0
+/turno/2260000122620903
+0 1 26196656 7063 0 0
+/validar_placa/PJX0776
+0 1 26089456 22 0 0
+/uploads/f_1634068152.pdf
+0 1 0 0 0 0
+/uploads/f_1583937910.pdf
+0 1 25768800 2073242 0 0
+/validar_cedula/0502732621
+0 1 0 24 0 0
+/uploads/lotaip_1617227404.pdf
+0 1 26221008 183094 0 0
+/back/webarch/img/pullup2x.png
+0 1 0 4455 0 0
+/turnos
+0 268 0 1495717 113 37
+/uploads/lotaip_1645116422.pdf
+0 1 0 187919 0 0
+/front/css/style.css
+0 324 0 4279887 0 0
+/front/img/portfolio/buttons/popup-prev-light.png
+0 1 0 1212 0 0
+/sistema-turnos/0503416703-15-La Maná
+0 1 0 5638 0 0
+/team/DANIELA_KAROLYS-min.jpg
+0 1 0 160966 0 0
+/validar_cedula/0502128515
+0 1 26202848 24 0 0
+/turno/2260000122620887
+0 1 0 7062 0 0
+/front/img/backgrounds/bg-home-fullscreen.jpg
+0 1 0 61316 0 0
+/front/img/assets/logo-negro.png
+0 269 0 6464835 0 0
+/uploads/lotaip_1618316533.pdf
+0 1 0 422270 0 0
+/uploads/lotaip_1648501355.pdf
+0 2 0 346280 0 0
+/sistema-turnos/0504047077-6-La Maná
+0 1 26089216 5469 0 0
+/uploads/lotaip_1617047008.pdf
+0 1 0 404212 0 0
+/turno/2260000122620850
+0 1 0 7104 0 0
+/stats_calendario/2023-12-07
+0 28 0 8033 0 3
+/sistema-turnos/0503416703-17-La Maná
+0 1 0 5582 0 0
+/requisitos/f_1584023388.jpg
+0 1 0 404466 0 0
+/sistema-turnos/0502065832-12-La Maná
+0 1 0 5471 0 0
+/turno/2260000122620856
+0 1 0 7111 0 0
+/sistema-turnos/0504738485-8-La Maná
+0 1 26103696 5618 0 0
+/back/assets/plugins/pace/pace.min.js
+0 189 0 772920 0 0
+/uploads/lotaip_1591650840.pdf
+0 1 26192880 543545 0 0
+/validar_cedula/0504092065
+0 1 0 24 0 0
+/documentos/lotaip
+0 1 26212496 24416 0 1
+/validar_cedula/0501421218
+0 1 26088560 24 0 0
+/validar_placa/PDI5796
+0 1 26204928 22 0 0
+/uploads/lotaip_1636143471.pdf
+0 2 0 402462 0 0
+/sistema-turnos/0502180144-1-La Maná
+0 1 0 5784 0 0
+/uploads/lotaip_1636143032.pdf
+0 1 0 183615 0 0
+/requisitos/f_1621606855.jpg
+0 273 0 329500341 0 0
+/turno/2260000122620894
+0 1 26089680 7042 0 0
+/validar_cedula/1804201802
+0 1 0 24 0 0
+/validar_cedula/1204843286
+0 1 0 24 0 0
+/front/css/bootstrap.min.css
+0 275 0 5378550 0 0
+/turno/2260000122620855
+0 1 0 7022 0 0
+/uploads/f_1649342214.pdf
+0 1 0 203203 0 0
+/validar_placa/jbd0109
+0 1 26044192 22 0 0
+/uploads/lotaip_1649163980.pdf
+0 1 0 189223 0 0
+/uploads/lotaip_1683577865.pdf
+0 1 26213424 203100 0 0
+/turno/2260000122620876
+0 1 0 7007 0 0
+/uploads/lotaip_1618316763.pdf
+0 1 26221648 424474 0 0
+/sistema-turnos/1715220677-15-La Maná
+0 1 26188048 5625 0 0
+/uploads/lotaip_1597341999.pdf
+0 2 0 346934 0 0
+/stats_calendario/2023-12-05
+0 21 0 5848 0 1
+/uploads/lotaip_1593699543.pdf
+0 1 0 199482 0 0
+/uploads/lotaip_1597342220.pdf
+0 1 0 183797 0 0
+/validar_placa/TDI0779
+0 1 26197616 22 0 0
+/validar_cedula/1305676973
+0 1 26204096 24 0 0
+/sistema-turnos/0501882690-11-La Maná
+0 1 0 5626 0 0
+/validar_placa/CBF0363
+0 1 0 22 0 0
+/uploads/lotaip_1657814450.pdf
+0 1 26225536 202710 0 0
+/turno/2260000122620853
+0 1 0 7070 0 0
+/validar_placa/ib877h
+0 3 0 66 0 0
+/sistema-turnos/1204843286-3-La Maná
+0 1 0 5665 0 0
+/uploads/lotaip_1618317387.pdf
+0 1 0 419783 0 0
+/uploads/lotaip_1623183155.pdf
+0 1 0 197446 0 0
+/uploads/lotaip_1618316670.pdf
+0 2 0 867910 0 0
+/uploads/lotaip_1648561030.pdf
+0 1 0 191846 0 0
+/uploads/f_1583937879.pdf
+0 1 0 527314 0 0
+/sistema-turnos/1204009391-13-La Maná
+0 1 0 5788 0 0
+/uploads/lotaip_1648560936.pdf
+0 1 0 191846 0 0
+/validar_placa/IA127C
+0 1 26198208 22 0 0
+/uploads/lotaip_1620160944.pdf
+0 1 26225152 173144 0 0
+/uploads/lotaip_1639496147.pdf
+0 1 0 183595 0 0
+/uploads/lotaip_1617227091.pdf
+0 1 6629635321932689458 204647 0 0
+/front/img/backgrounds/bg-5.jpg
+0 1 8317429874292977251 70699 0 0
+/front/img/portfolio/buttons/popup-close-dark.png
+0 1 28361910592289072 1831 0 0
+/validar_placa/EA100L
+0 1 1546971083993329966 22 0 0
+/uploads/lotaip_1649105209.pdf
+0 1 8391173023188647936 223643 0 0
+/uploads/lotaip_1617227639.pdf
+0 2 8027666335787909120 349282 0 0
+/validar_placa/ghz0008
+0 1 3472607602329846016 22 0 0
+/sistema-turnos/0503945545-17-La Maná
+0 1 26197840 5597 0 0
+/uploads/lotaip_1587823376.pdf
+0 1 3472329387267141889 211857 0 0
+/back/webarch/css/webarch.css
+0 209 0 6871185 0 0
+/uploads/lotaip_1591651048.pdf
+0 1 0 141953 0 0
+/uploads/lotaip_1593699508.pdf
+0 1 0 197195 0 0
+/documentos/autorizacion-para-renovacion-anual-de-matricula
+0 5 0 18896 2 2
+/validar_placa/JK560D
+0 1 0 22 0 0
+/documentos/resoluciones
+0 11 0 48346 8 4
+/requisitos/f_1584023504.jpg
+0 1 0 267420 0 0
+/validar_placa/ubm0327
+0 1 0 22 0 0
+/front/img/assets/gridtile_white.png
+0 1 0 931 0 0
+/validar_placa/IW126J
+0 1 26178320 22 0 0
+/uploads/lotaip_1583440075.pdf
+0 1 0 291191 0 0
+/front/img/portfolio/buttons/popup-prev-dark.png
+0 1 0 1452 0 0
+/uploads/F-002 Formulario de Concesión de Permiso de Operación.pdf
+0 12 0 357354 0 0
+/uploads/lotaip_1597342702.pdf
+0 2 0 399804 0 0
+/sistema-turnos/0940806102-2-La Maná
+0 1 0 5629 0 0
+/front/img/news/f_1612280793.jpg
+0 6 0 24390036 0 0
+/turno/2260000122620874
+0 1 0 7071 0 0
+/team/HUGO_ARGUELLO.jpg
+0 1 0 170118 0 0
+/uploads/lotaip_1617227425.pdf
+0 1 0 183341 0 0
+/validar_cedula/0502940224
+0 1 0 24 0 0
+/
+0 2458 0 11718847 570 230
+/back/assets/plugins/bootstrapv3/css/bootstrap-theme.min.css
+0 189 0 495397 0 0
+/requisitos/f_1621606770.jpg
+0 254 0 300215537 0 0
+/validar_placa/HBC6099
+0 1 0 22 0 0
+/documentos/pac-reformas
+0 5 0 21850 2 1
+/uploads/lotaip_1617227386.pdf
+0 1 0 183094 0 0
+/front/css/animate.css
+0 267 0 1184036 0 0
+/consultas
+0 27 0 134763 14 11
+/turno/2260000122620868
+0 1 0 7070 0 0
+/uploads/lotaip_1667830464.pdf
+0 1 0 203063 0 0
+/back/assets/plugins/jquery-unveil/jquery.unveil.min.js
+0 189 0 97905 0 0
+/validar_cedula/1722801006
+0 1 0 24 0 0
+/validar_cedula/0504307927
+0 1 0 24 0 0
+/uploads/lotaip_1591648133.pdf
+0 1 0 141953 0 0
+/uploads/lotaip_1625667380.pdf
+0 2 0 232854 0 0
+/uploads/lotaip_1636143807.pdf
+0 1 26231104 201231 0 0
+/validar_placa/PYZ0825
+0 1 0 22 0 0
+/turnos/reimpresion
+0 1 26103232 6996 5 3
+/validar_placa/GSA9609
+0 1 0 22 0 0
+/uploads/lotaip_1587823081.pdf
+0 1 0 193898 0 0
+/front/img/slider/user_1689948531.jpg
+0 105 0 131523800 0 0
+/uploads/f_1626100431.pdf
+0 4 0 9555700 0 0
+/uploads/lotaip_1648676602.pdf
+0 1 0 157497 0 0
+/uploads/lotaip_1617231669.xls
+0 1 0 0 0 0
+/front/img/assets/rev-loader.GIF
+0 83 0 1899038 0 0
+/turnero/pujili
+0 121 0 877219 14 0
+/uploads/f_1583937870.pdf
+0 1 0 372287 0 0
+/turno/2260000122620861
+0 1 0 7033 0 0
+/validar_placa/PCY2291
+0 1 0 22 0 0
+/uploads/lotaip_1591819481.pdf
+0 2 0 436114 0 0
+/uploads/lotaip_1649105068.pdf
+0 1 26221392 183592 0 0
+/turno/2260000122620852
+0 1 0 7061 0 0
+/uploads/lotaip_1652191660.pdf
+0 1 0 183591 0 0
+/back/assets/plugins/pace/pace-theme-flash.css
+0 197 0 107350 0 0
+/uploads/lotaip_1627330113.xls
+0 1 0 43008 0 0
+/front/img/backgrounds/bg-3.jpg
+0 1 0 47590 0 0
+/uploads/lotaip_1679413381.pdf
+0 1 25767488 222311 0 0
+/uploads/lotaip_1648561010.pdf
+0 2 0 0 0 0
+/uploads/lotaip_1596646996.pdf
+0 1 26220880 199890 0 0
+/team/LUIS_UGSHA.jpg
+0 3 0 369348 0 0
+/uploads/lotaip_1586823656.pdf
+0 1 0 240630 0 0
+/front/img/backgrounds/bg-6.jpg
+0 1 0 52397 0 0
+/uploads/lotaip_1683045322.pdf
+0 2 0 367250 0 0
+/documentos/resoluciones-directorio-epmc-2022
+0 8 0 32152 5 3
+/turno/2260000122620875
+0 1 0 7052 0 0
+/uploads/lotaip_1602533171.pdf
+0 1 3976170715639447552 173436 0 0
+/sistema-turnos/0503945545-14-La Maná
+0 1 26178544 5672 0 0
+/validar_cedula/0503945545
+0 1 26178192 24 0 0
+/validar_placa/PBW3190
+0 1 3347139286191141998 22 0 0
+/turno/2260000122620858
+0 1 3258133539781374831 7038 0 0
+/validar_cedula/1712741378
+0 3 7296311217221546290 72 0 0
+/uploads/lotaip_1646401439.pdf
+0 1 26210368 263782 0 0
+/sistema-turnos/1305676973-24-La Maná
+0 1 26209536 5750 0 0
+/validar_placa/RBA3637
+0 1 26209312 22 0 0
+/sistema-turnos/0503058208-5-La Maná
+0 1 3832845857380630528 5627 0 0
+/validar_placa/PCL1829
+0 1 26187824 22 0 0
+/uploads/lotaip_1597339728.pdf
+0 2 8387231026530050917 376210 0 0
+/front/js/plugins/easign1.3.min.js
+0 264 4050760460078887213 214643 0 0
+/validar_cedula/0503748287
+0 1 26217456 24 0 0
+/back/assets/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.es.min.js
+0 245 0 70992 0 0
+/uploads/lotaip_1645115825.pdf
+0 2 0 365126 0 0
+/back/assets/plugins/bootstrapv3/js/bootstrap.min.js
+0 186 0 1726281 0 0
+/front/img/assets/preloader-logo.png
+0 272 0 2414106 0 0
+/uploads/lotaip_1627330241.xls
+0 1 0 43008 0 0
+/front/fonts/ionicons.ttf
+0 249 0 26534028 0 0
+/uploads/lotaip_1686149015.pdf
+0 1 0 183944 0 0
+/sistema-turnos/0503058208-9-La Maná
+0 1 0 5609 0 0
+/uploads/lotaip_1648754981.pdf
+0 1 0 92773 0 0
+/uploads/lotaip_1586823175.pdf
+0 1 0 207380 0 0
+/validar_placa/if200o
+0 1 26204336 22 0 0
+/uploads/lotaip_1596647023.pdf
+0 1 0 225521 0 0
+/sistema-turnos/1201979133-10-La Maná
+0 1 26139952 5581 0 0
+/admin
+0 8 0 18819 0 0
+/turno/2260000122620893
+0 1 26089104 7114 0 0
+/uploads/lotaip_1645115755.pdf
+0 1 0 184647 0 0
+/apple-icon-72x72.png
+0 1 0 6416 0 0
+/uploads/lotaip_1645115771.pdf
+0 1 0 187169 0 0
+/sistema-turnos/1201979133-9-La Maná
+0 1 26104272 5551 0 0
+/uploads/lotaip_1628255666.pdf
+0 1 0 125507 0 0
+/uploads/f_1654034591.pdf
+0 1 26220752 0 0 0
+/uploads/lotaip_1617227667.pdf
+0 1 0 174641 0 0
+/uploads/lotaip_1649341271.pdf
+0 1 0 173135 0 0
+/front/js/plugins/cubeportfolio.min.js
+0 270 0 3110000 0 0
+/uploads/lotaip_1587821404.pdf
+0 1 0 194394 0 0
+/front/js/plugins/gmap3.min.js
+0 260 0 2374244 0 0
+/back/assets/plugins/jquery-numberAnimate/jquery.animateNumbers.js
+0 186 0 130272 0 0
+/apple-icon-180x180.png
+0 22 0 582780 0 0
+/uploads/lotaip_1617227527.pdf
+0 1 26221136 183087 0 0
+/uploads/lotaip_1627931200.pdf
+0 1 0 431574 0 0
+/turno/2260000122620889
+0 1 0 7077 0 0
+/robots.txt
+0 212 0 5512 0 0
+/documentos/solicitud-de-cotizacion
+0 6 0 27098 3 3
+/validar_placa/aa130l
+0 1 0 22 0 0
+/uploads/lotaip_1597342733.pdf
+0 1 0 218188 0 0
+/uploads/lotaip_1680185059.pdf
+0 2 0 402462 0 0
+/front/js/plugins/bootstrap.min.js
+0 269 0 2408314 0 0
+/front/fonts/Simple-Line-Icons.ttf
+0 5 0 104700 0 0
+/requisitos/f_1621613267.pdf
+0 975 0 87400026 0 0
+/uploads/lotaip_1597342766.pdf
+0 2 0 400194 0 0
+/uploads/lotaip_1583440097.pdf
+0 1 0 291191 0 0
+/uploads/lotaip_1597340200.pdf
+0 1 0 188104 0 0
+/sistema-turnos/1305676973-21-La Maná
+0 1 26205152 5621 0 0
+/uploads/lotaip_1593700390.pdf
+0 1 0 203926 0 0
+/sistema-turnos/0503058208-4-La Maná
+0 1 0 5507 0 0
+/documentos/publicaciones
+0 7 0 53583 2 1
+/uploads/lotaip_1596647410.pdf
+0 1 0 173887 0 0
+/sistema-turnos/0550286918-14-La Maná
+0 1 0 5673 0 0
+/uploads/lotaip_1593701194.pdf
+0 1 0 186495 0 0
+/directorio
+0 11 0 64326 5 5
+/uploads/lotaip_1649105548.pdf
+0 1 0 265645 0 0
+/validar_placa/HT246T
+0 1 26196544 22 1 0
+/uploads/lotaip_1597341838.pdf
+0 1 0 173443 0 0
+/validar_placa/IC057S
+0 2 0 44 0 0
+/uploads/f_1583937890.pdf
+0 1 0 492391 0 0
+/sistema-turnos/1715220677-18-La Maná
+0 1 26198432 5622 0 0
+/turno/2260000122620906
+0 1 26200176 7034 0 0
+/uploads/lotaip_1633961755.pdf
+0 1 0 183615 0 0
+/back/webarch/img/icon/portlet-tray-2x.png
+0 1 0 11503 0 0
+/sistema-turnos/1204843286-4-La Maná
+0 1 0 5514 0 0
+/front/img/assets/dot-pattern.png
+0 240 0 636735 0 0
+/password/reset/63fca0746406072fc2e2ef9e5a2220a39299566fb78326c813c8fa99717cec15
+0 1 0 1411 0 0
+/validar_placa/JP005J
+0 1 0 22 0 0
+/uploads/lotaip_1649341220.pdf
+0 1 0 267691 0 0
+/uploads/lotaip_1586823312.pdf
+0 1 0 207269 0 0
+/sistema-turnos/0503748287-25-La Maná
+0 1 26217936 5591 0 0
+/uploads/F-009 Formulario de Cambio de Socio  con Habilitacion Vehículo.pdf
+0 9 0 1154403 0 0
+/uploads/lotaip_1583435639.pdf
+0 1 0 194145 0 0
+/uploads/lotaip_1588902717.pdf
+0 1 0 228940 0 0
+/turno/2260000122620911
+0 1 26208032 7049 0 0
+/uploads/lotaip_1625863076.pdf
+0 4 0 458711 0 0
+/uploads/lotaip_1583440041.pdf
+0 1 26220624 291191 0 0
+/noticias
+0 14 8391157610588299566 55280 10 5
+/uploads/lotaip_1617049773.pdf
+0 2 25838 829234 0 0
+/sistema-turnos/0503416703-8-La Maná
+0 1 3344032066234053422 5516 0 0
+/uploads/lotaip_1627931185.pdf
+0 1 3328781564219963185 456479 0 0
+/uploads/lotaip_1597340256.pdf
+0 2 72057594037953381 376208 0 0
+/uploads/lotaip_1593700372.pdf
+0 1 6513966 186474 0 0
+/uploads/f_1654034675.pdf
+0 1 8246198070193434166 0 0 0
+/uploads/lotaip_1597339632.pdf
+0 1 0 188105 0 0
+/front/css/revolution-slider.css
+0 271 0 2132810 0 0
+/uploads/lotaip_1696600329.pdf
+0 1 0 0 0 0
+/validar_placa/JE355S
+0 1 26207920 22 0 0
+/requisitos/f_1584023207.jpg
+0 1 0 238922 0 0
+/sistema-turnos/1204843286-13-La Maná
+0 1 0 5593 0 0
+/uploads/lotaip_1617227348.pdf
+0 2 0 366176 0 0
+/quienes-somos
+0 12 0 72538 7 3
+/front/img/assets/timer.png
+0 85 0 10500 0 0
+/turno/2260000122620904
+0 1 26197728 7047 0 0
+/validar_placa/hbb3147
+0 2 0 44 0 0
+/front/js/scripts.js
+0 264 0 1278719 0 0
+/front/js/plugins/jquery.min.js
+0 274 0 8673758 0 0
+/uploads/lotaip_1587822853.pdf
+0 2 0 415492 0 0
+/uploads/lotaip_1639496204.pdf
+0 1 0 223632 0 0
+/uploads/lotaip_1597342067.pdf
+0 1 0 173954 0 0
+/front/css/ionicons.min.css
+0 266 0 2309397 0 0
+/sistema-turnos/1715220677-13-La Maná
+0 1 26173488 5557 0 0
+/validar_placa/IB684H
+0 1 0 22 0 0
+/validar_placa/icj0164
+0 1 26203632 22 0 0
+/stats_calendario/2023-12-06
+0 13 0 3542 0 0
+/uploads/lotaip_1597340024.pdf
+0 1 0 188105 0 0
+# End Of Table - urls
+# -sites- (monthly)
+52.230.152.24
+0 1 1 26 0 0
+-
+177-93.nwlink.spb.ru
+0 1 1 25445 1 1701655568
+/
+146.186-71-206.uio.satnet.net
+0 265 210 41745112 3 1701769423
+-
+230.237.152.190.static.anycast.cnt-grms.ec
+0 55 50 9017363 1 1701682035
+-
+fwdproxy-nha-003.fbsv.net
+0 1 1 49222 0 0
+-
+host-157-100-204-68.ecua.net.ec
+0 3 3 17073 0 0
+-
+msnbot-207-46-13-155.search.msn.com
+0 1 1 5261 1 1701416970
+/turnos
+196.175.uio.satnet.net
+0 281 231 38126268 1 1701428192
+-
+msnbot-40-77-167-32.search.msn.com
+0 9 7 251107 5 1701870270
+/turnos/reimpresion
+90.138.47.186.static.anycast.cnt-grms.ec
+0 184 169 34086738 1 1701526944
+/
+87-250-224-53.spider.yandex.com
+0 1 1 26 0 0
+-
+msnbot-52-167-144-23.search.msn.com
+0 1 1 1414 1 1701431131
+/login
+66.231.68.200
+0 22 21 208317 1 1701780292
+/
+17.bl.bot.semrush.com
+0 2 2 4607 1 1701880164
+/documentos/publicaciones
+172.187.136.26
+0 1 1 6007 1 1701928470
+/
+msnbot-40-77-167-46.search.msn.com
+0 8 8 42982 2 1701872501
+/documentos/rendicion-de-cuentas
+correo.fulldata.com.ec
+0 53 31 6088098 2 1701862725
+/placas
+msnbot-52-167-144-19.search.msn.com
+0 6 4 17491 5 1701703922
+/
+msnbot-52-167-144-18.search.msn.com
+0 14 12 237153 5 1701778287
+/turnos
+a172-225-238-159.deploy.static.akamaitechnologies.com
+0 2 2 3155132 0 0
+-
+host-157-100-6-234.ecua.net.ec
+0 79 74 16924720 3 1701770728
+/register
+crawl-66-249-70-3.googlebot.com
+0 5 5 621701 2 1701807501
+/
+msnbot-52-167-144-219.search.msn.com
+0 7 5 18849 4 1701876144
+/login
+149.158.209.35.bc.googleusercontent.com
+0 1 1 6008 1 1701667329
+/
+198.bl.bot.semrush.com
+0 2 2 52 0 0
+-
+190.99.77.67
+0 190 101 19046464 2 1701608988
+-
+1.12.253.254
+0 1 0 573 0 0
+-
+host-45-70-197-18.nedetel.net
+0 3 3 17073 0 0
+-
+190.99.77.98
+0 482 334 23994016 4 1701863486
+-
+131.196.9.205
+0 57 55 18448416 1 1701883801
+-
+host-200-24-141-235.nedetel.net
+0 694 396 43809667 12 1701860045
+-
+195.bl.bot.semrush.com
+0 1 1 4821 1 1701439295
+/quienes-somos
+fwdproxy-vll-008.fbsv.net
+0 1 0 1552 0 0
+-
+194.190-154-89.uio.satnet.net
+0 27 14 2147997 1 1701850940
+-
+131.108.17.239
+0 1 1 6007 1 1701528916
+/
+104.28.94.77
+0 259 66 11707223 5 1701849740
+/
+hfce-191-99-141-44.customer.claro.com.ec
+0 1 1 6006 1 1701591937
+/
+msnbot-40-77-190-6.search.msn.com
+0 1 1 51316 0 0
+-
+213-180-203-88.spider.yandex.com
+0 1 0 579 0 0
+-
+msnbot-40-77-188-60.search.msn.com
+0 6 6 132708 0 0
+-
+153.86.209.35.bc.googleusercontent.com
+0 1 1 6007 1 1701516905
+/
+45.224.150.179
+0 49 48 16664541 1 1701811477
+-
+host-190-12-149-202.one.net.ec
+0 3 3 17073 0 0
+-
+customer-190-63-127-164.claro.com.ec
+0 95 84 18899034 1 1701677688
+-
+fwdproxy-nha-001.fbsv.net
+0 2 2 74377 0 0
+-
+50-116-23-250.ip.linodeusercontent.com
+0 1 0 573 0 0
+-
+msnbot-40-77-167-152.search.msn.com
+0 2 2 9561 1 1701431182
+/requsitos
+15.bl.bot.semrush.com
+0 5 5 34463 4 1701880929
+/documentos/estados-financieros
+msnbot-207-46-13-31.search.msn.com
+0 2 2 23375 2 1701719085
+/lotaip
+crawl-66-249-75-109.googlebot.com
+0 10 10 1595163 0 0
+-
+17-241-219-190.applebot.apple.com
+0 2 2 215344 0 0
+-
+msnbot-52-167-144-20.search.msn.com
+0 9 6 69340 3 1701883145
+/
+215.186-71-93.uio.satnet.net
+0 1 1 6007 1 1701418384
+/
+206.bl.bot.semrush.com
+0 4 4 18474 4 1701897413
+/
+51.137.47.186.static.anycast.cnt-grms.ec
+0 47 46 1803672 1 1701432140
+-
+proxy-ca002-ext2.a.ahrefs.com
+0 2 2 18891 1 1701706678
+/documentos/rendicion-de-cuentas
+159.205.152.190.static.anycast.cnt-grms.ec
+0 44 29 962035 1 1701731570
+-
+211.91.71.61
+0 1 1 1721810 0 0
+-
+corp-190-57-173-179.atf.puntonet.ec
+0 2 1 1213 1 1701759456
+-
+fwdproxy-frc-019.fbsv.net
+0 1 0 1552 1 1701839041
+-
+fwdproxy-pnb-006.fbsv.net
+0 1 0 1552 0 0
+-
+customer-190-63-96-144.claro.com.ec
+0 2 1 90816 1 1701886337
+-
+msnbot-40-77-189-230.search.msn.com
+0 1 1 53436 0 0
+-
+2.bl.bot.semrush.com
+0 1 1 3799 1 1701489802
+/
+msnbot-40-77-189-63.search.msn.com
+0 1 1 53436 0 0
+-
+msnbot-52-167-144-238.search.msn.com
+0 7 7 99216 2 1701884714
+/
+msnbot-52-167-144-234.search.msn.com
+0 4 4 251120 3 1701914203
+/
+crawl-66-249-66-131.googlebot.com
+0 48 39 3630392 14 1701738220
+/
+181.188.201.131
+0 83 76 17069435 1 1701771135
+-
+host-200-24-141-108.nedetel.net
+0 97 76 16983782 2 1701860790
+/
+ec2-18-226-16-45.us-east-2.compute.amazonaws.com
+0 2 0 1146 0 0
+-
+45.183.136.114
+0 3 3 17073 0 0
+-
+52.230.152.72
+0 2 2 3303 0 0
+-
+customer-190-63-96-106.claro.com.ec
+0 2 0 51 1 1701864490
+-
+host-45-239-48-159.fibramax.ec
+0 454 259 18386129 1 1701894866
+-
+customer-190-63-112-157.claro.com.ec
+0 176 82 17340319 1 1701849718
+/
+host-200-63-107-87.fibramax.ec
+0 1 1 6006 1 1701545678
+/
+host-157-100-88-250.ecua.net.ec
+0 1 0 579 1 1701499907
+/login
+190.99.77.171
+0 89 83 19412743 1 1701453898
+/email/verify
+host-181-199-54-9.ecua.net.ec
+0 525 436 106976948 3 1701610834
+/
+proxy-ca001-ext2.a.ahrefs.com
+0 5 5 17331 3 1701816844
+/
+45.224.150.14
+0 260 222 46042177 6 1701851244
+-
+5-255-231-180.spider.yandex.com
+0 1 1 26 0 0
+-
+95-108-213-4.spider.yandex.com
+0 1 1 26 0 0
+-
+fwdproxy-nha-002.fbsv.net
+0 2 2 58579 0 0
+-
+95-108-213-137.spider.yandex.com
+0 1 1 26 0 0
+-
+hydrogen031-ext2.a.ahrefs.com
+0 1 1 26 0 0
+-
+msnbot-52-167-144-180.search.msn.com
+0 13 12 89195 6 1701879739
+/register
+194.36.97.185
+0 4 3 12875 1 1701815315
+/login
+146.83.85.200.static.anycast.cnt-grms.ec
+0 1 0 573 0 0
+-
+dynamic.digitalnetms.com.br
+0 1 0 1552 0 0
+-
+213-180-203-164.spider.yandex.com
+0 1 1 26 0 0
+-
+200-7-247-132.movistar.com.ec
+0 90 87 21521853 1 1701930694
+/
+3.bl.bot.semrush.com
+0 3 2 9157 3 1701864528
+-
+43.139.153.197
+0 1 0 573 0 0
+-
+msnbot-207-46-13-125.search.msn.com
+0 2 2 9997 2 1701807521
+/turnos
+52.233.106.18
+0 2 0 854 1 1701406565
+/
+212.bl.bot.semrush.com
+0 1 1 4817 1 1701481072
+/quienes-somos
+msnbot-40-77-167-15.search.msn.com
+0 1 1 1410 1 1701781979
+/login
+213-180-203-212.spider.yandex.com
+0 1 1 6416 0 0
+-
+fwdproxy-nha-010.fbsv.net
+0 1 1 49222 0 0
+-
+msnbot-40-77-188-231.search.msn.com
+0 2 2 304101 0 0
+-
+msnbot-40-77-189-107.search.msn.com
+0 1 1 5774 0 0
+-
+msnbot-52-167-144-175.search.msn.com
+0 2 0 573 1 1701753699
+/
+181.188.233.149
+0 288 256 58424024 2 1701689005
+-
+52.230.152.113
+0 1 1 26 0 0
+-
+msnbot-52-167-144-204.search.msn.com
+0 7 5 13997 6 1701891709
+/
+msnbot-40-77-190-233.search.msn.com
+0 2 2 242830 0 0
+-
+host-167-250-180-219.nedetel.net
+0 144 68 1774052 4 1701771330
+-
+crawl-66-249-64-231.googlebot.com
+0 11 8 782941 3 1701840740
+-
+customer-190-63-241-230.claro.com.ec
+0 4 2 13162 1 1701692448
+/
+181.188.200.3
+0 10 9 2793737 1 1701619307
+-
+msnbot-40-77-188-103.search.msn.com
+0 1 1 113502 0 0
+-
+customer-190-63-120-253.claro.com.ec
+0 89 40 17329784 1 1701684632
+-
+host-157-100-88-200.ecua.net.ec
+0 61 6 39847 2 1701473702
+-
+216.83.85.200.static.anycast.cnt-grms.ec
+0 3 3 17073 0 0
+-
+43.119.208.35.bc.googleusercontent.com
+0 1 1 6007 1 1701889512
+/
+206.9.42.186.static.anycast.cnt-grms.ec
+0 91 84 18797091 1 1701634575
+-
+msnbot-52-167-144-2.search.msn.com
+0 1 1 184633 0 0
+-
+crawl-66-249-75-161.googlebot.com
+0 31 27 1420578 4 1701912853
+-
+241.73.196.181.static.anycast.cnt-grms.ec
+0 20 20 205441 1 1701424696
+/
+2.57.23.216
+0 1 1 0 1 1701776719
+/
+crawl-66-249-72-161.googlebot.com
+0 8 7 50744 1 1701850774
+/turnos
+gator3320.hostgator.com
+0 2 2 0 2 1701774204
+/
+proxy-ca006-ext2.a.ahrefs.com
+0 4 2 1488 2 1701902165
+/
+crawl-66-249-77-36.googlebot.com
+0 1 1 6023 1 1701843982
+/
+msnbot-52-167-144-1.search.msn.com
+0 2 2 7416 2 1701736971
+/
+host-167-250-180-108.nedetel.net
+0 377 187 17365818 2 1701685128
+-
+10.10.42.186.static.anycast.cnt-grms.ec
+0 3 3 17073 0 0
+-
+proxy-ca007-ext2.a.ahrefs.com
+0 1 1 4750 1 1701643797
+/requsitos
+msnbot-40-77-188-237.search.msn.com
+0 1 1 5774 0 0
+-
+hydrogen111-ext2.a.ahrefs.com
+0 1 1 26 0 0
+-
+host-181-199-88-64.ecua.net.ec
+0 91 90 17032674 1 1701425740
+/
+fwdproxy-ncg-006.fbsv.net
+0 1 1 25445 1 1701495243
+/
+8.217.247.199
+0 2 2 763260 0 0
+-
+181.188.200.116
+0 113 109 29798484 1 1701700973
+-
+msnbot-157-55-39-54.search.msn.com
+0 2 2 9209 2 1701812394
+/turnos
+52.233.106.31
+0 2 0 854 1 1701924690
+/
+host-45-70-202-20.nedetel.net
+0 66 27 138925 3 1701710932
+-
+125.164.14.144
+0 1 0 1552 0 0
+-
+host-45-70-197-15.nedetel.net
+0 72 69 16827568 1 1701508689
+/
+msnbot-40-77-190-182.search.msn.com
+0 1 1 188724 0 0
+-
+msnbot-40-77-167-33.search.msn.com
+0 9 9 68267 3 1701896347
+/lotaip
+242.11.42.186.static.anycast.cnt-grms.ec
+0 78 7 197968 1 1701815042
+-
+ftth-179-49-61-107.uio.celerity.ec
+0 49 48 16605841 1 1701642937
+-
+msnbot-40-77-167-20.search.msn.com
+0 3 2 226486 2 1701556466
+/
+msnbot-52-167-144-212.search.msn.com
+0 1 1 5262 1 1701850859
+/turnos
+fwdproxy-nha-009.fbsv.net
+0 1 1 9357 0 0
+-
+msnbot-40-77-190-88.search.msn.com
+0 1 1 115377 0 0
+-
+125.8.42.186.static.anycast.cnt-grms.ec
+0 73 70 16827596 1 1701702444
+/
+fwdproxy-nha-119.fbsv.net
+0 2 2 58579 0 0
+-
+147.208.152.190.static.anycast.cnt-grms.ec
+0 63 62 9772069 1 1701774830
+/
+ec2-34-247-32-231.eu-west-1.compute.amazonaws.com
+0 1 1 25710 1 1701680080
+/
+msnbot-20-15-133-188.search.msn.com
+0 1 1 26 0 0
+-
+5-255-231-119.spider.yandex.com
+0 1 1 26 0 0
+-
+msnbot-52-167-144-138.search.msn.com
+0 14 13 109357 7 1701895532
+/turnos
+209.bl.bot.semrush.com
+0 1 1 4749 1 1701494757
+/
+msnbot-40-77-167-54.search.msn.com
+0 1 1 112422 0 0
+-
+164.163.160.153
+0 86 81 18661111 1 1701788168
+/
+154.16.69.123
+0 4 3 12876 1 1701816275
+/login
+5-255-231-148.spider.yandex.com
+0 1 1 26 0 0
+-
+181.39.193.155
+0 65 64 16637703 1 1701708647
+/
+msnbot-52-167-144-220.search.msn.com
+0 13 13 121871 2 1701781137
+/lotaip
+245.149.196.35.bc.googleusercontent.com
+0 1 1 64646 0 0
+-
+38.10.102.111
+0 94 92 28979486 2 1701428476
+-
+msnbot-40-77-190-107.search.msn.com
+0 1 1 9447 0 0
+-
+msnbot-52-167-144-9.search.msn.com
+0 1 1 869 0 0
+-
+msnbot-52-167-144-176.search.msn.com
+0 2 1 1607 1 1701897985
+/login
+host-177-234-213-33.nedetel.net
+0 3 3 17073 0 0
+-
+197.bl.bot.semrush.com
+0 2 2 52 0 0
+-
+msnbot-52-167-144-5.search.msn.com
+0 1 1 1812 1 1701772011
+/register
+243.174.42.186.static.anycast.cnt-grms.ec
+0 114 109 37852544 2 1701880851
+-
+host-167-250-180-20.nedetel.net
+0 3 3 17073 0 0
+-
+a172-226-84-36.deploy.static.akamaitechnologies.com
+0 3 1 7525 1 1701758054
+-
+146.139.47.186.static.anycast.cnt-grms.ec
+0 107 84 3066001 1 1701702675
+/
+101.47.80.44
+0 4 4 703901 0 0
+-
+172.136.47.186.static.anycast.cnt-grms.ec
+0 1 1 6007 1 1701690326
+/
+hydrogen345-ext2.a.ahrefs.com
+0 1 1 26 0 0
+-
+200-7-246-35.movistar.com.ec
+0 54 52 20741789 1 1701689981
+-
+213-180-203-4.spider.yandex.com
+0 1 1 27606 0 0
+-
+fwdproxy-nha-118.fbsv.net
+0 4 4 93091 0 0
+-
+msnbot-157-55-39-13.search.msn.com
+0 1 1 5261 1 1701420257
+/turnos
+213-180-203-35.spider.yandex.com
+0 1 1 26 0 0
+-
+msnbot-157-55-39-200.search.msn.com
+0 6 6 90377 1 1701791983
+/turnos
+fwdproxy-ncg-004.fbsv.net
+0 1 0 1552 1 1701675920
+-
+190.137.47.186.static.anycast.cnt-grms.ec
+0 46 14 35877 3 1701767820
+/
+27.115.124.118
+0 1 1 1315238 0 0
+-
+ec2-54-245-79-53.us-west-2.compute.amazonaws.com
+0 1 1 6007 1 1701451614
+/
+200-7-246-251.movistar.com.ec
+0 76 75 17911641 1 1701403159
+/
+msnbot-40-77-190-86.search.msn.com
+0 1 1 113502 0 0
+-
+msnbot-207-46-13-63.search.msn.com
+0 5 5 134250 2 1701705612
+/login
+msnbot-40-77-167-27.search.msn.com
+0 4 3 17850 3 1701786651
+/
+host-45-173-230-39.fibramax.ec
+0 3 3 17073 0 0
+-
+msnbot-40-77-190-41.search.msn.com
+0 2 2 62883 0 0
+-
+msnbot-52-167-144-216.search.msn.com
+0 18 18 236081 2 1701848490
+/register
+52.233.106.168
+0 2 0 854 1 1701751926
+/
+customer-190-63-98-141.claro.com.ec
+0 5 2 3216 1 1701780569
+/login
+ws175-255.15.103.rcil.gov.in
+0 1 0 1552 0 0
+-
+95-108-213-183.spider.yandex.com
+0 1 0 573 0 0
+-
+14.63.221.211
+0 1 1 25755 1 1701473480
+/
+msnbot-52-167-144-184.search.msn.com
+0 2 1 5835 2 1701928166
+/
+27.115.124.101
+0 12 12 138760 0 0
+-
+217.83.85.200.static.anycast.cnt-grms.ec
+0 53 50 16670267 1 1701695121
+-
+mail-166-97.rch003.net
+0 1 0 573 0 0
+-
+76.136.47.186.static.anycast.cnt-grms.ec
+0 6 6 34146 0 0
+-
+msnbot-207-46-13-127.search.msn.com
+0 2 2 9956 2 1701720637
+/documentos/rendicion-de-cuentas
+20.99.210.78
+0 1 0 1552 1 1701517127
+/
+ec2-52-71-252-250.compute-1.amazonaws.com
+0 6 3 1797 0 0
+-
+host-45-236-107-173.fibramax.ec
+0 295 244 56271373 3 1701723340
+/
+msnbot-52-167-144-4.search.msn.com
+0 1 1 33375 0 0
+-
+1.139.47.186.static.anycast.cnt-grms.ec
+0 108 98 19092953 1 1701776286
+/
+host-181-199-63-218.ecua.net.ec
+0 1 1 6008 1 1701887874
+/
+102-83-171-190.ufinet.com.ec
+0 63 61 2514759 2 1701799830
+-
+msnbot-52-167-144-189.search.msn.com
+0 9 9 26847 4 1701856814
+/register
+msnbot-207-46-13-168.search.msn.com
+0 5 5 30157 2 1701533603
+/turnos
+host-157-100-204-161.ecua.net.ec
+0 52 49 16758409 1 1701770532
+/
+213-180-203-92.spider.yandex.com
+0 1 1 26 0 0
+-
+corp-200-105-247-49.uio.puntonet.ec
+0 388 307 77383816 4 1701785556
+-
+host-181-199-54-200.ecua.net.ec
+0 1 0 51 1 1701554715
+-
+52.233.106.66
+0 2 0 814 1 1701663797
+/
+msnbot-40-77-167-71.search.msn.com
+0 2 2 7419 2 1701445647
+/
+msnbot-40-77-167-60.search.msn.com
+0 5 4 18400 5 1701780903
+/formularios
+205.bl.bot.semrush.com
+0 1 1 26 0 0
+-
+msnbot-40-77-188-183.search.msn.com
+0 1 1 54106 0 0
+-
+crawl-66-249-64-228.googlebot.com
+0 1 1 4822 1 1701772286
+/noticia/calendario-de-matriculacion-vehicular-2021
+msnbot-157-55-39-8.search.msn.com
+0 6 6 48624 2 1701716935
+/login
+178.62.76.106
+0 1 1 6007 1 1701525885
+/
+customer-190-63-237-75.claro.com.ec
+0 34 29 16810616 1 1701684656
+-
+petalbot-114-119-137-238.petalsearch.com
+0 1 1 26 0 0
+-
+38.10.102.96
+0 1 1 6008 1 1701644420
+/
+87-250-224-230.spider.yandex.com
+0 1 1 26 0 0
+-
+crawl-66-249-77-43.googlebot.com
+0 1 1 201231 0 0
+-
+proxy-ca015-ext2.a.ahrefs.com
+0 5 4 18617 5 1701869884
+/
+hydrogen175-ext2.a.ahrefs.com
+0 1 1 26 0 0
+-
+45.224.150.214
+0 3 3 17073 0 0
+-
+host-157-100-143-22.ecua.net.ec
+0 116 96 18827747 3 1701769543
+-
+crawl-66-249-72-162.googlebot.com
+0 2 2 7227 1 1701844684
+/
+customer-190-63-126-228.claro.com.ec
+0 1 0 51 1 1701789569
+-
+fwdproxy-ncg-117.fbsv.net
+0 1 1 25446 1 1701829640
+/
+msnbot-40-77-190-13.search.msn.com
+0 1 1 9447 0 0
+-
+msnbot-207-46-13-126.search.msn.com
+0 2 2 6157 1 1701721469
+/requsitos
+msnbot-40-77-167-30.search.msn.com
+0 7 7 74513 2 1701704945
+/
+95-108-213-200.spider.yandex.com
+0 1 1 26 0 0
+-
+msnbot-40-77-167-70.search.msn.com
+0 13 12 87917 6 1701866470
+/
+199.bl.bot.semrush.com
+0 3 2 9290 3 1701906711
+/
+ec2-34-214-58-122.us-west-2.compute.amazonaws.com
+0 1 1 6007 1 1701496272
+/
+ninja-crawler88.webmeup.com
+0 3 1 1172 1 1701774956
+-
+msnbot-40-77-188-214.search.msn.com
+0 1 1 59324 0 0
+-
+ec2-34-228-52-21.compute-1.amazonaws.com
+0 16 6 547177 1 1701513998
+/
+52.233.106.198
+0 2 0 849 1 1701807766
+/
+host-45-189-56-166.nedetel.net
+0 112 107 35140996 2 1701686324
+-
+13.239.193.35.bc.googleusercontent.com
+0 1 1 6008 1 1701647891
+/
+103.82.119.202
+0 1 0 1552 0 0
+-
+hydrogen109-ext2.a.ahrefs.com
+0 1 1 26 0 0
+-
+250.4.148.34.bc.googleusercontent.com
+0 1 1 126732 0 0
+-
+165.116.73.34.bc.googleusercontent.com
+0 1 1 255087 0 0
+-
+228.14.211.181.static.anycast.cnt-grms.ec
+0 440 349 88713835 3 1701687275
+-
+117.83.85.200.static.anycast.cnt-grms.ec
+0 3 3 17073 0 0
+-
+ec2-35-175-107-142.compute-1.amazonaws.com
+0 6 5 18203 2 1701634313
+/directorio
+5.8.251.249
+0 27 23 122231 1 1701756498
+/documentos/pac-reformas
+124.156.207.67
+0 1 1 1670862 0 0
+-
+host-157-100-140-183.ecua.net.ec
+0 22 22 208733 1 1701720301
+/login
+google-proxy-66-102-8-35.google.com
+0 1 1 1422811 0 0
+-
+msnbot-40-77-188-110.search.msn.com
+0 1 1 113502 0 0
+-
+fwdproxy-nha-120.fbsv.net
+0 1 1 49222 0 0
+-
+fwdproxy-cln-012.fbsv.net
+0 1 0 1552 0 0
+-
+proxy-ca012-ext2.a.ahrefs.com
+0 1 1 4061 1 1701695781
+/documentos/estados-financieros
+101-83-171-190.ufinet.com.ec
+0 121 119 33458497 2 1701709300
+/validar_cedula/0502940224
+msnbot-52-167-144-230.search.msn.com
+0 7 6 32132 5 1701867079
+/login
+52.230.152.88
+0 1 1 26 0 0
+-
+200.bl.bot.semrush.com
+0 2 2 4048 1 1701929624
+/documentos/resoluciones-directorio-epmc-2022
+190.15.139.157
+0 2 2 53263 1 1701688770
+/
+52.233.106.126
+0 2 0 854 1 1701579144
+/
+ec2-52-202-204-194.compute-1.amazonaws.com
+0 2 1 318 1 1701698995
+/
+200-7-246-31.movistar.com.ec
+0 83 82 21816745 1 1701428401
+/
+proxy-ca003-ext2.a.ahrefs.com
+0 6 6 108000 3 1701656390
+/lotaip
+104.28.92.75
+0 126 96 30048317 2 1701822514
+/
+c128.babbar.eu
+0 2 2 1834 1 1701455335
+/register
+139.8.112.181.static.anycast.cnt-grms.ec
+0 14 5 22515 1 1701643366
+-
+msnbot-40-77-188-52.search.msn.com
+0 2 2 57090 0 0
+-
+64.24.107.200.static.anycast.cnt-grms.ec
+0 8 7 112510 1 1701543843
+/
+13.139.47.186.static.anycast.cnt-grms.ec
+0 43 7 52050 4 1701694115
+/
+host-177-234-250-19.nedetel.net
+0 442 352 74280825 7 1701780093
+/
+c183.babbar.eu
+0 2 1 5307 1 1701455518
+/formularios
+msnbot-40-77-167-143.search.msn.com
+0 10 9 104500 4 1701899296
+/
+host-181-188-215-68.nedetel.net
+0 1 1 6006 1 1701589258
+/
+msnbot-157-55-39-205.search.msn.com
+0 2 2 129623 1 1701414595
+/turnos
+52.230.152.151
+0 2 2 37329 0 0
+-
+10.33.112.181.static.anycast.cnt-grms.ec
+0 68 62 18484395 1 1701685227
+-
+msnbot-157-55-39-49.search.msn.com
+0 1 1 5261 1 1701426270
+/turnos
+host-45-70-197-16.nedetel.net
+0 3 3 17073 0 0
+-
+181.210.30.50
+0 1 0 1552 1 1701726782
+/
+45.224.150.194
+0 3 1 1786 1 1701699968
+-
+host-45-239-49-155.fibramax.ec
+0 71 69 16766426 1 1701721980
+/login
+msnbot-207-46-13-54.search.msn.com
+0 8 8 218795 0 0
+-
+5.bl.bot.semrush.com
+0 2 2 52 0 0
+-
+msnbot-52-167-144-186.search.msn.com
+0 7 7 33167 5 1701891191
+/documentos/rendicion-de-cuentas
+10.84.46.186.static.anycast.cnt-grms.ec
+0 2 2 98023 1 1701454903
+/turnero/pujili
+host-45-70-198-50.nedetel.net
+0 197 156 35022438 1 1701810713
+-
+36.73.60.3
+0 1 0 1552 0 0
+-
+msnbot-207-46-13-151.search.msn.com
+0 1 1 5261 1 1701824870
+/turnos
+52.230.152.14
+0 1 1 528 0 0
+-
+msnbot-40-77-167-40.search.msn.com
+0 2 1 4521 1 1701616422
+/noticias
+cnt-atf33.cache.google.com
+0 1 1 492391 0 0
+-
+103.144.228.21
+0 1 0 1552 0 0
+-
+13.bl.bot.semrush.com
+0 1 1 26 0 0
+-
+144.43.209.35.bc.googleusercontent.com
+0 1 1 6007 1 1701740285
+/
+host-177-234-250-130.nedetel.net
+0 23 22 208925 1 1701505584
+/login
+msnbot-40-77-189-27.search.msn.com
+0 1 1 5774 0 0
+-
+proxy-ca016-ext2.a.ahrefs.com
+0 3 2 10675 3 1701832079
+/
+msnbot-52-167-144-142.search.msn.com
+0 1 1 1808 1 1701783851
+/register
+52.233.106.67
+0 2 0 867 1 1701840167
+/
+118.26.39.17
+0 9 8 256392 1 1701877298
+/
+fwdproxy-cco-117.fbsv.net
+0 1 0 1552 1 1701534464
+-
+52.230.152.25
+0 1 1 26 0 0
+-
+crawl-66-249-70-7.googlebot.com
+0 2 2 7020 1 1701763867
+/
+246.103.211.181.static.anycast.cnt-grms.ec
+0 206 199 38695478 5 1701781025
+/webmail
+52.233.106.142
+0 1 1 124362 0 0
+-
+181.188.237.22
+0 121 98 20205413 1 1701852878
+/
+104.28.94.71
+0 6 2 55272 0 0
+-
+host-45-6-224-96.extreme.net.ec
+0 96 89 18901790 1 1701519988
+/
+msnbot-40-77-190-208.search.msn.com
+0 1 1 113502 0 0
+-
+047-047-010-030.biz.spectrum.com
+0 59 58 2436868 1 1701712546
+/password/reset
+27.115.124.38
+0 3 3 53823 0 0
+-
+27.115.124.6
+0 17 17 301383 1 1701858012
+/
+50.137.47.186.static.anycast.cnt-grms.ec
+0 2 1 6580 1 1701907357
+/
+52.230.152.115
+0 1 1 60034 0 0
+-
+131.196.9.1
+0 1 0 573 0 0
+-
+host-45-70-57-35.nedetel.net
+0 138 111 19768450 1 1701898815
+-
+host-157-100-137-109.ecua.net.ec
+0 26 23 210732 1 1701727240
+/login
+msnbot-40-77-188-102.search.msn.com
+0 1 1 9447 0 0
+-
+msnbot-52-167-144-174.search.msn.com
+0 3 2 6544 3 1701850864
+/register
+95-108-213-174.spider.yandex.com
+0 1 0 573 0 0
+-
+correo.cooperando.fin.ec
+0 115 97 19176466 2 1701860173
+-
+mail-166-90.rch003.net
+0 1 1 6007 1 1701471630
+/
+186.101.106.158
+0 206 154 19756097 3 1701912939
+/
+host-157-100-134-108.ecua.net.ec
+0 31 11 142578 2 1701524921
+/login
+petalbot-114-119-154-169.petalsearch.com
+0 1 1 26 0 0
+-
+85.209.176.85
+0 2 1 6581 1 1701845888
+/
+hosted-by.microglollc.net
+0 1 0 573 0 0
+-
+msnbot-157-55-39-6.search.msn.com
+0 1 1 4737 1 1701803932
+/formularios
+msnbot-40-77-188-127.search.msn.com
+0 1 1 5774 0 0
+-
+fwdproxy-ftw-013.fbsv.net
+0 1 1 25445 1 1701527991
+/
+host-157-100-134-207.ecua.net.ec
+0 49 48 16605856 1 1701700969
+-
+proxy-ca018-ext2.a.ahrefs.com
+0 5 5 19326 4 1701805597
+/noticia/calendario-de-matriculacion-vehicular-2021
+20.72.196.181.static.anycast.cnt-grms.ec
+0 49 48 16605855 1 1701729457
+-
+100.177.152.190.static.anycast.cnt-grms.ec
+0 103 90 22210877 1 1701878132
+/
+152.70.204.217
+0 4 4 3944141 0 0
+-
+27.115.124.70
+0 10 10 318184 0 0
+-
+52.230.152.109
+0 1 1 6200 0 0
+-
+msnbot-40-77-188-51.search.msn.com
+0 1 1 115377 0 0
+-
+87-250-224-2.spider.yandex.com
+0 1 1 2241 0 0
+-
+66.siteaudit.bot.semrush.com
+0 1 1 6007 1 1701443205
+/
+104.28.92.77
+0 16 8 4889674 0 0
+-
+proxy-ca004-ext2.a.ahrefs.com
+0 5 2 8082 4 1701732546
+/quienes-somos
+host-45-70-198-58.nedetel.net
+0 4 2 33643 1 1701779255
+/
+msnbot-52-167-144-161.search.msn.com
+0 7 5 23042 5 1701783847
+/turnos
+199.244.88.230
+0 1 1 6008 1 1701716004
+/
+45.224.150.216
+0 1 1 13941 0 0
+-
+92.11.42.186.static.anycast.cnt-grms.ec
+0 50 49 16664887 1 1701853804
+-
+17-241-75-88.applebot.apple.com
+0 2 1 599 0 0
+-
+proxy-ca005-ext2.a.ahrefs.com
+0 4 4 16042 3 1701904725
+/
+194.36.97.20
+0 4 3 12872 1 1701587715
+/login
+200-7-247-149.movistar.com.ec
+0 213 51 1410065 1 1701685583
+/
+218.86.47.186.static.anycast.cnt-grms.ec
+0 3 1 1786 1 1701420984
+-
+host-45-189-56-76.nedetel.net
+0 103 85 17021366 1 1701678363
+-
+crawl-66-249-75-163.googlebot.com
+0 9 7 874916 4 1701921430
+/
+fwdproxy-rva-118.fbsv.net
+0 1 1 25657 1 1701579130
+/
+194.36.97.121
+0 4 3 12873 1 1701586652
+/login
+146.75.208.25
+0 3 1 27636 0 0
+-
+static.vnpt.vn
+0 2 0 3104 1 1701726775
+/
+msnbot-207-46-13-130.search.msn.com
+0 1 1 6007 1 1701794953
+/
+12.bl.bot.semrush.com
+0 2 2 4147 1 1701487085
+/documentos/pac
+52.233.106.60
+0 1 1 173464 0 0
+-
+crawl-66-249-70-2.googlebot.com
+0 4 3 384623 2 1701781596
+/
+208.110.82.178
+0 1 1 6006 1 1701561135
+/
+190.63.255.170
+0 3 3 17073 0 0
+-
+c139.babbar.eu
+0 1 1 4394 1 1701455648
+/documentos/resoluciones
+msnbot-52-167-144-209.search.msn.com
+0 26 24 447551 4 1701804654
+/requsitos
+msnbot-52-167-144-199.search.msn.com
+0 5 4 26274 4 1701779564
+/quienes-somos
+102.177.164.21
+0 278 222 49166526 2 1701877424
+-
+host-45-224-22-229.nedetel.net
+0 22 21 208313 1 1701798778
+/
+crawl-66-249-66-130.googlebot.com
+0 42 36 3781248 14 1701717685
+-
+proxy-ca017-ext2.a.ahrefs.com
+0 2 2 10034 2 1701860196
+/documentos/resoluciones-directorio-epmc-2022
+msnbot-40-77-167-243.search.msn.com
+0 10 9 73546 3 1701870462
+/
+66.231.68.32
+0 78 49 5267794 1 1701719213
+/
+msnbot-40-77-188-59.search.msn.com
+0 1 1 59324 0 0
+-
+fwdproxy-nha-006.fbsv.net
+0 4 4 108889 0 0
+-
+host-167-250-180-69.nedetel.net
+0 3 3 17073 0 0
+-
+52.230.152.86
+0 1 1 26 0 0
+-
+fwdproxy-nha-008.fbsv.net
+0 4 4 100620 0 0
+-
+host57.190-31-37.telecom.net.ar
+0 1 0 1552 1 1701726777
+/
+95-108-213-237.spider.yandex.com
+0 1 0 579 0 0
+-
+host-181-199-38-72.ecua.net.ec
+0 12 4 8815 1 1701779800
+/
+host-157-100-142-65.ecua.net.ec
+0 28 11 58190 1 1701672725
+/
+52.233.106.189
+0 2 0 867 1 1701667633
+/
+msnbot-157-55-39-61.search.msn.com
+0 9 9 224056 1 1701594427
+/turnos
+host-157-100-139-150.ecua.net.ec
+0 106 89 17119790 1 1701717531
+-
+c154.babbar.eu
+0 1 1 4121 1 1701455591
+/documentos/pac
+msnbot-40-77-189-124.search.msn.com
+0 1 1 9447 0 0
+-
+52.230.152.207
+0 1 1 26 0 0
+-
+host-45-189-56-6.nedetel.net
+0 77 70 17132314 2 1701887660
+-
+204.101.161.19
+0 37 37 2276640 1 1701467207
+/
+13.244.125.200.static.anycast.cnt-grms.ec
+0 317 254 38973881 3 1701832897
+/
+89.230.125.200.static.anycast.cnt-grms.ec
+0 2 1 1631 1 1701623960
+/
+104.28.92.76
+0 254 187 61968816 4 1701849728
+-
+ec2-35-89-183-119.us-west-2.compute.amazonaws.com
+0 1 1 6008 1 1701844370
+/
+39.42.55.10
+0 1 0 1552 1 1701726775
+/
+proxy-ca008-ext2.a.ahrefs.com
+0 2 2 4680 1 1701762840
+/documentos/pac-reformas
+180.252.112.195
+0 1 0 1552 0 0
+-
+52.230.152.42
+0 1 1 26 0 0
+-
+40.77.19.4
+0 1 1 26 0 0
+-
+172-233-189-211.ip.linodeusercontent.com
+0 1 0 573 0 0
+-
+msnbot-40-77-188-105.search.msn.com
+0 1 1 188724 0 0
+-
+proxy-ca019-ext2.a.ahrefs.com
+0 4 4 10009 2 1701743308
+/
+host-45-162-74-178.nedetel.net
+0 105 100 18839828 2 1701776112
+/login
+hn.kd.ny.adsl
+0 116 115 11711760 2 1701857732
+/
+ec2-54-202-7-37.us-west-2.compute.amazonaws.com
+0 1 1 259142 0 0
+-
+c184.babbar.eu
+0 1 1 4142 1 1701455574
+/
+52.230.152.66
+0 1 1 26 0 0
+-
+fwdproxy-vll-003.fbsv.net
+0 2 0 3104 0 0
+-
+52.230.152.112
+0 1 1 26 0 0
+-
+proxy-ca013-ext2.a.ahrefs.com
+0 6 6 25355 5 1701923174
+/
+44-100-91-38.clients.gthost.com
+0 1 0 51 1 1701406153
+-
+10.127.42.186.static.anycast.cnt-grms.ec
+0 59 43 3169333 1 1701699268
+-
+ec2-18-236-80-51.us-west-2.compute.amazonaws.com
+0 1 1 640 0 0
+-
+104.194.8.237
+0 1 1 258722 0 0
+-
+52.230.152.166
+0 1 1 9453 0 0
+-
+host-167-250-180-107.nedetel.net
+0 223 170 37897988 3 1701768034
+-
+213-180-203-78.spider.yandex.com
+0 1 1 26 0 0
+-
+host-45-4-203-172.fibramax.ec
+0 553 288 18631711 9 1701874709
+-
+177-53-215-168.fibramax.ec
+0 3 3 17073 0 0
+-
+200.7.210.181
+0 3 3 17073 0 0
+-
+msnbot-207-46-13-7.search.msn.com
+0 1 1 6007 1 1701419430
+/
+host-200-24-136-52.nedetel.net
+0 226 200 38833241 1 1701866911
+/email/verify
+131.196.9.4
+0 2 1 1213 1 1701675920
+-
+fwdproxy-vll-007.fbsv.net
+0 1 1 9357 0 0
+-
+213-180-203-194.spider.yandex.com
+0 1 1 26 0 0
+-
+135.43.229.35.bc.googleusercontent.com
+0 1 1 190746 0 0
+-
+fwdproxy-rva-002.fbsv.net
+0 1 1 25446 1 1701777364
+/
+msnbot-40-77-167-136.search.msn.com
+0 11 10 33318 3 1701890238
+-
+crawl-66-249-64-226.googlebot.com
+0 1 1 5260 1 1701763099
+/turnos
+msnbot-40-77-167-28.search.msn.com
+0 4 2 26953 4 1701619669
+/lotaip
+213-180-203-211.spider.yandex.com
+0 1 0 579 0 0
+-
+45.183.137.7
+0 289 261 61215384 5 1701784540
+/
+20.15.133.175
+0 2 2 52 0 0
+-
+msnbot-40-77-167-255.search.msn.com
+0 3 2 1361261 2 1701931466
+/
+181.188.237.24
+0 2 1 6580 1 1701431193
+/
+197.136.47.186.static.anycast.cnt-grms.ec
+0 113 97 21843239 3 1701864687
+-
+msnbot-40-77-188-198.search.msn.com
+0 1 1 54106 0 0
+-
+msnbot-40-77-167-79.search.msn.com
+0 7 7 39559 1 1701690696
+/turnos
+msnbot-52-167-144-192.search.msn.com
+0 6 6 168256 1 1701853393
+/
+fwdproxy-vll-002.fbsv.net
+0 1 1 25155 0 0
+-
+host-157-100-89-226.ecua.net.ec
+0 81 75 17158287 1 1701849104
+-
+148.78.5.73
+0 49 48 16605857 1 1701511695
+-
+ec2-3-12-34-156.us-east-2.compute.amazonaws.com
+0 1 1 381630 0 0
+-
+host-181-199-44-241.ecua.net.ec
+0 50 49 16664887 1 1701853618
+-
+181.188.237.31
+0 53 51 16760979 1 1701425985
+-
+122.210.152.190.static.anycast.cnt-grms.ec
+0 75 63 22523128 1 1701433409
+-
+37.203.152.190.static.anycast.cnt-grms.ec
+0 114 96 26154508 1 1701675655
+/
+fwdproxy-pnb-013.fbsv.net
+0 1 0 1552 1 1701699969
+-
+msnbot-52-167-144-203.search.msn.com
+0 2 1 1982 2 1701676278
+/login
+proxy-ca009-ext2.a.ahrefs.com
+0 5 4 12647 3 1701583686
+/
+msnbot-40-77-167-78.search.msn.com
+0 5 5 19036 5 1701849813
+/login
+host-157-100-136-119.ecua.net.ec
+0 1 1 5262 1 1701642765
+/turnos
+host-167-250-180-120.nedetel.net
+0 283 260 71831764 2 1701697785
+-
+msnbot-40-77-167-7.search.msn.com
+0 1 0 573 0 0
+-
+proxy-ca010-ext2.a.ahrefs.com
+0 6 6 46987 6 1701913391
+/requsitos
+host-157-100-135-74.ecua.net.ec
+0 28 0 51 1 1701463833
+-
+host-186-4-133-178.netlife.ec
+0 80 74 1399630 2 1701674418
+-
+197.206.152.190.static.anycast.cnt-grms.ec
+0 68 54 4461805 1 1701809707
+-
+msnbot-207-46-13-128.search.msn.com
+0 1 1 5261 1 1701595724
+/turnos
+52.230.152.100
+0 1 1 26 0 0
+-
+219.235.152.190.static.anycast.cnt-grms.ec
+0 9 9 88970 1 1701889844
+/
+fwdproxy-frc-001.fbsv.net
+0 1 0 1552 0 0
+-
+msnbot-40-77-167-235.search.msn.com
+0 5 4 18616 3 1701853834
+/turnos
+103.155.105.100
+0 1 0 1552 0 0
+-
+177-53-215-235.fibramax.ec
+0 3 3 84047 0 0
+-
+130.255.166.11
+0 1 0 573 0 0
+-
+52.230.152.83
+0 1 1 26 0 0
+-
+crawl-66-249-75-107.googlebot.com
+0 10 9 1459834 0 0
+-
+135.139.47.186.static.anycast.cnt-grms.ec
+0 73 70 16827592 1 1701768295
+/
+msnbot-40-77-190-138.search.msn.com
+0 1 1 9447 0 0
+-
+6.bl.bot.semrush.com
+0 1 0 374 1 1701872752
+/
+msnbot-40-77-188-132.search.msn.com
+0 9 9 221733 0 0
+-
+52.230.152.62
+0 1 1 26 0 0
+-
+109.203.152.190.static.anycast.cnt-grms.ec
+0 6 4 99201 1 1701710384
+/login
+msnbot-40-77-188-224.search.msn.com
+0 1 1 53436 0 0
+-
+msnbot-40-77-167-73.search.msn.com
+0 5 5 35874 1 1701620714
+/
+host-157-100-136-94.ecua.net.ec
+0 71 70 16824197 1 1701883649
+/
+45.183.136.66
+0 389 319 43902239 1 1701423432
+-
+213-180-203-37.spider.yandex.com
+0 1 1 26 0 0
+-
+msnbot-40-77-167-64.search.msn.com
+0 5 5 17042 1 1701893271
+/consultas
+msnbot-40-77-167-55.search.msn.com
+0 1 1 5261 1 1701777298
+/turnos
+52.230.152.78
+0 1 1 4259 0 0
+-
+113.26.113.181.static.anycast.cnt-grms.ec
+0 148 131 35441535 1 1701862749
+-
+27.44.203.2
+0 1 1 9357 0 0
+-
+msnbot-40-77-188-209.search.msn.com
+0 1 1 59324 0 0
+-
+customer-190-63-97-217.claro.com.ec
+0 3 2 98067 1 1701815215
+-
+163.116.134.90
+0 7 4 194880 1 1701857981
+-
+95-108-213-216.spider.yandex.com
+0 1 0 573 0 0
+-
+c158.babbar.eu
+0 1 1 4061 1 1701455677
+/documentos/estados-financieros
+petalbot-114-119-144-202.petalsearch.com
+0 1 1 26 0 0
+-
+209.176.152.190.static.anycast.cnt-grms.ec
+0 336 324 74161710 2 1701763167
+-
+fwdproxy-ash-015.fbsv.net
+0 1 1 26 0 0
+-
+host-200-24-141-225.nedetel.net
+0 1 1 6006 1 1701624316
+/
+52.230.152.216
+0 1 1 26 0 0
+-
+msnbot-52-167-144-237.search.msn.com
+0 1 1 4458 1 1701515703
+/consultas
+fwdproxy-ncg-005.fbsv.net
+0 1 0 1558 1 1701423382
+-
+msnbot-20-15-133-186.search.msn.com
+0 2 1 88977 1 1701724838
+/
+19.bl.bot.semrush.com
+0 1 1 26 0 0
+-
+200-7-246-192.movistar.com.ec
+0 3 3 116696 0 0
+-
+143.137.47.186.static.anycast.cnt-grms.ec
+0 100 86 17152890 2 1701868645
+-
+6.51.112.181.static.anycast.cnt-grms.ec
+0 117 99 22141760 1 1701437692
+-
+fwdproxy-nha-004.fbsv.net
+0 2 2 58579 0 0
+-
+81.190-155-31.uio.satnet.net
+0 3 3 17073 0 0
+-
+213-180-203-135.spider.yandex.com
+0 1 1 26 0 0
+-
+host-157-100-204-133.ecua.net.ec
+0 3 3 4228 3 1701874774
+/login
+host-167-250-180-130.nedetel.net
+0 76 72 18577904 1 1701436547
+-
+13.89.50.228
+0 1 1 26 0 0
+-
+msnbot-52-167-144-194.search.msn.com
+0 12 11 493661 1 1701881348
+/
+fwdproxy-frc-118.fbsv.net
+0 1 1 25446 1 1701779830
+/
+111.24.42.186.static.anycast.cnt-grms.ec
+0 1 1 2388925 0 0
+-
+164.163.160.140
+0 2 1 5313 1 1701709351
+-
+82.183.47.186.static.anycast.cnt-grms.ec
+0 2 1 1608 1 1701424509
+/login
+lithium084.a.ahrefs.com
+0 25 25 387175 0 0
+-
+petalbot-114-119-139-88.petalsearch.com
+0 1 1 26 0 0
+-
+msnbot-52-167-144-214.search.msn.com
+0 2 2 12590 1 1701896838
+/requsitos
+msnbot-157-55-39-53.search.msn.com
+0 12 10 83566 1 1701415017
+/login
+proxy-ca011-ext2.a.ahrefs.com
+0 2 2 4420 1 1701664329
+/documentos/resoluciones
+52.233.106.36
+0 2 0 849 1 1701635052
+/
+131.196.9.125
+0 1 0 573 1 1701758313
+-
+200-7-247-25.movistar.com.ec
+0 90 82 28831761 1 1701848280
+-
+msnbot-52-167-144-235.search.msn.com
+0 5 3 16887 5 1701787894
+/
+202.138.249.36
+0 1 0 1552 0 0
+-
+petalbot-114-119-159-145.petalsearch.com
+0 1 1 26 0 0
+-
+msnbot-157-55-39-202.search.msn.com
+0 2 1 1609 1 1701422653
+/login
+fwdproxy-nha-005.fbsv.net
+0 4 4 69024 0 0
+-
+186.219.49.250
+0 3 3 17073 0 0
+-
+host-181-199-41-184.ecua.net.ec
+0 5 5 26390 1 1701467713
+/
+customer-190-63-126-161.claro.com.ec
+0 3 3 17073 0 0
+-
+137.184.172.206
+0 1 1 6007 1 1701699931
+/
+host-45-189-56-194.nedetel.net
+0 1 0 0 0 0
+-
+211.bl.bot.semrush.com
+0 1 1 26 0 0
+-
+customer-190-63-240-230.claro.com.ec
+0 1 1 5276 1 1701763933
+/
+crawl-66-249-66-199.googlebot.com
+0 57 51 3025290 13 1701681780
+/
+cnt-atf32.cache.google.com
+0 21 21 208505 1 1701526685
+/
+45.224.150.157
+0 1 0 573 1 1701707250
+-
+ec2-34-208-124-56.us-west-2.compute.amazonaws.com
+0 1 1 640 0 0
+-
+host-45-6-227-193.extreme.net.ec
+0 100 88 18741217 3 1701877203
+/
+164.92.103.249
+0 1 1 6008 1 1701871112
+/
+27.115.124.53
+0 8 8 83512 1 1701857688
+/
+c168.babbar.eu
+0 1 1 21604 1 1701905329
+/lotaip
+164.163.160.163
+0 38 37 2276986 1 1701857228
+-
+216.244.66.195
+0 273 182 37879000 42 1701907528
+/
+proxy-ca000-ext2.a.ahrefs.com
+0 1 1 26 0 0
+-
+69.82.196.181.static.anycast.cnt-grms.ec
+0 22 21 208289 1 1701888702
+/login
+c129.babbar.eu
+0 1 1 26 0 0
+-
+crawl-66-249-75-108.googlebot.com
+0 10 9 1124585 3 1701896072
+/
+cnt-mec34.cache.google.com
+0 21 21 208506 1 1701868400
+/
+26.238.46.186.static.anycast.cnt-grms.ec
+0 184 157 39942439 2 1701424314
+-
+mail.almaceneslaganga.com
+0 2 1 1213 0 0
+-
+95-108-213-210.spider.yandex.com
+0 1 1 26 0 0
+-
+74.98.113.181.static.anycast.cnt-grms.ec
+0 97 90 23609230 1 1701731197
+/
+host-167-250-180-21.nedetel.net
+0 50 49 16755294 1 1701678517
+-
+52.230.152.215
+0 1 1 26 0 0
+-
+host-157-100-137-225.ecua.net.ec
+0 3 3 17073 0 0
+-
+msnbot-40-77-188-169.search.msn.com
+0 1 1 188724 0 0
+-
+host-177-234-250-35.nedetel.net
+0 23 4 32123 2 1701402472
+/
+95-108-213-248.spider.yandex.com
+0 1 1 26 0 0
+-
+ec2-54-85-220-210.compute-1.amazonaws.com
+0 13 12 1020363 1 1701706952
+/documentos/publicaciones
+a172-226-84-37.deploy.static.akamaitechnologies.com
+0 3 1 27636 0 0
+-
+msnbot-52-167-144-197.search.msn.com
+0 7 7 25042 1 1701616177
+/turnos
+msnbot-52-167-144-191.search.msn.com
+0 3 3 20880 1 1701889778
+/register
+155.179.139.34.bc.googleusercontent.com
+0 1 1 123116 0 0
+-
+52.230.152.249
+0 1 1 5412 0 0
+-
+crawl-66-249-64-230.googlebot.com
+0 22 16 694820 8 1701843324
+/
+host-45-70-197-19.nedetel.net
+0 3 3 17073 0 0
+-
+104.28.94.75
+0 314 187 45304567 3 1701848454
+/
+host-157-100-87-198.ecua.net.ec
+0 108 93 26400094 1 1701389657
+-
+181.188.200.42
+0 33 28 518843 2 1701426215
+-
+52.230.152.61
+0 1 1 26 0 0
+-
+fwdproxy-ftw-014.fbsv.net
+0 1 1 25445 1 1701470098
+/
+customer.bgtacol1.pop.starlinkisp.net
+0 9 6 294189 1 1701726624
+-
+200-7-243-191.movistar.com.ec
+0 64 61 6322906 1 1701676355
+/
+5-255-231-2.spider.yandex.com
+0 1 1 26 0 0
+-
+196.bl.bot.semrush.com
+0 1 1 26 0 0
+-
+190.99.77.155
+0 123 58 1434551 1 1701685234
+-
+host-45-224-152-184.nedetel.net
+0 1 1 6007 1 1701895967
+/
+190.63.255.216
+0 49 48 16605857 1 1701847566
+-
+msnbot-52-167-144-229.search.msn.com
+0 3 3 6773 2 1701869416
+/login
+213.139.46.186.static.anycast.cnt-grms.ec
+0 153 137 34197086 1 1701683216
+/
+193.bl.bot.semrush.com
+0 2 2 8583 2 1701917564
+/
+155.130.152.190.static.anycast.cnt-grms.ec
+0 40 40 5966607 1 1701815112
+/
+202.bl.bot.semrush.com
+0 1 1 4400 1 1701920447
+/documentos/resoluciones
+163.116.229.101
+0 11 6 294016 1 1701791694
+-
+104.28.94.70
+0 6 2 55272 0 0
+-
+crawl-66-249-66-198.googlebot.com
+0 149 132 5059254 19 1701931466
+/
+ip237.ip-23-83-81.mpp.il.com
+0 1 1 6008 1 1701877210
+/
+msnbot-40-77-167-8.search.msn.com
+0 4 3 28122 3 1701696396
+/turnos
+host-200-24-141-34.nedetel.net
+0 377 298 46321078 4 1701868928
+/
+5-255-231-175.spider.yandex.com
+0 1 0 573 0 0
+-
+79.11.42.186.static.anycast.cnt-grms.ec
+0 112 97 19992247 1 1701689967
+/
+crawl-66-249-64-232.googlebot.com
+0 14 10 597391 4 1701842323
+/
+18.bl.bot.semrush.com
+0 2 1 400 1 1701858213
+-
+211.140.23.130
+0 1 1 1670862 0 0
+-
+msnbot-40-77-167-101.search.msn.com
+0 8 8 208 0 0
+-
+msnbot-40-77-167-14.search.msn.com
+0 8 8 61586 5 1701866490
+/noticias
+fwdproxy-nao-011.fbsv.net
+0 1 0 1558 1 1701449074
+-
+msnbot-52-167-144-21.search.msn.com
+0 2 1 1606 1 1701648061
+/login
+104.28.94.76
+0 279 146 52341609 3 1701848251
+-
+host-167-250-180-106.nedetel.net
+0 261 154 20234158 5 1701705031
+-
+150.72.196.181.static.anycast.cnt-grms.ec
+0 22 21 208289 1 1701421448
+/login
+msnbot-52-167-144-181.search.msn.com
+0 3 1 5974 3 1701691474
+/noticia/calendario-de-matriculacion-vehicular-2021
+msnbot-40-77-188-234.search.msn.com
+0 1 1 53436 0 0
+-
+73.siteaudit.bot.semrush.com
+0 1 1 26 0 0
+-
+52.230.152.117
+0 1 1 16414 0 0
+-
+78.9.42.186.static.anycast.cnt-grms.ec
+0 4 1 27687 1 1701763487
+-
+msnbot-40-77-167-254.search.msn.com
+0 2 2 1727088 1 1701875963
+/
+fwdproxy-vll-001.fbsv.net
+0 1 1 49222 0 0
+-
+customer-190-63-238-139.claro.com.ec
+0 2 1 1213 1 1701860925
+-
+msnbot-40-77-189-169.search.msn.com
+0 1 1 51316 0 0
+-
+host-177-234-223-19.nedetel.net
+0 3 3 17073 0 0
+-
+hfce-191-99-26-175.customer.claro.com.ec
+0 82 77 16928955 1 1701785531
+/
+5-255-231-32.spider.yandex.com
+0 1 1 26 0 0
+-
+27.44.203.5
+0 1 1 255087 0 0
+-
+host-45-189-56-65.nedetel.net
+0 260 241 47297331 1 1701865778
+/
+52.233.106.147
+0 2 0 814 1 1701836701
+/
+msnbot-52-167-144-16.search.msn.com
+0 25 23 2341946 4 1701896851
+/consultas
+msnbot-40-77-190-202.search.msn.com
+0 1 1 113502 0 0
+-
+crawl-66-249-70-4.googlebot.com
+0 2 2 266311 0 0
+-
+hydrogen118-ext2.a.ahrefs.com
+0 1 1 26 0 0
+-
+host-157-100-204-230.ecua.net.ec
+0 1 1 6007 1 1701901100
+/
+fwdproxy-rva-006.fbsv.net
+0 1 1 26 0 0
+-
+msnbot-52-167-144-222.search.msn.com
+0 2 2 3610 2 1701803080
+/register
+msnbot-52-167-144-226.search.msn.com
+0 10 9 80990 4 1701724111
+/
+msnbot-157-55-39-52.search.msn.com
+0 1 1 6007 1 1701535449
+/
+52.230.152.28
+0 1 1 26 0 0
+-
+186.219.49.81
+0 108 88 17068596 1 1701859354
+-
+crawl-66-249-66-129.googlebot.com
+0 44 39 3807300 14 1701704043
+-
+host-181-199-59-135.ecua.net.ec
+0 54 51 16842505 1 1701424559
+/
+77.31.168.207
+0 1 0 1552 0 0
+-
+crawl-66-249-66-206.googlebot.com
+0 23 20 703488 3 1701742714
+/
+178.157.102.51
+0 1 1 6007 1 1701429654
+/
+msnbot-52-167-144-231.search.msn.com
+0 10 9 223602 3 1701922349
+/
+27.115.124.109
+0 6 6 251094 0 0
+-
+crawl-66-249-75-162.googlebot.com
+0 22 17 1406802 8 1701923407
+/
+hydrogen319-ext2.a.ahrefs.com
+0 1 1 26 0 0
+-
+c178.babbar.eu
+0 2 2 12029 1 1701455302
+/
+msnbot-40-77-167-63.search.msn.com
+0 3 3 4237 3 1701881802
+/login
+corp-190-12-15-254.uio.puntonet.ec
+0 109 95 19460506 1 1701730311
+/
+52.230.152.79
+0 1 1 26 0 0
+-
+200-7-247-254.movistar.com.ec
+0 77 64 3595594 1 1701683591
+-
+52.230.152.17
+0 1 1 306 0 0
+-
+crawl-66-249-66-200.googlebot.com
+0 46 37 3697087 16 1701703137
+/
+52.230.152.38
+0 1 1 33375 0 0
+-
+204.217.180.95
+0 26 23 121540 1 1701580442
+/documentos/pac-reformas
+50.237.125.200.static.anycast.cnt-grms.ec
+0 138 124 18136044 2 1701862913
+-
+233.246.196.35.bc.googleusercontent.com
+0 1 1 170118 0 0
+-
+vps-a0b42610.vps.ovh.net
+0 2 0 2182 1 1701473891
+/
+msnbot-40-77-167-68.search.msn.com
+0 11 11 85179 1 1701765377
+/login
+143.11.42.186.static.anycast.cnt-grms.ec
+0 3 3 17073 0 0
+-
+host-157-100-136-211.ecua.net.ec
+0 94 83 17458392 2 1701854684
+-
+43.139.62.226
+0 1 0 573 0 0
+-
+msnbot-52-167-144-8.search.msn.com
+0 1 1 3865 0 0
+-
+200-7-246-213.movistar.com.ec
+0 163 144 34765376 1 1701691633
+/
+msnbot-52-167-144-163.search.msn.com
+0 5 5 19830 4 1701848345
+/turnos
+c138.babbar.eu
+0 1 1 3948 1 1701455288
+/noticias
+msnbot-20-15-133-170.search.msn.com
+0 2 0 573 1 1701866134
+/
+msnbot-40-77-167-22.search.msn.com
+0 9 9 41102 3 1701888316
+/
+209.208.78.48
+0 2 2 12014 2 1701715222
+/
+fwdproxy-frc-016.fbsv.net
+0 1 1 25446 1 1701758420
+/
+host-45-189-56-5.nedetel.net
+0 205 174 35212100 2 1701862101
+-
+crawl-66-249-66-197.googlebot.com
+0 4 4 15677 0 0
+-
+hydrogen191-ext2.a.ahrefs.com
+0 1 1 26 0 0
+-
+95-108-213-109.spider.yandex.com
+0 1 0 573 0 0
+-
+dynamicip-176-214-81-187.pppoe.yar.ertelecom.ru
+0 1 1 25446 1 1701918630
+/
+customer-190-63-98-188.claro.com.ec
+0 2 2 14939 0 0
+-
+customer-190-63-239-135.claro.com.ec
+0 73 72 16782236 1 1701874456
+/
+host-181-199-54-4.ecua.net.ec
+0 1 0 51 1 1701443965
+-
+fwdproxy-pnb-119.fbsv.net
+0 1 0 1552 0 0
+-
+163.84.227.35.bc.googleusercontent.com
+0 1 1 238922 0 0
+-
+ec2-54-78-108-18.eu-west-1.compute.amazonaws.com
+0 1 1 25657 1 1701704752
+/
+207.bl.bot.semrush.com
+0 1 1 4823 1 1701431143
+/noticia/calendario-de-matriculacion-vehicular-2021
+95-108-213-191.spider.yandex.com
+0 1 1 26 0 0
+-
+msnbot-157-55-39-57.search.msn.com
+0 1 0 573 1 1701421398
+/
+host-181-199-59-200.ecua.net.ec
+0 80 13 1893482 1 1701593653
+-
+200-7-246-154.movistar.com.ec
+0 21 16 15834169 1 1701687805
+-
+232.159.138.34.bc.googleusercontent.com
+0 1 1 381630 0 0
+-
+host-200-63-105-156.fibramax.ec
+0 56 3 11875 1 1701596655
+/
+194.36.99.247
+0 4 3 12873 1 1701738399
+/login
+206.11.42.186.static.anycast.cnt-grms.ec
+0 204 189 22502267 2 1701767243
+-
+190.99.78.34
+0 1 0 573 1 1701806440
+-
+146.70.186.190
+0 28 23 122518 1 1701749569
+/documentos/pac
+host-181-199-54-139.ecua.net.ec
+0 247 169 25796317 2 1701676932
+-
+fwdproxy-ncg-116.fbsv.net
+0 1 1 25445 1 1701495243
+/
+200-7-246-210.movistar.com.ec
+0 69 50 16814542 1 1701440013
+-
+msnbot-52-167-144-195.search.msn.com
+0 6 5 63243 0 0
+-
+16.73.196.181.static.anycast.cnt-grms.ec
+0 249 211 49389234 2 1701518958
+-
+msnbot-52-167-144-205.search.msn.com
+0 3 3 413128 2 1701803100
+/consultas
+177-53-215-118.fibramax.ec
+0 3 3 17073 0 0
+-
+petalbot-114-119-155-252.petalsearch.com
+0 1 1 26 0 0
+-
+87-250-224-4.spider.yandex.com
+0 1 1 26 0 0
+-
+hydrogen271-ext2.a.ahrefs.com
+0 1 1 26 0 0
+-
+54.174.58.253
+0 1 1 0 1 1701439873
+/
+msnbot-40-77-167-132.search.msn.com
+0 2 2 9718 2 1701692281
+/turnos
+msnbot-52-167-144-218.search.msn.com
+0 4 3 433417 1 1701523839
+/
+cache.google.com
+0 88 85 2742439 4 1701899681
+/
+17-241-219-21.applebot.apple.com
+0 2 1 605 1 1701822928
+-
+msnbot-52-167-144-168.search.msn.com
+0 9 8 78982 3 1701870460
+/turnos
+msnbot-40-77-189-120.search.msn.com
+0 1 1 54106 0 0
+-
+proxy-ca014-ext2.a.ahrefs.com
+0 5 5 23199 5 1701780099
+/noticia/calendario-de-matriculacion-vehicular-2021
+52.230.152.46
+0 1 1 2022 0 0
+-
+9.bl.bot.semrush.com
+0 2 1 22207 1 1701862484
+/
+crawl-66-249-66-207.googlebot.com
+0 6 5 260108 2 1701742725
+-
+msnbot-40-77-190-226.search.msn.com
+0 1 1 59324 0 0
+-
+52.230.152.254
+0 1 1 6758 0 0
+-
+host-157-100-204-23.ecua.net.ec
+0 3 3 17073 0 0
+-
+ec2-34-243-253-93.eu-west-1.compute.amazonaws.com
+0 1 1 25710 1 1701694050
+/
+153.137.47.186.static.anycast.cnt-grms.ec
+0 2 0 624 1 1701806980
+-
+10.158.46.186.static.anycast.cnt-grms.ec
+0 1 0 0 0 0
+-
+msnbot-40-77-190-113.search.msn.com
+0 9 9 214625 0 0
+-
+130.255.166.24
+0 1 1 26 0 0
+-
+c179.babbar.eu
+0 1 1 21479 1 1701455484
+/
+120.190-10-170.uio.satnet.net
+0 50 49 16664869 1 1701780694
+-
+host-200-24-141-116.nedetel.net
+0 267 242 56653036 2 1701768399
+/
+244.96.209.35.bc.googleusercontent.com
+0 1 1 6008 1 1701816795
+/
+host-157-100-142-4.ecua.net.ec
+0 202 146 22777437 1 1701689849
+-
+host-181-199-58-20.ecua.net.ec
+0 104 94 23853588 1 1701423204
+-
+host-157-100-134-195.ecua.net.ec
+0 46 45 16492970 1 1701632131
+/
+203.bl.bot.semrush.com
+0 3 2 4800 2 1701913196
+/
+customer-190-63-241-169.claro.com.ec
+0 3 3 17073 0 0
+-
+5-255-231-139.spider.yandex.com
+0 1 1 4065006 0 0
+-
+52.230.152.244
+0 1 1 26 0 0
+-
+crawl-66-249-64-225.googlebot.com
+0 1 1 225521 0 0
+-
+52.230.152.9
+0 1 1 26 0 0
+-
+msnbot-157-55-39-55.search.msn.com
+0 1 1 5261 1 1701424112
+/turnos
+fwdproxy-ftw-117.fbsv.net
+0 1 1 25446 1 1701908246
+/
+207.148.20.74.vultrusercontent.com
+0 1 0 573 0 0
+-
+200-7-246-218.movistar.com.ec
+0 6 3 9735 1 1701416088
+/
+host-45-236-104-76.fibramax.ec
+0 97 87 19056909 1 1701419521
+-
+52.230.152.143
+0 1 1 535 0 0
+-
+crawl-66-249-66-208.googlebot.com
+0 5 4 592114 0 0
+-
+host-200-24-136-55.nedetel.net
+0 2 0 1146 0 0
+-
+crawl-54-236-1-13.pinterest.com
+0 1 0 573 0 0
+-
+ftth-179-49-61-168.uio.celerity.ec
+0 1 0 51 1 1701390585
+-
+177-44-160-246.wiip.com.br
+0 1 0 1552 0 0
+-
+181.198.102.181
+0 520 360 39978663 4 1701864473
+-
+host-157-100-204-247.ecua.net.ec
+0 320 269 59161472 3 1701617183
+/
+52.230.152.93
+0 1 1 5177 0 0
+-
+fwdproxy-ash-113.fbsv.net
+0 1 1 25446 1 1701776422
+/
+65.166.209.35.bc.googleusercontent.com
+0 1 1 6007 1 1701439203
+/
+201.bl.bot.semrush.com
+0 3 3 8793 2 1701909676
+/directorio
+95-108-213-5.spider.yandex.com
+0 1 0 573 0 0
+-
+fwdproxy-ncg-002.fbsv.net
+0 1 1 25446 1 1701775858
+/
+msnbot-40-77-190-11.search.msn.com
+0 2 2 110640 0 0
+-
+45.140.250.60
+0 1 0 573 0 0
+-
+52.230.152.71
+0 1 1 26 0 0
+-
+77.252.237.35.bc.googleusercontent.com
+0 1 1 160966 0 0
+-
+11.bl.bot.semrush.com
+0 2 2 52 0 0
+-
+246.221.209.35.bc.googleusercontent.com
+0 1 1 25445 1 1701589522
+/
+hydrogen170-ext2.a.ahrefs.com
+0 1 1 26 0 0
+-
+187.19.113.181.static.anycast.cnt-grms.ec
+0 888 827 276750210 1 1701429799
+-
+msnbot-52-167-144-228.search.msn.com
+0 6 6 47879 2 1701775063
+/turnos
+154.16.49.68
+0 1 1 6008 1 1701820139
+/
+msnbot-40-77-167-26.search.msn.com
+0 6 5 22841 5 1701895302
+/formularios
+102.165.54.126
+0 4 3 12872 1 1701739408
+/login
+host-45-162-72-120.dynamic.opticom.net.ec
+0 499 435 116091873 8 1701865517
+-
+msnbot-40-77-190-53.search.msn.com
+0 1 1 188724 0 0
+-
+msnbot-40-77-167-76.search.msn.com
+0 2 2 5169 1 1701801870
+/documentos/rendicion-de-cuentas
+40.88.21.235
+0 2 2 33614 1 1701683826
+/
+msnbot-40-77-189-237.search.msn.com
+0 9 9 221733 0 0
+-
+181.198.42.226
+0 96 84 17358847 1 1701858260
+-
+msnbot-52-167-144-145.search.msn.com
+0 10 10 252449 3 1701864317
+/register
+fwdproxy-nha-117.fbsv.net
+0 3 3 84025 1 1701775823
+/
+18.9.42.186.static.anycast.cnt-grms.ec
+0 209 175 23965207 1 1701730345
+-
+google-proxy-66-102-8-33.google.com
+0 2 2 2845622 0 0
+-
+msnbot-40-77-190-1.search.msn.com
+0 2 2 105422 0 0
+-
+52.230.152.4
+0 2 2 5163 0 0
+-
+host-157-100-87-200.ecua.net.ec
+0 85 76 23108411 1 1701403594
+/
+msnbot-40-77-167-38.search.msn.com
+0 1 1 4394 1 1701713913
+/documentos/resoluciones
+213-180-203-51.spider.yandex.com
+0 1 1 6881 0 0
+-
+190.63.255.236
+0 83 68 16785486 1 1701428948
+/
+crawl-66-249-72-163.googlebot.com
+0 2 1 11275 0 0
+-
+crawl-66-249-70-6.googlebot.com
+0 2 2 69487 0 0
+-
+host-167-250-180-109.nedetel.net
+0 704 321 20549080 17 1701892328
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+msnbot-40-77-167-32.search.msn.com
+0 1 1 222311 0 0
+-
+17.bl.bot.semrush.com
+0 1 1 26 0 0
+-
+172.187.136.26
+0 1 1 6007 1 1701928470
+/
+crawl-66-249-75-109.googlebot.com
+0 3 3 550697 0 0
+-
+msnbot-52-167-144-234.search.msn.com
+0 1 1 6007 1 1701914203
+/
+msnbot-52-167-144-180.search.msn.com
+0 5 5 63243 0 0
+-
+200-7-247-132.movistar.com.ec
+0 90 87 21521853 1 1701930694
+/
+crawl-66-249-75-161.googlebot.com
+0 10 7 451739 1 1701912853
+-
+52.233.106.31
+0 2 0 854 1 1701924690
+/
+msnbot-52-167-144-184.search.msn.com
+0 1 0 573 1 1701928166
+/
+msnbot-40-77-167-70.search.msn.com
+0 1 1 6690 0 0
+-
+200.bl.bot.semrush.com
+0 1 1 4022 1 1701929624
+/documentos/resoluciones-directorio-epmc-2022
+msnbot-40-77-167-143.search.msn.com
+0 6 6 90293 0 0
+-
+50.137.47.186.static.anycast.cnt-grms.ec
+0 2 1 6580 1 1701907357
+/
+186.101.106.158
+0 28 17 345095 1 1701912939
+/
+crawl-66-249-75-163.googlebot.com
+0 1 1 6007 1 1701921430
+/
+msnbot-52-167-144-209.search.msn.com
+0 1 1 125564 0 0
+-
+proxy-ca013-ext2.a.ahrefs.com
+0 1 1 6007 1 1701923174
+/
+msnbot-40-77-167-255.search.msn.com
+0 1 0 573 1 1701931466
+/
+proxy-ca010-ext2.a.ahrefs.com
+0 1 1 4746 1 1701913391
+/requsitos
+crawl-66-249-75-107.googlebot.com
+0 3 3 808533 0 0
+-
+msnbot-40-77-188-132.search.msn.com
+0 9 9 221733 0 0
+-
+216.244.66.195
+0 12 11 3989046 1 1701907528
+/
+crawl-66-249-75-108.googlebot.com
+0 1 1 183629 0 0
+-
+msnbot-52-167-144-191.search.msn.com
+0 1 1 15126 0 0
+-
+193.bl.bot.semrush.com
+0 1 1 4125 1 1701917564
+/
+202.bl.bot.semrush.com
+0 1 1 4400 1 1701920447
+/documentos/resoluciones
+crawl-66-249-66-198.googlebot.com
+0 1 1 6007 1 1701931466
+/
+msnbot-52-167-144-231.search.msn.com
+0 8 7 24602 2 1701922349
+/
+crawl-66-249-75-162.googlebot.com
+0 5 5 154599 3 1701923407
+/
+dynamicip-176-214-81-187.pppoe.yar.ertelecom.ru
+0 1 1 25446 1 1701918630
+/
+203.bl.bot.semrush.com
+0 2 2 4504 1 1701913196
+/
+fwdproxy-ftw-117.fbsv.net
+0 1 1 25446 1 1701908246
+/
+201.bl.bot.semrush.com
+0 1 1 4248 1 1701909676
+/directorio
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.epmc.gob.ec/index.php/turnos
+0 7303
+http://epmc.gob.ec/sistema-turnos/0550286918-11-La Maná
+0 6
+http://epmc.gob.ec/turno/2260000122620850
+0 3
+http://epmc.gob.ec/turno/2260000122620883
+0 2
+http://epmc.gob.ec/turno/2260000122620853
+0 3
+http://www.epmc.gob.ec/index.php/documentos/autorizacion-para-renovacion-anual-de-matricula
+0 2
+http://epmc.gob.ec/sistema-turnos/1715220677-18-La Maná
+0 5
+http://epmc.gob.ec/sistema-turnos/1305676973-22-La Maná
+0 5
+http://epmc.gob.ec/sistema-turnos/0502128515-2-La Maná
+0 1
+epmc.gob.ec
+0 1
+http://epmc.gob.ec/turno/2260000122620882
+0 7
+http://epmc.gob.ec/turno/2260000122620912
+0 3
+http://epmc.gob.ec/sistema-turnos/0503416703-15-La Maná
+0 6
+http://epmc.gob.ec/turno/2260000122620870
+0 3
+http://epmc.gob.ec/sistema-turnos/1204843286-2-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620852
+0 8
+http://www.epmc.gob.ec/index.php/password/reset/b7fd1c1c0fc3d07b4a7fe1f3124bb0a73c44f8a4eca577938b06ebca7f36455b
+0 2
+http://epmc.gob.ec/noticia/calendario-de-matriculacion-vehicular-2021
+0 4
+http://epmc.gob.ec/turno/2260000122620880
+0 3
+http://epmc.gob.ec/sistema-turnos/1204843286-14-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620892
+0 8
+http://www.epmc.gob.ec/index.php/consultas
+0 40
+http://www.epmc.gob.ec/index.php/turno/2260000122620881
+0 2
+http://epmc.gob.ec/sistema-turnos/1305676973-23-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620887
+0 3
+http://epmc.gob.ec/register
+0 426
+http://epmc.gob.ec/turno/2260000122620863
+0 3
+http://epmc.gob.ec/sistema-turnos/0504047077-7-La Maná
+0 9
+http://epmc.gob.ec/turno/2260000122620848
+0 7
+http://www.google.com/url
+0 1
+http://epmc.gob.ec/email/verify/12293/a7c9a6bce3121b6aca4e09c6379f7760a8a27b04
+0 1
+http://epmc.gob.ec/sistema-turnos/0504840877-3-La Maná
+0 6
+http://epmc.gob.ec/sistema-turnos/0503416703-5-La Maná
+0 6
+http://epmc.gob.ec/turno/2260000122620884
+0 2
+http://www.epmc.gob.ec/index.php/requsitos
+0 42
+http://epmc.gob.ec/sistema-turnos/0550286918-16-La Maná
+0 5
+http://epmc.gob.ec/sistema-turnos/0503416703-17-La Maná
+0 5
+http://www.epmc.gob.ec/front/css/style.css
+0 1467
+http://epmc.gob.ec/turno/2260000122620855
+0 2
+http://epmc.gob.ec/turno/2260000122620889
+0 7
+http://epmc.gob.ec/sistema-turnos/0940806102-7-La Maná
+0 5
+http://www.epmc.gob.ec/index.php/turno/2260000122620859
+0 3
+http://epmc.gob.ec/turno/2260000122620879
+0 3
+http://www.epmc.gob.ec/requsitos
+0 29
+http://epmc.gob.ec/sistema-turnos/1715220677-19-La Maná
+0 5
+http://epmc.gob.ec/login
+0 1186
+http://www.epmc.gob.ec/index.php/password/reset
+0 32
+http://epmc.gob.ec/sistema-turnos/0503945545-14-La Maná
+0 6
+http://epmc.gob.ec/sistema-turnos/1204843286-4-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620891
+0 8
+http://epmc.gob.ec/front/css/revolution-slider.css
+0 27
+http://epmc.gob.ec/turno/2260000122620898
+0 3
+http://epmc.gob.ec/sistema-turnos/0504047077-6-La Maná
+0 8
+http://epmc.gob.ec/turno/2260000122620851
+0 3
+https://epmc.gob.ec/front/css/style.css
+0 1
+http://epmc.gob.ec/turnos
+0 1967
+http://epmc.gob.ec/tur
+0 6
+http://epmc.gob.ec/sistema-turnos/0504092065-23-La Maná
+0 5
+http://epmc.gob.ec/sistema-turnos/0550286918-14-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620904
+0 3
+https://google.com
+0 2
+http://epmc.gob.ec/sistema-turnos/0940806102-3-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620875
+0 2
+http://epmc.gob.ec/password/reset/63fca0746406072fc2e2ef9e5a2220a39299566fb78326c813c8fa99717cec15
+0 2
+http://epmc.gob.ec/turno/2260000122620876
+0 3
+http://baidu.com/
+0 6
+http://epmc.gob.ec/turnos/reimpresion
+0 41
+http://epmc.gob.ec/front/css/simple-line-icons.css
+0 56
+http://www.epmc.gob.ec/index.php/sistema-turnos/0550497143001-2-La Maná
+0 6
+http://epmc.gob.ec/consultas
+0 17
+http://www.epmc.gob.ec/index.php/noticias
+0 16
+http://epmc.gob.ec/
+0 798
+http://www.epmc.gob.ec/index.php/sistema-turnos/1851266559-21-La Maná
+0 3
+http://epmc.gob.ec/turno/2260000122620868
+0 3
+http://www.epmc.gob.ec/index.php/turno/2260000122620867
+0 8
+http://epmc.gob.ec/turno/2260000122620896
+0 3
+http://epmc.gob.ec/sistema-turnos/1305676973-24-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620861
+0 4
+http://www.epmc.gob.ec/index.php/turnero/pujili
+0 1988
+http://epmc.gob.ec/sistema-turnos/1305676973-21-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620913
+0 8
+http://epmc.gob.ec/sistema-turnos/0504092065-24-La Maná
+0 5
+https://www.google.com/
+0 196
+- (Direct Request)
+0 3242
+http://epmc.gob.ec/turno/2260000122620847
+0 9
+http://epmc.gob.ec/sistema-turnos/0503058208-7-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620903
+0 3
+http://epmc.gob.ec/sistema-turnos/1803411923-15-La Maná
+0 6
+http://www.epmc.gob.ec/turnos
+0 38
+http://epmc.gob.ec/formularios
+0 50
+http://www.epmc.gob.ec/index.php/admin
+0 148
+http://epmc.gob.ec/sistema-turnos/1715220677-15-La Maná
+0 5
+http://m.facebook.com
+0 2
+http://epmc.gob.ec/turno/2260000122620874
+0 8
+http://www.epmc.gob.ec/index.php/turno/2260000122620846
+0 6
+http://www.epmc.gob.ec/index.php
+0 418
+http://epmc.gob.ec/sistema-turnos/1204009391-13-La Maná
+0 6
+http://epmc.gob.ec/email/verify/19460/036961b72506923a6ed1ab37899997e1d5c30d28
+0 1
+http://epmc.gob.ec/turno/2260000122620911
+0 3
+http://epmc.gob.ec/turno/2260000122620872
+0 3
+http://epmc.gob.ec/sistema-turnos/0503058208-6-La Maná
+0 5
+http://www.epmc.gob.ec/index.php/sistema-turnos/1709443459-62-La Maná
+0 73
+https://epmc.gob.ec/quienes-somos
+0 1
+https://epmc.gob.ec/
+0 1
+android-app://com.google.android.gm/
+0 9
+http://epmc.gob.ec/turno/2260000122620908
+0 3
+http://epmc.gob.ec/email/verify
+0 30
+http://www.epmc.gob.ec/formularios
+0 14
+http://epmc.gob.ec/sistema-turnos/0940806102-4-La Maná
+0 5
+https://lm.facebook.com/
+0 7
+http://epmc.gob.ec/turnero/pujili
+0 371
+http://m.facebook.com/
+0 5
+http://epmc.gob.ec/sistema-turnos/1201979133-12-La Maná
+0 5
+http://epmc.gob.ec/sistema-turnos/0504092065-20-La Maná
+0 5
+http://epmc.gob.ec/sistema-turnos/0503416703-8-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620897
+0 3
+http://epmc.gob.ec/requisitos/f_1621612947.jpg
+0 1
+http://epmc.gob.ec/turno/2260000122620864
+0 4
+http://epmc.gob.ec/sistema-turnos/0502065832-12-La Maná
+0 5
+http://epmc.gob.ec/sistema-turnos/1201979133-9-La Maná
+0 5
+http://www.epmc.gob.ec/index.php/sistema-turnos/0503656282-1-La Maná
+0 3
+http://www.epmc.gob.ec/index.php/turnos/reimpresion
+0 21
+http://epmc.gob.ec/turno/2260000122620856
+0 3
+http://epmc.gob.ec/turno/2260000122620907
+0 2
+http://epmc.gob.ec
+0 63
+http://www.epmc.gob.ec/index.php/register
+0 1078
+http://www.epmc.gob.ec/index.php/formularios
+0 80
+http://epmc.gob.ec/password/reset
+0 4
+http://www.epmc.gob.ec/index.php/turno/2260000122620827
+0 115
+http://epmc.gob.ec/turno/2260000122620866
+0 5
+http://epmc.gob.ec/turno/2260000122620849
+0 3
+http://epmc.gob.ec/sistema-turnos/0503416703-19-La Maná
+0 10
+http://epmc.gob.ec/turno/2260000122620877
+0 3
+http://epmc.gob.ec/sistema-turnos/0502180144-1-La Maná
+0 6
+http://epmc.gob.ec/android-icon-192x192.png
+0 1
+http://epmc.gob.ec/sistema-turnos/0503748287-26-La Maná
+0 5
+http://www.epmc.gob.ec/index.php/turnero/lamana
+0 641
+http://epmc.gob.ec/sistema-turnos/1201979133-11-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620895
+0 7
+https://pangua.gob.ec
+0 2
+https://www.bing.com/
+0 49
+http://epmc.gob.ec/sistema-turnos/0940806102-6-La Maná
+0 5
+http://www.epmc.gob.ec/index.php/login
+0 1799
+http://www.epmc.gob.ec/consultas
+0 5
+http://epmc.gob.ec/turno/2260000122620865
+0 3
+http://www.epmc.gob.ec/index.php/sistema-turnos/0500984448-10-La Maná
+0 1
+http://epmc.gob.ec/sistema-turnos/0502065832-3-La Maná
+0 6
+https://www.google.com.ec/
+0 14
+http://epmc.gob.ec/turno/2260000122620893
+0 7
+http://epmc.gob.ec/turno/2260000122620885
+0 9
+http://epmc.gob.ec/turno/2260000122620886
+0 4
+https://www.google.com/url
+0 2
+http://www.epmc.gob.ec/
+0 278
+https://www.google.es/
+0 1
+http://epmc.gob.ec/turnero/lamana
+0 1106
+http://epmc.gob.ec/turno/2260000122620902
+0 3
+http://epmc.gob.ec/sistema-turnos/0501882690-11-La Maná
+0 6
+http://epmc.gob.ec/front/css/ionicons.min.css
+0 62
+http://epmc.gob.ec/turno/2260000122620844
+0 12
+http://epmc.gob.ec/perfil
+0 328
+http://epmc.gob.ec/sistema-turnos/0550286918-18-La Maná
+0 5
+http://www.epmc.gob.ec/index.php/password/reset/3b2f2350bf10fd2f2a22db3f47937fea659662a733f567726c6ff9fd44d5f64c
+0 23
+http://epmc.gob.ec/sistema-turnos/0504092065-22-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620858
+0 9
+http://epmc.gob.ec/turno/2260000122620915
+0 3
+http://epmc.gob.ec/sistema-turnos/1715220677-16-La Maná
+0 5
+http://epmc.gob.ec/sistema-turnos/0502065832-8-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620854
+0 3
+http://epmc.gob.ec/turno/2260000122620899
+0 3
+http://epmc.gob.ec/sistema-turnos/1201979133-10-La Maná
+0 5
+http://www.epmc.gob.ec/index.php/sistema-turnos/0501840953-12-La Maná
+0 1
+http://epmc.gob.ec/front/css/style.css
+0 622
+http://epmc.gob.ec/sistema-turnos/0503945545-17-La Maná
+0 5
+https://epmc.gob.ec/login
+0 1
+http://epmc.gob.ec/turno/2260000122620873
+0 9
+http://www.epmc.gob.ec/front/css/ionicons.min.css
+0 143
+http://epmc.gob.ec/sistema-turnos/0550286918-9-La Maná
+0 10
+http://epmc.gob.ec/sistema-turnos/1204843286-3-La Maná
+0 5
+http://epmc.gob.ec/sistema-turnos/0503058208-4-La Maná
+0 6
+http://epmc.gob.ec/sistema-turnos/0503058208-5-La Maná
+0 5
+http://epmc.gob.ec/turno/2260000122620909
+0 3
+https://l.facebook.com/
+0 10
+http://epmc.gob.ec/sistema-turnos/0503058208-9-La Maná
+0 5
+http://epmc.gob.ec/directorio
+0 2
+http://epmc.gob.ec/admin
+0 41
+http://www.epmc.gob.ec/index.php/turno/2260000122620890
+0 20
+http://www.epmc.gob.ec/index.php/sistema-turnos/0501840953-10-La Maná
+0 1
+http://epmc.gob.ec/turno/2260000122620871
+0 3
+http://epmc.gob.ec/turno/2260000122620901
+0 9
+http://epmc.gob.ec/sistema-turnos/0501497200-1-La Maná
+0 33
+http://www.epmc.gob.ec/requisitos/f_1622472781.jpg
+0 1
+http://www.epmc.gob.ec/uploads/f_1626100431.pdf
+0 3
+http://www.epmc.gob.ec/front/css/simple-line-icons.css
+0 126
+http://epmc.gob.ec/sistema-turnos/1204843286-13-La Maná
+0 6
+http://epmc.gob.ec/sistema-turnos/1305676973-20-La Maná
+0 5
+http://epmc.gob.ec/sistema-turnos/0940806102-2-La Maná
+0 5
+http://epmc.gob.ec/sistema-turnos/1201979133-5-La Maná
+0 6
+http://www.epmc.gob.ec/index.php/noticia/calendario-de-matriculacion-vehicular-2021
+0 3
+http://epmc.gob.ec/sistema-turnos/0503748287-25-La Maná
+0 6
+http://www.epmc.gob.ec/front/css/revolution-slider.css
+0 47
+http://www.epmc.gob.ec/requisitos/f_1621612947.jpg
+0 3
+http://epmc.gob.ec/turno/2260000122620914
+0 8
+http://epmc.gob.ec/turno/2260000122620860
+0 7
+http://www.epmc.gob.ec/index.php/password/reset/6d4c6ff913aafba9de930a73f621594249949cbb361b24a6dc9af58988e8c78c
+0 3
+http://www.epmc.gob.ec/index.php/turno/2260000122620857
+0 2
+http://epmc.gob.ec/requsitos
+0 76
+http://www.epmc.gob.ec/index.php/password/reset/053dee5bc70b1f4953840005f1c832420f03a7829ebee477e4108688b963c747
+0 4
+http://epmc.gob.ec/turno/2260000122620894
+0 3
+http://epmc.gob.ec/turno/2260000122620888
+0 3
+http://www.epmc.gob.ec/index.php/perfil
+0 518
+http://epmc.gob.ec/turno/2260000122620862
+0 9
+http://epmc.gob.ec/sistema-turnos/1204009391-1-La Maná
+0 6
+http://epmc.gob.ec/turno/2260000122620906
+0 3
+http://epmc.gob.ec/turno/2260000122620905
+0 2
+http://www.epmc.gob.ec/index.php/email/verify
+0 64
+http://www.epmc.gob.ec/index.php/turno/2260000122620869
+0 7
+http://epmc.gob.ec/turno/2260000122620910
+0 3
+http://epmc.gob.ec/turno/2260000122620900
+0 3
+http://epmc.gob.ec/sistema-turnos/1715220677-13-La Maná
+0 5
+http://epmc.gob.ec/sistema-turnos/0504738485-8-La Maná
+0 6
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+0 327
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 71
+Mozilla/5.0 (Linux; Android 13; SM-S908E Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 37
+Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+0 6
+Mozilla/5.0 (compatible; YandexFavicons/1.0; +http://yandex.com/bots)
+0 13
+Mozilla/5.0 (Linux; Android 13; SM-A135M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+0 21
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+0 1921
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/100.0.48
+0 45
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.2151.92
+0 2
+Mozilla/5.0 (Linux; U; Android 12; es-es; Redmi Note 9 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/
+0 199
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Mobile/15E148 Sa
+0 52
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 
+0 49
+WhatsApp/2.23.23.79 i
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15
+0 8
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78
+0 25
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 
+0 130
+Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0
+0 152
+Safari/15613.3.9.1.16 CFNetwork/1128.1 Darwin/19.6.0 (x86_64)
+0 1
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+0 20
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6.1 Safari/605.1.15
+0 175
+Mozilla/5.0 (Linux; Android 12; SM-M515F Build/SP1A.210812.016; ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/1
+0 113
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 13
+Mozilla/5.0 (Linux; Android 12; Infinix X670 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Ch
+0 71
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B101 [FBAN/FBIOS;F
+0 84
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E14
+0 108
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 Edg/89.0.7
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 3
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+0 141
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; Win64; x64; Trident/7.0; .NET4.0E; .NET4.0C)
+0 1
+Mozilla/5.0 (Linux; U; Android 10; es-us; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/
+0 4
+Mozilla/5.0 (Linux; Android 10; M2006C3MG Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 3
+CCBot/2.0 (https://commoncrawl.org/faq/)
+0 22
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.159 Mobile
+0 85
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.0; +https://openai.com/gptbot)
+0 61
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+0 4587
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+0 149
+Mozilla/5.0 (Android 10; Mobile; rv:120.0) Gecko/120.0 Firefox/120.0
+0 69
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+0 3
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/112.0.0.
+0 33
+Mozilla/5.0 (Linux; Android 10; MED-LX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.81 Mobile Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 9
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A013M Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+0 4543
+Buck/2.3.2; (+https://app.hypefactors.com/media-monitoring/about.html)
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E14
+0 1040
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+0 66
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.578.70 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 13; M2012K10C Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0
+0 75
+MobileSafari/8616.2.9.10.13 CFNetwork/1485 Darwin/23.1.0
+0 11
+Mozilla/5.0 (Linux; Android 13; 2201117TL Build/TKQ1.221114.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 90
+Mozilla/5.0 (Linux; Android 13; Infinix X678B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 61
+Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3152.119 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 12; Infinix X6826 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 49
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.199 Safari/537.36
+0 59
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; InfoPath.3; .NET CLR 2.0.50727; .N
+0 560
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15
+0 94
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+0 50
+Mozilla/5.0 (Linux; Android 6.0; LG-H631) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+0 614
+Spawning-AI
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.41 Safari/537.36
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729)
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.199 Mobile
+0 44
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E148 Safari/
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E; ms-office; MSOffice 16)
+0 2
+Go-http-client/1.1
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0 (compatible; mozilla/5.0 (windows nt 10.0; win64
+0 1
+Mozilla/5.0 (compatible; SiteAuditBot/0.97; +http://www.semrush.com/bot.html)
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 109
+Mozilla/5.0 (Linux; Android 13; SM-A235M Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 3
+Mozilla/5.0 (Windows NT 6.1; rv:109.0) Gecko/20100101 Firefox/115.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+0 1
+Googlebot-Image/1.0
+0 12
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.19
+0 600
+Client/36471 CFNetwork/1410.0.3 Darwin/22.6.0
+0 4
+Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+0 53
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; InfoPath.3)
+0 453
+Mozilla%2F5.0+%28Linux%3B+U%3B+Android+13%3B+es-us%3B+SM-A528B+Build%2FTP1A.220624.014%29+AppleWebKit%2F537.36+%28KHTML%2C+li
+0 9
+Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 89
+Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Appl
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+0 1
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 132
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 5.50; Windows 98; SiteKiosk 4.8)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.34 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 
+0 259
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0
+0 358
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 
+0 63
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) colonel Chrome/196.3.1597.530 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/119.0.6045.169 Mobile/1
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.2612.23 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 EdgA/118.0.20
+0 28
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
+0 1
+MobileSafari/8616.2.9.10.11 CFNetwork/1485 Darwin/23.1.0
+0 3
+Mozilla/5.0 (Android 11; Mobile; rv:120.0) Gecko/120.0 Firefox/120.0
+0 24
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 189
+Mozilla/5.0 (Linux; Android 12; Infinix X669 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Ch
+0 98
+Configuraci%C3%B3n/1250.2.1 CFNetwork/1485 Darwin/23.1.0
+0 6
+WhatsApp/2.23.20.0
+0 8
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+0 58
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GoogleOther) Chrome/119.0.6045.123 Safari/537.36
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 61
+Mozilla/5.0 (Android 12; Mobile; rv:120.0) Gecko/120.0 Firefox/120.0
+0 176
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; SM-G610M Build/M1AJQ)
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+0 76
+Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-A042M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.548
+0 95
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0
+0 180
+Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+0 3
+ClaudeBot
+0 2
+Mozilla/5.0 (Linux; U; Android 13; es-us; SM-A528B Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 
+0 287
+Mozilla/5.0 (Linux; Android 10; A80 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.163 Mobil
+0 76
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 3031
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.
+0 1
+Mozilla/5.0 (Linux; Android 11; 21061119AL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36 EdgA
+0 108
+Mozilla%2F5.0+%28Linux%3B+U%3B+Android+13%3B+es-us%3B+Redmi+Note+11+Pro+Build%2FTP1A.220624.014%29+AppleWebKit%2F537.36+%28KH
+0 2
+HubSpot Connect 2.0 (http://dev.hubspot.com/) (namespace: domainValidationHttpClient) - BizOpsCompanies-Tq2-BizCoDomainValida
+0 1
+Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mo
+0 172
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edge/96.0.
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+0 49
+Mozilla/5.0 (Windows NT 10.0; rv:64.0) Gecko/20100101 Firefox/64.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+0 187
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36
+0 91
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+0 24
+Mozilla/5.0 (Linux; Android 12; M2003J15SC Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chro
+0 88
+Mozilla/5.0 (Linux; U; Android 13; es-us; Redmi Note 11 Pro Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Ver
+0 78
+Mozilla/5.0 (Windows NT 10.0; rv:109.0) Gecko/20100101 Firefox/119.0
+0 114
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 21
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 74
+python-requests/2.31.0
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/119.0.6
+0 146
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+0 357
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 10; SM-N960F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 1
+Mozilla/5.0 (compatible; DotBot/1.2; +https://opensiteexplorer.org/dotbot; help@moz.com)
+0 273
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15
+0 34
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.1 Mobile/15E14
+0 120
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518
+0 103
+Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Sa
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/119.0.6045.169 Mobile/1
+0 296
+python-requests/2.27.1
+0 2
+Mozilla/5.0 (Linux; Android 7.1.2; 17MB150WB Build/NZH54D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0
+0 4
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+0 200
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+0 3
+Owler@ows.eu/1
+0 6
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3418.9 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Sa
+0 94
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.123 Mobile
+0 114
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A022M Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 23
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.64 Safari/537.3
+0 49
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+0 563
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36 EdgA/119.0.0.
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+0 82
+SafariViewService/8616.2.9.10.13 CFNetwork/1485 Darwin/23.1.0
+0 18
+MobileSafari/8614.3.7.0.6 CFNetwork/1402.0.8 Darwin/22.2.0
+0 4
+Mozilla/5.0 (Linux; Android 10; SM-J810M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36
+0 49
+Mozilla/5.0 (Linux; Android 10; NEN-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+0 64
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+0 88
+Mozilla/5.0 (Linux; U; Android 13; zh-cn; Infinix X678B Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version
+0 77
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.126
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+0 38
+Mozilla/5.0 (compatible; Pinterestbot/1.0; +http://www.pinterest.com/bot.html)
+0 1
+WinHTTP Example/1.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15
+0 45
+SafariViewService/8616.2.9.10.11 CFNetwork/1485 Darwin/23.1.0
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Sa
+0 54
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 
+0 1121
+Mozilla%2F5.0+%28Linux%3B+U%3B+Android+12%3B+es-es%3B+Redmi+Note+9+Build%2FSP1A.210812.016%29+AppleWebKit%2F537.36+%28KHTML%2
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/291.0.582931352 Mobile/15
+0 136
+Mozilla/5.0 (Linux; Android 12; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+0 72
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.115 Safari/537.36
+0 1
+com.apple.WebKit.Networking/8616.2.9.10.13 CFNetwork/1485 Darwin/23.1.0
+0 2
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+0 10
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-A536E) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/23.0 Chrome/115.0.0.0
+0 4
+# End Of Table - agents
+# -search strings- 
+http://www.epmc.gob.ec/index.php/turnos
+2
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
