@@ -1,22 +1,27 @@
-@extends('layouts.app')  {{-- Asegúrate de utilizar el layout correcto según tu aplicación --}}
+@extends('layouts.app')
 
 @section('content')
-  <div class="container">
-    <h1>Buscar Turnos</h1>
+    <div class="container">
+        <h1>Buscar Turnos</h1>
 
-    {{-- Formulario de búsqueda --}}
-    <form action="{{ route('turnos.buscar') }}" method="GET">
-      <div class="input-group mb-3">
-        <input type="text" class="form-control" placeholder="Buscar turno..." name="q" value="{{ request('q') }}">
-        <div class="input-group-append">
-          <button class="btn btn-primary" type="submit">Buscar</button>
-        </div>
-      </div>
-    </form>
+        <form action="{{ route('buscar.turnos') }}" method="GET">
+            @csrf
+            <div class="form-group">
+                <label for="placa">Placa:</label>
+                <input type="text" name="q" id="placa" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Buscar</button>
+        </form>
 
-    {{-- Resultados de la búsqueda (puedes agregarlos aquí según tus necesidades) --}}
-    <div class="search-results">
-      {{-- Aquí puedes mostrar los resultados de la búsqueda --}}
+        @if(isset($resultados) && count($resultados) > 0)
+            <h2>Resultados:</h2>
+            <ul>
+                @foreach($resultados as $resultado)
+                    <li>Cédula: {{ $resultado->cedula }}, Requisito ID: {{ $resultado->requisito_id }}, Sucursal ID: {{ $resultado->sucursal_id }}</li>
+                @endforeach
+            </ul>
+        @else
+            <p>No se encontraron resultados.</p>
+        @endif
     </div>
-  </div>
 @endsection

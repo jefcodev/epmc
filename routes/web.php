@@ -17,23 +17,30 @@ use Illuminate\Support\Facades\Route;
 
 /* Route::get('/login','Front@index')->name('home'); */
 
+
+use App\Http\Controllers\TurnoController;
+
+
+
+Route::post('agregar-tipo/{id_turno}/{tipo}', [TurnoController::class, 'agregarTipo'])->name('agregar.tipo');
+//Route::post('agregar-tipo/{id_turno}', [TurnoController::class, 'agregarTipo'])->name('agregar.tipo');
+
+Route::get('buscar', [TurnoController::class, 'buscarForm'])->name('buscar.form');
+Route::post('buscar', [TurnoController::class, 'buscar'])->name('buscar');
+Route::get('turno-nuevo', [TurnoController::class, 'mostrarResultado'])->name('turno.nuevo');
+
+
+
+
 Route::get('/', function () {
 	return view('auth.login');
 })->name('home');
-
-
-
-
-
+ 
 
 /* Nuevas turas para turnero */
+//Route::get('/buscar-turnos', 'TurnosBuscar@buscar')->name('buscar.turnos');
 
-Route::get('/turnos/buscar', 'TurnosBuscar@buscar')->name('turnos.buscar');
 
-/* Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function () {
-	Route::get('/turnos/buscar', 'TurnosBuscar@buscar')->name('turnos.buscar');
-});
- */
 
 Route::get('/requsitos', 'Front@requisitos')->name('requisitos');
 Route::get('/formularios', 'Front@formularios')->name('formularios');
