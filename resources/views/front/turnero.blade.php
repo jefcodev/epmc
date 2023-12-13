@@ -102,12 +102,29 @@ if (RateLimiter::tooManyAttempts('send-message:'.$user->id, $perMinute = 5)) {
                                             <input type="hidden" name="fecha" id="fecha">
                                         </div>
                                         <div class="col-md-6">
+                                            <label for="hora">Especifíque la hora Por Favor en el siguiente formato (00:00)</label>
+                                            <!-- <input type="text" name="hora" id="hora"> -->
+                                            <select name="hora" id="hora">
+                                                <option value="08:00am a 08:30am">08:00am a 08:30am</option>
+                                                <option value="08:30am a 09:00am">08:30am a 09:00am</option>
+                                                <option value="09:00am a 09:30am">09:00am a 09:30am</option>
+                                                <option value="09:30am a 10:00am">09:30am a 10:00am</option>
+                                                <option value="10:00am a 10:30am">10:00am a 10:30am</option>
+                                                <option value="10:30am a 11:00am">10:30am a 11:00am</option>
+                                                <option value="11:00am a 11:30am">11:00am a 11:30am</option>
+                                                <option value="12:00pm a 12:30pm">12:00pm a 12:30pm</option>
+                                                <option value="12:30pm a 01:00pm">12:30pm a 01:00pm</option>
+                                                <option value="01:00pm a 01:30pm">01:00pm a 01:30pm</option>
+                                                <option value="01:30pm a 02:00pm">02:00pm a 02:30pm</option>
+                                            </select>
+                                        </div>
+                                        <div class="col-md-6">
                                             <div class="turno-info">
                                                 <div>Fecha: <strong id="current_date">{{ date('Y-m-d') }}</strong></div>
                                                 <div>Último turno: <strong id="last_turno">{{ @$last_turno->turno }}</strong></div>
                                             <!-- <div>Turnos generados: <strong id="n_turnos">{{ $n_turnos }}</strong></div>-->
-                                                <div>Turnos disponibles: <strong id="turnos_disponibles">{{ $turnos_disponibles }}</strong></div>
-                                                <div>Hora: <strong id="last_turno_hora">{{ @$last_turno->fecha ? $last_turno->fecha->format('H:i:s'): '' }}</strong></div>
+                                                <div>Turnos disponibles: <strong id="turnos_disponibles">{{ round($turnos_disponibles/8) }}</strong></div>
+                                                <div>Hora: <strong id="last_turno_hora">{{ @$last_turno->fecha ? '08:00am a 08:30am': '' }}</strong></div>
                                                 <div>Placas terminadas en:  <strong id="all-digitos">0,1,2,3,4,5,6,7,8,9</strong> <strong id="digito-placa">{{ @$digitos}}</strong></div>
                                             </div>
                                         </div>
@@ -190,6 +207,7 @@ if (RateLimiter::tooManyAttempts('send-message:'.$user->id, $perMinute = 5)) {
 
   $(document).ready(function(){
     $("#placa").inputmask("aa[a]-999[9|a]");
+    //$("#hora").inputmask("99[a]-99[a]");
     $("#cedula").inputmask("9999999999[999]");
     $('#all-digitos').fadeOut();
     $('#datepicker').datepicker({
@@ -206,6 +224,7 @@ if (RateLimiter::tooManyAttempts('send-message:'.$user->id, $perMinute = 5)) {
         todayHighlight: true,
         @endif
     });
+    
 
     function validarDigito(){
         var placa = $('#placa').val().replace('-','');
@@ -295,21 +314,29 @@ if (RateLimiter::tooManyAttempts('send-message:'.$user->id, $perMinute = 5)) {
         var url = '{{ route("turnero.stats","") }}/'+$('#datepicker').datepicker('getFormattedDate');
         var sucursal_id = '{{ $sucursal->id }}';
         $.get(url,{'sucursal_id':sucursal_id},function(data){
+            
+            var hora=$('#hora').val()
             $('#n_turnos').html(data.n_turnos);
             $('#turnos_disponibles').html(data.turnos_disponibles);
             $('#digito-placa').html(data.digitos);
             if(data.last_turno){
                 $('#last_turno').html(data.last_turno.turno);
-                $('#last_turno_hora').html(data.last_turno.hora);
+                //$('#last_turno_hora').html(data.last_turno.hora);
+                $('#last_turno_hora').html(hora);
             }else{
                 $('#last_turno').html(0);
-                $('#last_turno_hora').html('');
+                $('#last_turno_hora').html(hora);
             }
             validarDigito();
             if(placa_valida && cedula_valida && fecha_seteada && digito_valido){
                 $('#submit').removeAttr("disabled");
             }
         },'json');
+    });
+    
+    $('#hora').on('change', function() {
+        var hora=$('#hora').val()
+        $('#last_turno_hora').html(hora);
     });
 
     $('#reimprimir').on('click',function(){

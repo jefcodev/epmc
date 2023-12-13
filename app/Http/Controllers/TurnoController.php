@@ -48,7 +48,7 @@ class TurnoController extends Controller
 
 
 
-    public function agregarTipo($id_turno, $tipo)
+    public function agregarTipo(Request $request,$id_turno, $tipo)
 {
     $turno = Turno::find($id_turno);
     $numTurno = '001';
@@ -60,7 +60,7 @@ class TurnoController extends Controller
             $nuevoTurTurno = new tur_turno([
                 'id_turno' => $id_turno,
                 'turno' => $numTurno,
-                'tipo' => $tipo,
+                'tipo' => $request->input('tipo'),
                 'fecha' => $turno->fecha,
                 'hora_inicio' => $horaActual,
                 'hora_fin' => $horaActual,
@@ -89,6 +89,11 @@ class TurnoController extends Controller
     // Lógica para obtener los resultados y pasarlos a la vista
     return view('turno');
 }
+
+    public function generarTurnoPdf(){
+        $pdf=PDF::loadView('turno.generarPdf');
+        return $pdf->download('turno.generar.pdf');
+    }
 
     
 }

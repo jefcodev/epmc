@@ -28,6 +28,7 @@ Route::post('agregar-tipo/{id_turno}/{tipo}', [TurnoController::class, 'agregarT
 Route::get('buscar', [TurnoController::class, 'buscarForm'])->name('buscar.form');
 Route::post('buscar', [TurnoController::class, 'buscar'])->name('buscar');
 Route::get('turno-nuevo', [TurnoController::class, 'mostrarResultado'])->name('turno.nuevo');
+Route::get('generar-turno-pdf', [TurnoController::class, 'generarTurnoPdf'])->name('turno.generarPdf');
 
 
 

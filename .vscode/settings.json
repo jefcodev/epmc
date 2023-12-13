@@ -1,3 +1,9 @@
 {
-    "editor.inlineSuggest.showToolbar": "onHover"
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "i18n-ally.localesPaths": [
+        "resources/lang",
+        "public_html/back/assets/plugins/bootstrap-datepicker/locales",
+        "public_html/back/assets/plugins/summernote/lang",
+        "public_html/back/assets/plugins/bootstrap-datepicker/js/locales"
+    ]
 }
