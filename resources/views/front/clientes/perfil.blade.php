@@ -53,6 +53,7 @@
                                 <th>Cédula</th>
                                 <th>Placa</th>
                                 <th>Fecha</th>
+                                <th>Estado</th>
                                 <th>Acciones</th>
                             </tr>
                         </thead>
@@ -75,6 +76,11 @@
                                             {{ $turno->createdUTC }}
                                         </dd>
                                     </dl>
+                                </td>
+
+                                <td>
+                                <span class="label label-warning">Pendiente</span>
+
                                 </td>
                                 <td><a href="{{ route('turnos.print',$turno->codigo_aux) }}">Imprimir</a></td>
                             </tr>

@@ -1,6 +1,19 @@
-@extends('layouts.app')
-
+@extends('back.template.base')
 @section('content')
+
+@section('css')
+
+<style>
+    .flex {
+        display: flex;
+        justify-content: space-between;
+        padding: 2rem;
+    }
+</style>
+@endsection
+<div class="page-title">
+    <h3>Información</h3>
+</div>
     <!-- En tu vista resultado.blade.php -->
     @if(session('success'))
     <div style="color: green;">
@@ -35,7 +48,7 @@
             <option value="{{$tipo='A'}}">General</option>
             <option value="{{$tipo='B'}}">Especial - (3era Edad, Embarazadas, Especial)</option>
         </select>
-        <button type="submit">Generar Turno</button>
+        <button type="submit"  class="btn btn-success dropdown-toggle" >Generar Turno</button>
     </form>
     @else
     <p>No se encontró nada.</p>
