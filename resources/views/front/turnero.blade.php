@@ -102,9 +102,10 @@ if (RateLimiter::tooManyAttempts('send-message:'.$user->id, $perMinute = 5)) {
                                             <input type="hidden" name="fecha" id="fecha">
                                         </div>
                                         <div class="col-md-6">
-                                            <label for="hora">Especifíque la hora Por Favor en el siguiente formato (00:00)</label>
+                                            <label for="hora">Elija la hora </label>
                                             <!-- <input type="text" name="hora" id="hora"> -->
                                             <select name="hora" id="hora">
+                                                <option value="">Seleccionar Hora</option>
                                                 <option value="08:00am a 08:30am">08:00am a 08:30am</option>
                                                 <option value="08:30am a 09:00am">08:30am a 09:00am</option>
                                                 <option value="09:00am a 09:30am">09:00am a 09:30am</option>
@@ -113,9 +114,13 @@ if (RateLimiter::tooManyAttempts('send-message:'.$user->id, $perMinute = 5)) {
                                                 <option value="10:30am a 11:00am">10:30am a 11:00am</option>
                                                 <option value="11:00am a 11:30am">11:00am a 11:30am</option>
                                                 <option value="12:00pm a 12:30pm">12:00pm a 12:30pm</option>
-                                                <option value="12:30pm a 01:00pm">12:30pm a 01:00pm</option>
-                                                <option value="01:00pm a 01:30pm">01:00pm a 01:30pm</option>
-                                                <option value="01:30pm a 02:00pm">02:00pm a 02:30pm</option>
+                                                <option value="12:30pm a 13:00pm">12:30pm a 13:00pm</option>
+                                                <option value="14:00pm a 14:30pm">14:00pm a 14:30pm</option>
+                                                <option value="14:30pm a 15:00pm">14:30pm a 15:00pm</option>
+                                                <option value="15:00pm a 15:30pm">15:00pm a 15:30pm</option>
+                                                <option value="15:30pm a 16:00pm">15:30pm a 16:00pm</option>
+                                                <option value="16:00pm a 16:30pm">16:00pm a 16:30pm</option>
+                                                <option value="16:30pm a 17:00pm">16:30pm a 17:00pm</option>
                                             </select>
                                         </div>
                                         <div class="col-md-6">
@@ -204,6 +209,28 @@ if (RateLimiter::tooManyAttempts('send-message:'.$user->id, $perMinute = 5)) {
     var cedula_valida=true;
     var digito_valido=true;
     var fecha_seteada=false;
+
+    $('#hora').on('change', function() {
+    var fechaSeleccionada = $('#fecha').val();
+    var horaSeleccionada = $(this).val();
+
+    // Realizar solicitud AJAX al servidor para contar los turnos disponibles
+    $.ajax({
+        url: '{{ route("turnero.contar_turnos_disponibles") }}',
+        type: 'GET',
+        data: {
+            fecha: fechaSeleccionada,
+            hora: horaSeleccionada
+        },
+        success: function(response) {
+            $('#turnos_disponibles').html(response.turnosDisponibles);
+        },
+        error: function(error) {
+            console.error('Error en la solicitud AJAX', error);
+        }
+    });
+});
+
 
   $(document).ready(function(){
     $("#placa").inputmask("aa[a]-999[9|a]");

@@ -74,7 +74,7 @@
                                 </tr>
                                 <tr>
                                     <th>Hora</th>
-                                    <td>{{ $turno->fecha->format('H:i:s') }}</td>
+                                    <td>{{ $turno->hora}}</td>
                                 </tr>
                                 <tr>
                                     <th>Cédula</th>

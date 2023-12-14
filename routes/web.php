@@ -15,11 +15,14 @@ use Illuminate\Support\Facades\Broadcast;
 use Illuminate\Support\Facades\Route;
 
 
-/* Route::get('/login','Front@index')->name('home'); */
+Route::get('/index','Front@index')->name('home.index');
 
 
 use App\Http\Controllers\TurnoController;
 
+
+Route::get('/contar-turnos-disponibles', 'TurnoController@contarTurnosDisponibles')
+    ->name('turnero.contar_turnos_disponibles');
 
 
 Route::post('agregar-tipo/{id_turno}/{tipo}', [TurnoController::class, 'agregarTipo'])->name('agregar.tipo');

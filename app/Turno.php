@@ -19,6 +19,8 @@ class Turno extends Model
         'especial',
         'sucursal_id',
         'user_id',
+        'hora',
+        'estado',
     ];
 
     public function requisito(){

@@ -502,9 +502,8 @@ class Front extends Controller
             
                 $turno = new Turno($request->all());
                 $turno->fecha = $fecha_completa;
-    
                 $turno->turno= $numero_turno;
-    
+                $turno->estado = 'pendiente';
                 $turno->codigo = "epmc; ".$fecha_completa.';'.$turno->placa;
                 $turno->codigo_aux = $turno->cedula.'-'.$turno->turno.'-'.$turno->sucursal->nombre;
             }
