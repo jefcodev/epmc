@@ -34,7 +34,8 @@ Route::get('turno-nuevo', [TurnoController::class, 'mostrarResultado'])->name('t
 Route::get('generar-turno-pdf', [TurnoController::class, 'generarTurnoPdf'])->name('turno.generarPdf');
 
 /* Atender */
-Route::match(['get', 'post'], 'atender/turno', [TurnoController::class, 'atender'])->name('turno.atender');
+Route::get('atender/turno', [TurnoController::class, 'atender'])->name('turno.atender');
+Route::post('atender/turno', [TurnoController::class, 'valorar'])->name('turno.atender');
 
 Route::get('atender', [TurnoController::class, 'atenderTurno'])->name('atender');
 

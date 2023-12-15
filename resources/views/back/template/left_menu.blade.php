@@ -141,6 +141,16 @@
         </ul>
       </li>
       @endcanany
+      @canany (['atender'])
+      <li>
+        <a href="{{ route('turno.atender') }}"> <i class="material-icons">home</i> <span class="title">Atender</span> </a>
+      </li>
+      @endcanany
+      @canany(['buscar'])
+      <li>
+        <a href="{{ route('buscar.form') }}"> <i class="material-icons">home</i> <span class="title">Buscar</span> </a>
+      </li>
+      @endcanany
 
         <li >
           <a href="{{ url('/') }}" target="_blank"> <i class="material-icons">home</i> <span class="title">Ver página de inicio</span> </a>

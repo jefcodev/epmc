@@ -74,9 +74,14 @@ class LoginController extends Controller
         $user = Auth::user();
         if($user->hasRole('cliente')){
             return '/perfil';
+        }else if($user->hasRole('Personal')){
+            return '/atender';
+        }else if($user->hasRole('Recepcionista')){
+            return '/buscar';
         }else{
             return RouteServiceProvider::HOME;
         }
+        dd(5);
         return '/admin';
     }
 }

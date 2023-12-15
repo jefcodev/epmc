@@ -56,7 +56,6 @@ class TurnoController extends Controller
         if ($turno) {
             if (!empty($turno->turno) && !empty($turno->fecha)) {
                 $horaActual = now()->toTimeString();
-
                 $nuevoTurTurno = new tur_turno([
                     'id_turno' => $id_turno,
                     'turno' => $numTurno,
@@ -64,6 +63,7 @@ class TurnoController extends Controller
                     'fecha' => $turno->fecha,
                     'hora_inicio' => $horaActual,
                     'hora_fin' => $horaActual,
+                    'hora_turno' => $horaActual,
                     'estado' => 'espera',
                 ]);
 
@@ -93,19 +93,28 @@ class TurnoController extends Controller
     {
         // Obtener el primer turno con estado "espera"
         $turnoProcesando = tur_turno::where('estado', 'espera')->orderBy('id')->first();
-
         // Verificar si se encontró un turno
         if ($turnoProcesando) {
-            // Actualizar el estado del turno a "procesando"
-            $turnoProcesando->estado = 'procesando';
-            $turnoProcesando->save();
-
             // Puedes acceder a los datos del turno así: $turnoProcesando->id_turno, $turnoProcesando->turno, $turnoProcesando->tipo
             return view('atender', ['turno' => $turnoProcesando]);
         } else {
             // Manejar el caso en que no haya turnos con estado "espera"
             return view('atender', ['turno' => null]);
         }
+    }
+
+    public function valorar(Request $request){
+            // Actualizar el estado del turno a "atendido"
+            
+             
+            $id_turno =$request->input('id_turno');
+            $turnoProcesando =tur_turno::where('estado', 'espera')
+                                        ->where('id_turno', $id_turno)
+                                        ->orderBy('id')->first();
+            $turnoProcesando->calificacion =$request->input('calificacion');
+            $turnoProcesando->estado = 'Atendido';
+            $turnoProcesando->save();
+            return back();
     }
 
 

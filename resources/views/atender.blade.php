@@ -32,7 +32,7 @@
                 <p>Hora de inicio: {{ $turno->hora_inicio }}</p>
                 <form method="post" action="{{ route('turno.atender') }}">
                     @csrf
-
+                    <input type="hidden" name='id_turno' value='{{$turno->id_turno}}'>
                     <div class="form-group">
                         <label for="calificacion">Califique su atención:</label><br>
                         <input type="radio" id="excelente" name="calificacion" value="excelente">
