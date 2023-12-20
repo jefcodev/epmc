@@ -34,8 +34,12 @@ Route::get('turno-nuevo', [TurnoController::class, 'mostrarResultado'])->name('t
 Route::get('generar-turno-pdf', [TurnoController::class, 'generarTurnoPdf'])->name('turno.generarPdf');
 
 /* Atender */
+Route::post('atender/turno/{id}', [TurnoController::class, 'atenderStore'])->name('turno.atenderStore');
 Route::get('atender/turno', [TurnoController::class, 'atender'])->name('turno.atender');
-Route::post('atender/turno', [TurnoController::class, 'valorar'])->name('turno.atender');
+
+/* calificar */
+Route::post('calificar/turno/{id}', [TurnoController::class, 'calificarStore'])->name('turno.calificar');
+Route::get('calificar/turno', [TurnoController::class, 'calificar'])->name('turno.calificar');
 
 Route::get('atender', [TurnoController::class, 'atenderTurno'])->name('atender');
 

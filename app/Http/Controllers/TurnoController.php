@@ -8,6 +8,7 @@ use Illuminate\Support\Facades\Log;
 use App\tur_turno;
 use Illuminate\Http\Request;
 use App\Turno;
+use Carbon\Carbon;
 
 class TurnoController extends Controller
 {
@@ -103,18 +104,29 @@ class TurnoController extends Controller
         }
     }
 
-    public function valorar(Request $request){
+    public function atenderStore($idTurno,Request $request){
             // Actualizar el estado del turno a "atendido"
-            
-             
-            $id_turno =$request->input('id_turno');
+            $date = Carbon::now();
+            $horaActual=$date->toTimeString(); 
             $turnoProcesando =tur_turno::where('estado', 'espera')
-                                        ->where('id_turno', $id_turno)
+                                        ->where('id_turno', $idTurno)
                                         ->orderBy('id')->first();
-            $turnoProcesando->calificacion =$request->input('calificacion');
+            $turnoProcesando->hora_atencion =$horaActual;
+            $turnoProcesando->calificacion ='Sin calificar';
             $turnoProcesando->estado = 'Atendido';
             $turnoProcesando->save();
-            return back();
+            return view('calificar', ['turno' => $idTurno]);
+    }
+
+    public function calificarStore($idturno,Request $request){
+        $date = Carbon::now();
+        $horaActual=$date->toTimeString(); 
+        $turnoProcesando =tur_turno::where('id_turno', $idturno)
+                                    ->orderBy('id')->first();
+        $turnoProcesando->hora_fin =$horaActual;
+        $turnoProcesando->calificacion =$request->input('calificacion');
+        $turnoProcesando->save();
+        return redirect()->route('atender');
     }
 
 
